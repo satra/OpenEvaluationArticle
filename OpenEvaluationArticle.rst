@@ -482,16 +482,10 @@ received [cite: ohloh] as a function of commits made to a software
 project.
 
 In the long run, the review process need not be limited to publication,
-but can
-
-be engaged throughout the process of research, from inception through
-planning,
-
-execution, and documentation. This facilitates collaborative research
-and also
-
-ensures that optimal decisions are taken at every stage in the evolution
-of a
+but can be engaged throughout the process of research, from inception
+through planning, execution, and documentation. This facilitates
+collaborative research and also ensures that optimal decisions are taken
+at every stage in the evolution of a
 
 project.
 
@@ -538,31 +532,17 @@ Reproducible research\ :sup:``[a] <#cmnt1>`_`\
 ---------------------
 
 The increasing storage capacity and processing power of modern computing
-
 resources is dramatically changing the nature of scientific scholarship.
-As a
-
-result, traditional peer-reviewed research articles are no longer
-sufficient
-
-for communicating most scientific work. In the late 1980s, Jon
-Claerbout, a
-
-geophysicist at Stanford, coined the phrase "reproducible research" to
-refer to
-
-the complete software environment necessary to generate all the results
-and
-
-figures included in published articles [cite: schwab2000making].
+As a result, traditional peer-reviewed research articles are no longer
+sufficient for communicating most scientific work. In the late 1980s,
+Jon Claerbout, a geophysicist at Stanford, coined the phrase
+"reproducible research" to refer to the complete software environment
+necessary to generate all the results and figures included in published
+articles [cite: schwab2000making].
 
 It is easy to forget that the introduction, methods, results, and
-discussion
-
-(IMRAD) structure used by almost every scientific article today dates
-back to
-
-1940s and wasn't pervasive until the 1970s [cite:
+discussion (IMRAD) structure used by almost every scientific article
+today dates back to 1940s and wasn't pervasive until the 1970s [cite:
 sollaci2004introduction].
 
 - technology driving change
@@ -588,23 +568,13 @@ sollaci2004introduction].
 - randomized controlled trials [cite: begg1996improving]
 
 We suggest making data and software used for the research available as
-
 part of the submission process. This not only ensures transparency and
-helps
-
-reviewers but will also enhance reproducibility and encourage method
-reuse. It
-
-is in everyone’s scientific interest that every reviewed article is the
-best
-
-that it can be. An open review process can improve the quality of
-articles and
-
-research through constructive feedback, and reduce the time period
-between
-
-initial submission and acceptance of an article.
+helps reviewers but will also enhance reproducibility and encourage
+method reuse. It is in everyone’s scientific interest that every
+reviewed article is the best that it can be. An open review process can
+improve the quality of articles and research through constructive
+feedback, and reduce the time period between initial submission and
+acceptance of an article.
 
 - difficulty in exactly repeating published results
 
@@ -643,60 +613,34 @@ set of instructions which generated the figures."
 \|emdash\| David Donoho, Wavelab and Reproducible Research, 1995
 
 A scientific article represents a summary of the work done, not the lab
-
 notebook. It is generally left up to the review process to determine if
-the
-
-methods were implemented and executed properly and if the appropriate
-parameters
-
-were used in the methods, based on this summary. Given the small
-fraction of any
-
-scientific community that is well versed in and understands the
-intricacies of
-
-the methods, the current review system simply does not address
-reproducibility
-
-or validity of methods used in research.
+the methods were implemented and executed properly and if the
+appropriate parameters were used in the methods, based on this summary.
+Given the small fraction of any scientific community that is well versed
+in and understands the intricacies of the methods, the current review
+system simply does not address reproducibility or validity of methods
+used in research.
 
 We propose that data and scripts be submitted together with the article.
-Scripts
-
-can often help reviewers follow what was done without necessarily
-rerunning all
-
-the analyses. While rerunning the entire analysis as part of a review
-process
-
-may not be computationally feasible, having the data and scripts
-available
-
-allows replication of the results in the long run as well as comparisons
-of
-
-different methods on the same dataset or different datasets on the same
-methods.
+Scripts can often help reviewers follow what was done without
+necessarily rerunning all the analyses. While rerunning the entire
+analysis as part of a review process may not be computationally
+feasible, having the data and scripts available allows replication of
+the results in the long run as well as comparisons of different methods
+on the same dataset or different datasets on the same methods.
 
 Fig: XX a nipype graph showing what steps were used in an imaging
 experiment
 
 In the long run, virtual machines or servers may indeed allow
-standardization of
-
-analysis environments and replication of the results for every
-publication.
+standardization of analysis environments and replication of the results
+for every publication.
 
 \*\*Apoint a reproducibility editor and certification process.\*\*
 
 Annotate articles to indicate how much effort has been expended to make
-the
-
-work reproducible (e.g., data publically available, code publically
-available,
-
-results independently reproduced).
+the work reproducible (e.g., data publically available, code publically
+available, results independently reproduced).
 
 In 2009, Biostatics [cite: peng2009reproducible]
 
@@ -759,26 +703,16 @@ permission prior to publishing new results from published data.
 .. admonition:: Proposal BA
 
 The software development community (Google, ITK, etc) rely on
-
-collaboration between often physically distant software authors and
-
-code reviewers. We propose to rely upon an existing code review
-
-system, Gerrit, to enable ordered and systematic discussions of not
-
-only the editorial content of scientific work but also the scripts,
-
-compilable code and data. Gerrit, as it currently stands today
-
-without modification, provides reviewers the ability to interact,
-
-modify, annotate and discuss the contents of an author's
-
-submission. Indeed, the purpose of Gerrit mirrors {\\em almost
-
-exactly} the purpose of scientific review: to increase the clarity,
-
-reproducibility and correctness of works that enter the canon.
+collaboration between often physically distant software authors and code
+reviewers. We propose to rely upon an existing code review system,
+Gerrit, to enable ordered and systematic discussions of not only the
+editorial content of scientific work but also the scripts, compilable
+code and data. Gerrit, as it currently stands today without
+modification, provides reviewers the ability to interact, modify,
+annotate and discuss the contents of an author's submission. Indeed, the
+purpose of Gerrit mirrors {\\em almost exactly} the purpose of
+scientific review: to increase the clarity, reproducibility and
+correctness of works that enter the canon.
 
 etcetera ....
 
