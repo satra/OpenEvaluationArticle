@@ -93,8 +93,6 @@ imperiled. For the review process to continue to play a critical role in
 science, there are a number of problems that need to be addressed, three
 of which we list below.
 
-Reviewers suffer!
-
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
 Reviewers are expected to work in isolation, unable to discuss the
@@ -115,7 +113,7 @@ on
 
 - Not interactive or real-time.
 
-7. \*\*Reviewers do not have sufficient access to methods and materials
+2. \*\*Reviewers do not have sufficient access to methods and materials
 to evaluate a study.\*\*
 
 The typical review process does not require submission of data and
@@ -145,7 +143,7 @@ scientific credibility. One well-known example is the case of XXX Chung,
 whose rigorous and correct experimental work was later retracted due to
 a software bug that undermined the paper's conclusions [REF Nature].
 
-2. \*\*Reviewers are not acknowledged.\*\*
+3. \*\*Reviewers are not acknowledged.\*\*
 
 Reviewing is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. The reviewer stands to
@@ -160,26 +158,17 @@ and funding opportunities.
 and importance of reviewers and Reviewing has thus become an extremely
 important but seldom acknowledged process.
 
-Community suffers!
+4. \*\*There is no measure of the quality of a review.\*\*
 
-6. \*\*Provenance information may be lost.\*\*
-
-Reviews themselves are not considered a timestamp for the intellectual
-property in the work. Since the review process is typically anonymous
-and private, information is hidden until the time of publication. While
-a given journal timestamps an article from initial submission to final
-acceptance, if the article has gone through a chain of journals, such
-information is typically lost.
-
-3. \*\*Reviews are unavailable to the community.\*\*
-
-information generated during the review (reviewer criticism and
-feedback) is unavailable.
+no measures
 
 This closed process also prevents an objective standardization of the
 scientific process.
 
-8. \*\*A review has a limited lifespan.\*\*
+5. \*\*Reviews cannot evolve.\*\*
+
+Information generated during the review (reviewer criticism and
+feedback) is unavailable.
 
 After an article has been published, the review process simply ends, as
 if the work and interpretations of the results are sealed in a time
