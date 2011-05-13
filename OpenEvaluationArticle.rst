@@ -374,7 +374,7 @@ to quantitatively assess the importance of a submission, and analysis of
 the review process then becomes possible and could lead to an objective
 standardization of the scientific process.
 
-5. \*\*L.\*\*
+5. \*\*Re-re-review!!!\*\*
 
 Once open and online, there is no reason for a review process to end
 after an article has been published. The article can continue as a
