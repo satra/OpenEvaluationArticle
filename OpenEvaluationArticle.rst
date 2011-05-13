@@ -71,11 +71,10 @@ Hirsch’s h-index, the Eigenfactor index,...]. As such, certain journal
 titles are taken as arbiters of quality and significance of published
 works instead of the review process.
 
-Another danger to the review process change in the nature of scientific
-scholarship is the dramatic advances in computing resources by which
-results are obtained and disseminated. Traditional peer-reviewed
-research articles are no longer sufficient for communicating most
-scientific work. One way to address this is to change the form that
+Another danger to the review process, and to the articles themselves, is
+that they are not keeping pace with the dramatic advances in computing
+resources by which results are obtained and media by which they are
+disseminated. One way to address this is to change the form that
 articles take. It is easy to forget that the introduction, methods,
 results, and discussion structure used by almost every scientific
 article today dates back to the 1940s and wasn't pervasive until the
