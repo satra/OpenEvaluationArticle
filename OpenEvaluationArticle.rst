@@ -360,7 +360,7 @@ reviewers. First, reviewer names are immediately associated with the
 publication. Second, reviewer grades eventually become associated with
 the reviewer based on community feedback on the reviews.
 
-4. \*\*Provide metrics of review quality.\*\*
+4. \*\*Quantify metrics of review quality.\*\*
 
 Although certain journals hold a discussion before a paper is accepted,
 it is still behind closed doors and limited to the editor, the authors,
