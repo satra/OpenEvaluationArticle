@@ -71,8 +71,26 @@ Hirsch’s h-index, the Eigenfactor index,...]. As such, certain journal
 titles are taken as arbiters of quality and significance of published
 works instead of the review process.
 
-The scientific endeavor is, overall, self-correcting. However, the
-correction process [ is long and painful e.g. cancer caused by a virus].
+The increasing storage capacity and processing power of modern computing
+resources is dramatically changing the nature of scientific scholarship.
+As a result, traditional peer-reviewed research articles are no longer
+sufficient for communicating most scientific work. In the late 1980s,
+Jon Claerbout, a geophysicist at Stanford, coined the phrase
+"reproducible research" to refer to the complete software environment
+necessary to generate all the results and figures included in published
+articles [cite: schwab2000making].
+
+It is easy to forget that the introduction, methods, results, and
+discussion (IMRAD) structure used by almost every scientific article
+today dates back to the 1940s and wasn't pervasive until the 1970s
+[cite: sollaci2004introduction].
+
+In recent times, some researchers have recommended minimum information
+standards for methodological reporting. Examples include recommendations
+for fMRI standards [cite: poldrack2008guidelines], computational
+neuronal modeling [cite: nordlie2009towards], microarray standards
+[cite: brazma2001minimum], and randomized controlled trials [cite:
+begg1996improving].
 
 The most common form of the current evaluation process for an article
 involves a preliminary screening by a journal editor followed by an
@@ -171,20 +189,26 @@ information is typically lost.
 
 \*\*Studies are not reproducible.\*\*
 
-The typical review process does not require submission of code and data
-associated with a publication, making it increasingly limited as a
-mechanism to ensure reproducible research. The descriptions provided in
-methods sections are often inadequate for replication. In the context of
-increasing complexity of experimental design and analysis methods, the
-lack of accessibility to data and software used to analyze data and
-generate results leads to an inability to verify the accuracy of the
-results or to identify problems with the data or software.
+The typical review process does not require submission of data and
+software associated with an article, and the descriptions provided in
+methods sections are often inadequate for replication. This makes it
+impossible for a reviewer, if so inclined, to fully evaluate an
+article’s methods, data quality, or software, let alone to replicate the
+analysis of the study. A related problem to not reporting findings in a
+replicable manner is not reporting replicated findings. Articles are
+biased toward reporting novel findings, but from a scientific
+perspective, positive-, negative- and non-results are extremely useful
+to the community.
 
-- Why most published studies false [cite: ioannidis2005most]
+[cite: ioannidis2005most]
 
-- [cite: line2007reproducible]
+[http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124]
 
-- [cite: coombes2007microarrays]
+[http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0040028]
+
+[cite: line2007reproducible]
+
+[cite: coombes2007microarrays]
 
 \*\*A review has a limited lifespan.\*\*
 
@@ -322,7 +346,7 @@ and
 
 http://www.nature.com/nature/peerreview/debate/
 
-Open evaluation system
+Open review
 
 ----------------------
 
@@ -335,11 +359,9 @@ We will address each of the problems in order and make reference to
 lessons from distributed code review in open source software
 development.
 
-A mock-up of the intended review system is provided in Fig: xxx.
-
 \*\*Open reviews to everyone.\*\*
 
-Reviewers would no longer work in isolation or in anonymity, benefitting
+Reviewers would no longer work in isolation or in anonymity, benefiting
 from direct communication with the authors and the world of potential
 reviewers to clarify points, resolve ambiguities, receive open collegial
 advice, attract feedback from people well outside of the authors'
@@ -380,6 +402,27 @@ ideas that have already been implemented in scientific publishing. The
 Frontiers system [cite: XXX] solicits reviews from a select group of
 review editors and the Brain and Behavioral Sciences publication [cite:
 XXX] solicits reviews from the community.
+
+OSS Example:
+
+Github.com provides an open source software hosting service together
+with a web-based front end for interacting with these projects. For
+these projects, the code are available for everyone to view and for
+registered github members to comment and report issues. A typical
+analogy to submitting an article for publication would be for a
+developer to create a “pull request” that sends maintainers of a project
+a message to integrate the developer’s changes into the main project.
+Such a request is handled via a web interface that combines discussion
+together with This triggers a discussion forum and a set of changed
+files
+
+Typically, in the context of software development such comment or code
+review are performed at the time of a commit, i.e. when a change is
+entered into the repository or when a request
+
+Metrics:
+
+Discussions
 
 \*\*Acknowledge reviewers\*\*
 
@@ -433,9 +476,9 @@ journals?], so reviews become an interactive and efficient process.
 Open review establishes a clear provenance of ideas and a timestamp for
 the intellectual property in the work.
 
-\*\*Facilitate reproducibility.\*\*
+\*\*Facilitate reproducibility.\*\ :sup:``[a] <#cmnt1>`_`\ \*
 
-In a widescale, open review, descriptions of experimental designs and
+In a wide-scale, open review, descriptions of experimental designs and
 methods would come under greater scrutiny by people from different
 fields using different nomenclature, leading to greater clarity and
 cross-fertilization of ideas. Software and data quality would also come
@@ -444,20 +487,42 @@ applications, pressuring authors to make them available for review as
 well, and potentially leading to collaborations, which would not be
 possible in a closed review process.
 
-Currently, reviews are biased toward reporting novel findings. However,
-from a scientific perspective, positive-, negative- and non-results are
-extremely useful to the community.
-
-[http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124]
-
-[http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0040028]
-
 Instead of judging every article based on novelty, the review process
 should encourage replication of experiments as well as publication of
-experiments that did not produce results. By appropriately labeling the
-articles as such, one can quantify the success of a method or paradigm
-as well as provide an additional factor in assessing scientists'
-contribution to the community.
+experiments that did not produce results.
+
+By appropriately labeling the articles as such, one can quantify the
+success of a method or paradigm as well as provide an additional factor
+in assessing scientists' contribution to the community.
+
+We suggest making data and software used for the research available as
+part of the submission process. This not only ensures transparency and
+helps reviewers but will also enhance reproducibility and encourage
+method reuse.
+
+A scientific article represents a summary of the work done, not the lab
+notebook. It is generally left up to the review process to determine if
+the methods were implemented and executed properly and if the
+appropriate parameters were used in the methods, based on this summary.
+Given the small fraction of any scientific community that is well versed
+in and understands the intricacies of the methods, the current review
+system simply does not address reproducibility or validity of methods
+used in research.
+
+We propose that data and scripts be submitted together with the article.
+Scripts can often help reviewers follow what was done without
+necessarily rerunning all the analyses. While rerunning the entire
+analysis as part of a review process may not be computationally
+feasible, having the data and scripts available allows replication of
+the results in the long run as well as comparisons of different methods
+on the same dataset or different datasets on the same methods.
+
+Fig: XX a nipype graph showing what steps were used in an imaging
+experiment
+
+In the long run, virtual machines or servers may indeed allow
+standardization of analysis environments and replication of the results
+for every publication.
 
 \*\*Extend the review process indefinitely.\*\*
 
@@ -471,6 +536,40 @@ science serves not just as a method or philosophy, but as a social
 endeavor. This could make science and scientific review a more welcoming
 community, and more desirable career choice.
 
+Summary of our recommendations for an open review process
+
+----------------------
+
+The software development community (Google, ITK, etc) rely on
+collaboration between often physically distant software authors and code
+reviewers. We propose to rely upon an existing code review system,
+Gerrit, to enable ordered and systematic discussions of not only the
+editorial content of scientific work but also the scripts, compilable
+code and data. Gerrit, as it currently stands today without
+modification, provides reviewers the ability to interact, modify,
+annotate and discuss the contents of an author's submission. Indeed, the
+purpose of Gerrit mirrors {\\em almost exactly} the purpose of
+scientific review: to increase the clarity, reproducibility and
+correctness of works that enter the canon.
+
+etcetera ....
+
+It is possible, for instance, that such a review system would have
+
+uncovered the bug that led to years of scientific misdirection caused by
+
+reliance on unvalidated software.
+
+DOI:10.1126/science.314.5807.1856 Either (1) the software would
+
+have been studied more closely or (2) inconsistencies with existing
+
+knowledge that the authors ignored (and which ultimately helped
+
+uncover the original bug) would have been taken more seriously.
+
+A mock-up of the intended review system is provided in Fig: xxx.
+
 Insert Fig: xxx
 
 As shown in the figure, reviewers can select which components of the
@@ -479,14 +578,6 @@ with a stack-overflow/math-overflow like interface, where the rest of
 the community can agree or disagree with the reviewers comments and
 choose to have a discussion on the topic. We can also draw on "kudos"
 received [cite: ohloh] as a function of commits made to a software
-project.
-
-In the long run, the review process need not be limited to publication,
-but can be engaged throughout the process of research, from inception
-through planning, execution, and documentation. This facilitates
-collaborative research and also ensures that optimal decisions are taken
-at every stage in the evolution of a
-
 project.
 
 - analogies with modern best-practices in code review
@@ -526,209 +617,6 @@ by experts)
 - new measures for impact factors
 
 - higher impact discussions rather than just citations
-
-Reproducible research\ :sup:``[a] <#cmnt1>`_`\ 
-
----------------------
-
-The increasing storage capacity and processing power of modern computing
-resources is dramatically changing the nature of scientific scholarship.
-As a result, traditional peer-reviewed research articles are no longer
-sufficient for communicating most scientific work. In the late 1980s,
-Jon Claerbout, a geophysicist at Stanford, coined the phrase
-"reproducible research" to refer to the complete software environment
-necessary to generate all the results and figures included in published
-articles [cite: schwab2000making].
-
-It is easy to forget that the introduction, methods, results, and
-discussion (IMRAD) structure used by almost every scientific article
-today dates back to 1940s and wasn't pervasive until the 1970s [cite:
-sollaci2004introduction].
-
-- technology driving change
-
-- continuing advances in computing
-
-- computation is pervasive
-
-- long-term need
-
-- published code/data
-
-- verified
-
-\*\*Minimum information standards for methodological reporting.\*\*
-
-- fmri standards [cite: poldrack2008guidelines]
-
-- computational neuronal modeling [cite: nordlie2009towards]
-
-- microarray standards [cite: brazma2001minimum]
-
-- randomized controlled trials [cite: begg1996improving]
-
-We suggest making data and software used for the research available as
-part of the submission process. This not only ensures transparency and
-helps reviewers but will also enhance reproducibility and encourage
-method reuse. It is in everyone’s scientific interest that every
-reviewed article is the best that it can be. An open review process can
-improve the quality of articles and research through constructive
-feedback, and reduce the time period between initial submission and
-acceptance of an article.
-
-- difficulty in exactly repeating published results
-
-- increasing size of data sets used in experimental science make
-including them
-
-in traditions publications impossible
-
-- the extensive computational processing used in experimental science
-make
-
-completely specifiying the analysis difficult
-
-- increasing awareness of need to address these problems has led to a
-growing
-
-number of scientists to advocate for \*reproducible research\*
-
-- growing literature
-
-- several special sessions at conferences
-
-.. epigraph::
-
-"An article about computational science in a scientific publication is
-not the
-
-scholarship itself, it is merely advertising of the scholarship. The
-actual
-
-scholarship is the complete software development environment and the
-complete
-
-set of instructions which generated the figures."
-
-\|emdash\| David Donoho, Wavelab and Reproducible Research, 1995
-
-A scientific article represents a summary of the work done, not the lab
-notebook. It is generally left up to the review process to determine if
-the methods were implemented and executed properly and if the
-appropriate parameters were used in the methods, based on this summary.
-Given the small fraction of any scientific community that is well versed
-in and understands the intricacies of the methods, the current review
-system simply does not address reproducibility or validity of methods
-used in research.
-
-We propose that data and scripts be submitted together with the article.
-Scripts can often help reviewers follow what was done without
-necessarily rerunning all the analyses. While rerunning the entire
-analysis as part of a review process may not be computationally
-feasible, having the data and scripts available allows replication of
-the results in the long run as well as comparisons of different methods
-on the same dataset or different datasets on the same methods.
-
-Fig: XX a nipype graph showing what steps were used in an imaging
-experiment
-
-In the long run, virtual machines or servers may indeed allow
-standardization of analysis environments and replication of the results
-for every publication.
-
-\*\*Apoint a reproducibility editor and certification process.\*\*
-
-Annotate articles to indicate how much effort has been expended to make
-the work reproducible (e.g., data publically available, code publically
-available, results independently reproduced).
-
-In 2009, Biostatics [cite: peng2009reproducible]
-
-- journals beginning to do this
-
-- Biostatics (C, D, and R annotations)
-
-- reproducibilty editor (Roger Peng)
-
-- open research computation
-
-- potential difficulties
-
-- large data sets
-
-- computations that take weeks to run on supercomputers or specialized
-hardware
-
-- reproduction using same data and code doesn't mean the data and code
-are correct
-
-- independent replication still needed
-
-\*\*Articles embedded with provenance information.\*\*
-
-- Madagascar
-
-- VisTrails
-
-- Donoho's Universal Identifier for Computational Results
-
-- http://www.stanford.edu/~vcs/AAAS2011/AAAS\_slides\_new.pdf
-
-\*\*Adopt the Reproducible Research Standard (RRS).\*\*
-
-- discuss licenses proposed by Victoria [cite: stodden2009enabling]
-
-- http://www.stanford.edu/~vcs/AAAS2011/AAAS\_slides\_new.pdf
-
-.. admonition:: Proposal X
-
-Reproducible research data license --- allows authors to release data
-
-with the constraint that it only be used for reproducing a paper's
-
-results.
-
-.. This could get a little tricky. Would it be possible to report
-whether
-
-the results were reproduced or not? It would be very odd to not allow
-
-researchers to try different parameters or preprocessing when analzing
-the
-
-data. There are already licenses that require attribution or getting
-
-permission prior to publishing new results from published data.
-
-.. admonition:: Proposal BA
-
-The software development community (Google, ITK, etc) rely on
-collaboration between often physically distant software authors and code
-reviewers. We propose to rely upon an existing code review system,
-Gerrit, to enable ordered and systematic discussions of not only the
-editorial content of scientific work but also the scripts, compilable
-code and data. Gerrit, as it currently stands today without
-modification, provides reviewers the ability to interact, modify,
-annotate and discuss the contents of an author's submission. Indeed, the
-purpose of Gerrit mirrors {\\em almost exactly} the purpose of
-scientific review: to increase the clarity, reproducibility and
-correctness of works that enter the canon.
-
-etcetera ....
-
-It is possible, for instance, that such a review system would have
-
-uncovered the bug that led to years of scientific misdirection caused by
-
-reliance on unvalidated software.
-
-DOI:10.1126/science.314.5807.1856 Either (1) the software would
-
-have been studied more closely or (2) inconsistencies with existing
-
-knowledge that the authors ignored (and which ultimately helped
-
-uncover the original bug) would have been taken more seriously.
 
 Discussion
 
@@ -777,16 +665,13 @@ for
 
 funding/promotions
 
-`[a] <#cmnt_ref1>`_binarybottle:
+In the long run, the review process need not be limited to publication,
+but can be engaged throughout the process of research, from inception
+through planning, execution, and documentation. This facilitates
+collaborative research and also ensures that optimal decisions are taken
+at every stage in the evolution of a
 
-if this article is about the review process, a separate section on
-reproducible research seems out of place. perhaps we should say
-something to indicate that involvement of reviewers could range from
-out-of-field comments to direct requests for software or data to try to
-test or replicate work in the article. we can't expect every article to
-provide a unit-test-like framework to replicate a study, but we could
-evaluate the reproducibility of the work in a given article to indicate
-how far one could take a review, from comment to re-run the study!
+project.
 
 `[b] <#cmnt_ref2>`_jbpoline:
 
@@ -921,12 +806,23 @@ insufficiently developed.
 
 and are followed up by
 
-`[p] <#cmnt_ref16>`_fdo.perez:
+`[p] <#cmnt_ref16>`_binarybottle:
+
+if this article is about the review process, a separate section on
+reproducible research seems out of place. perhaps we should say
+something to indicate that involvement of reviewers could range from
+out-of-field comments to direct requests for software or data to try to
+test or replicate work in the article. we can't expect every article to
+provide a unit-test-like framework to replicate a study, but we could
+evaluate the reproducibility of the work in a given article to indicate
+how far one could take a review, from comment to re-run the study!
+
+`[q] <#cmnt_ref17>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[q] <#cmnt_ref17>`_yarikoptic:
+`[r] <#cmnt_ref18>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -980,11 +876,11 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[r] <#cmnt_ref18>`_fdo.perez:
+`[s] <#cmnt_ref19>`_fdo.perez:
 
 ??? What is this?
 
-`[s] <#cmnt_ref19>`_fdo.perez:
+`[t] <#cmnt_ref20>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
