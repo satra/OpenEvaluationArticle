@@ -326,6 +326,9 @@ Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
 the number of times the speaker was quoted in a given time period.
 
+.. figure:: images/image02.png
+   :align: center
+   :alt: 
 \*\*Acknowledge reviewers\*\*
 
 When reviewers are given the opportunity to provide feedback regarding
@@ -558,6 +561,10 @@ collaborative research and also ensures that optimal decisions are taken
 at every stage in the evolution of a
 
 project.
+
+different reviewer opinions
+
+resolve deadlock
 
 `[b] <#cmnt_ref2>`_jbpoline:
 
