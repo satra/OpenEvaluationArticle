@@ -26,6 +26,9 @@ Abstract
 
 --------
 
+If the goal of science is to move knowledge of the natural world
+forward, then the scientific review process should be open and
+
 Over the last decade, scientists, institutions, publishers and funding
 agencies have made tremendous strides in the way scientific research is
 disseminated and accessed. With the advent of open-access journals as
