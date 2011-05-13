@@ -306,21 +306,6 @@ the number of times the speaker was quoted in a given time period.
 .. figure:: images/image02.png
    :align: center
    :alt: 
-2. \*\*Acknowledge reviewers\*\*
-
-When reviewers are given the opportunity to provide feedback regarding
-just the areas they are interested in, the review process becomes much
-more enjoyable. But there are additional factors afforded by opening the
-review process that will motivate reviewer participation. First, the
-review process becomes the dialogue of science, and anyone who engages
-in that dialogue gets heard. Second, it transforms the review process
-from one of secrecy to one of engaging social discourse. Third, an open
-review process makes it possible to quantitatively assess reviewer
-contributions, which could lead to assessments for promotions and
-grants. There are two things that can be used towards assessment of
-reviewers. First, reviewer names are immediately associated with the
-publication. Second, reviewer grades eventually become associated with
-the reviewer based on community feedback on the reviews.
 
 OSS example:
 
@@ -359,7 +344,23 @@ quantify the success of a method or paradigm as well as provide an
 additional factor in assessing scientists' contribution to the
 community.
 
-3. \*\*Make reviews available.\*\*
+3. \*\*Acknowledge reviewers\*\*
+
+When reviewers are given the opportunity to provide feedback regarding
+just the areas they are interested in, the review process becomes much
+more enjoyable. But there are additional factors afforded by opening the
+review process that will motivate reviewer participation. First, the
+review process becomes the dialogue of science, and anyone who engages
+in that dialogue gets heard. Second, it transforms the review process
+from one of secrecy to one of engaging social discourse. Third, an open
+review process makes it possible to quantitatively assess reviewer
+contributions, which could lead to assessments for promotions and
+grants. There are two things that can be used towards assessment of
+reviewers. First, reviewer names are immediately associated with the
+publication. Second, reviewer grades eventually become associated with
+the reviewer based on community feedback on the reviews.
+
+4. \*\*Provide metrics of review quality.\*\*
 
 Although certain journals hold a discussion before a paper is accepted,
 it is still behind closed doors and limited to the editor, the authors,
@@ -373,25 +374,7 @@ to quantitatively assess the importance of a submission, and analysis of
 the review process then becomes possible and could lead to an objective
 standardization of the scientific process.
 
-4. \*\*Clarify author contributions.\*\*
-
-An open review is like an open discussion, where questions could be
-directed at individual authors to establish accountability for their
-contributions. This would make it far more likely that otherwise
-unacknowledged contributors, such as technicians and research
-assistants, would be heard.
-
-5. \*\*Expedite the review process.\*\*
-
-An open discussion could happen in real time [like the Frontiers
-journals?], so reviews become an interactive and efficient process.
-
-6. \*\*Establish precedence.\*\*
-
-Open review establishes a clear provenance of ideas and a timestamp for
-the intellectual property in the work.
-
-8. \*\*Enable a continual review process.\*\*
+5. \*\*Enable continued discourse beyond initial review.\*\*
 
 Once open and online, there is no reason for a review process to end
 after an article has been published. The article can continue as a
