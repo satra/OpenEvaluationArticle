@@ -72,8 +72,7 @@ titles are taken as arbiters of quality and significance of published
 works instead of the review process. Another danger to the review
 process, and to scientific articles themselves, is that they are not
 keeping pace with the dramatic advances in computing resources by which
-results are obtained and in media by which results are displayed or
-communicated.
+results are obtained and in media by which results are disseminated.
 
 The most common form of the current evaluation process for an article
 involves a preliminary screening by a journal editor followed by an
@@ -224,7 +223,7 @@ development.
 
 \*\*Open reviews to everyone.\*\*
 
-Reviewers would no longer work in isolation or in anonymity, benefiting
+Reviewers would no longer work in isolation or in anonymity, benefitting
 from direct communication with the authors and the world of potential
 reviewers to clarify points, resolve ambiguities, receive open collegial
 advice, attract feedback from people well outside of the authors'
@@ -280,7 +279,8 @@ discussion together with the code changes. Although the primary
 developers of the project get the “pull-request” email, any github
 member is allowed to comment on such a request. The web interface allows
 inserting comments in an interactive discussion form or for any given
-line of the code.
+line of the code. These pull-requests become part of the permanent log
+of the project.
 
 .. figure:: images/image00.png
    :align: center
@@ -290,7 +290,7 @@ nipype project on github.com, demonstrating part of a discussion thread,
 inline commenting of code (for line 98) as well as updates on code
 changes taking place as a function of the discussion.
 
-Improvements:
+Proposed Improvements to the code review system:
 
 While this interface addresses code review, we actually recommend the
 following changes in the context of publication review. A reviewer
@@ -303,7 +303,17 @@ recommend that such
 Metrics:
 
 Integral of discussions over time (by paper, author, reviewer) weighted
-by “like” factor of each comment or discussion.
+by “like” factor of each comment or discussion. This is illustrated in
+the Figure below.
+
+.. figure:: images/image01.png
+   :align: center
+   :alt: 
+Example of a metric for quantifying contributions over time. Quotes over
+Time (www.qovert.info) tracked the top-quoted people from Reuters
+Alertnet News on a range of topics, and presents their quotes on a
+timeline, where color denotes the identity of a speaker and bar height
+the number of times the speaker was quoted in a given time period.
 
 \*\*Acknowledge reviewers\*\*
 
