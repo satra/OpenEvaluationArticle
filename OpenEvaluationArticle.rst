@@ -413,12 +413,9 @@ analogy to submitting an article for publication would be for a
 developer to create a “pull request” that sends maintainers of a project
 a message to integrate the developer’s changes into the main project.
 Such a request is handled via a web interface that combines discussion
-together with This triggers a discussion forum and a set of changed
-files
-
-Typically, in the context of software development such comment or code
-review are performed at the time of a commit, i.e. when a change is
-entered into the repository or when a request
+together with the code changes. Although the primary developers of the
+project get the email, any github member is allowed to comment on such a
+request. The web interface allows inserting comments per line.
 
 Metrics:
 
