@@ -267,6 +267,17 @@ XXX] solicits reviews from the community.
 
 OSS Example:
 
+The software development community (Google, ITK, etc) relies on
+collaboration between often physically distant software authors and code
+reviewers. We propose to draw ideas from existing code review systems
+such as Gerrit and GitHub to enable ordered and systematic discussions
+of not only the editorial content of scientific work but also the
+scripts, compilable code and data. Github and Gerrit both provide
+reviewers the ability to interact, modify, annotate and discuss the
+contents of an author's submission. Indeed, the purpose of these systems
+mirror the purpose of scientific review to increase the clarity,
+reproducibility and correctness of works that enter the canon.
+
 Github.com provides an open source software hosting service together
 with a web-based front end for interacting with these projects. For
 these projects, code is available for everyone to view and for
@@ -309,10 +320,10 @@ the Figure below.
 .. figure:: images/image01.png
    :align: center
    :alt: 
-Example of a metric for quantifying contributions over time. Quotes over
-Time (www.qovert.info) tracked the top-quoted people from Reuters
-Alertnet News on a range of topics, and presents their quotes on a
-timeline, where color denotes the identity of a speaker and bar height
+Figure X. Example of a metric for quantifying contributions over time.
+Quotes over Time (www.qovert.info) tracked the top-quoted people from
+Reuters Alertnet News on a range of topics, and presents their quotes on
+a timeline, where color denotes the identity of a speaker and bar height
 the number of times the speaker was quoted in a given time period.
 
 \*\*Acknowledge reviewers\*\*
