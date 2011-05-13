@@ -290,6 +290,11 @@ nipype project on github.com, demonstrating part of a discussion thread,
 inline commenting of code (for line 98) as well as updates on code
 changes taking place as a function of the discussion.
 
+Improvements:
+
+While this interface serves the need for code review, we actually
+recommend the following changes in the context of pbli
+
 Metrics:
 
 Discussions
