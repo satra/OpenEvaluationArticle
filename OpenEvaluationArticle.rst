@@ -69,22 +69,11 @@ journals. This has led to a hierarchy in the status of journals, often
 quantified by the journal's impact factor [cite: Thompson's index,
 Hirsch’s h-index, the Eigenfactor index,...]. As such, certain journal
 titles are taken as arbiters of quality and significance of published
-works instead of the review process.
-
-Another danger to the review process, and to the articles themselves, is
-that they are not keeping pace with the dramatic advances in computing
-resources by which results are obtained and media by which they are
-disseminated. One way to address this is to change the form that
-articles take. It is easy to forget that the introduction, methods,
-results, and discussion structure used by almost every scientific
-article today dates back to the 1940s and wasn't pervasive until the
-1970s [cite: sollaci2004introduction]. Some researchers have recommended
-minimum information standards for methodological reporting to address
-concerns about reproducibility (e.g., fMRI standards [cite:
-poldrack2008guidelines], computational neuronal modeling [cite:
-nordlie2009towards], microarray standards [cite: brazma2001minimum], and
-randomized controlled trials [cite: begg1996improving]). However, it may
-be easier to address
+works instead of the review process. Another danger to the review
+process, and to scientific articles themselves, is that they are not
+keeping pace with the dramatic advances in computing resources by which
+results are obtained and in media by which results are displayed or
+communicated.
 
 The most common form of the current evaluation process for an article
 involves a preliminary screening by a journal editor followed by an
@@ -101,13 +90,6 @@ articles, the integrity of the review process, and indeed science, is
 imperiled. For the review process to continue to play a critical role in
 science, there are a number of problems that need to be addressed, some
 of which we list below.
-
-One well-known example is the case of XXX
-
-Chung, whose rigorous and correct experimental work was later
-
-retracted due to a software bug that undermined the paper's conclusions
-[REF Nature].
 
 \*\*Reviewers work in isolation and have limited expertise.\*\*
 
@@ -204,6 +186,12 @@ to the community.
 
 [cite: coombes2007microarrays]
 
+Failing to expose the methods, data, and software underlying a study can
+lead to needless misdirection and inefficiency, and even loss of
+scientific credibility. One well-known example is the case of XXX Chung,
+whose rigorous and correct experimental work was later retracted due to
+a software bug that undermined the paper's conclusions [REF Nature].
+
 \*\*A review has a limited lifespan.\*\*
 
 After an article has been published, the review process simply ends, as
@@ -220,125 +208,6 @@ review in open source software projects, by proposing an open evaluation
 system for scientific publishing, and by proposing a research
 reproducibility metric that continues to quantify the impact and
 validity of contributions beyond their initial publication dates.
-
-Historical background
-
----------------------
-
-.. epigraph::
-
-Science alone of all the subjects contains within itself the lesson of
-the
-
-danger of belief in the infallibility of the greatest teachers in the
-
-preceding generation... Learn from science that you must doubt the
-experts.
-
-\|emdash\| Richard Feynman, What is Science? (1969)
-
-.. epigraph::
-
-...so when a man tries all kinds of experiments without method or
-
-order, this is mere groping in the dark; but when he proceeds with
-
-some direction and order in his experiments, it is as if he were
-
-led by the hand...
-
-\|emdash\| Francis Bacon, Novum Organum (1620)
-
-- post-publication proxies for quality
-
-- citedness??
-
-the scientific journal and review process have evolved over time as
-
-both science and the scientific community have evolved
-
-- origin of the scientific method
-
-- Francis Bacon's Novum Organum (1620) one of the early
-
-proponents of experimental science
-
-- the beginning of the use of controlled, repeatable experiments
-
-to advance knowledge
-
-- provided a method for questioning received wisdom
-
-- origin of scientific communities
-
-- small groups started forming
-
-- official societies such as the
-
-Royal Society of London for Improving Natural Knowledge (1660s)
-
-- Royal Society's motto of \*nullius in verba\* (Take nobody's word for
-it)
-
-- the origin of the scientific journal
-
-- as these scientific societies grew they needed a mechanism to
-disseminate
-
-work and provide attribution
-
-- journals such as the Society's Philosphical Transactions (1665)
-
-edited by Henry Oldenburg appeared
-
-- initially submission acceptance in these journals was left to the
-editor's
-
-discretion
-
-- as the volume and diversity of submissions increased, new review
-procedures
-
-were needed
-
-- (1750s): select group of members formed to review submissions and make
-
-recommendations to the editor
-
-- early scientific journals had more space than articles so journals
-began
-
-adding assistant editors to help solicit articles and reviews
-
-- peer review limited by existing technologies
-
-- in addition to a shortage of work to be published technology limited
-
-the journals ability create copies of submissions for review
-
-- advent of typewriters / carbon papers in 1890s simplified making 3-5
-copies
-
-- photocopiers (1959)
-
-- modern personal computers / printers these limitations vanished
-
-- new technologies are again changing scientific publications
-
-- online publications: preprints, continuous revision, open discussion
-
-- new technologies are also changing the everyday practice of science
-
-- increased data storage is rapidly expanding the amount of experimental
-
-data we can acquire and analyze
-
-- increased computational power is vastly increasing our ability to
-model
-
-and
-
-http://www.nature.com/nature/peerreview/debate/
 
 Open review
 
@@ -401,8 +270,8 @@ OSS Example:
 
 Github.com provides an open source software hosting service together
 with a web-based front end for interacting with these projects. For
-these projects, the code are available for everyone to view and for
-registered github members to comment and report issues. A typical
+these projects, code is available for everyone to view and for
+registered github members to comment on and report issues. A typical
 analogy to submitting an article for publication would be for a
 developer to create a “pull request” that sends maintainers of a project
 a message to integrate the developer’s changes to the code into the main
@@ -412,6 +281,14 @@ developers of the project get the “pull-request” email, any github
 member is allowed to comment on such a request. The web interface allows
 inserting comments in an interactive discussion form or for any given
 line of the code.
+
+.. figure:: images/image00.png
+   :align: center
+   :alt: 
+Figure X. A snapshot from the web-interface of a pull-request of the
+nipype project on github.com, demonstrating part of a discussion thread,
+inline commenting of code (for line 98) as well as updates on code
+changes taking place as a function of the discussion.
 
 Metrics:
 
