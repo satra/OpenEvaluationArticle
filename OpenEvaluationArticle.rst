@@ -302,6 +302,9 @@ recommend that such
 
 Metrics:
 
+Integral of discussions over time (by paper, author, reviewer) weighted
+by “like” factor of each comment or discussion.
+
 \*\*Acknowledge reviewers\*\*
 
 When reviewers are given the opportunity to provide feedback regarding
