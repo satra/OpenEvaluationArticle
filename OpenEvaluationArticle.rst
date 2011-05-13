@@ -198,7 +198,7 @@ We will address each of the problems in order and make reference to
 lessons from distributed code review in open source software
 development.
 
-1. \*\*Open up reviews to everyone.\*\*
+1. \*\*Distribute reviews to many reviewers.\*\*
 
 Reviewers would no longer work in isolation or in anonymity, benefiting
 from direct communication with the authors and the world of potential
@@ -324,39 +324,8 @@ the reviewer based on community feedback on the reviews.
 
 OSS example:
 
-3. \*\*Make reviews available.\*\*
-
-Although certain journals hold a discussion before a paper is accepted,
-it is still behind closed doors and limited to the editor, the authors,
-and a small set of reviewers. An open and recorded review ensures that
-there is a timestamp on the work that has been done, an acknowledgement
-of who performed the research, and a higher probability of rectifying
-errors early in the process. By opening up the review process, the role
-and importance of reviewers and information generated during the review
-would be shared and acknowledged. The exchanges themselves can be used
-to quantitatively assess the importance of a submission, and analysis of
-the review process then becomes possible and could lead to an objective
-standardization of the scientific process.
-
-4. \*\*Clarify author contributions.\*\*
-
-An open review is like an open discussion, where questions could be
-directed at individual authors to establish accountability for their
-contributions. This would make it far more likely that otherwise
-unacknowledged contributors, such as technicians and research
-assistants, would be heard.
-
-5. \*\*Expedite the review process.\*\*
-
-An open discussion could happen in real time [like the Frontiers
-journals?], so reviews become an interactive and efficient process.
-
-6. \*\*Establish precedence.\*\*
-
-Open review establishes a clear provenance of ideas and a timestamp for
-the intellectual property in the work.
-
-7. \*\*Facilitate extensive evaluation.\*\ :sup:``[a] <#cmnt1>`_`\ \*
+2. \*\*Provide reviewers materials and methods to perform comprehensive
+evaluation.\*\ :sup:``[a] <#cmnt1>`_`\ \*
 
 In a wide-scale, open review, descriptions of experimental designs and
 methods would come under greater scrutiny by people from different
@@ -389,6 +358,38 @@ results. By appropriately labeling the articles as such, one can
 quantify the success of a method or paradigm as well as provide an
 additional factor in assessing scientists' contribution to the
 community.
+
+3. \*\*Make reviews available.\*\*
+
+Although certain journals hold a discussion before a paper is accepted,
+it is still behind closed doors and limited to the editor, the authors,
+and a small set of reviewers. An open and recorded review ensures that
+there is a timestamp on the work that has been done, an acknowledgement
+of who performed the research, and a higher probability of rectifying
+errors early in the process. By opening up the review process, the role
+and importance of reviewers and information generated during the review
+would be shared and acknowledged. The exchanges themselves can be used
+to quantitatively assess the importance of a submission, and analysis of
+the review process then becomes possible and could lead to an objective
+standardization of the scientific process.
+
+4. \*\*Clarify author contributions.\*\*
+
+An open review is like an open discussion, where questions could be
+directed at individual authors to establish accountability for their
+contributions. This would make it far more likely that otherwise
+unacknowledged contributors, such as technicians and research
+assistants, would be heard.
+
+5. \*\*Expedite the review process.\*\*
+
+An open discussion could happen in real time [like the Frontiers
+journals?], so reviews become an interactive and efficient process.
+
+6. \*\*Establish precedence.\*\*
+
+Open review establishes a clear provenance of ideas and a timestamp for
+the intellectual property in the work.
 
 8. \*\*Enable a continual review process.\*\*
 
