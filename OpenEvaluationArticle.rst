@@ -349,135 +349,67 @@ specialty or area of interest, there there is less burden placed on any
 one reviewer.
 
 In any complex software project, there are specialists who focus on
-certain
+certain components of the software. However, code review is not limited
+to specialists. When multiple pairs of eyes look at code, the code
+improves, bugs are caught, and all participants are encouraged to write
+better code. Opening up scientific reviews to the community will also
+ensure that the people most interested and knowledgeable on a topic
+review it, thereby speeding up the review process. Furthermore, the
+interdisciplinary papers today require far more than two to three
+reviewers to adequately spot problems.
 
-components of the software. However, code review is not limited to
-specialists.
-
-When multiple pairs of eyes look at code, the code improves, bugs are
-caught,
-
-and all participants are encouraged to write better code. Opening up
-scientific
-
-reviews to the community will also ensure that the people most
-interested and
-
-knowledgeable on a topic review it, thereby speeding up the review
-process.
-
-Furthermore, the interdisciplinary papers today require far more than
-two to
-
-three reviewers to adequately spot problems.
-
-In case there is an overwhelming amount of participation in a review,
-
-or fear of disclosure prior to publication, there are at least two types
-
-of compromise available. One would be to assign certain reviewers as
-
+In case there is an overwhelming amount of participation in a review, or
+fear of disclosure prior to publication, there are at least two types of
+compromise available. One would be to assign certain reviewers as
 moderators for different components of the article, to lessen the burden
-
 on the editor. Another would be to increase the number of reviewers
-
 (solicited from a subscribed pool) without opening up the review process
-
-to everyone. This would still improve scientific rigor
-
-while lessening the burden on each individual reviewer, as long as they
+to everyone. This would still improve scientific rigor while lessening
+the burden on each individual reviewer, as long as they
 
 review specific components of the article they are knowledgeable about.
 
 Currently, reviewers are solicited by the editors of journals based on
-either
-
-names recommended by the authors who submitted the article, the editors'
-
-knowledge of the domain or from an internal journal reviewer database.
-
-This selection process results in a very narrow and biased selection of
-
-reviewers. An alternative way to solicit reviewers is to broadcast an
-article
-
-to a pool of reviewers and to let reviewers choose articles and
-components of the
-
-article they want to review. These are ideas that have already been
-implemented in
-
-scientific publishing. The Frontiers system [cite: XXX] solicits reviews
-from a
-
-select group of review editors and the Brain and Behavioral Sciences
-publication
-
-[cite: XXX] solicits reviews from the community.
+either names recommended by the authors who submitted the article, the
+editors' knowledge of the domain or from an internal journal reviewer
+database. This selection process results in a very narrow and biased
+selection of reviewers. An alternative way to solicit reviewers is to
+broadcast an article to a pool of reviewers and to let reviewers choose
+articles and components of the article they want to review. These are
+ideas that have already been implemented in scientific publishing. The
+Frontiers system [cite: XXX] solicits reviews from a select group of
+review editors and the Brain and Behavioral Sciences publication [cite:
+XXX] solicits reviews from the community.
 
 \*\*Acknowledge reviewers\*\*
 
 When reviewers are given the opportunity to provide feedback regarding
-just
-
-the areas they are interested in, the review process becomes much more
-enjoyable.
-
-But there are additional factors afforded by opening the review process
-
-that will motivate reviewer participation. First, the review process
-becomes the
-
-dialogue of science, and anyone who engages in that dialogue gets heard.
-
-Second, it transforms the review process from one of secrecy to one of
-
-engaging social discourse.
-
-Third, an open review process makes it possible to quantitatively assess
-
-reviewer contributions, which could lead to assessments for promotions
-and grants.
-
-There are two things that can be used towards assessment of reviewers.
-First,
-
-reviewer names are immediately associated with the publication. Second,
-reviewer
-
-grades eventually become associated with the reviewer based on community
-
-feedback on the reviews.
+just the areas they are interested in, the review process becomes much
+more enjoyable. But there are additional factors afforded by opening the
+review process that will motivate reviewer participation. First, the
+review process becomes the dialogue of science, and anyone who engages
+in that dialogue gets heard. Second, it transforms the review process
+from one of secrecy to one of engaging social discourse. Third, an open
+review process makes it possible to quantitatively assess reviewer
+contributions, which could lead to assessments for promotions and
+grants. There are two things that can be used towards assessment of
+reviewers. First, reviewer names are immediately associated with the
+publication. Second, reviewer grades eventually become associated with
+the reviewer based on community feedback on the reviews.
 
 \*\*Open data generated by reviews.\*\*
 
-Although certain journals hold a discussion before a
-
-paper is accepted, it is still behind closed doors and limited to
-
-the editor, the authors, and a small set of reviewers. An open and
-recorded
-
-review ensures that there is a timestamp on the work that has been done,
-an
-
-acknowledgement of who performed the research, and a higher probability
-
-of rectifying errors early in the process.
-
-By opening up the review process, the role and importance of reviewers
-
-and information generated during the review would be shared and
-acknowledged.
-
-The exchanges themselves can be used to quantitatively assess the
-importance
-
-of a submission, and analysis of the review process then becomes
-possible
-
-and could lead to an objective standardization of the scientific
-process.
+Although certain journals hold a discussion before a paper is accepted,
+it is still behind closed doors and limited to the editor, the authors,
+and a small set of reviewers. An open and recorded review ensures that
+there is a timestamp on the work that has been done, an acknowledgement
+of who performed the research, and a higher probability of rectifying
+errors early in the process. By opening up the review process, the role
+and importance of reviewers and information generated during the review
+would be shared and acknowledged. The exchanges themselves can be used
+to quantitatively assess the importance of a submission, and analysis of
+the review process then becomes possible and could lead to an objective
+standardization of the scientific process.
 
 \*\*Clarify author contributions.\*\*
 
@@ -494,103 +426,60 @@ heard.
 \*\*Expedite the review process.\*\*
 
 An open discussion could happen in real time [like the Frontiers
-journals?],
-
-so reviews become an interactive and efficient process.
+journals?], so reviews become an interactive and efficient process.
 
 \*\*Establish precedence.\*\*
 
-Open review establishes a clear provenance of ideas and a timestamp
-
-for the intellectual property in the work.
+Open review establishes a clear provenance of ideas and a timestamp for
+the intellectual property in the work.
 
 \*\*Facilitate reproducibility.\*\*
 
 In a widescale, open review, descriptions of experimental designs and
-
 methods would come under greater scrutiny by people from different
-fields
+fields using different nomenclature, leading to greater clarity and
+cross-fertilization of ideas. Software and data quality would also come
+under greater scrutiny by people interested in their use for unexpected
+applications, pressuring authors to make them available for review as
+well, and potentially leading to collaborations, which would not be
+possible in a closed review process.
 
-using different nomenclature, leading to greater clarity and
-cross-fertilization
-
-of ideas. Software and data quality would also come under greater
-scrutiny by people
-
-interested in their use for unexpected applications, pressuring authors
-
-to make them available for review as well, and potentially leading to
-collaborations,
-
-which would not be possible in a closed review process.
-
-Currently, reviews are biased toward reporting novel findings.
-
-However, from a scientific perspective, positive-, negative- and
-non-results
-
-are extremely useful to the community.
+Currently, reviews are biased toward reporting novel findings. However,
+from a scientific perspective, positive-, negative- and non-results are
+extremely useful to the community.
 
 [http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124]
 
 [http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0040028]
 
-Instead of judging every article based on novelty,
-
-the review process should encourage replication of experiments as well
-as
-
-publication of experiments that did not produce results. By
-appropriately
-
-labeling the articles as such, one can quantify the success of a method
-or
-
-paradigm as well as provide an additional factor in assessing
-scientists'
-
+Instead of judging every article based on novelty, the review process
+should encourage replication of experiments as well as publication of
+experiments that did not produce results. By appropriately labeling the
+articles as such, one can quantify the success of a method or paradigm
+as well as provide an additional factor in assessing scientists'
 contribution to the community.
 
 \*\*Extend the review process indefinitely.\*\*
 
-Once open and online, there is no reason for a review process
-
-to end after an article has been published. The article can continue as
-
-a living document, where the dialogue can continue and flourish,
-
-and references to different articles could be supplemented with
-references to
-
-the comments about these articles, firmly establishing these
-communications within
-
-the dialogue and provenance of science, where science serves not just as
-a
-
-method or philosophy, but as a social endeavor. This could make science
-and
-
-scientific review a more welcoming community, and more desirable career
-choice.
+Once open and online, there is no reason for a review process to end
+after an article has been published. The article can continue as a
+living document, where the dialogue can continue and flourish, and
+references to different articles could be supplemented with references
+to the comments about these articles, firmly establishing these
+communications within the dialogue and provenance of science, where
+science serves not just as a method or philosophy, but as a social
+endeavor. This could make science and scientific review a more welcoming
+community, and more desirable career choice.
 
 Insert Fig: xxx
 
 As shown in the figure, reviewers can select which components of the
-article
-
-they are reviewing and for what content. This choice is coupled with a
-
-stack-overflow/math-overflow like interface, where the rest of the
-community can
-
-agree or disagree with the reviewers comments and choose to have a
-discussion on
-
-the topic. We can also draw on "kudos" received [cite: ohloh] as a
-function of
-
-commits made to a software project.
+article they are reviewing and for what content. This choice is coupled
+with a stack-overflow/math-overflow like interface, where the rest of
+the community can agree or disagree with the reviewers comments and
+choose to have a discussion on the topic. We can also draw on "kudos"
+received [cite: ohloh] as a function of commits made to a software
+project.
 
 In the long run, the review process need not be limited to publication,
 but can
@@ -644,7 +533,7 @@ by experts)
 
 - higher impact discussions rather than just citations
 
-Reproducible research
+Reproducible research\ :sup:``[a] <#cmnt1>`_`\ 
 
 ---------------------
 
@@ -954,7 +843,18 @@ for
 
 funding/promotions
 
-`[a] <#cmnt_ref1>`_jbpoline:
+`[a] <#cmnt_ref1>`_binarybottle:
+
+if this article is about the review process, a separate section on
+reproducible research seems out of place. perhaps we should say
+something to indicate that involvement of reviewers could range from
+out-of-field comments to direct requests for software or data to try to
+test or replicate work in the article. we can't expect every article to
+provide a unit-test-like framework to replicate a study, but we could
+evaluate the reproducibility of the work in a given article to indicate
+how far one could take a review, from comment to re-run the study!
+
+`[b] <#cmnt_ref2>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -974,7 +874,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[b] <#cmnt_ref2>`_binarybottle:
+`[c] <#cmnt_ref3>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -991,7 +891,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[d] <#cmnt_ref4>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -999,22 +899,22 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[e] <#cmnt_ref5>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[e] <#cmnt_ref5>`_stnava:
+`[f] <#cmnt_ref6>`_stnava:
 
 move elsewhere
 
-`[f] <#cmnt_ref6>`_binarybottle:
+`[g] <#cmnt_ref7>`_binarybottle:
 
 if and in which journal an article
 
-`[g] <#cmnt_ref7>`_kimlumbard:
+`[h] <#cmnt_ref8>`_kimlumbard:
 
 Howdy all!
 
@@ -1054,49 +954,38 @@ binarybottle:
 
 thank you, kim!
 
-`[h] <#cmnt_ref8>`_millman.ucb:
+`[i] <#cmnt_ref9>`_millman.ucb:
 
 update at the end to include everyone
 
-`[i] <#cmnt_ref9>`_fdo.perez:
+`[j] <#cmnt_ref10>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[j] <#cmnt_ref10>`_fdo.perez:
+`[k] <#cmnt_ref11>`_fdo.perez:
 
 This sentence parses really weird
 
-`[k] <#cmnt_ref11>`_fdo.perez:
+`[l] <#cmnt_ref12>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[l] <#cmnt_ref12>`_yarikoptic:
+`[m] <#cmnt_ref13>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[m] <#cmnt_ref13>`_fdo.perez:
+`[n] <#cmnt_ref14>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[n] <#cmnt_ref14>`_binarybottle:
-
-and are followed up by
-
 `[o] <#cmnt_ref15>`_binarybottle:
 
-if this article is about the review process, a separate section on
-reproducible research seems out of place. perhaps we should say
-something to indicate that involvement of reviewers could range from
-out-of-field comments to direct requests for software or data to try to
-test or replicate work in the article. we can't expect every article to
-provide a unit-test-like framework to replicate a study, but we could
-evaluate the reproducibility of the work in a given article to indicate
-how far one could take a review, from comment to re-run the study!
+and are followed up by
 
 `[p] <#cmnt_ref16>`_fdo.perez:
 
