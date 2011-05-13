@@ -90,10 +90,12 @@ quality, the increasingly multidisciplinary content of articles, and the
 use of journal impact factors as proxies for evaluations of individual
 articles, the integrity of the review process, and indeed science, is
 imperiled. For the review process to continue to play a critical role in
-science, there are a number of problems that need to be addressed, some
+science, there are a number of problems that need to be addressed, three
 of which we list below.
 
-\*\*Reviewers work in isolation and have limited expertise.\*\*
+Reviewers have a tough job!
+
+1. \*\*Reviewers work in isolation and have limited expertise.\*\*
 
 Reviewers work in isolation, unable to discuss the content of the
 article with the authors or other reviewers. When faced with an article
@@ -105,67 +107,7 @@ of an article, including the background, experimental design, methods,
 analysis of results, and interpretations handed over as a package to
 each reviewer, rather than delegated to many experts in each domain?
 
-\*\*Reviewers are not acknowledged.\*\*
-
-Reviewing is currently considered one's unpaid "duty" to maintain the
-standards and credibility of scientific research. The reviewer stands to
-gain by early exposure to relevant areas of research, while a publisher
-stands to gain financially through either publication or subscription
-fees. In order to further motivate potential reviewers to participate in
-the review process, there should be some form of acknowledgment for
-their services that would factor into their evaluations for promotion
-and funding opportunities.
-
-\*\*Reviews are unavailable.\*\*
-
-The closed and anonymous review process does not acknowledge the role
-and importance of reviewers and information generated during the review
-(reviewer criticism and feedback). Reviewing has thus become an
-extremely important but seldom acknowledged process. This closed process
-also prevents an objective standardization of the scientific process.
-
-\*\*Author contributions are unclear.\*\*
-
-There is no consistency in the review process to solicit information
-related to the contribution of each listed author. While certain
-journals have stringent standards for clearly indicating the role of
-each author on a paper,
-
-other journals do not. Even the order of author names does not abide by
-a single convention. For example, in biology publications, the first and
-last positions in the author list are typically used to signify primary
-contributor
-
-and primary director or sponsor of the research. However, journals such
-as the Acoustical Society of America expect author lists to be ordered
-by decreasing degree of contribution. Such inconsistencies negatively
-impact consideration of author lists for promotion or in grant reviews.
-Furthermore, without a standard, contributors
-
-(such as technicians and research assistants) are often not included or
-adequately credited and others are included without their having made
-any contribution.
-
-\*\*The review process is slow.\*\*
-
-Reviews often take a considerable amount of time. Review deadlines vary
-significantly from journal to journal, and with increasingly
-multidisciplinary research, finding an available reviewer knowledgeable
-in all aspects of an article is challenging. Although there are journal
-consortia that share reviews across member journals in case of
-rejection, review processes are often reinitiated by a new journal,
-adding delays and demands on reviewers.
-
-\*\*Precedence may be compromised.\*\*
-
-Reviews themselves are not considered a timestamp for the intellectual
-property in the work. Since the review process is typically anonymous
-and private, information is hidden until the time of publication. While
-a given journal timestamps an article from initial submission to final
-acceptance, if the article has gone through a chain of journals, such
-information is typically lost.
-
-\*\*Reviewers are unable to comprehensively evaluate studies.\*\*
+7. \*\*Reviewers are unable to comprehensively evaluate studies.\*\*
 
 The typical review process does not require submission of data and
 software associated with an article, and the descriptions provided in
@@ -194,7 +136,45 @@ scientific credibility. One well-known example is the case of XXX Chung,
 whose rigorous and correct experimental work was later retracted due to
 a software bug that undermined the paper's conclusions [REF Nature].
 
-\*\*A review has a limited lifespan.\*\*
+5. \*\*The review process is slow.\*\*
+
+Reviews often take a considerable amount of time. Review deadlines vary
+significantly from journal to journal, and with increasingly
+multidisciplinary research, finding an available reviewer knowledgeable
+in all aspects of an article is challenging. Although there are journal
+consortia that share reviews across member journals in case of
+rejection, review processes are often reinitiated by a new journal,
+adding delays and demands on reviewers.
+
+6. \*\*Precedence may be compromised.\*\*
+
+Reviews themselves are not considered a timestamp for the intellectual
+property in the work. Since the review process is typically anonymous
+and private, information is hidden until the time of publication. While
+a given journal timestamps an article from initial submission to final
+acceptance, if the article has gone through a chain of journals, such
+information is typically lost.
+
+2. \*\*Reviewers are not acknowledged.\*\*
+
+Reviewing is currently considered one's unpaid "duty" to maintain the
+standards and credibility of scientific research. The reviewer stands to
+gain by early exposure to relevant areas of research, while a publisher
+stands to gain financially through either publication or subscription
+fees. In order to further motivate potential reviewers to participate in
+the review process, there should be some form of acknowledgment for
+their services that would factor into their evaluations for promotion
+and funding opportunities.
+
+3. \*\*Reviews are unavailable.\*\*
+
+The closed and anonymous review process does not acknowledge the role
+and importance of reviewers and information generated during the review
+(reviewer criticism and feedback). Reviewing has thus become an
+extremely important but seldom acknowledged process. This closed process
+also prevents an objective standardization of the scientific process.
+
+8. \*\*A review has a limited lifespan.\*\*
 
 After an article has been published, the review process simply ends, as
 if the work and interpretations of the results are sealed in a time
@@ -204,6 +184,28 @@ stand up to scrutiny or may yield new insights. Simply enabling a
 continuing dialogue about each article would make it a living document
 and integrate it in a rich scientific dialogue.
 
+4. \*\*Author contributions are unclear.\*\*
+
+There is no consistency in the review process to solicit information
+related to the contribution of each listed author. While certain
+journals have stringent standards for clearly indicating the role of
+each author on a paper,
+
+other journals do not. Even the order of author names does not abide by
+a single convention. For example, in biology publications, the first and
+last positions in the author list are typically used to signify primary
+contributor
+
+and primary director or sponsor of the research. However, journals such
+as the Acoustical Society of America expect author lists to be ordered
+by decreasing degree of contribution. Such inconsistencies negatively
+impact consideration of author lists for promotion or in grant reviews.
+Furthermore, without a standard, contributors
+
+(such as technicians and research assistants) are often not included or
+adequately credited and others are included without their having made
+any contribution.
+
 In this article, we attempt to address these deficiencies by drawing on
 the ideas, experience, and technology recently developed to support code
 review in open source software projects, by proposing an open evaluation
@@ -211,7 +213,7 @@ system for scientific publishing, and by proposing a research
 reproducibility metric that continues to quantify the impact and
 validity of contributions beyond their initial publication dates.
 
-Open review
+Proposals
 
 ----------------------
 
@@ -224,7 +226,7 @@ We will address each of the problems in order and make reference to
 lessons from distributed code review in open source software
 development.
 
-\*\*Open reviews to everyone.\*\*
+1. \*\*Open up reviews to everyone.\*\*
 
 Reviewers would no longer work in isolation or in anonymity, benefiting
 from direct communication with the authors and the world of potential
@@ -332,7 +334,7 @@ the number of times the speaker was quoted in a given time period.
 .. figure:: images/image02.png
    :align: center
    :alt: 
-\*\*Acknowledge reviewers\*\*
+2. \*\*Acknowledge reviewers\*\*
 
 When reviewers are given the opportunity to provide feedback regarding
 just the areas they are interested in, the review process becomes much
@@ -350,7 +352,7 @@ the reviewer based on community feedback on the reviews.
 
 OSS example:
 
-\*\*Make reviews available.\*\*
+3. \*\*Make reviews available.\*\*
 
 Although certain journals hold a discussion before a paper is accepted,
 it is still behind closed doors and limited to the editor, the authors,
@@ -364,7 +366,7 @@ to quantitatively assess the importance of a submission, and analysis of
 the review process then becomes possible and could lead to an objective
 standardization of the scientific process.
 
-\*\*Clarify author contributions.\*\*
+4. \*\*Clarify author contributions.\*\*
 
 An open review is like an open discussion, where questions could be
 directed at individual authors to establish accountability for their
@@ -372,17 +374,17 @@ contributions. This would make it far more likely that otherwise
 unacknowledged contributors, such as technicians and research
 assistants, would be heard.
 
-\*\*Expedite the review process.\*\*
+5. \*\*Expedite the review process.\*\*
 
 An open discussion could happen in real time [like the Frontiers
 journals?], so reviews become an interactive and efficient process.
 
-\*\*Establish precedence.\*\*
+6. \*\*Establish precedence.\*\*
 
 Open review establishes a clear provenance of ideas and a timestamp for
 the intellectual property in the work.
 
-\*\*Facilitate extensive evaluation.\*\ :sup:``[a] <#cmnt1>`_`\ \*
+7. \*\*Facilitate extensive evaluation.\*\ :sup:``[a] <#cmnt1>`_`\ \*
 
 In a wide-scale, open review, descriptions of experimental designs and
 methods would come under greater scrutiny by people from different
@@ -416,7 +418,7 @@ quantify the success of a method or paradigm as well as provide an
 additional factor in assessing scientists' contribution to the
 community.
 
-\*\*Enable a continual review process.\*\*
+8. \*\*Enable a continual review process.\*\*
 
 Once open and online, there is no reason for a review process to end
 after an article has been published. The article can continue as a
