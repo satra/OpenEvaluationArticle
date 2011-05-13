@@ -93,21 +93,30 @@ imperiled. For the review process to continue to play a critical role in
 science, there are a number of problems that need to be addressed, three
 of which we list below.
 
-Reviewers have a tough job!
+Reviewers suffer!
 
-1. \*\*Reviewers work in isolation and have limited expertise.\*\*
+1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
-Reviewers work in isolation, unable to discuss the content of the
-article with the authors or other reviewers. When faced with an article
-that may be authored by half a dozen or more experts in their respective
-disciplines, how could a few reviewers be expected to have the range of
-expertise necessary to adequately understand and gauge the significance
-(or insignificance) of a given article? Why are the different components
-of an article, including the background, experimental design, methods,
-analysis of results, and interpretations handed over as a package to
-each reviewer, rather than delegated to many experts in each domain?
+Reviewers are expected to work in isolation, unable to discuss the
+content of the article with the authors or other reviewers. When faced
+with an article that may be authored by half a dozen or more experts in
+their respective disciplines, how could a few reviewers be expected to
+have the range of expertise necessary to adequately understand and gauge
+the significance (or insignificance) of a given article? Why are the
+different components of an article, including the background,
+experimental design, methods, analysis of results, and interpretations
+handed over as a package to each reviewer, rather than delegated to many
+experts in each domain?
 
-7. \*\*Reviewers are unable to comprehensively evaluate studies.\*\*
+- only negative comments included - didn’t have expertise in or comment
+on
+
+- The review process is slow.
+
+- Not interactive or real-time.
+
+7. \*\*Reviewers do not have sufficient access to methods and materials
+to evaluate a study.\*\*
 
 The typical review process does not require submission of data and
 software associated with an article, and the descriptions provided in
@@ -136,25 +145,6 @@ scientific credibility. One well-known example is the case of XXX Chung,
 whose rigorous and correct experimental work was later retracted due to
 a software bug that undermined the paper's conclusions [REF Nature].
 
-5. \*\*The review process is slow.\*\*
-
-Reviews often take a considerable amount of time. Review deadlines vary
-significantly from journal to journal, and with increasingly
-multidisciplinary research, finding an available reviewer knowledgeable
-in all aspects of an article is challenging. Although there are journal
-consortia that share reviews across member journals in case of
-rejection, review processes are often reinitiated by a new journal,
-adding delays and demands on reviewers.
-
-6. \*\*Precedence may be compromised.\*\*
-
-Reviews themselves are not considered a timestamp for the intellectual
-property in the work. Since the review process is typically anonymous
-and private, information is hidden until the time of publication. While
-a given journal timestamps an article from initial submission to final
-acceptance, if the article has gone through a chain of journals, such
-information is typically lost.
-
 2. \*\*Reviewers are not acknowledged.\*\*
 
 Reviewing is currently considered one's unpaid "duty" to maintain the
@@ -166,13 +156,28 @@ the review process, there should be some form of acknowledgment for
 their services that would factor into their evaluations for promotion
 and funding opportunities.
 
-3. \*\*Reviews are unavailable.\*\*
+-The closed and anonymous review process does not acknowledge the role
+and importance of reviewers and Reviewing has thus become an extremely
+important but seldom acknowledged process.
 
-The closed and anonymous review process does not acknowledge the role
-and importance of reviewers and information generated during the review
-(reviewer criticism and feedback). Reviewing has thus become an
-extremely important but seldom acknowledged process. This closed process
-also prevents an objective standardization of the scientific process.
+Community suffers!
+
+6. \*\*Provenance information may be lost.\*\*
+
+Reviews themselves are not considered a timestamp for the intellectual
+property in the work. Since the review process is typically anonymous
+and private, information is hidden until the time of publication. While
+a given journal timestamps an article from initial submission to final
+acceptance, if the article has gone through a chain of journals, such
+information is typically lost.
+
+3. \*\*Reviews are unavailable to the community.\*\*
+
+information generated during the review (reviewer criticism and
+feedback) is unavailable.
+
+This closed process also prevents an objective standardization of the
+scientific process.
 
 8. \*\*A review has a limited lifespan.\*\*
 
@@ -183,28 +188,6 @@ all a product of their time and context, and at a later time may not
 stand up to scrutiny or may yield new insights. Simply enabling a
 continuing dialogue about each article would make it a living document
 and integrate it in a rich scientific dialogue.
-
-4. \*\*Author contributions are unclear.\*\*
-
-There is no consistency in the review process to solicit information
-related to the contribution of each listed author. While certain
-journals have stringent standards for clearly indicating the role of
-each author on a paper,
-
-other journals do not. Even the order of author names does not abide by
-a single convention. For example, in biology publications, the first and
-last positions in the author list are typically used to signify primary
-contributor
-
-and primary director or sponsor of the research. However, journals such
-as the Acoustical Society of America expect author lists to be ordered
-by decreasing degree of contribution. Such inconsistencies negatively
-impact consideration of author lists for promotion or in grant reviews.
-Furthermore, without a standard, contributors
-
-(such as technicians and research assistants) are often not included or
-adequately credited and others are included without their having made
-any contribution.
 
 In this article, we attempt to address these deficiencies by drawing on
 the ideas, experience, and technology recently developed to support code
