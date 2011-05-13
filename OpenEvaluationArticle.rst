@@ -100,152 +100,85 @@ retracted due to a software bug that undermined the paper's conclusions
 \*\*Reviewers work in isolation and have limited expertise.\*\*
 
 Reviewers work in isolation, unable to discuss the content of the
-
-article with the authors or other reviewers. When faced with an
-
-article that may be authored by half a dozen or more experts in their
-
-respective disciplines, how could a few reviewers be
-
-expected to have the range of expertise necessary to adequately
-
-understand and gauge the significance (or insignificance) of a given
-
-article? Why are the different components of an article, including
-
-the background, experimental design, methods, analysis of results,
-
-and interpretations handed over as a package to each reviewer, rather
-
-than delegated to many experts in each domain?
+article with the authors or other reviewers. When faced with an article
+that may be authored by half a dozen or more experts in their respective
+disciplines, how could a few reviewers be expected to have the range of
+expertise necessary to adequately understand and gauge the significance
+(or insignificance) of a given article? Why are the different components
+of an article, including the background, experimental design, methods,
+analysis of results, and interpretations handed over as a package to
+each reviewer, rather than delegated to many experts in each domain?
 
 \*\*Reviewers have little incentive.\*\*
 
-Reviewing is currently considered one's unpaid "duty" to
-
-maintain the standards and credibility of scientific research.
-
-The reviewer stands to gain by early exposure to relevant areas of
-research,
-
-while a publisher stands to gain financially through either publication
-or
-
-subscription fees. In order to further motivate potential reviewers to
-
-participate in the review process, there should be some form of
-
-acknowledgment for their services that would factor into their
-
-evaluations for promotion and funding opportunities.
+Reviewing is currently considered one's unpaid "duty" to maintain the
+standards and credibility of scientific research. The reviewer stands to
+gain by early exposure to relevant areas of research, while a publisher
+stands to gain financially through either publication or subscription
+fees. In order to further motivate potential reviewers to participate in
+the review process, there should be some form of acknowledgment for
+their services that would factor into their evaluations for promotion
+and funding opportunities.
 
 \*\*Review data are closed.\*\*
 
 The closed and anonymous review process does not acknowledge the role
-
 and importance of reviewers and information generated during the review
-
 (reviewer criticism and feedback). Reviewing has thus become an
-extremely
-
-important but seldom acknowledged process. This closed process also
-prevents
-
-an objective standardization of the scientific process.
+extremely important but seldom acknowledged process. This closed process
+also prevents an objective standardization of the scientific process.
 
 \*\*Author contributions are unclear.\*\*
 
 There is no consistency in the review process to solicit information
-
 related to the contribution of each listed author. While certain
-journals have
-
-stringent standards for clearly indicating the role of each author on a
-paper,
+journals have stringent standards for clearly indicating the role of
+each author on a paper,
 
 other journals do not. Even the order of author names does not abide by
-a single
-
-convention. For example, in biology publications, the first and last
-
-positions in the author list are typically used to signify primary
+a single convention. For example, in biology publications, the first and
+last positions in the author list are typically used to signify primary
 contributor
 
 and primary director or sponsor of the research. However, journals such
-as
-
-the Acoustical Society of America expect author lists to be ordered by
-decreasing
-
-degree of contribution. Such inconsistencies negatively
-
+as the Acoustical Society of America expect author lists to be ordered
+by decreasing degree of contribution. Such inconsistencies negatively
 impact consideration of author lists for promotion or in grant reviews.
-
 Furthermore, without a standard, contributors
 
-(such as technicians and research assistants)
-
-are often not included or adequately credited and others
-
-are included without their having made any contribution.
+(such as technicians and research assistants) are often not included or
+adequately credited and others are included without their having made
+any contribution.
 
 \*\*The review process is slow.\*\*
 
 Reviews often take a considerable amount of time. Review deadlines vary
-
 significantly from journal to journal, and with increasingly
-multidisciplinary research,
-
-finding an available reviewer knowledgeable in all aspects of an article
-is
-
-challenging. Although there are journal consortia that share reviews
-across
-
-member journals in case of rejection, review processes are often
-reinitiated by
-
-a new journal, adding delays and demands on reviewers.
+multidisciplinary research, finding an available reviewer knowledgeable
+in all aspects of an article is challenging. Although there are journal
+consortia that share reviews across member journals in case of
+rejection, review processes are often reinitiated by a new journal,
+adding delays and demands on reviewers.
 
 \*\*Precedence may be compromised.\*\*
 
 Reviews themselves are not considered a timestamp for the intellectual
-
 property in the work. Since the review process is typically anonymous
-and
-
-private, information is hidden until the time of publication. While a
-given journal
-
-timestamps an article from initial submission to final acceptance, if
-the
-
-article has gone through a chain of journals, such information is
-typically
-
-lost.
+and private, information is hidden until the time of publication. While
+a given journal timestamps an article from initial submission to final
+acceptance, if the article has gone through a chain of journals, such
+information is typically lost.
 
 \*\*Studies are not reproducible.\*\*
 
 The typical review process does not require submission of code and data
-
 associated with a publication, making it increasingly limited as a
-mechanism to
-
-ensure reproducible research. The descriptions provided in methods
-sections are
-
-often inadequate for replication. In the context of increasing
-complexity of
-
-experimental design and analysis methods, the lack of accessibility to
-data and
-
-software used to analyze data and generate results leads to an inability
-to verify
-
-the accuracy of the results or to identify problems with the data or
-software.
+mechanism to ensure reproducible research. The descriptions provided in
+methods sections are often inadequate for replication. In the context of
+increasing complexity of experimental design and analysis methods, the
+lack of accessibility to data and software used to analyze data and
+generate results leads to an inability to verify the accuracy of the
+results or to identify problems with the data or software.
 
 - Why most published studies false [cite: ioannidis2005most]
 
@@ -255,33 +188,20 @@ software.
 
 \*\*A review has a limited lifespan.\*\*
 
-After an article has been published, the review process simply ends,
-
-as if the work and interpretations of the results are sealed in a time
-capsule.
-
-Data, methods, analysis, and interpretations of the results are all
-
-a product of their time and context, and at a later time may not stand
-up to
-
-scrutiny or may yield new insights. Simply enabling a continuing
-dialogue about each
-
-article would make it a living document and integrate it in a rich
-scientific dialogue.
+After an article has been published, the review process simply ends, as
+if the work and interpretations of the results are sealed in a time
+capsule. Data, methods, analysis, and interpretations of the results are
+all a product of their time and context, and at a later time may not
+stand up to scrutiny or may yield new insights. Simply enabling a
+continuing dialogue about each article would make it a living document
+and integrate it in a rich scientific dialogue.
 
 In this article, we attempt to address these deficiencies by drawing on
-
-the ideas, experience, and technology recently developed to support
-
-code review in open source software projects, by proposing an open
-
-evaluation system for scientific publishing, and by proposing a
-
-research reproducibility metric that continues to quantify the impact
-
-and validity of contributions beyond their initial publication dates.
+the ideas, experience, and technology recently developed to support code
+review in open source software projects, by proposing an open evaluation
+system for scientific publishing, and by proposing a research
+reproducibility metric that continues to quantify the impact and
+validity of contributions beyond their initial publication dates.
 
 Historical background
 
@@ -407,14 +327,11 @@ Open evaluation system
 ----------------------
 
 We believe that opening up the review process to everyone, not just to a
-
 select few anonymous reviewers, has the potential to address every one
-of the
-
-problems with the review process that we raised in the Introduction.
+of the problems with the review process that we raised in the
+Introduction.
 
 We will address each of the problems in order and make reference to
-
 lessons from distributed code review in open source software
 development.
 
@@ -422,21 +339,13 @@ A mock-up of the intended review system is provided in Fig: xxx.
 
 \*\*Open reviews to everyone.\*\*
 
-Reviewers would no longer work in isolation or in anonymity,
-
-benefitting from direct communication with the authors and the world
-
-of potential reviewers to clarify points, resolve ambiguities, receive
-
-open collegial advice, attract feedback from people well outside of the
-
-authors' disciplines, and situate the discussion in the larger
-scientific
-
+Reviewers would no longer work in isolation or in anonymity, benefitting
+from direct communication with the authors and the world of potential
+reviewers to clarify points, resolve ambiguities, receive open collegial
+advice, attract feedback from people well outside of the authors'
+disciplines, and situate the discussion in the larger scientific
 community. Because each reviewer's feedback can be focused on his or her
-
 specialty or area of interest, there there is less burden placed on any
-
 one reviewer.
 
 In any complex software project, there are specialists who focus on
