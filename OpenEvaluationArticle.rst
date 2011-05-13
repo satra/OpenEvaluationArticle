@@ -71,25 +71,21 @@ Hirsch’s h-index, the Eigenfactor index,...]. As such, certain journal
 titles are taken as arbiters of quality and significance of published
 works instead of the review process.
 
-Another change in the nature of scientific scholarship is the dramatic
-advances in computing resources by which results are obtained and
-disseminated. Traditional peer-reviewed research articles are no longer
-sufficient for communicating most scientific work. It is easy to forget
-that the introduction, methods, results, and discussion structure used
-by almost every scientific article today dates back to the 1940s and
-wasn't pervasive until the 1970s [cite: sollaci2004introduction].
-
-In the late 1980s, Jon Claerbout, a geophysicist at Stanford, coined the
-phrase "reproducible research" to refer to the complete software
-environment necessary to generate all the results and figures included
-in published articles [cite: schwab2000making].
-
-In recent times, some researchers have recommended minimum information
-standards for methodological reporting. Examples include recommendations
-for fMRI standards [cite: poldrack2008guidelines], computational
-neuronal modeling [cite: nordlie2009towards], microarray standards
-[cite: brazma2001minimum], and randomized controlled trials [cite:
-begg1996improving].
+Another danger to the review process change in the nature of scientific
+scholarship is the dramatic advances in computing resources by which
+results are obtained and disseminated. Traditional peer-reviewed
+research articles are no longer sufficient for communicating most
+scientific work. One way to address this is to change the form that
+articles take. It is easy to forget that the introduction, methods,
+results, and discussion structure used by almost every scientific
+article today dates back to the 1940s and wasn't pervasive until the
+1970s [cite: sollaci2004introduction]. Some researchers have recommended
+minimum information standards for methodological reporting to address
+concerns about reproducibility (e.g., fMRI standards [cite:
+poldrack2008guidelines], computational neuronal modeling [cite:
+nordlie2009towards], microarray standards [cite: brazma2001minimum], and
+randomized controlled trials [cite: begg1996improving]). However, it may
+be easier to address
 
 The most common form of the current evaluation process for an article
 involves a preliminary screening by a journal editor followed by an
