@@ -71,19 +71,18 @@ Hirsch’s h-index, the Eigenfactor index,...]. As such, certain journal
 titles are taken as arbiters of quality and significance of published
 works instead of the review process.
 
-The increasing storage capacity and processing power of modern computing
-resources is dramatically changing the nature of scientific scholarship.
-As a result, traditional peer-reviewed research articles are no longer
-sufficient for communicating most scientific work. In the late 1980s,
-Jon Claerbout, a geophysicist at Stanford, coined the phrase
-"reproducible research" to refer to the complete software environment
-necessary to generate all the results and figures included in published
-articles [cite: schwab2000making].
+Another change in the nature of scientific scholarship is the dramatic
+advances in computing resources by which results are obtained and
+disseminated. Traditional peer-reviewed research articles are no longer
+sufficient for communicating most scientific work. It is easy to forget
+that the introduction, methods, results, and discussion structure used
+by almost every scientific article today dates back to the 1940s and
+wasn't pervasive until the 1970s [cite: sollaci2004introduction].
 
-It is easy to forget that the introduction, methods, results, and
-discussion (IMRAD) structure used by almost every scientific article
-today dates back to the 1940s and wasn't pervasive until the 1970s
-[cite: sollaci2004introduction].
+In the late 1980s, Jon Claerbout, a geophysicist at Stanford, coined the
+phrase "reproducible research" to refer to the complete software
+environment necessary to generate all the results and figures included
+in published articles [cite: schwab2000making].
 
 In recent times, some researchers have recommended minimum information
 standards for methodological reporting. Examples include recommendations
@@ -411,11 +410,13 @@ these projects, the code are available for everyone to view and for
 registered github members to comment and report issues. A typical
 analogy to submitting an article for publication would be for a
 developer to create a “pull request” that sends maintainers of a project
-a message to integrate the developer’s changes into the main project.
-Such a request is handled via a web interface that combines discussion
-together with the code changes. Although the primary developers of the
-project get the email, any github member is allowed to comment on such a
-request. The web interface allows inserting comments per line.
+a message to integrate the developer’s changes to the code into the main
+project. Such a request is handled via a web interface that combines
+discussion together with the code changes. Although the primary
+developers of the project get the “pull-request” email, any github
+member is allowed to comment on such a request. The web interface allows
+inserting comments in an interactive discussion form or for any given
+line of the code.
 
 Metrics:
 
