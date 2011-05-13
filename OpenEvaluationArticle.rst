@@ -360,7 +360,7 @@ reviewers. First, reviewer names are immediately associated with the
 publication. Second, reviewer grades eventually become associated with
 the reviewer based on community feedback on the reviews.
 
-4. \*\*Quantify metrics of review quality.\*\*
+4. \*\*Quantify review quality.\*\*
 
 Although certain journals hold a discussion before a paper is accepted,
 it is still behind closed doors and limited to the editor, the authors,
@@ -374,7 +374,7 @@ to quantitatively assess the importance of a submission, and analysis of
 the review process then becomes possible and could lead to an objective
 standardization of the scientific process.
 
-5. \*\*Enable continued discourse beyond initial review.\*\*
+5. \*\*L.\*\*
 
 Once open and online, there is no reason for a review process to end
 after an article has been published. The article can continue as a
