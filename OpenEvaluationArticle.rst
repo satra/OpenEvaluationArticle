@@ -166,12 +166,14 @@ of support, impartiality, or expertise of the reviews or reviewers.
 This closed process and lack of analytic or summary measures prevents an
 evaluation or objective standardization of the scientific process.
 
-5. \*\*Reviews cannot evolve.\*\*
+5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
 
-Not only is information generated during the review (criticism and
-feedback) unavailable, but after an article has been published, the
-review process simply ends, as if the work and interpretations of the
-results are sealed in a time capsule. Data, methods, analysis, and
+A lengthy review process holds up the progress of science as well as
+grant submissions and therefore funding of research programs. And all
+the information generated during the review (criticism and feedback) is
+unavailable. Furthermore, after an article has been published the review
+process simply ends, as if the work and interpretations of the results
+are sealed in a time capsule. Data, methods, analysis, and
 interpretations of the results are all a product of their time and
 context, and at a later time may not stand up to scrutiny or may yield
 new insights. Simply enabling a continuing dialogue about each article
@@ -315,8 +317,15 @@ community.
 
 \*Software review example:\*
 
-There are two aspects of software development that can help reviewers in
-this regard. First, software code review systems act as repositories of
+Software code review systems are strongly connected to software version
+control systems. The code review process leverages the history of the
+devel
+
+As such components of scientific study such as computer code can be
+submitted
+
+There are two components of software development that can help reviewers
+in this regard. First,
 
 During software development, specific versions of the software or of
 particular files are tagged to reflect milestones during development.
