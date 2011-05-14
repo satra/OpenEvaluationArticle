@@ -331,6 +331,13 @@ appropriately comment on submitted code.
 
 \*Proposed improvements for publication review:\*
 
+Software review systems are built for code not for data. In some
+disciplines (e.g., neuroimaging) the amount of data can be large,
+
+We propose that authors submit code (scripts, urls to online code
+repositories) and other data together with an article for review. For
+example, the NiPyPE software package,
+
 3. \*\*Acknowledge reviewers\*\*
 
 When reviewers are given the opportunity to provide feedback regarding
