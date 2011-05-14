@@ -306,7 +306,9 @@ currently feasible as part of a review process, simply exposing scripts
 can often help reviewers follow what was done and allows for replication
 of the results in the future. In the long run, virtual machines or
 servers may indeed allow standardization of analysis environments and
-replication of results for every publication.
+replication of results for every publication. For example, a simple
+workflow graph from a neuroimaging analyses captures numerous details
+which would otherwise be absent from an article.
 
 With regard to publication bias, reviewers should not judge every
 article based on novelty, but instead encourage replication of
@@ -332,11 +334,11 @@ appropriately comment on submitted code.
 \*Proposed improvements for publication review:\*
 
 Software review systems are built for code not for data. In some
-disciplines (e.g., neuroimaging) the amount of data can be large,
-
-We propose that authors submit code (scripts, urls to online code
-repositories) and other data together with an article for review. For
-example, the NiPyPE software package,
+disciplines (e.g., neuroimaging) the amount of data can be large, and
+these systems are not built to handle such extensive quantities.
+However, such review systems can be coupled with database systems (e.g.,
+Extensible Neuroimaging Archive Toolkit - XNAT) to enable storage of
+such large amounts of data.
 
 3. \*\*Acknowledge reviewers\*\*
 
@@ -373,17 +375,19 @@ scientific process.
 5. \*\*Expedite reviews and allow for post-publication review.\*\*
 
 Once open and online, reviews can be dynamic, interactive, and conducted
-in real time [Frontiers]. Not only would this make the review process
-more enjoyable, but along with reviews focused on many reviewers’
-interests, would expedite the review process. And there is no reason for
-a review process to end after an article has been published. The article
-can continue as a living document, where the dialogue can continue and
-flourish, and references to different articles could be supplemented
-with references to the comments about these articles, firmly
-establishing these communications within the dialogue and provenance of
-science, where science serves not just as a method or philosophy, but as
-a social endeavor. This could make scientific review and science a more
-welcoming community, and more desirable career choice.
+in real time [Frontiers]. And with many reviewers, they can choose to
+review only those articles and components of those articles that match
+their expertise and interests. Not only would these two changes make the
+review process more enjoyable, but they would expedite the review
+process. And there is no reason for a review process to end after an
+article has been published. The article can continue as a living
+document, where the dialogue can continue and flourish, and references
+to different articles could be supplemented with references to the
+comments about these articles, firmly establishing these communications
+within the dialogue and provenance of science, where science serves not
+just as a method or philosophy, but as a social endeavor. This could
+make scientific review and science a more welcoming community, and more
+desirable career choice.
 
 \*Software review example:\*
 
