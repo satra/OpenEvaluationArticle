@@ -318,18 +318,11 @@ community.
 \*Software review example:\*
 
 Software code review systems are strongly connected to software version
-control systems. The code review process leverages the history of the
-devel
-
-As such components of scientific study such as computer code can be
-submitted
-
-There are two components of software development that can help reviewers
-in this regard. First,
-
-During software development, specific versions of the software or of
-particular files are tagged to reflect milestones during development.
-These
+control systems. As such, code reviewers can easily track the history of
+the development of code and all pertinent details. Furthermore, during
+software development, specific versions of the software or of particular
+files are tagged to reflect milestones during development. Since some of
+these milestone
 
 3. \*\*Acknowledge reviewers\*\*
 
