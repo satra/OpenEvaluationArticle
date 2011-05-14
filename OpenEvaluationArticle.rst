@@ -315,6 +315,9 @@ community.
 
 \*Software review example:\*
 
+There are two aspects of software development that can help reviewers in
+this regard. First, software code review systems act as repositories of
+
 During software development, specific versions of the software or of
 particular files are tagged to reflect milestones during development.
 These
