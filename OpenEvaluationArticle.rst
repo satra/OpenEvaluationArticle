@@ -26,9 +26,6 @@ Abstract
 
 --------
 
-If the goal of science is to move knowledge of the natural world
-forward, then the scientific review process should be open and
-
 Over the last decade, scientists, institutions, publishers and funding
 agencies have made tremendous strides in the way scientific research is
 disseminated and accessed. With the advent of open-access journals as
@@ -46,7 +43,7 @@ impact and validity of contributions beyond their initial publication
 dates. Given the massive influx of scientific publications of variable
 quality, an objective, thorough and timely evaluation and continued
 re-evaluation of research work in the context of new information is
-essential. The current web technologies make implementing such a review
+essential. Current web technologies make implementing such a review
 system practical.
 
 .. contents::
@@ -69,13 +66,14 @@ publishable unit." Moreover, given that there are no objective standards
 for the review process across journals and publishers, there is great
 variability in the percentage and quality of articles accepted across
 journals. This has led to a hierarchy in the status of journals, often
-quantified by the journal's impact factor [cite: Thompson's index,
+quantified by a journal's impact factor [cite: Thompson's index,
 Hirsch’s h-index, the Eigenfactor index,...]. As such, certain journal
 titles are taken as arbiters of quality and significance of published
 works instead of the review process. Another danger to the review
 process, and to scientific articles themselves, is that they are not
 keeping pace with the dramatic advances in computing resources by which
-results are obtained and in media by which results are disseminated.
+results are obtained and advances in media by which results are
+disseminated.
 
 The most common form of the current evaluation process for an article
 involves a preliminary screening by a journal editor followed by an
@@ -86,11 +84,12 @@ publish, reject or request revisions of the article. After publication,
 problems such as fraud or mistakes are addressed via retraction after
 disclosure or exposure by countering articles or letters to the editor.
 However, with the ever-increasing deluge of articles of variable
-quality, the increasingly multidisciplinary content of articles, and the
-use of journal impact factors as proxies for evaluations of individual
-articles, the integrity of the review process, and indeed science, is
+quality, the difficulty for individual reviewers to review the
+increasingly multidisciplinary content of articles, and the use of
+journal impact factors as proxies for evaluations of individual
+articles, the integrity of the review process, and indeed of science, is
 imperiled. For the review process to continue to play a critical role in
-science, there are a number of problems that need to be addressed, three
+science, there are a number of problems that need to be addressed, five
 of which we list below.
 
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
@@ -471,6 +470,9 @@ by experts)
 Discussion
 
 ----------
+
+- If the goal of science is to advance knowledge of the natural world,
+then the scientific review process should be open?...
 
 - changing the review process will take time and will most likely be
 
