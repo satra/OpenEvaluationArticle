@@ -168,17 +168,18 @@ evaluation or objective standardization of the scientific process.
 
 5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
 
-A lengthy review process holds up the progress of science as well as
-grant submissions and therefore funding of research programs. And all
-the information generated during the review (criticism and feedback) is
-unavailable. Furthermore, after an article has been published the review
-process simply ends, as if the work and interpretations of the results
-are sealed in a time capsule. Data, methods, analysis, and
-interpretations of the results are all a product of their time and
-context, and at a later time may not stand up to scrutiny or may yield
-new insights. Simply enabling a continuing dialogue about each article
-would make it a living document and integrate it in a rich scientific
-dialogue.
+A lengthy review process holds up grant submissions, funding of research
+programs, and the progress of science itself. And even after this
+process, for the vast majority of articles none of the information
+generated during the review (criticism and feedback) is made available.
+Furthermore, after an article has been published, the review process
+simply ends even for those who participated, as if the work and
+interpretations of the results are sealed in a time capsule. Data,
+methods, analysis, and interpretations of the results are all a product
+of their time and context, and at a later time may not stand up to
+scrutiny or may yield new insights. Simply enabling a continuing
+dialogue about each article would make it a living document and
+integrate it in a rich scientific dialogue.
 
 Proposals
 
@@ -256,7 +257,7 @@ nipype project on github.com, demonstrating part of a discussion thread,
 inline commenting of code (for line 98) as well as updates on code
 changes taking place as a function of the discussion.
 
-\*Proposed improvements to the code review system:\*
+\*Proposed improvements for publication review:\*
 
 While this interface addresses code review, we recommend the following
 changes in the context of publication review. A reviewer should be able
@@ -318,11 +319,17 @@ community.
 \*Software review example:\*
 
 Software code review systems are strongly connected to software version
-control systems. As such, code reviewers can easily track the history of
-the development of code and all pertinent details. Furthermore, during
-software development, specific versions of the software or of particular
-files are tagged to reflect milestones during development. Since some of
-these milestone
+control systems (e.g., git, svn) that store the complete history of the
+code. In addition to providing access to this history, these systems
+also provide other pertinent details (e.g., bug fixes and enhancements).
+Furthermore, during software development, specific versions of the
+software or particular files are tagged to reflect milestones during
+development. These milestones provide additional contextual information
+about the history of the project. All of these aspects are useful to
+capture the provenance of the project and enables the reviewer to
+appropriately comment on submitted code.
+
+\*Proposed improvements for publication review:\*
 
 3. \*\*Acknowledge reviewers\*\*
 
@@ -356,17 +363,20 @@ scientific process.
 
 \*Software review example:\*
 
-5. \*\*Enable Re-review\*\*
+5. \*\*Expedite reviews and allow for post-publication review.\*\*
 
-Once open and online, there is no reason for a review process to end
-after an article has been published. The article can continue as a
-living document, where the dialogue can continue and flourish, and
-references to different articles could be supplemented with references
-to the comments about these articles, firmly establishing these
-communications within the dialogue and provenance of science, where
-science serves not just as a method or philosophy, but as a social
-endeavor. This could make scientific review and science a more welcoming
-community, and more desirable career choice.
+Once open and online, reviews can be dynamic, interactive, and conducted
+in real time [Frontiers]. Not only would this make the review process
+more enjoyable, but along with reviews focused on many reviewers’
+interests, would expedite the review process. And there is no reason for
+a review process to end after an article has been published. The article
+can continue as a living document, where the dialogue can continue and
+flourish, and references to different articles could be supplemented
+with references to the comments about these articles, firmly
+establishing these communications within the dialogue and provenance of
+science, where science serves not just as a method or philosophy, but as
+a social endeavor. This could make scientific review and science a more
+welcoming community, and more desirable career choice.
 
 \*Software review example:\*
 
