@@ -79,8 +79,10 @@ topic.\ :sup:``[1] <#ftnt1>`_`\  The journal editor takes into
 consideration the reviewers' recommendations to either publish, reject
 or request revisions of the article. After publication, problems such as
 fraud or mistakes are addressed via retraction after disclosure or
-exposure by countering articles or letters to the editor. However, with
-the ever-increasing deluge of articles of variable quality, the
+exposure by countering articles or letters to the editor. Through the
+review process and the scientific community's history of policing
+itself, science is thought to have a self-correcting character. However,
+with the ever-increasing deluge of articles of variable quality, the
 difficulty for individual reviewers to review the increasingly complex
 and multidisciplinary content of articles, and the use of journal impact
 factors as proxies for evaluations of individual articles, the integrity
@@ -303,9 +305,6 @@ of the results in the future. In the long run, virtual machines or
 servers may indeed allow standardization of analysis environments and
 replication of results for every publication.
 
-Fig: XX a nipype graph showing what steps were used in an imaging
-experiment
-
 With regard to publication bias, reviewers should not judge every
 article based on novelty, but instead encourage replication of
 experiments as well as publication of experiments that did not produce
@@ -315,6 +314,10 @@ additional factor in assessing scientists' contributions to the
 community.
 
 \*Software review example:\*
+
+During software development, specific versions of the software or of
+particular files are tagged to reflect milestones during development.
+These
 
 3. \*\*Acknowledge reviewers\*\*
 
@@ -420,8 +423,7 @@ Discussion
 
 ----------
 
-- If the goal of science is to advance knowledge of the natural world,
-then the scientific review process should be open?...
+- reviewers assumed to be honest, no selfish motives
 
 - changing the review process will take time and will most likely be
 
@@ -477,6 +479,33 @@ project.
 different reviewer opinions
 
 resolve deadlock
+
+Read more: `I Hate Your Paper - The Scientist - Magazine of the Life
+Sciences <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_
+`http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_
+
+Reviewers are biased by personal motives
+
+Solution: Eliminate anonymous peer review ( Biology Direct, BMJ, BMC);
+run open peer review alongside traditional review (Atmospheric Chemistry
+and Physics); judge a paper based only on scientific soundness, not
+impact or scope
+
+(PLoS ONE)
+
+Peer review is too slow, affecting public health, grants, and credit for
+ideas
+
+Solution: Shorten publication time to a few days (PLoS Currents
+Influenza); bypass subsequent reviews (Journal of Biology); publish
+first drafts (European Geosciences Union journals)
+
+Too many papers to review
+
+Solution: Recycle reviews from journals that have rejected the
+manuscript (Neuroscience Peer Review Consortium); wait for volunteers
+(Chemical Physics Letters); reward reviewer efforts (Biology Direct,
+BMC, Frontiers, ACP)
 
 --------------
 
