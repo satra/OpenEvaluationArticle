@@ -26,25 +26,21 @@ Abstract
 
 --------
 
-Over the last decade, scientists, institutions, publishers and funding
-agencies have made tremendous strides in the way scientific research is
-disseminated and accessed. With the advent of open-access journals as
-well as the growing availability of articles freely available in online
-repositories such as PubMed Central, arXiv.org, and faculty websites,
-scientists face a rapidly expanding volume of scientific literature. The
-increasingly interdisciplinary nature of research, high volume of
-submissions, and limited time and availability of expert reviewers lead
-to high variability in the quality and timeliness of the review process
-and resulting articles. Drawing on ideas, experience, and technology
-recently developed to support code review in open source software
-projects, we propose an open evaluation system for scientific publishing
-and a research reproducibility metric that continues to quantify the
-impact and validity of contributions beyond their initial publication
-dates. Given the massive influx of scientific publications of variable
-quality, an objective, thorough and timely evaluation and continued
-re-evaluation of research work in the context of new information is
-essential. Current web technologies make implementing such a review
-system practical.
+Peer review is the primary means of evaluating the quality and validity
+of scientific publications. With an ever-increasing deluge of articles
+of variable quality, the difficulty for individual reviewers to review
+the increasingly complex and multidisciplinary content of articles, and
+the use of journal impact factors as proxies for evaluations of
+individual articles, the integrity of the review process, and indeed of
+science, is imperiled. The review process is fraught with many problems
+that undermine the pace, validity, and credibility of science. These
+problems include: reviewers are expected to have comprehensive
+expertise, do not have sufficient access to methods and materials to
+evaluate a study, and are not acknowledged, that there is no measure of
+the quality of a review, and reviews cannot evolve. To address these
+problems, we propose an open review process that draws on the ideas,
+experience, and technologies recently developed to support code review
+in open source software projects.
 
 .. contents::
 
@@ -78,39 +74,44 @@ disseminated.
 The most common form of the current evaluation process for an article
 involves a preliminary screening by a journal editor followed by an
 anonymous and private review, typically by a small group of (3-5) peers
-presumed to have expertise in the research topic. The journal editor
-takes into consideration the reviewers' recommendations to either
-publish, reject or request revisions of the article. After publication,
-problems such as fraud or mistakes are addressed via retraction after
-disclosure or exposure by countering articles or letters to the editor.
-However, with the ever-increasing deluge of articles of variable
-quality, the difficulty for individual reviewers to review the
-increasingly multidisciplinary content of articles, and the use of
-journal impact factors as proxies for evaluations of individual
-articles, the integrity of the review process, and indeed of science, is
-imperiled. For the review process to continue to play a critical role in
-science, there are a number of problems that need to be addressed, five
-of which we list below.
+presumed to have expertise in the research
+topic.\ :sup:``[1] <#ftnt1>`_`\  The journal editor takes into
+consideration the reviewers' recommendations to either publish, reject
+or request revisions of the article. After publication, problems such as
+fraud or mistakes are addressed via retraction after disclosure or
+exposure by countering articles or letters to the editor. However, with
+the ever-increasing deluge of articles of variable quality, the
+difficulty for individual reviewers to review the increasingly complex
+and multidisciplinary content of articles, and the use of journal impact
+factors as proxies for evaluations of individual articles, the integrity
+of the review process, and indeed of science, is imperiled. For the
+review process to continue to play a critical role in science, there are
+a number of problems that need to be addressed, five of which we list
+below. To address these problems, in the following section we propose an
+open evaluation system for scientific publishing that draws on the
+ideas, experience, and technologies recently developed to support code
+review in open source software projects.
 
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
 Reviewers are expected to work in isolation, unable to discuss the
-content of the article with the authors or other reviewers. When faced
+content of an article with the authors or other reviewers. When faced
 with an article that may be authored by half a dozen or more experts in
 their respective disciplines, how could a few reviewers be expected to
 have the range of expertise necessary to adequately understand and gauge
-the significance (or insignificance) of a given article? Why are the
-different components of an article, including the background,
-experimental design, methods, analysis of results, and interpretations
-handed over as a package to each reviewer, rather than delegated to many
-experts in each domain?
-
-- only negative comments included - didn’t have expertise in or comment
-on
-
-- The review process is slow.
-
-- Not interactive or real-time.
+the significance (or insignificance) of all aspects of a given article?
+And why are the different components of an article, including the
+background, experimental design, methods, analysis of results, and
+interpretations handed over as a package to each reviewer, rather than
+delegated to many experts in each domain? Realistically, it is common
+practice for a reviewer to criticize portions of an article that he or
+she understands, is interested in, has time to read, and takes issue
+with, while falling silent on the rest of the article. This leads an
+editor to falsely assume that uncommented portions have met with
+approval. The unrealistic expectations placed on each of the reviewers,
+coupled with the delayed and sequential interactions they have with the
+authors and editors, have made the review process unnecessarily tedious,
+slow, and inefficient.
 
 2. \*\*Reviewers do not have sufficient access to methods and materials
 to evaluate a study.\*\*
@@ -140,7 +141,8 @@ Failing to expose the methods, data, and software underlying a study can
 lead to needless misdirection and inefficiency, and even loss of
 scientific credibility. One well-known example is the case of XXX Chung,
 whose rigorous and correct experimental work was later retracted due to
-a software bug that undermined the paper's conclusions [REF Nature].
+a software bug that undermined the paper's conclusions [cite:
+XXXNature].
 
 3. \*\*Reviewers are not acknowledged.\*\*
 
@@ -153,36 +155,26 @@ the review process, there should be some form of acknowledgment for
 their services that would factor into their evaluations for promotion
 and funding opportunities.
 
--The closed and anonymous review process does not acknowledge the role
-and importance of reviewers and Reviewing has thus become an extremely
-important but seldom acknowledged process.
-
 4. \*\*There is no measure of the quality of a review.\*\*
 
-no measures
+The closed and anonymous review process is not only lost from external
+scrutiny and data mining, there is no attempt to even quantify the level
+of support, impartiality, or expertise of the reviews or reviewers.
 
-This closed process also prevents an objective standardization of the
-scientific process.
+This closed process and lack of analytic or summary measures prevents an
+evaluation or objective standardization of the scientific process.
 
 5. \*\*Reviews cannot evolve.\*\*
 
-Information generated during the review (reviewer criticism and
-feedback) is unavailable.
-
-After an article has been published, the review process simply ends, as
-if the work and interpretations of the results are sealed in a time
-capsule. Data, methods, analysis, and interpretations of the results are
-all a product of their time and context, and at a later time may not
-stand up to scrutiny or may yield new insights. Simply enabling a
-continuing dialogue about each article would make it a living document
-and integrate it in a rich scientific dialogue.
-
-In this article, we attempt to address these deficiencies by drawing on
-the ideas, experience, and technology recently developed to support code
-review in open source software projects, by proposing an open evaluation
-system for scientific publishing, and by proposing a research
-reproducibility metric that continues to quantify the impact and
-validity of contributions beyond their initial publication dates.
+Not only is information generated during the review (criticism and
+feedback) unavailable, but after an article has been published, the
+review process simply ends, as if the work and interpretations of the
+results are sealed in a time capsule. Data, methods, analysis, and
+interpretations of the results are all a product of their time and
+context, and at a later time may not stand up to scrutiny or may yield
+new insights. Simply enabling a continuing dialogue about each article
+would make it a living document and integrate it in a rich scientific
+dialogue.
 
 Proposals
 
@@ -191,57 +183,40 @@ Proposals
 We believe that opening up the review process to everyone, not just to a
 select few anonymous reviewers, has the potential to address every one
 of the problems with the review process that we raised in the
-Introduction.
-
-We will address each of the problems in order and make reference to
-lessons from distributed code review in open source software
-development.
+Introduction. We will address each of the problems in order and make
+reference to lessons from distributed code review in open source
+software development.
 
 1. \*\*Distribute reviews to many reviewers.\*\*
 
-Reviewers would no longer work in isolation or in anonymity, benefiting
-from direct communication with the authors and the world of potential
-reviewers to clarify points, resolve ambiguities, receive open collegial
-advice, attract feedback from people well outside of the authors'
-disciplines, and situate the discussion in the larger scientific
-community.
+Reviewers would no longer work in isolation or necessarily in anonymity,
+benefiting from direct, dynamic, and interactive communication with the
+authors and the world of potential reviewers to clarify points, resolve
+ambiguities, receive open collegial advice, attract feedback from people
+well outside of the authors' disciplines, and situate the discussion in
+the larger scientific community. Because each reviewer's feedback can be
+focused on his or her specialty or area of interest, there is less
+burden placed on any one reviewer, enabling a more comprehensive and
+timely review. In any complex software project, there are specialists
+who focus on certain components of the software. However, code review is
+not limited to specialists. When multiple pairs of eyes look at code,
+the code improves, bugs are caught, and all participants are encouraged
+to write better code.
 
-Because each reviewer's feedback can be focused on his or her specialty
-or area of interest, there is less burden placed on any one reviewer. In
-any complex software project, there are specialists who focus on certain
-components of the software. However, code review is not limited to
-specialists. When multiple pairs of eyes look at code, the code
-improves, bugs are caught, and all participants are encouraged to write
-better code. Opening up scientific reviews to the community will also
-ensure that the people most interested and knowledgeable on a topic
-review it, thereby speeding up the review process. Furthermore, the
-interdisciplinary papers today require far more than two to three
-reviewers to adequately spot problems.
+In case there is a fear of disclosure prior to
+publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
+participation in a review where anyone could be a reviewer, there are at
+least three types of compromise available. One would be to assign
+certain reviewers as moderators for different components of the article,
+to lessen the burden on the editor. A second would be to restrict the
+number of reviewers to those solicited from a pool of experts. This
+would still improve scientific rigor while lessening the burden on each
+individual reviewer, as long as they review specific components of the
+article they are knowledgeable about. A third would be to conduct a
+preview consisting of a limited and expedited review process preceding a
+full and open review.
 
-In case there is an overwhelming amount of participation in a review, or
-fear of disclosure prior to publication, there are at least two types of
-compromise available. One would be to assign certain reviewers as
-moderators for different components of the article, to lessen the burden
-on the editor. Another would be to increase the number of reviewers
-(solicited from a subscribed pool) without opening up the review process
-to everyone. This would still improve scientific rigor while lessening
-the burden on each individual reviewer, as long as they
-
-review specific components of the article they are knowledgeable about.
-
-Currently, reviewers are solicited by the editors of journals based on
-either names recommended by the authors who submitted the article, the
-editors' knowledge of the domain or from an internal journal reviewer
-database. This selection process results in a very narrow and biased
-selection of reviewers. An alternative way to solicit reviewers is to
-broadcast an article to a pool of reviewers and to let reviewers choose
-articles and components of the article they want to review. These are
-ideas that have already been implemented in scientific publishing. The
-Frontiers system [cite: XXX] solicits reviews from a select group of
-review editors and the Brain and Behavioral Sciences publication [cite:
-XXX] solicits reviews from the community.
-
-OSS Example:
+\*Software review example:\*
 
 The software development community (Google, ITK, etc) relies on
 collaboration between often physically distant software authors and code
@@ -277,21 +252,21 @@ nipype project on github.com, demonstrating part of a discussion thread,
 inline commenting of code (for line 98) as well as updates on code
 changes taking place as a function of the discussion.
 
-Proposed Improvements to the code review system:
+\*Proposed improvements to the code review system:\*
 
-While this interface addresses code review, we actually recommend the
-following changes in the context of publication review. A reviewer
-should be able to select one or more sections of text instead of a line
-at a time (sections can be words, phrases, sentences or paragraphs). A
-mock up of such a system is shown in Figure X. While such code review,
-stops once the pull request is accepted or merged into the main code, we
-recommend that such
+While this interface addresses code review, we recommend the following
+changes in the context of publication review. A reviewer should be able
+to select one or more sections of text instead of a line at a time
+(sections can be words, phrases, sentences or paragraphs) from the
+article or comments regarding the article. A mock-up of such a system is
+shown in Figure X. While such code review stops once the pull request is
+accepted or merged into the main code, we recommend ...
 
 Metrics:
 
 Integral of discussions over time (by paper, author, reviewer) weighted
 by “like” factor of each comment or discussion. This is illustrated in
-the Figure below.
+the figure below.
 
 .. figure:: images/image01.png
    :align: center
@@ -306,10 +281,8 @@ the number of times the speaker was quoted in a given time period.
    :align: center
    :alt: 
 
-OSS example:
-
 2. \*\*Provide reviewers materials and methods to perform comprehensive
-evaluation.\*\ :sup:``[a] <#cmnt1>`_`\ \*
+evaluation.\*\*
 
 In a wide-scale, open review, descriptions of experimental designs and
 methods would come under greater scrutiny by people from different
@@ -326,11 +299,9 @@ including reviewers but also facilitates reproducibility and encourages
 method reuse. While rerunning an entire study’s analysis might not be
 currently feasible as part of a review process, simply exposing scripts
 can often help reviewers follow what was done and allows for replication
-of the results in the long run as well as comparisons of different
-methods on the same dataset or different datasets on the same methods.
-In the long run, virtual machines or servers may indeed allow
-standardization of analysis environments and replication of results for
-every publication.
+of the results in the future. In the long run, virtual machines or
+servers may indeed allow standardization of analysis environments and
+replication of results for every publication.
 
 Fig: XX a nipype graph showing what steps were used in an imaging
 experiment
@@ -340,8 +311,10 @@ article based on novelty, but instead encourage replication of
 experiments as well as publication of experiments that did not produce
 results. By appropriately labeling the articles as such, one can
 quantify the success of a method or paradigm as well as provide an
-additional factor in assessing scientists' contribution to the
+additional factor in assessing scientists' contributions to the
 community.
+
+\*Software review example:\*
 
 3. \*\*Acknowledge reviewers\*\*
 
@@ -359,21 +332,23 @@ reviewers. First, reviewer names are immediately associated with the
 publication. Second, reviewer grades eventually become associated with
 the reviewer based on community feedback on the reviews.
 
+\*Software review example:\*
+
 4. \*\*Quantify review quality.\*\*
 
-Although certain journals hold a discussion before a paper is accepted,
-it is still behind closed doors and limited to the editor, the authors,
-and a small set of reviewers. An open and recorded review ensures that
-there is a timestamp on the work that has been done, an acknowledgement
-of who performed the research, and a higher probability of rectifying
-errors early in the process. By opening up the review process, the role
-and importance of reviewers and information generated during the review
-would be shared and acknowledged. The exchanges themselves can be used
-to quantitatively assess the importance of a submission, and analysis of
-the review process then becomes possible and could lead to an objective
-standardization of the scientific process.
+Although certain journals hold a limited discussion before a paper is
+accepted, it is still behind closed doors and limited to the editor, the
+authors, and a small set of reviewers. An open and recorded review
+ensures that the role and importance of reviewers and information
+generated during the review would be shared and acknowledged. The
+exchanges themselves can be used to quantitatively assess the importance
+of a submission, and analysis of the review process then becomes
+possible and could lead to an objective standardization of the
+scientific process.
 
-5. \*\*Re-re-review!!!\*\*
+\*Software review example:\*
+
+5. \*\*Enable Re-review\*\*
 
 Once open and online, there is no reason for a review process to end
 after an article has been published. The article can continue as a
@@ -382,40 +357,14 @@ references to different articles could be supplemented with references
 to the comments about these articles, firmly establishing these
 communications within the dialogue and provenance of science, where
 science serves not just as a method or philosophy, but as a social
-endeavor. This could make science and scientific review a more welcoming
+endeavor. This could make scientific review and science a more welcoming
 community, and more desirable career choice.
+
+\*Software review example:\*
 
 Summary of our recommendations for an open review process
 
 ----------------------
-
-The software development community (Google, ITK, etc) rely on
-collaboration between often physically distant software authors and code
-reviewers. We propose to rely upon an existing code review system,
-Gerrit, to enable ordered and systematic discussions of not only the
-editorial content of scientific work but also the scripts, compilable
-code and data. Gerrit, as it currently stands today without
-modification, provides reviewers the ability to interact, modify,
-annotate and discuss the contents of an author's submission. Indeed, the
-purpose of Gerrit mirrors {\\em almost exactly} the purpose of
-scientific review: to increase the clarity, reproducibility and
-correctness of works that enter the canon.
-
-etcetera ....
-
-It is possible, for instance, that such a review system would have
-
-uncovered the bug that led to years of scientific misdirection caused by
-
-reliance on unvalidated software.
-
-DOI:10.1126/science.314.5807.1856 Either (1) the software would
-
-have been studied more closely or (2) inconsistencies with existing
-
-knowledge that the authors ignored (and which ultimately helped
-
-uncover the original bug) would have been taken more seriously.
 
 A mock-up of the intended review system is provided in Fig: xxx.
 
@@ -529,7 +478,25 @@ different reviewer opinions
 
 resolve deadlock
 
-`[b] <#cmnt_ref2>`_jbpoline:
+--------------
+
+`[1] <#ftnt_ref1>`_Currently, reviewers are solicited by the editors of
+journals based on either names recommended by the authors who submitted
+the article, the editors' knowledge of the domain or from an internal
+journal reviewer database. This selection process results in a very
+narrow and biased selection of reviewers. An alternative way to solicit
+reviewers is to broadcast an article to a pool of reviewers and to let
+reviewers choose articles and components of the article they want to
+review. These are ideas that have already been implemented in scientific
+publishing. The Frontiers system [cite: XXX] solicits reviews from a
+select group of review editors and the Brain and Behavioral Sciences
+publication [cite: XXX] solicits reviews from the community.
+
+`[2] <#ftnt_ref2>`_To allay concerns over worldwide pre-publication
+exposure, precedence could be documented by submission and revision
+timestamps acknowledging who performed the research.
+
+`[a] <#cmnt_ref1>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -549,7 +516,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[c] <#cmnt_ref3>`_binarybottle:
+`[b] <#cmnt_ref2>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -566,7 +533,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[c] <#cmnt_ref3>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -574,22 +541,22 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[d] <#cmnt_ref4>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[f] <#cmnt_ref6>`_stnava:
+`[e] <#cmnt_ref5>`_stnava:
 
 move elsewhere
 
-`[g] <#cmnt_ref7>`_binarybottle:
+`[f] <#cmnt_ref6>`_binarybottle:
 
 if and in which journal an article
 
-`[h] <#cmnt_ref8>`_kimlumbard:
+`[g] <#cmnt_ref7>`_kimlumbard:
 
 Howdy all!
 
@@ -629,40 +596,40 @@ binarybottle:
 
 thank you, kim!
 
-`[i] <#cmnt_ref9>`_millman.ucb:
+`[h] <#cmnt_ref8>`_millman.ucb:
 
 update at the end to include everyone
 
-`[j] <#cmnt_ref10>`_fdo.perez:
+`[i] <#cmnt_ref9>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[k] <#cmnt_ref11>`_fdo.perez:
+`[j] <#cmnt_ref10>`_fdo.perez:
 
 This sentence parses really weird
 
-`[l] <#cmnt_ref12>`_fdo.perez:
+`[k] <#cmnt_ref11>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[m] <#cmnt_ref13>`_yarikoptic:
+`[l] <#cmnt_ref12>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[n] <#cmnt_ref14>`_fdo.perez:
+`[m] <#cmnt_ref13>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[o] <#cmnt_ref15>`_binarybottle:
+`[n] <#cmnt_ref14>`_binarybottle:
 
 and are followed up by
 
-`[p] <#cmnt_ref16>`_binarybottle:
+`[o] <#cmnt_ref15>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -673,12 +640,12 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[q] <#cmnt_ref17>`_fdo.perez:
+`[p] <#cmnt_ref16>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[r] <#cmnt_ref18>`_yarikoptic:
+`[q] <#cmnt_ref17>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -732,11 +699,11 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[s] <#cmnt_ref19>`_fdo.perez:
+`[r] <#cmnt_ref18>`_fdo.perez:
 
 ??? What is this?
 
-`[t] <#cmnt_ref20>`_fdo.perez:
+`[s] <#cmnt_ref19>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
