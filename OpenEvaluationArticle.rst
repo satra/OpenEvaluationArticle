@@ -314,18 +314,19 @@ article’s methods section.
 While certain journals (e.g., PLoS One, Insight Journal) require code to
 be submitted for any article describing software or algorithm
 development, most journals do not require submission of relevant
-software or data. Furthermore, unlike any publication review systems,
-software code review systems are strongly connected to software version
-control systems such as Git (git-scm.com) and Mercurial
-(mercurial.selenic.com) that store the complete history of the code. In
-addition to providing access to this history, these systems also provide
-other pertinent details such as problems, their status (whether fixed or
-not), timestamps and other enhancements. Furthermore, during software
-development, specific versions of the software or particular files are
-tagged to reflect milestones during development. All of these aspects
-are useful to capture the provenance of the project and provide
-sufficient contextual information for a reviewer to comment on submitted
-code.
+software or data.
+
+Furthermore, unlike any publication review system, software code review
+systems are strongly connected to software version control systems such
+as Git (git-scm.com) and Mercurial (mercurial.selenic.com) that store
+the complete history of the code. In addition to providing access to
+this history, these systems also provide other pertinent details such as
+problems, their status (whether fixed or not), timestamps and other
+enhancements. Furthermore, during software development, specific
+versions of the software or particular files are tagged to reflect
+milestones during development. All of these aspects are useful to
+capture the provenance of the project and provide sufficient contextual
+information for a reviewer to comment on submitted code.
 
 From a publication standpoint, su
 
