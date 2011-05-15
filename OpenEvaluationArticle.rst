@@ -229,20 +229,13 @@ or commenter.
 
 In the same manner that articles are submitted for review and
 publication in journals, code in collaborative software projects are
-submitted for review and integration into a codebase. Whereas in the
-unusual cases of post-publication review for articles (), it is very
-common in code review that
+submitted for review and integration into a codebase. In both scientific
+research and in complex software projects, specialists focus on specific
+components of the problem. However, unlike scientific review, code
+review is not limited to specialists. When multiple pairs of eyes look
+at code, the code improves, bugs are caught, and all participants are
+encouraged to write better code.
 
-In both scientific research and in complex software projects,
-specialists focus on specific components of the problem. However, unlike
-scientific review, code review is not limited to specialists.
-
-In any complex software project, there are specialists who focus on
-developing certain components of the software. However, code review is
-not limited to specialists. When multiple pairs of eyes look at code,
-the code improves, bugs are caught, and all participants are encouraged
-to write better code. Software development communities rely on
-collaboration between often physically distant authors and reviewers.
 Existing code review systems such as Gerrit
 (http://code.google.com/p/gerrit) and GitHub (http://github.com) provide
 reviewers the ability to interact, modify, annotate and discuss the
