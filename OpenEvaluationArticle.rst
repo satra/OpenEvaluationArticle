@@ -270,8 +270,11 @@ structure of code. But commenting on an article’s text should follow the
 loose structure of prose with comments referring to multiple words,
 phrases, sentences or paragraphs in different parts of the text. For
 example, a reviewer might come across a sentence in the discussion
-section of an awant to expose contradictions, unsubstantiated pretexts,
-and other inconsistencies across the body of an article.
+section of an article that contradicts two sentences in different parts
+of the introduction. The interface should allow
+
+want to expose contradictions, unsubstantiated pretexts, and other
+inconsistencies across the body of an article.
 
 A mock-up of such a system is shown in Figure X.
 
