@@ -264,20 +264,14 @@ changes taking place as a function of the discussion.
 \*Proposed improvements for publication review:\*
 
 These existing code review systems, while suitable for code, have
-certain drawbacks for reviewing scientific articles. For examples, the
-
-We propose to draw ideas from to enable ordered and systematic
-discussions of the editorial content of scientific work, including text
-and associated code.
-
-While this interface addresses code review, we recommend the following
-changes in the context of publication review. A reviewer should be able
-to select one or more sections of text instead of a line at a
+certain drawbacks for reviewing scientific articles. For example, the
+GitHub interface allows line-by-line commenting, which reflects the
+structure of code, whereas but such a system is poorly suited for more
+prosaic text. A reviewer of articles should be able to select one or
+more sections of text instead of a line at a
 time\ :sup:``[a] <#cmnt1>`_`\  (sections can be words, phrases,
 sentences or paragraphs) from the article or comments regarding the
-article. A mock-up of such a system is shown in Figure X. While such
-code review stops once the pull request is accepted or merged into the
-main code, we recommend ...
+article. A mock-up of such a system is shown in Figure X.
 
 2. \*\*Provide reviewers materials and methods to perform comprehensive
 evaluation.\*\*
@@ -461,6 +455,9 @@ allows for bugs to be detected and improvements to be made beyond
 initial review.
 
 \*Proposed improvements for publication review:\*
+
+While such code review stops once the pull request is accepted or merged
+into the main code, we recommend leaving the comment thread open.
 
 As shown in the figure, ...
 
