@@ -375,11 +375,12 @@ are participating in the review.
 
 The criterion for accepting code is based on the functionality of the
 final code rather than the quality of reviews. As such code review
-systems typically do not have a mea quantitative, non-social mechanism
-to rate the quality of reviews.
-
-We propose that code review systems adapted for article review include
-quantitative measures of the quality of contributions of reviewers.
+systems typically do not have a mechanism to acknowledge and quantify
+reviewer contributions. We propose that code review systems adapted for
+article review include quantitative assessment of the contributions of
+reviewers. This would include a weighted combination of the number of
+reviews as well as the quality of those reviews as assessed via a metric
+described next.
 
 4. \*\*Quantify review quality.\*\*
 
@@ -568,6 +569,8 @@ Solution: Recycle reviews from journals that have rejected the
 manuscript (Neuroscience Peer Review Consortium); wait for volunteers
 (Chemical Physics Letters); reward reviewer efforts (Biology Direct,
 BMC, Frontiers, ACP)
+
+open review
 
 --------------
 
