@@ -319,20 +319,16 @@ software or data. Currently, it is considered adequate for article
 reviewers to simply read a submitted article. However, code reviewers
 must not only be able to read the code, they must also see the output of
 running the code. To do this they require access to relevant data or to
-automated testing results.
-
-software code review systems are strongly connected to software version
-control systems such as Git (git-scm.com) and Mercurial
-(mercurial.selenic.com) that store the complete history of the code. In
-addition to providing access to this history, these systems also provide
-other pertinent details such as problems, their status (whether fixed or
-not), timestamps and other enhancements. Furthermore, during software
+automated testing results. Code review systems store the complete
+history of the code through software version control systems such as Git
+(git-scm.com) and Mercurial (mercurial.selenic.com). In addition to
+providing access to this history, these systems also provide other
+pertinent details such as problems, their status (whether fixed or not),
+timestamps and other enhancements. Furthermore, during software
 development, specific versions of the software or particular files are
-tagged to reflect milestones during development.
-
-All of these aspects are useful to capture the provenance of the project
-and provide sufficient contextual information for a reviewer to comment
-on submitted code.
+tagged to reflect milestones during development. Such testing data and
+history of the project provide sufficient contextual information for a
+reviewer to comment on submitted code.
 
 \*Enhancing code review systems for article review:\*
 
