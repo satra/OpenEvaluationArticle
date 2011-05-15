@@ -137,16 +137,16 @@ slow, and inefficient.
 to evaluate a study.\*\*
 
 The typical review process does not require submission of data or
-software associated with an article, and the descriptions provided in
-methods sections are often inadequate for replication. This makes it
-impossible for a reviewer, if so inclined, to fully evaluate an
-article’s methods, data quality, or software, let alone to replicate the
-analysis of the study. Failing to expose the methods, data, and software
-underlying a study can lead to needless misdirection and inefficiency,
-and even loss of scientific credibility. One example is the case of XXX
-Chung, whose rigorous and correct experimental work was later retracted
-due to a software bug that undermined the paper's conclusions [cite:
-XXXNature].
+software associated with an article (ACM TOMS is an early exception),
+and the descriptions provided in methods sections are often inadequate
+for replication. This makes it impossible for a reviewer, if so
+inclined, to fully evaluate an article’s methods, data quality, or
+software, let alone to replicate the analysis of the study. Failing to
+expose the methods, data, and software underlying a study can lead to
+needless misdirection and inefficiency, and even loss of scientific
+credibility. One example is the case of Geoffrey Chang, whose rigorous
+and correct experimental work was later retracted due to a software bug
+that undermined the paper's conclusions [cite: chang2006retraction].
 
 3. \*\*Reviewers are not acknowledged.\*\*
 
@@ -154,10 +154,10 @@ Reviewing is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. The reviewer stands to
 gain by early exposure to relevant areas of research, while a publisher
 stands to gain financially through either publication or subscription
-fees. In order to further motivate potential reviewers to participate in
-the review process, there should be some form of acknowledgment for
-their services that would factor into their evaluations for promotion
-and funding opportunities.
+fees.There is little motivation for potential reviewers to participate
+in the review process, and a lack of acknowledgment for their services
+(as in Frontiers journals) that could factor into their evaluations for
+promotion and funding opportunities .
 
 4. \*\*There is no measure of the quality of a review.\*\*
 
