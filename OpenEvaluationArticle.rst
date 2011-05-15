@@ -38,10 +38,6 @@ propose an open review process that draws on the ideas, experience, and
 technologies recently developed to support code review in open source
 software projects.
 
-The review process should be an extension of the scientific discourse
-that takes place in laboratories when initiating ideas for experiments
-and discussing results.
-
 .. contents::
 
 Introduction
@@ -242,30 +238,27 @@ encouraged to write better code. Existing code review systems such as
 Gerrit (http://code.google.com/p/gerrit) and GitHub (http://github.com)
 are built for such a distributed review process and provide reviewers
 the ability to interact, modify, annotate and discuss the contents of
-submitted code changes. While no journals provide a platform for
-performing for such open and distributed review, the Frontiers journals
-do provide an interactive discussion forum for authors and reviewers to
-improve the quality of a submission after an initial closed review.
+submitted code changes. Indeed, the purpose of these systems mirror the
+purpose of scientific review to increase the clarity, reproducibility
+and correctness of works that enter the canon. While no journals provide
+a platform for performing for such open and distributed review, the
+Frontiers journals do provide an interactive discussion forum for
+authors and reviewers to improve the quality of a submission after an
+initial closed review.
 
-Indeed, the purpose of these systems mirror the purpose of scientific
-review to increase the clarity, reproducibility and correctness of works
-that enter the canon.
-
-An example of a collaborative code review process, GitHub provides a
-software hosting service together with a web-based front-end for
-interacting with software projects.
-
-For these projects, code is available for everyone to view and for
-registered GitHub members to comment on and report issues. A typical
-analogy to submitting an article for publication would be for a
-developer to send maintainers of a project a message to integrate the
-developer’s changes to the code into the main project. Such a request is
-handled via a web interface that combines discussion together with the
-code changes. Although the primary developers of the project get the
-email, any GitHub member is allowed to comment on such a request. The
-web interface allows inserting comments in an interactive discussion
-form or for any given line of the code. These pull requests become part
-of the permanent log of the project.
+As an example of a collaborative system, GitHub provides a web-based
+front-end for code review and interactive discussion of software
+projects. The code that is the subject of review and discussion is
+available for everyone to view and for registered GitHub members to
+comment on and report issues. A typical analogy to submitting an article
+for publication would be for a developer to send maintainers of a
+project a message to integrate the developer’s changes to the code into
+the main project. Such a request is handled via a web interface that
+combines discussion together with the code changes. Although the primary
+developers of the project get the email, any GitHub member is allowed to
+comment on such a request. The web interface allows inserting comments
+in an interactive discussion form or for any given line of the code.
+These pull requests become part of the permanent log of the project.
 
 .. figure:: images/image06.png
    :align: center
