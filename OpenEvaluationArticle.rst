@@ -311,7 +311,11 @@ article’s methods section.
 
 \*Relevance of code review systems:\*
 
-Software code review systems are strongly connected to software version
+While certain journals (e.g., PLoS One, Insight Journal) require code to
+be submitted for any article describing software or algorithm
+development, most journals do not require submission of relevant
+software or data. Furthermore, unlike any publication review systems,
+software code review systems are strongly connected to software version
 control systems such as Git (git-scm.com) and Mercurial
 (mercurial.selenic.com) that store the complete history of the code. In
 addition to providing access to this history, these systems also provide
