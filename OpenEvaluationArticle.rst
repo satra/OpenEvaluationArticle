@@ -396,51 +396,44 @@ scientific process.
 
 \*Relevance of code review systems:\*
 
-In general, code review systems utilize a discussion mechanism, where a
-code change is moderated through an iterative process as illustrated in
-figure X. In the context of code review, there is often an objective
+In general, code review systems use a discussion mechanism, where a code
+change is moderated through an iterative process as illustrated earlier
+in Figure X. In the context of code review, there is often an objective
 criterion - the code performs as expected and is written using proper
 style and documentation. Once these standards are met, the code is
 accepted into the main project. The discussion mechanism facilitates
-this process. However, in the case of code-review, quality of review is
-typically not quantified.
+this process. However, in the case of code review, the quality of review
+is typically not quantified.
 
 \*Enhancing code review systems for article review:\*
 
-We propose to augment code-review systems with a mechanism similar to
-the one used in `stackoverflow.net <http://stackoverflow.net>`_ or
+We propose to augment code review systems (and in turn, article review
+systems) with a mechanism similar to the one used in
+`stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
-quality of review. Figure X below shows a web-snapshot of the response
-to a question. As can be seen in the figure, there is a possibility for
-registered members to comment on a response, vote on the quality of the
-response as well as the comment to a response.
-
-The criterion for accepting code is based on the functionality of the
-final code rather than the quality of reviews. As such code review
-systems typically do not have a quantitative, non-social mechanism to
-rate the quality of reviews.
-
-We propose that code review systems adapted for article review include
-quantitative measures of the quality of contributions of reviewers.
+quality of reviews. Figure X below shows a screenshot of the response
+from a registered member to a question submitted to Stack Overflow. As
+can be seen in the figure, it is possible for other members to comment
+on a response, vote on the quality of the response, as well as on the
+comment to a response.
 
 .. figure:: images/image00.png
    :align: center
    :alt: 
 Figure X. A response to a question on stackoverflow.net. The top left
-number indicates the number of votes this response received. There are
-comments to the response itself. And the number next to the comments
-reflects a vote on the comment. Furthermore, the fourth comment
-cross-links to a separate related response.
+number indicates the number of positive votes this response received.
+There are comments to the response itself and the number next to the
+comments reflects the number of positive votes for the comment.
 
 5. \*\*Expedite reviews and allow for post-publication review.\*\*
 
 Once open and online, reviews can be dynamic, interactive, and conducted
-in real time [Frontiers]. And with many reviewers, they can choose to
-review only those articles and components of those articles that match
-their expertise and interests. Not only would these two changes make the
-review process more enjoyable, but they would expedite the review
-process. And there is no reason for a review process to end after an
-article has been published. The article can continue as a living
+in real time (e.g., Frontiers). And with many reviewers, they can choose
+to review only those articles and components of those articles that
+match their expertise and interests. Not only would these two changes
+make the review process more enjoyable, but they would expedite the
+review process. And there is no reason for a review process to end after
+an article has been published. The article can continue as a living
 document, where the dialogue can continue and flourish, and references
 to different articles could be supplemented with references to the
 comments about these articles, firmly establishing these communications
@@ -449,32 +442,24 @@ just as a method or philosophy, but as a social endeavor. This could
 make scientific review and science a more welcoming community, and more
 desirable career choice.
 
-Simply enabling a continuing dialogue about each article would make it a
-living document and integrate it in a rich scientific dialogue.
-\ :sup:``[a] <#cmnt1>`_`\ 
-
 \*Relevance of code review systems:\*
 
-In a software project, code reviews are performed by people who are
-conversant with a particular section of code along with people who are
-versed in the general stylistic guidelines as well as code optimization
-for execution speed, memory consumption and readability. Since the
-review process is open, the code tends to get reviewed by the most
-pertinent as well as a diverse group of
-people\ :sup:``[b] <#cmnt2>`_`\ . This results in making the code the
-best it can be as the overall goal is to improve the quality of the
-software through constructive criticism. However, since the entire code
-is maintained in an online repository, registered members can continue
-to comment on the code beyond it being accepted. Furthermore, this
-allows for bugs to be detected and improvements to be made beyond
-initial review.
+ode reviews are performed by people who are knowledgeable about a
+particular section of code along with people who are versed in the
+general stylistic guidelines as well as code optimization for execution
+speed, memory consumption and readability. Since the review process is
+open, the code tends to get reviewed by the most pertinent as well as a
+diverse group of people\ :sup:``[a] <#cmnt1>`_`\ . This results in
+making the code the best it can be as the overall goal is to improve the
+quality of the software through constructive criticism.
+
+However, since the entire code is maintained in an online repository,
+registered members can continue to comment on the code beyond the time
+when it is integrated into the codebase. Furthermore, this allows for
+bugs to be detected and improvements to be made well beyond the initial
+review.
 
 \*Enhancing code review systems for article review:\*
-
-While such code review stops once the pull request is accepted or merged
-into the main code, we recommend leaving the comment thread open.
-
-As shown in the figure, ...
 
 Metrics
 
@@ -522,7 +507,7 @@ at every stage in the evolution of a
 project.
 
 With regard to publication bias, reviewers should not judge every
-article based on novelty\ :sup:``[c] <#cmnt3>`_`\ , but instead
+article based on novelty\ :sup:``[b] <#cmnt2>`_`\ , but instead
 encourage replication of experiments as well as publication of
 experiments that did not produce results. By appropriately labeling the
 articles as such, one can quantify the success of a method or paradigm
@@ -530,7 +515,7 @@ as well as provide an additional factor in assessing scientists'
 contributions to the community.
 
 A related problem to not reporting findings in a replicable manner is
-not reporting replicated findings\ :sup:``[d] <#cmnt4>`_`\ . Articles
+not reporting replicated findings\ :sup:``[c] <#cmnt3>`_`\ . Articles
 are biased toward reporting novel findings, but from a scientific
 perspective, positive-, negative- and non-results are extremely useful
 to the community.
@@ -570,7 +555,9 @@ manuscript (Neuroscience Peer Review Consortium); wait for volunteers
 (Chemical Physics Letters); reward reviewer efforts (Biology Direct,
 BMC, Frontiers, ACP)
 
-open review
+access to criticism and feedback can spur new directions of research
+
+PEP Talk -- guidelines vs restrictions
 
 --------------
 
@@ -592,18 +579,13 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-Don't engage in solution proposals here, since you're so far just
-statinng the various problems...
+This sentence parses really weird
 
 `[b] <#cmnt_ref2>`_fdo.perez:
 
-This sentence parses really weird
-
-`[c] <#cmnt_ref3>`_fdo.perez:
-
 Frontiers has this already in its editorial policy
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[c] <#cmnt_ref3>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -611,7 +593,7 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[e] <#cmnt_ref5>`_jbpoline:
+`[d] <#cmnt_ref4>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -631,7 +613,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[f] <#cmnt_ref6>`_binarybottle:
+`[e] <#cmnt_ref5>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -648,22 +630,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[g] <#cmnt_ref7>`_fdo.perez:
+`[f] <#cmnt_ref6>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[h] <#cmnt_ref8>`_stnava:
+`[g] <#cmnt_ref7>`_stnava:
 
 move elsewhere
 
-`[i] <#cmnt_ref9>`_binarybottle:
+`[h] <#cmnt_ref8>`_binarybottle:
 
 if and in which journal an article
 
-`[j] <#cmnt_ref10>`_kimlumbard:
+`[i] <#cmnt_ref9>`_kimlumbard:
 
 Howdy all!
 
@@ -703,32 +685,32 @@ binarybottle:
 
 thank you, kim!
 
-`[k] <#cmnt_ref11>`_millman.ucb:
+`[j] <#cmnt_ref10>`_millman.ucb:
 
 update at the end to include everyone
 
-`[l] <#cmnt_ref12>`_fdo.perez:
+`[k] <#cmnt_ref11>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[m] <#cmnt_ref13>`_yarikoptic:
+`[l] <#cmnt_ref12>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[n] <#cmnt_ref14>`_fdo.perez:
+`[m] <#cmnt_ref13>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[o] <#cmnt_ref15>`_binarybottle:
+`[n] <#cmnt_ref14>`_binarybottle:
 
 and are followed up by
 
-`[p] <#cmnt_ref16>`_binarybottle:
+`[o] <#cmnt_ref15>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -739,12 +721,12 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[q] <#cmnt_ref17>`_fdo.perez:
+`[p] <#cmnt_ref16>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[r] <#cmnt_ref18>`_yarikoptic:
+`[q] <#cmnt_ref17>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -798,6 +780,11 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[s] <#cmnt_ref19>`_fdo.perez:
+`[r] <#cmnt_ref18>`_fdo.perez:
 
 ??? What is this?
+
+`[s] <#cmnt_ref19>`_fdo.perez:
+
+Don't engage in solution proposals here, since you're so far just
+statinng the various problems...
