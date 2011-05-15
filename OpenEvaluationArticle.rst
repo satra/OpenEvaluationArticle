@@ -376,14 +376,9 @@ are participating in the review.
 The criterion for accepting code is based on the functionality of the
 final code rather than the quality of reviews. As such code review
 systems typically do not have a quantitative, non-social mechanism to
-rate the quality of reviews.
-
-In our proposed model for peer review, reviewers can select articles for
-review and only portions of those articles and comments about those
-articles, and their efforts are quantified via a process outlined below.
-For any article reviewed, the reviewers are listed together with the
-article. Such a scheme is already in place for the Frontiers journals,
-although the reviewers remain anonymous till the article is published.
+rate the quality of reviews. We propose that code review systems adapted
+for article review include quantitative measures of the quality of
+contributions of reviewers.
 
 4. \*\*Quantify review quality.\*\*
 
