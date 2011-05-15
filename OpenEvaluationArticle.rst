@@ -371,8 +371,6 @@ Figure X: A web page snippet from the Geritt code review system used for
 ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
 are participating in the review.
 
-ADD OHLOH KUDOS example
-
 \*Enhancing code review systems for article review:\*
 
 The criterion for accepting code is based on the functionality of the
