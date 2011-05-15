@@ -161,13 +161,12 @@ promotion and funding opportunities .
 
 4. \*\*There is no measure of the quality of a review.\*\*
 
-The closed and anonymous review process is not only lost from external
-scrutiny and data mining, there is no attempt to even quantify the level
-of support, impartiality, or expertise of the reviews or reviewers. This
-closed process and lack of analytic or summary measures
-\ :sup:``[a] <#cmnt1>`_`\ assigned to specific portions of an article or
-its reviews prevents an evaluation or objective standardization of the
-review process.
+There is no attempt to quantify the quality, strength, impartiality, or
+expertise of the reviews or reviewers. Without measures associated with
+the quality of any portion of a review, the community is forced to trust
+the judgment of the editor and the journal’s impact factor as proxies
+for quality. The prevents external scrutiny, data mining, and makes it
+impossible to evaluate or standardize the review process.
 
 5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
 
@@ -182,7 +181,7 @@ methods, analysis, and interpretations of the results are all a product
 of their time and context, and at a later time may not stand up to
 scrutiny or may yield new insights. Simply enabling a continuing
 dialogue about each article would make it a living document and
-integrate it in a rich scientific dialogue. \ :sup:``[b] <#cmnt2>`_`\ 
+integrate it in a rich scientific dialogue. \ :sup:``[a] <#cmnt1>`_`\ 
 
 Proposed solutions
 
@@ -233,7 +232,7 @@ article, only able to comment, etc...
 \*Software review example:\*
 
 The software development community (Google,
-ITK\ :sup:``[c] <#cmnt3>`_`\ , etc) relies on collaboration between
+ITK\ :sup:``[b] <#cmnt2>`_`\ , etc) relies on collaboration between
 often physically distant software authors and code reviewers. We propose
 to draw ideas from existing code review systems such as Gerrit and
 GitHub to enable ordered and systematic discussions of not only the
@@ -271,7 +270,7 @@ changes taking place as a function of the discussion.
 While this interface addresses code review, we recommend the following
 changes in the context of publication review. A reviewer should be able
 to select one or more sections of text instead of a line at a
-time\ :sup:``[d] <#cmnt4>`_`\  (sections can be words, phrases,
+time\ :sup:``[c] <#cmnt3>`_`\  (sections can be words, phrases,
 sentences or paragraphs) from the article or comments regarding the
 article. A mock-up of such a system is shown in Figure X. While such
 code review stops once the pull request is accepted or merged into the
@@ -310,7 +309,7 @@ processing components for part of a neuroimaging analysis. Such
 information can complement methods sections in articles.
 
 With regard to publication bias, reviewers should not judge every
-article based on novelty\ :sup:``[e] <#cmnt5>`_`\ , but instead
+article based on novelty\ :sup:``[d] <#cmnt4>`_`\ , but instead
 encourage replication of experiments as well as publication of
 experiments that did not produce results. By appropriately labeling the
 articles as such, one can quantify the success of a method or paradigm
@@ -446,7 +445,7 @@ versed in the general stylistic guidelines as well as code optimization
 for execution speed, memory consumption and readability. Since the
 review process is open, the code tends to get reviewed by the most
 pertinent as well as a diverse group of
-people\ :sup:``[f] <#cmnt6>`_`\ . This results in making the code the
+people\ :sup:``[e] <#cmnt5>`_`\ . This results in making the code the
 best it can be as the overall goal is to improve the quality of the
 software through constructive criticism. However, since the entire code
 is maintained in an online repository, registered members can continue
@@ -504,7 +503,7 @@ at every stage in the evolution of a
 project.
 
 A related problem to not reporting findings in a replicable manner is
-not reporting replicated findings\ :sup:``[g] <#cmnt7>`_`\ . Articles
+not reporting replicated findings\ :sup:``[f] <#cmnt6>`_`\ . Articles
 are biased toward reporting novel findings, but from a scientific
 perspective, positive-, negative- and non-results are extremely useful
 to the community.
@@ -564,34 +563,27 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-Be careful with how this argument is constructed. Above you point out
-the detrimental effects of the crazy focus on all kinds of publication
-impact metrics, yet here you seem to be arguing for similar metrics in
-the review process...
-
-`[b] <#cmnt_ref2>`_fdo.perez:
-
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[b] <#cmnt_ref2>`_fdo.perez:
 
 ??? What is this?
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[c] <#cmnt_ref3>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[d] <#cmnt_ref4>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[e] <#cmnt_ref5>`_fdo.perez:
 
 This sentence parses really weird
 
-`[g] <#cmnt_ref7>`_fdo.perez:
+`[f] <#cmnt_ref6>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -599,7 +591,7 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[h] <#cmnt_ref8>`_jbpoline:
+`[g] <#cmnt_ref7>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -619,7 +611,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[i] <#cmnt_ref9>`_binarybottle:
+`[h] <#cmnt_ref8>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -636,22 +628,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[j] <#cmnt_ref10>`_fdo.perez:
+`[i] <#cmnt_ref9>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[k] <#cmnt_ref11>`_stnava:
+`[j] <#cmnt_ref10>`_stnava:
 
 move elsewhere
 
-`[l] <#cmnt_ref12>`_binarybottle:
+`[k] <#cmnt_ref11>`_binarybottle:
 
 if and in which journal an article
 
-`[m] <#cmnt_ref13>`_kimlumbard:
+`[l] <#cmnt_ref12>`_kimlumbard:
 
 Howdy all!
 
@@ -691,9 +683,16 @@ binarybottle:
 
 thank you, kim!
 
-`[n] <#cmnt_ref14>`_millman.ucb:
+`[m] <#cmnt_ref13>`_millman.ucb:
 
 update at the end to include everyone
+
+`[n] <#cmnt_ref14>`_fdo.perez:
+
+Be careful with how this argument is constructed. Above you point out
+the detrimental effects of the crazy focus on all kinds of publication
+impact metrics, yet here you seem to be arguing for similar metrics in
+the review process...
 
 `[o] <#cmnt_ref15>`_yarikoptic:
 
