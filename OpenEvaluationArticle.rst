@@ -58,8 +58,8 @@ advances. This has cultivated a publish-or-perish mentality where the
 focus is on maximizing the number of publications rather than on the
 validity and reproducibility of research findings, and a decrease in the
 amount of information apportioned to each article, the "minimum
-publishable unit." Moreover, given that there are no objective standards
-for the review process across journals and publishers, there is great
+publishable unit." Moreover, given the lack of objective standards for
+the review process across journals and publishers, there is great
 variability in the percentage and quality of articles accepted across
 journals. This has led to a hierarchy in the status of journals, often
 quantified by a journal's impact factor [cite: Thompson's index,
@@ -71,28 +71,28 @@ keeping pace with the dramatic advances in computing resources by which
 results are obtained and advances in media by which results are
 disseminated.
 
-The most common form of the current evaluation process for an article
-involves a preliminary screening by a journal editor followed by an
-anonymous and private review, typically by a small group of (3-5) peers
-presumed to have expertise in the research
-topic.\ :sup:``[1] <#ftnt1>`_`\  The journal editor takes into
-consideration the reviewers' recommendations to either publish, reject
-or request revisions of the article. After publication, problems such as
-fraud or mistakes are addressed via retraction after disclosure or
-exposure by countering articles or letters to the editor. Through the
-review process and the scientific community's history of policing
-itself, science is thought to have a self-correcting character. However,
-with the ever-increasing deluge of articles of variable quality, the
-difficulty for individual reviewers to review the increasingly complex
-and multidisciplinary content of articles, and the use of journal impact
-factors as proxies for evaluations of individual articles, the integrity
-of the review process, and indeed of science, is imperiled. For the
-review process to continue to play a critical role in science, there are
-a number of problems that need to be addressed, five of which we list
-below. To address these problems, in the following section we propose an
-open evaluation system for scientific publishing that draws on the
-ideas, experience, and technologies recently developed to support code
-review in open source software projects.
+Currently the typical evaluation process for an article involves a
+preliminary screening by a journal editor followed by an anonymous and
+private review, typically by a small group of (3-5) peers presumed to
+have expertise in the research topic.\ :sup:``[1] <#ftnt1>`_`\  The
+journal editor takes into consideration the reviewers' recommendations
+to either publish, reject or request revisions of the article. After
+publication, problems such as fraud or mistakes are addressed via
+retraction after disclosure or exposure by countering articles or
+letters to the editor. Through the review process and the scientific
+community's history of policing itself, science is thought to have a
+self-correcting character. However, with the ever-increasing deluge of
+articles of variable quality, the difficulty for individual reviewers to
+review the increasingly complex and multidisciplinary content of
+articles, and the use of journal impact factors as proxies for
+evaluations of individual articles, the integrity of the review process,
+and indeed of science, suffers. For the review process to continue to
+play a critical role in science, there are a number of problems that
+need to be addressed, five of which we list below. To address these
+problems, in the following section we propose an open evaluation system
+for scientific publishing that draws on the ideas, experience, and
+technologies recently developed to support code review in open source
+software projects.
 
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
@@ -185,11 +185,10 @@ Proposals
 
 ----------------------
 
-We believe that opening up the review process to everyone, not just to a
-select few anonymous reviewers, has the potential to address every one
-of the problems with the review process that we raised in the
-Introduction. We will address each of the problems in order and make
-reference to lessons from distributed code review in open source
+Opening up the review process to everyone, not just to a select few
+anonymous reviewers, has the potential to address every one of the
+problems raised above. We will address each of the problems in order and
+make reference to lessons from distributed code review in open source
 software development.
 
 1. \*\*Distribute reviews to many reviewers.\*\*
@@ -221,6 +220,9 @@ article they are knowledgeable about. A third would be to conduct a
 preview consisting of a limited and expedited review process preceding a
 full and open review.
 
+.. meritocracy -> different roles: mediator, able to change status of
+article, only able to comment, etc...
+
 \*Software review example:\*
 
 The software development community (Google, ITK, etc) relies on
@@ -234,20 +236,19 @@ contents of an author's submission. Indeed, the purpose of these systems
 mirror the purpose of scientific review to increase the clarity,
 reproducibility and correctness of works that enter the canon.
 
-Github.com provides an open source software hosting service together
-with a web-based front end for interacting with these projects. For
-these projects, code is available for everyone to view and for
-registered github members to comment on and report issues. A typical
-analogy to submitting an article for publication would be for a
-developer to create a “pull request” that sends maintainers of a project
-a message to integrate the developer’s changes to the code into the main
-project. Such a request is handled via a web interface that combines
-discussion together with the code changes. Although the primary
-developers of the project get the “pull-request” email, any github
-member is allowed to comment on such a request. The web interface allows
-inserting comments in an interactive discussion form or for any given
-line of the code. These pull-requests become part of the permanent log
-of the project.
+Github.com provides a software hosting service together with a web-based
+front-end for interacting with these projects. For these projects, code
+is available for everyone to view and for registered github members to
+comment on and report issues. A typical analogy to submitting an article
+for publication would be for a developer to create a “pull request” that
+sends maintainers of a project a message to integrate the developer’s
+changes to the code into the main project. Such a request is handled via
+a web interface that combines discussion together with the code changes.
+Although the primary developers of the project get the “pull-request”
+email, any github member is allowed to comment on such a request. The
+web interface allows inserting comments in an interactive discussion
+form or for any given line of the code. These pull-requests become part
+of the permanent log of the project.
 
 .. figure:: images/image06.png
    :align: center
