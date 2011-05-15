@@ -261,15 +261,19 @@ NiPyPE (nipy.org/nipype) project on GitHub, demonstrating part of a
 discussion thread, inline commenting of code (for line 98) as well as
 updates on code changes taking place as a function of the discussion.
 
-\*Proposed improvements for publication review:\*
+\*Enhancing code review systems for article review:\*
 
 These existing code review systems, while suitable for code, have
 certain drawbacks for reviewing scientific articles. For example, the
 GitHub interface allows line-by-line commenting which reflects the
 structure of code. But commenting on an article’s text should follow the
 loose structure of prose with comments referring to multiple words,
-phrases, sentences or paragraphs in different parts of the text. A
-mock-up of such a system is shown in Figure X.
+phrases, sentences or paragraphs in different parts of the text. For
+example, a reviewer might come across a sentence in the discussion
+section of an awant to expose contradictions, unsubstantiated pretexts,
+and other inconsistencies across the body of an article.
+
+A mock-up of such a system is shown in Figure X.
 
 2. \*\*Provide reviewers materials and methods to perform comprehensive
 evaluation.\*\*
