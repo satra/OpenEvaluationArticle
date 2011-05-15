@@ -82,15 +82,36 @@ keeping pace with the dramatic advances in computing resources by which
 results are obtained and advances in media by which results are
 disseminated.
 
-For the review process to continue to play a critical role in science,
-there are a number of problems that need to be addressed, five of which
-we list below. While there are notable examples of journals (e.g.,
-ArXiv, Frontiers, BioMed Central, PLoS) that address some of these
-individual problems, we consider the vast majority of journals that do
-not. To address all of these problems, in the following section we
-propose an open evaluation system for scientific publishing that draws
-on the ideas, experience, and technologies recently developed to support
-code review in open source software projects.
+In contrast, the typical code review process during software development
+community (Google, ITK, etc) relies on collaboration between often
+physically distant software authors and
+
+code reviewers. We propose to rely upon an existing code review
+
+system, Gerrit, to enable ordered and systematic discussions of not
+
+only the editorial content of scientific work but also the scripts,
+
+compilable code and data. Gerrit, as it currently stands today
+
+without modification, provides reviewers the ability to interact,
+
+modify, annotate and discuss the contents of an author's
+
+submission. Indeed, the purpose of Gerrit mirrors {\\em almost
+
+exactly} the purpose of scientific review: to increase the clarity,
+
+reproducibility and correctness of works that enter the canon.
+
+For the publication review process to continue to play a critical role
+in science, there are a number of problems that need to be addressed. In
+this article, we list five problems and potential solutions that derive
+from distributed code review in open source software development.
+
+Problems
+
+----------------------
 
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
@@ -178,17 +199,21 @@ methods, analysis, and interpretations of the results are all a product
 of their time and context, and at a later time may not stand up to
 scrutiny or may yield new insights. Simply enabling a continuing
 dialogue about each article would make it a living document and
-integrate it in a rich scientific dialogue.
+integrate it in a rich scientific dialogue. \ :sup:``[c] <#cmnt3>`_`\ 
 
-Proposals
+Proposed solutions
 
 ----------------------
 
-Opening up the review process to everyone, not just to a select few
-anonymous reviewers, has the potential to address every one of the
-problems raised above. We will address each of the problems in order and
-make reference to lessons from distributed code review in open source
-software development.
+While there are notable examples of journals (e.g., ArXiv.org,
+Frontiers, BioMed Central, PLoS) that address some of the above
+individual problems, the vast majority of journals do not. In this
+section, we address all of these problems by proposing an open
+evaluation system for scientific publishing that draws on the ideas,
+experience, and technologies recently developed to support code review
+in open source software projects. Opening up the review process to
+everyone, not just to a select few anonymous reviewers, has the
+potential to address every one of the problems raised above.
 
 1. \*\*Distribute reviews to many reviewers.\*\*
 
@@ -224,16 +249,17 @@ article, only able to comment, etc...
 
 \*Software review example:\*
 
-The software development community (Google, ITK, etc) relies on
-collaboration between often physically distant software authors and code
-reviewers. We propose to draw ideas from existing code review systems
-such as Gerrit and GitHub to enable ordered and systematic discussions
-of not only the editorial content of scientific work but also the
-scripts, compilable code and data. Github and Gerrit both provide
-reviewers the ability to interact, modify, annotate and discuss the
-contents of an author's submission. Indeed, the purpose of these systems
-mirror the purpose of scientific review to increase the clarity,
-reproducibility and correctness of works that enter the canon.
+The software development community (Google,
+ITK\ :sup:``[d] <#cmnt4>`_`\ , etc) relies on collaboration between
+often physically distant software authors and code reviewers. We propose
+to draw ideas from existing code review systems such as Gerrit and
+GitHub to enable ordered and systematic discussions of not only the
+editorial content of scientific work but also the scripts, compilable
+code and data. Github and Gerrit both provide reviewers the ability to
+interact, modify, annotate and discuss the contents of an author's
+submission. Indeed, the purpose of these systems mirror the purpose of
+scientific review to increase the clarity, reproducibility and
+correctness of works that enter the canon.
 
 Github.com provides a software hosting service together with a web-based
 front-end for interacting with these projects. For these projects, code
@@ -553,7 +579,16 @@ the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[c] <#cmnt_ref3>`_jbpoline:
+`[c] <#cmnt_ref3>`_fdo.perez:
+
+Don't engage in solution proposals here, since you're so far just
+statinng the various problems...
+
+`[d] <#cmnt_ref4>`_fdo.perez:
+
+??? What is this?
+
+`[e] <#cmnt_ref5>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -573,7 +608,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[d] <#cmnt_ref4>`_binarybottle:
+`[f] <#cmnt_ref6>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -590,22 +625,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[g] <#cmnt_ref7>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[f] <#cmnt_ref6>`_stnava:
+`[h] <#cmnt_ref8>`_stnava:
 
 move elsewhere
 
-`[g] <#cmnt_ref7>`_binarybottle:
+`[i] <#cmnt_ref9>`_binarybottle:
 
 if and in which journal an article
 
-`[h] <#cmnt_ref8>`_kimlumbard:
+`[j] <#cmnt_ref10>`_kimlumbard:
 
 Howdy all!
 
@@ -645,33 +680,33 @@ binarybottle:
 
 thank you, kim!
 
-`[i] <#cmnt_ref9>`_millman.ucb:
+`[k] <#cmnt_ref11>`_millman.ucb:
 
 update at the end to include everyone
 
-`[j] <#cmnt_ref10>`_fdo.perez:
+`[l] <#cmnt_ref12>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[k] <#cmnt_ref11>`_fdo.perez:
+`[m] <#cmnt_ref13>`_fdo.perez:
 
 This sentence parses really weird
 
-`[l] <#cmnt_ref12>`_yarikoptic:
+`[n] <#cmnt_ref14>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[m] <#cmnt_ref13>`_fdo.perez:
+`[o] <#cmnt_ref15>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[n] <#cmnt_ref14>`_binarybottle:
+`[p] <#cmnt_ref16>`_binarybottle:
 
 and are followed up by
 
-`[o] <#cmnt_ref15>`_binarybottle:
+`[q] <#cmnt_ref17>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -682,12 +717,12 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[p] <#cmnt_ref16>`_fdo.perez:
+`[r] <#cmnt_ref18>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[q] <#cmnt_ref17>`_yarikoptic:
+`[s] <#cmnt_ref19>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -740,12 +775,3 @@ at every step of the paper journey. With the suggestion above, paper
 gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
-
-`[r] <#cmnt_ref18>`_fdo.perez:
-
-??? What is this?
-
-`[s] <#cmnt_ref19>`_fdo.perez:
-
-Don't engage in solution proposals here, since you're so far just
-statinng the various problems...
