@@ -454,13 +454,12 @@ review process beyond initial review could result in similar benefits.
 
 \*Enhancing code review systems for article review:\*
 
-Current code-review systems have components to expedite review and for
-continued review within a single code-review systems. However, one
-cannot perform reviews that cross-link different code review systems
-(e.g., git vs mercurial based systems). In the context of scientific
-publications, we recommend that reviews be shared between such systems
-similar to the Neuroscience Peer Review Consortium
-(http://nprc.incf.org)
+Current code review systems have components for expedited and continued
+review. However, one cannot perform reviews that cross-link different
+code review systems (e.g., Git- vs. Mercurial-based systems). In the
+context of scientific publications, we recommend that reviews be shared
+between such systems similar to the Neuroscience Peer Review Consortium
+(http://nprc.incf.org).
 
 Metrics
 
