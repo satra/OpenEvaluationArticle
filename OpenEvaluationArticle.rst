@@ -70,31 +70,31 @@ journal editor takes into consideration the reviewers' recommendations
 to either publish, reject or request revisions of the article. After
 publication, problems such as fraud or mistakes are addressed via
 retraction after disclosure or exposure by countering articles or
-letters to the editor (e.g. cite Chung xxx). Through the review process
-and the scientific community's history of policing itself, science is
-thought to have a self-correcting character. However, with the
-difficulty for individual reviewers to review the increasing number and
-complexity of articles, and the use of journal impact factors as proxies
-for evaluations of individual articles, the integrity of the review
-process, and indeed of science, suffers. Another danger to the review
-process, and to scientific articles themselves, is that they are not
-keeping pace with the dramatic advances in computing resources by which
-results are obtained and advances in media by which results are
+letters to the editor (e.g. cite: chang2006retraction). Through the
+review process and the scientific community's history of policing
+itself, science is thought to have a self-correcting character. However,
+with the difficulty for individual reviewers to review the increasing
+number and complexity of articles, and the use of journal impact factors
+as proxies for evaluations of individual articles, the integrity of the
+review process, and indeed of science, suffers. Another danger to the
+review process, and to scientific articles themselves, is that they are
+not keeping pace with the dramatic advances in computing resources by
+which results are obtained and advances in media by which results are
 disseminated.
 
-In contrast, the typical review process for programs (code review)
-during software development is often open, collaborative, and
-interactive, engaging many participants with varying levels of
-expertise. There is a clear process by which comments get addressed and
-new code gets integrated into the main project. An example review
-workflow for the Android project is shown in Figure X. Since computer
-programs are much more structured and objective than prose, it is more
-amenable to standardization and therefore to review. These code review
-systems also take advantage of some of the latest technologies and have
-the potential to be used for publication review. Despite all of these
-differences, the purpose of code review systems mirror the purpose of
-publication review to increase the clarity, reproducibility and
-correctness of contributions.
+In contrast, during opensource software development, the typical review
+process for programs (code review) during software development is often
+open, collaborative, and interactive, engaging many participants with
+varying levels of expertise. There is a clear process by which comments
+get addressed and new code gets integrated into the main project. An
+example review workflow for the Android project is shown in Figure X.
+Since computer programs are much more structured and objective than
+prose, it is more amenable to standardization and therefore to review.
+These code review systems also take advantage of some of the latest
+technologies and have the potential to be used for publication review.
+Despite all of these differences, the purpose of code review systems
+mirror the purpose of publication review to increase the clarity,
+reproducibility and correctness of contributions.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
@@ -485,6 +485,22 @@ the number of times the speaker was quoted in a given time period.
 Discussion
 
 ----------
+
+The general goal of natural scientists is to clarify our understanding
+of the natural world through replicable experiments and improved
+techniques for experimentation and data analysis. It is therefore in the
+best interest of all scientists to improve the quality of published
+science and to continue to validate and replicate findings. The review
+process therefore should be an extension of the same scientific
+discourse that takes place in laboratories when initiating ideas for
+experiments and novel algorithms and when discussing the outcomes of
+experiments. In keeping with these ideals, we have also chosen to use
+code review (github.com/satra/scientific-review) and shared
+collaboration (docs.google.com) systems to create this article and
+receive feedback from our peers during the creation process.
+
+A number of the ideas presented in this article have already been
+adopted by various journal publishing entities.
 
 - reviewers assumed to be honest, no selfish motives
 
