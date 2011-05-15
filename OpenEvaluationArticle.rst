@@ -85,9 +85,10 @@ disseminated.
 In contrast, the typical code review process during software development
 is often open, collaborative, and interactive, engaging many
 participants with varying levels of expertise. There is a clear process
-by which new code gets integrated into the main project. However some of
-the problems faced by article reviews are not as relevant in code
-review, such as impact factors
+by which comments get addressed and new code gets integrated into the
+main project. However some of the problems faced by article reviews are
+not as relevant in code review, such as impact factors and the
+inherently less structured and more subjective prose.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
