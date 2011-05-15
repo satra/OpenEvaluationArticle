@@ -225,7 +225,7 @@ full and open review. At different stages of such a tiered review,
 reviewers might be assigned different roles, such as mediator, editor,
 or commenter.
 
-\*Analogy with code review:\*
+\*Relevance of code review systems:\*
 
 In the same manner that articles are submitted for review and
 publication in journals, code in collaborative software projects are
@@ -271,12 +271,10 @@ loose structure of prose with comments referring to multiple words,
 phrases, sentences or paragraphs in different parts of the text. For
 example, a reviewer might come across a sentence in the discussion
 section of an article that contradicts two sentences in different parts
-of the introduction. The interface should allow
-
-want to expose contradictions, unsubstantiated pretexts, and other
-inconsistencies across the body of an article.
-
-A mock-up of such a system is shown in Figure X.
+of the results section. The interface should allow multiple reviewers to
+expose contradictions, unsubstantiated pretexts, and other
+inconsistencies across the body of an article or across reviews for the
+article. A mock-up of such a system is shown in Figure X.
 
 2. \*\*Provide reviewers materials and methods to perform comprehensive
 evaluation.\*\*
@@ -311,7 +309,7 @@ preprocessing workflow for brain image analysis showing which algorithms
 and software packages were used. Such information can complement an
 article’s methods section.
 
-\*Software review example:\*
+\*Relevance of code review systems:\*
 
 Software code review systems are strongly connected to software version
 control systems such as Git (git-scm.com) and Mercurial
@@ -327,7 +325,7 @@ code.
 
 From a publication standpoint, su
 
-\*Proposed improvements for publication review:\*
+\*Enhancing code review systems for article review:\*
 
 Software review systems are built for code, not for data. In some
 disciplines (such as neuroimaging) the amount of data can be large, and
@@ -352,7 +350,7 @@ reviewers. First, reviewer names are immediately associated with the
 publication. Second, reviewer grades eventually become associated with
 the reviewer based on community feedback on the reviews.
 
-\*Software review example:\*
+\*Relevance of code review systems:\*
 
 In software development, reviewers are acknowledged implicitly by having
 their names associated with comments related to a code review. Other
@@ -367,7 +365,7 @@ Figure X: A web page snippet from the Geritt code review system used for
 ITK. This explicitly lists the reviewers who are participating in the
 review.
 
-\*Proposed improvements for publication review:\*
+\*Enhancing code review systems for article review:\*
 
 In our proposed model for peer review, reviewers can select articles for
 review and their efforts are quantified via a process outlined below.
@@ -387,7 +385,7 @@ of a submission, and analysis of the review process then becomes
 possible and could lead to an objective standardization of the
 scientific process.
 
-\*Software review example:\*
+\*Relevance of code review systems:\*
 
 In general, code review systems utilize a discussion mechanism, where a
 code change is moderated through an iterative process as illustrated in
@@ -398,7 +396,7 @@ accepted into the main project. The discussion mechanism facilitates
 this process. However, in the case of code-review, quality of review is
 typically not quantified.
 
-\*Proposed improvements for publication review:\*
+\*Enhancing code review systems for article review:\*
 
 We propose to augment code-review systems with a mechanism similar to
 the one used in `stackoverflow.net <http://stackoverflow.net>`_ or
@@ -438,7 +436,7 @@ Simply enabling a continuing dialogue about each article would make it a
 living document and integrate it in a rich scientific dialogue.
 \ :sup:``[a] <#cmnt1>`_`\ 
 
-\*Software review example:\*
+\*Relevance of code review systems:\*
 
 In a software project, code reviews are performed by people who are
 conversant with a particular section of code along with people who are
@@ -454,7 +452,7 @@ to comment on the code beyond it being accepted. Furthermore, this
 allows for bugs to be detected and improvements to be made beyond
 initial review.
 
-\*Proposed improvements for publication review:\*
+\*Enhancing code review systems for article review:\*
 
 While such code review stops once the pull request is accepted or merged
 into the main code, we recommend leaving the comment thread open.
