@@ -191,10 +191,10 @@ Frontiers, BioMed Central, PLoS) that address some of the above
 individual problems, the vast majority of journals do not. In this
 section, we address all of these problems by proposing an open
 evaluation system for scientific publishing that draws on the ideas,
-experience, and technologies recently developed to support code review
-in open source software projects. Opening up the review process to
-everyone, not just to a select few anonymous reviewers, has the
-potential to address every one of the problems raised above.
+experience, and technologies recently developed to support community
+code review in open source software projects. Opening up the review
+process to everyone, not just to a select few anonymous reviewers, has
+the potential to address every one of the problems raised above.
 
 1. \*\*Distribute reviews to many reviewers.\*\*
 
@@ -221,57 +221,56 @@ individual reviewer, as long as they review specific components of the
 article they are knowledgeable about. A third would be to conduct a
 preview consisting of a limited and expedited review process preceding a
 full and open review. At different stages of such a tiered review,
-reviewers might be assigned different roles: mediator, able to change
-status of article, only able to comment, etc...
+reviewers might be assigned different roles, such as mediator, editor,
+or commenter.
 
 \*Software review example:\*
 
 In any complex software project, there are specialists who focus on
-certain components of the software. However, code review is not limited
-to specialists. When multiple pairs of eyes look at code, the code
-improves, bugs are caught, and all participants are encouraged to write
-better code.
+developing certain components of the software. However, code review is
+not limited to specialists. When multiple pairs of eyes look at code,
+the code improves, bugs are caught, and all participants are encouraged
+to write better code. Software development communities rely on
+collaboration between often physically distant authors and reviewers.
+Existing code review systems such as Gerrit
+(http://code.google.com/p/gerrit) and GitHub (http://github.com) provide
+reviewers the ability to interact, modify, annotate and discuss the
+contents of submitted code changes. Indeed, the purpose of these systems
+mirror the purpose of scientific review to increase the clarity,
+reproducibility and correctness of works that enter the canon.
 
-The software development community (Google,
-ITK\ :sup:``[a] <#cmnt1>`_`\ , etc) relies on collaboration between
-often physically distant software authors and code reviewers. We propose
-to draw ideas from existing code review systems such as Gerrit and
-GitHub to enable ordered and systematic discussions of not only the
-editorial content of scientific work but also the scripts, compilable
-code and data. Github and Gerrit both provide reviewers the ability to
-interact, modify, annotate and discuss the contents of an author's
-submission. Indeed, the purpose of these systems mirror the purpose of
-scientific review to increase the clarity, reproducibility and
-correctness of works that enter the canon.
-
-Github.com provides a software hosting service together with a web-based
-front-end for interacting with these projects. For these projects, code
-is available for everyone to view and for registered github members to
-comment on and report issues. A typical analogy to submitting an article
-for publication would be for a developer to create a “pull request” that
-sends maintainers of a project a message to integrate the developer’s
-changes to the code into the main project. Such a request is handled via
-a web interface that combines discussion together with the code changes.
-Although the primary developers of the project get the “pull-request”
-email, any github member is allowed to comment on such a request. The
-web interface allows inserting comments in an interactive discussion
-form or for any given line of the code. These pull-requests become part
-of the permanent log of the project.
+As an example, GitHub provides a software hosting service together with
+a web-based front-end for interacting with these projects. For these
+projects, code is available for everyone to view and for registered
+GitHub members to comment on and report issues. A typical analogy to
+submitting an article for publication would be for a developer to create
+a “pull request” that sends maintainers of a project a message to
+integrate the developer’s changes to the code into the main project.
+Such a request is handled via a web interface that combines discussion
+together with the code changes. Although the primary developers of the
+project get the “pull request” email, any GitHub member is allowed to
+comment on such a request. The web interface allows inserting comments
+in an interactive discussion form or for any given line of the code.
+These pull requests become part of the permanent log of the project.
 
 .. figure:: images/image06.png
    :align: center
    :alt: 
-Figure X. A snapshot from the web-interface of a pull-request of the
-nipype project on github.com, demonstrating part of a discussion thread,
+Figure X. A snapshot from the web interface of a pull request of the
+NiPyPE project on GitHub, demonstrating part of a discussion thread,
 inline commenting of code (for line 98) as well as updates on code
 changes taking place as a function of the discussion.
 
 \*Proposed improvements for publication review:\*
 
+We propose to draw ideas from to enable ordered and systematic
+discussions of the editorial content of scientific work, including text
+and associated code.
+
 While this interface addresses code review, we recommend the following
 changes in the context of publication review. A reviewer should be able
 to select one or more sections of text instead of a line at a
-time\ :sup:``[b] <#cmnt2>`_`\  (sections can be words, phrases,
+time\ :sup:``[a] <#cmnt1>`_`\  (sections can be words, phrases,
 sentences or paragraphs) from the article or comments regarding the
 article. A mock-up of such a system is shown in Figure X. While such
 code review stops once the pull request is accepted or merged into the
@@ -310,7 +309,7 @@ processing components for part of a neuroimaging analysis. Such
 information can complement methods sections in articles.
 
 With regard to publication bias, reviewers should not judge every
-article based on novelty\ :sup:``[c] <#cmnt3>`_`\ , but instead
+article based on novelty\ :sup:``[b] <#cmnt2>`_`\ , but instead
 encourage replication of experiments as well as publication of
 experiments that did not produce results. By appropriately labeling the
 articles as such, one can quantify the success of a method or paradigm
@@ -440,7 +439,7 @@ desirable career choice.
 
 Simply enabling a continuing dialogue about each article would make it a
 living document and integrate it in a rich scientific dialogue.
-\ :sup:``[d] <#cmnt4>`_`\ 
+\ :sup:``[c] <#cmnt3>`_`\ 
 
 \*Software review example:\*
 
@@ -450,7 +449,7 @@ versed in the general stylistic guidelines as well as code optimization
 for execution speed, memory consumption and readability. Since the
 review process is open, the code tends to get reviewed by the most
 pertinent as well as a diverse group of
-people\ :sup:``[e] <#cmnt5>`_`\ . This results in making the code the
+people\ :sup:``[d] <#cmnt4>`_`\ . This results in making the code the
 best it can be as the overall goal is to improve the quality of the
 software through constructive criticism. However, since the entire code
 is maintained in an online repository, registered members can continue
@@ -508,7 +507,7 @@ at every stage in the evolution of a
 project.
 
 A related problem to not reporting findings in a replicable manner is
-not reporting replicated findings\ :sup:``[f] <#cmnt6>`_`\ . Articles
+not reporting replicated findings\ :sup:``[e] <#cmnt5>`_`\ . Articles
 are biased toward reporting novel findings, but from a scientific
 perspective, positive-, negative- and non-results are extremely useful
 to the community.
@@ -568,27 +567,23 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-??? What is this?
-
-`[b] <#cmnt_ref2>`_fdo.perez:
-
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[b] <#cmnt_ref2>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[c] <#cmnt_ref3>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[d] <#cmnt_ref4>`_fdo.perez:
 
 This sentence parses really weird
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[e] <#cmnt_ref5>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -596,7 +591,7 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[g] <#cmnt_ref7>`_jbpoline:
+`[f] <#cmnt_ref6>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -616,7 +611,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[h] <#cmnt_ref8>`_binarybottle:
+`[g] <#cmnt_ref7>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -633,22 +628,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[i] <#cmnt_ref9>`_fdo.perez:
+`[h] <#cmnt_ref8>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[j] <#cmnt_ref10>`_stnava:
+`[i] <#cmnt_ref9>`_stnava:
 
 move elsewhere
 
-`[k] <#cmnt_ref11>`_binarybottle:
+`[j] <#cmnt_ref10>`_binarybottle:
 
 if and in which journal an article
 
-`[l] <#cmnt_ref12>`_kimlumbard:
+`[k] <#cmnt_ref11>`_kimlumbard:
 
 Howdy all!
 
@@ -688,32 +683,32 @@ binarybottle:
 
 thank you, kim!
 
-`[m] <#cmnt_ref13>`_millman.ucb:
+`[l] <#cmnt_ref12>`_millman.ucb:
 
 update at the end to include everyone
 
-`[n] <#cmnt_ref14>`_fdo.perez:
+`[m] <#cmnt_ref13>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[o] <#cmnt_ref15>`_yarikoptic:
+`[n] <#cmnt_ref14>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[p] <#cmnt_ref16>`_fdo.perez:
+`[o] <#cmnt_ref15>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[q] <#cmnt_ref17>`_binarybottle:
+`[p] <#cmnt_ref16>`_binarybottle:
 
 and are followed up by
 
-`[r] <#cmnt_ref18>`_binarybottle:
+`[q] <#cmnt_ref17>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -724,7 +719,7 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[s] <#cmnt_ref19>`_yarikoptic:
+`[r] <#cmnt_ref18>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -777,3 +772,7 @@ at every step of the paper journey. With the suggestion above, paper
 gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
+
+`[s] <#cmnt_ref19>`_fdo.perez:
+
+??? What is this?
