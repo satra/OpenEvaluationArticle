@@ -444,14 +444,11 @@ desirable career choice.
 
 \*Relevance of code review systems:\*
 
-ode reviews are performed by people who are knowledgeable about a
-particular section of code along with people who are versed in the
-general stylistic guidelines as well as code optimization for execution
-speed, memory consumption and readability. Since the review process is
-open, the code tends to get reviewed by the most pertinent as well as a
-diverse group of people\ :sup:``[a] <#cmnt1>`_`\ . This results in
-making the code the best it can be as the overall goal is to improve the
-quality of the software through constructive criticism.
+Code review invites and requires participation from people with
+differing degrees of expertise and knowledge of the project. This leads
+to higher quality of the code as well as faster development than
+individual programmers could normally contribute. These contributions
+are also made well beyond the initial code review.
 
 However, since the entire code is maintained in an online repository,
 registered members can continue to comment on the code beyond the time
@@ -507,7 +504,7 @@ at every stage in the evolution of a
 project.
 
 With regard to publication bias, reviewers should not judge every
-article based on novelty\ :sup:``[b] <#cmnt2>`_`\ , but instead
+article based on novelty\ :sup:``[a] <#cmnt1>`_`\ , but instead
 encourage replication of experiments as well as publication of
 experiments that did not produce results. By appropriately labeling the
 articles as such, one can quantify the success of a method or paradigm
@@ -515,7 +512,7 @@ as well as provide an additional factor in assessing scientists'
 contributions to the community.
 
 A related problem to not reporting findings in a replicable manner is
-not reporting replicated findings\ :sup:``[c] <#cmnt3>`_`\ . Articles
+not reporting replicated findings\ :sup:``[b] <#cmnt2>`_`\ . Articles
 are biased toward reporting novel findings, but from a scientific
 perspective, positive-, negative- and non-results are extremely useful
 to the community.
@@ -579,13 +576,9 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-This sentence parses really weird
-
-`[b] <#cmnt_ref2>`_fdo.perez:
-
 Frontiers has this already in its editorial policy
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[b] <#cmnt_ref2>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -593,7 +586,7 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[d] <#cmnt_ref4>`_jbpoline:
+`[c] <#cmnt_ref3>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -613,7 +606,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[e] <#cmnt_ref5>`_binarybottle:
+`[d] <#cmnt_ref4>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -630,22 +623,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[e] <#cmnt_ref5>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[g] <#cmnt_ref7>`_stnava:
+`[f] <#cmnt_ref6>`_stnava:
 
 move elsewhere
 
-`[h] <#cmnt_ref8>`_binarybottle:
+`[g] <#cmnt_ref7>`_binarybottle:
 
 if and in which journal an article
 
-`[i] <#cmnt_ref9>`_kimlumbard:
+`[h] <#cmnt_ref8>`_kimlumbard:
 
 Howdy all!
 
@@ -685,9 +678,13 @@ binarybottle:
 
 thank you, kim!
 
-`[j] <#cmnt_ref10>`_millman.ucb:
+`[i] <#cmnt_ref9>`_millman.ucb:
 
 update at the end to include everyone
+
+`[j] <#cmnt_ref10>`_fdo.perez:
+
+This sentence parses really weird
 
 `[k] <#cmnt_ref11>`_fdo.perez:
 
