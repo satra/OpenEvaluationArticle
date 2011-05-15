@@ -375,10 +375,11 @@ are participating in the review.
 
 The criterion for accepting code is based on the functionality of the
 final code rather than the quality of reviews. As such code review
-systems typically do not have a quantitative, non-social mechanism to
-rate the quality of reviews. We propose that code review systems adapted
-for article review include quantitative measures of the quality of
-contributions of reviewers.
+systems typically do not have a mea quantitative, non-social mechanism
+to rate the quality of reviews.
+
+We propose that code review systems adapted for article review include
+quantitative measures of the quality of contributions of reviewers.
 
 4. \*\*Quantify review quality.\*\*
 
@@ -412,6 +413,14 @@ quality of review. Figure X below shows a web-snapshot of the response
 to a question. As can be seen in the figure, there is a possibility for
 registered members to comment on a response, vote on the quality of the
 response as well as the comment to a response.
+
+The criterion for accepting code is based on the functionality of the
+final code rather than the quality of reviews. As such code review
+systems typically do not have a quantitative, non-social mechanism to
+rate the quality of reviews.
+
+We propose that code review systems adapted for article review include
+quantitative measures of the quality of contributions of reviewers.
 
 .. figure:: images/image00.png
    :align: center
