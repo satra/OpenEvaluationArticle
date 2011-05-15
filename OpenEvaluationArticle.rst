@@ -291,15 +291,9 @@ possible in a closed review process.
 We propose that data and software be submitted together with the
 article. This not only facilitates transparency for all readers
 including reviewers but also facilitates reproducibility and encourages
-method reuse. While rerunning an entire study’s analysis might not be
-currently feasible as part of a review process, simply exposing code can
-often help reviewers follow what was done and allows for replication of
-the results in the future. In the long run, virtual machines or servers
-may indeed allow standardization of analysis environments and
-replication of analyses for every publication. For example, a workflow
-graph (for example, Fig. X) from a neuroimaging analysis captures
-numerous details in a compact visual form which would otherwise be
-absent in a methods section.
+method reuse. For example, a workflow graph (for example, Fig. X) from a
+neuroimaging analysis captures numerous details in a compact visual form
+which would otherwise be absent in a methods section.
 
 .. figure:: images/image05.png
    :align: center
@@ -309,23 +303,35 @@ preprocessing workflow for brain image analysis showing which algorithms
 and software packages were used. Such information can complement an
 article’s methods section.
 
+While rerunning an entire study’s analysis might not be currently
+feasible as part of a review process, simply exposing code can often
+help reviewers follow what was done and allows for replication of the
+results in the future. In the long run, virtual machines or servers may
+indeed allow standardization of analysis environments and replication of
+analyses for every publication.
+
 \*Relevance of code review systems:\*
 
 While certain journals (e.g., PLoS One, Insight Journal) require code to
 be submitted for any article describing software or algorithm
 development, most journals do not require submission of relevant
 software or data and reviewers do not have access to information beyond
-the submitted article. In contrast, software code review systems are
-strongly connected to software version control systems such as Git
-(git-scm.com) and Mercurial (mercurial.selenic.com) that store the
-complete history of the code. In addition to providing access to this
-history, these systems also provide other pertinent details such as
-problems, their status (whether fixed or not), timestamps and other
-enhancements. Furthermore, during software development, specific
-versions of the software or particular files are tagged to reflect
-milestones during development. All of these aspects are useful to
-capture the provenance of the project and provide sufficient contextual
-information for a reviewer to comment on submitted code.
+the submitted article. Unlike article reviewers, for code reviewers it
+is essential to see the output of running code or have access to
+software testing dashboards.
+
+software code review systems are strongly connected to software version
+control systems such as Git (git-scm.com) and Mercurial
+(mercurial.selenic.com) that store the complete history of the code. In
+addition to providing access to this history, these systems also provide
+other pertinent details such as problems, their status (whether fixed or
+not), timestamps and other enhancements. Furthermore, during software
+development, specific versions of the software or particular files are
+tagged to reflect milestones during development.
+
+All of these aspects are useful to capture the provenance of the project
+and provide sufficient contextual information for a reviewer to comment
+on submitted code.
 
 \*Enhancing code review systems for article review:\*
 
