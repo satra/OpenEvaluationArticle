@@ -263,6 +263,9 @@ changes taking place as a function of the discussion.
 
 \*Proposed improvements for publication review:\*
 
+These existing code review systems, while suitable for code, have
+certain drawbacks for reviewing scientific articles. For examples, the
+
 We propose to draw ideas from to enable ordered and systematic
 discussions of the editorial content of scientific work, including text
 and associated code.
