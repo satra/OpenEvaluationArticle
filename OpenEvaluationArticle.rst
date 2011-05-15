@@ -408,8 +408,8 @@ is typically not quantified.
 \*Enhancing code review systems for article review:\*
 
 We propose to augment code review systems (and in turn, article review
-systems) with a mechanism similar to the one used in
-`stackoverflow.net <http://stackoverflow.net>`_ or
+systems) with a mechanism similar to the one used in discussion forums
+such as `stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
 quality of reviews. Figure X below shows a screenshot of the response
 from a registered member to a question submitted to Stack Overflow. As
