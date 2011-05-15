@@ -27,20 +27,16 @@ Abstract
 --------
 
 Peer review is the primary means of evaluating the quality and validity
-of scientific publications. With an increasing number of articles of
-variable quality, unreasonable demands placed on individual reviewers to
-review complex and multidisciplinary content of articles, and use of
-journal impact factors as proxies for evaluations of individual
-articles, the integrity of the review process, and indeed of science,
-is\ :sup:``[a] <#cmnt1>`_`\  imperiled. The review process is fraught
-with many problems that undermine the pace, validity, and credibility of
-science. These problems include: reviewers are expected to have
-comprehensive expertise, do not have sufficient access to methods and
-materials to evaluate a study, and are not acknowledged, that there is
-no measure of the quality of a review, and reviews cannot evolve. To
-address these problems, we propose an open review process that draws on
-the ideas, experience, and technologies recently developed to support
-code review in open source software projects.
+of scientific publications. The review process is fraught with many
+problems that undermine the pace, validity, and credibility of science.
+These problems include: reviewers are expected to have comprehensive
+expertise, do not have sufficient access to methods and materials to
+evaluate a study, and are typically anonymous and not acknowledged, that
+there is no measure of the quality of a review, and reviews take a lot
+of time, and once submitted cannot evolve. To address these problems, we
+propose an open review process that draws on the ideas, experience, and
+technologies recently developed to support code review in open source
+software projects.
 
 .. contents::
 
@@ -57,21 +53,16 @@ distributed, who gets promoted, and in which directions research
 advances. This has cultivated a publish-or-perish mentality where the
 focus is on maximizing the number of publications rather than on the
 validity and reproducibility of research findings, and a decrease in the
-amount of information apportioned to each article, the "minimum
-publishable unit." Moreover, given the lack of objective standards for
-the review process across journals and publishers, there is great
-variability in the percentage and quality of articles accepted across
-journals. This has led to a hierarchy in the status of journals, often
-quantified by a journal's impact factor [cite: Thompson's index,
-Hirsch’s h-index, the Eigenfactor index,...]. As such, certain journal
-titles are taken as arbiters of quality and significance of published
-works instead of the review process. Another danger to the review
-process, and to scientific articles themselves, is that they are not
-keeping pace with the dramatic advances in computing resources by which
-results are obtained and advances in media by which results are
-disseminated.
+amount of information apportioned to each article. Moreover, the lack of
+objective standards for the review process results in great variability
+in the percentage and quality of articles accepted. This has led to a
+hierarchy in the status of journals, often quantified by a journal's
+impact factor [cite: Thompson's index, Hirsch’s h-index, the Eigenfactor
+index,...]. As such, certain journal titles are taken as arbiters of
+quality and significance of published works instead of the review
+process.
 
-Currently the typical evaluation process for an article involves a
+Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
 private review, typically by a small group of (3-5) peers presumed to
 have expertise in the research topic.\ :sup:``[1] <#ftnt1>`_`\  The
@@ -79,20 +70,26 @@ journal editor takes into consideration the reviewers' recommendations
 to either publish, reject or request revisions of the article. After
 publication, problems such as fraud or mistakes are addressed via
 retraction after disclosure or exposure by countering articles or
-letters to the editor. Through the review process and the scientific
-community's history of policing itself, science is thought to have a
-self-correcting character. However, with the ever-increasing deluge of
-articles of variable quality, the difficulty for individual reviewers to
-review the increasingly complex and multidisciplinary content of
-articles, and the use of journal impact factors as proxies for
-evaluations of individual articles, the integrity of the review process,
-and indeed of science, suffers. For the review process to continue to
-play a critical role in science, there are a number of problems that
-need to be addressed, five of which we list below. To address these
-problems, in the following section we propose an open evaluation system
-for scientific publishing that draws on the ideas, experience, and
-technologies recently developed to support code review in open source
-software projects.
+letters to the editor (e.g. cite Chung xxx). Through the review process
+and the scientific community's history of policing itself, science is
+thought to have a self-correcting character. However, with the
+difficulty for individual reviewers to review the increasing number and
+complexity of articles, and the use of journal impact factors as proxies
+for evaluations of individual articles, the integrity of the review
+process, and indeed of science, suffers. Another danger to the review
+process, and to scientific articles themselves, is that they are not
+keeping pace with the dramatic advances in computing resources by which
+results are obtained and advances in media by which results are
+disseminated.
+
+For the review process to continue to play a critical role in science,
+there are a number of problems that need to be addressed, five of which
+we list below. While there
+
+To address these problems, in the following section we propose an open
+evaluation system for scientific publishing that draws on the ideas,
+experience, and technologies recently developed to support code review
+in open source software projects.
 
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
@@ -124,10 +121,10 @@ methods sections are often inadequate for replication. This makes it
 impossible for a reviewer, if so inclined, to fully evaluate an
 article’s methods, data quality, or software, let alone to replicate the
 analysis of the study. A related problem to not reporting findings in a
-replicable manner is not reporting replicated findings. Articles are
-biased toward reporting novel findings, but from a scientific
-perspective, positive-, negative- and non-results are extremely useful
-to the community.
+replicable manner is not reporting replicated
+findings\ :sup:``[a] <#cmnt1>`_`\ . Articles are biased toward reporting
+novel findings, but from a scientific perspective, positive-, negative-
+and non-results are extremely useful to the community.
 
 [cite: ioannidis2005most]
 
@@ -541,10 +538,11 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-While I understand where you come from and agree with the idea, it may
-sound a bit over the top to put "the integrity of science" in question
-right up front. I think a statement that strong should perhaps be
-reached after some more elaboration... Just a thought.
+the issue of positive results bias is a very important (and widely
+studied) one, but it's really a little separate from the title of this
+section, and I think it's a distraction to conflate it here. The title
+of the section starts talking about one thing, and then the text goes
+off in a different direction.
 
 `[b] <#cmnt_ref2>`_jbpoline:
 
@@ -585,11 +583,10 @@ win it in the end. fini.
 
 `[d] <#cmnt_ref4>`_fdo.perez:
 
-the issue of positive results bias is a very important (and widely
-studied) one, but it's really a little separate from the title of this
-section, and I think it's a distraction to conflate it here. The title
-of the section starts talking about one thing, and then the text goes
-off in a different direction.
+While I understand where you come from and agree with the idea, it may
+sound a bit over the top to put "the integrity of science" in question
+right up front. I think a statement that strong should perhaps be
+reached after some more elaboration... Just a thought.
 
 `[e] <#cmnt_ref5>`_stnava:
 
