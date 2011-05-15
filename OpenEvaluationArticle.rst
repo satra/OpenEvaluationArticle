@@ -233,11 +233,9 @@ submitted for review and integration into a codebase. Whereas in the
 unusual cases of post-publication review for articles (), it is very
 common in code review that
 
-In any complex software project, there are specialists who focus on
-developing certain components of the software.
-
-However, unlike article review, code review is not limited to
-specialists.
+In both scientific research and in complex software projects,
+specialists focus on specific components of the problem. However, unlike
+scientific review, code review is not limited to specialists.
 
 In any complex software project, there are specialists who focus on
 developing certain components of the software. However, code review is
