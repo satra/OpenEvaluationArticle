@@ -227,6 +227,10 @@ or commenter.
 
 \*Analogy with code review:\*
 
+In the same manner that articles are submitted for review and
+publication, code in collaborative software projects are submitted for
+review and integration into a c
+
 In any complex software project, there are specialists who focus on
 developing certain components of the software. However, code review is
 not limited to specialists. When multiple pairs of eyes look at code,
