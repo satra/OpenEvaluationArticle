@@ -27,20 +27,20 @@ Abstract
 --------
 
 Peer review is the primary means of evaluating the quality and validity
-of scientific publications. With an ever-increasing deluge of articles
-of variable quality, the difficulty for individual reviewers to review
-the increasingly complex and multidisciplinary content of articles, and
-the use of journal impact factors as proxies for evaluations of
-individual articles, the integrity of the review process, and indeed of
-science, is imperiled. The review process is fraught with many problems
-that undermine the pace, validity, and credibility of science. These
-problems include: reviewers are expected to have comprehensive
-expertise, do not have sufficient access to methods and materials to
-evaluate a study, and are not acknowledged, that there is no measure of
-the quality of a review, and reviews cannot evolve. To address these
-problems, we propose an open review process that draws on the ideas,
-experience, and technologies recently developed to support code review
-in open source software projects.
+of scientific publications. With an increasing number of articles of
+variable quality, unreasonable demands placed on individual reviewers to
+review complex and multidisciplinary content of articles, and use of
+journal impact factors as proxies for evaluations of individual
+articles, the integrity of the review process, and indeed of science,
+is\ :sup:``[a] <#cmnt1>`_`\  imperiled. The review process is fraught
+with many problems that undermine the pace, validity, and credibility of
+science. These problems include: reviewers are expected to have
+comprehensive expertise, do not have sufficient access to methods and
+materials to evaluate a study, and are not acknowledged, that there is
+no measure of the quality of a review, and reviews cannot evolve. To
+address these problems, we propose an open review process that draws on
+the ideas, experience, and technologies recently developed to support
+code review in open source software projects.
 
 .. contents::
 
@@ -539,7 +539,14 @@ publication [cite: XXX] solicits reviews from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[a] <#cmnt_ref1>`_jbpoline:
+`[a] <#cmnt_ref1>`_fdo.perez:
+
+While I understand where you come from and agree with the idea, it may
+sound a bit over the top to put "the integrity of science" in question
+right up front. I think a statement that strong should perhaps be
+reached after some more elaboration... Just a thought.
+
+`[b] <#cmnt_ref2>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -559,7 +566,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[b] <#cmnt_ref2>`_binarybottle:
+`[c] <#cmnt_ref3>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -576,20 +583,13 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[d] <#cmnt_ref4>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
 section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
-
-`[d] <#cmnt_ref4>`_fdo.perez:
-
-While I understand where you come from and agree with the idea, it may
-sound a bit over the top to put "the integrity of science" in question
-right up front. I think a statement that strong should perhaps be
-reached after some more elaboration... Just a thought.
 
 `[e] <#cmnt_ref5>`_stnava:
 
