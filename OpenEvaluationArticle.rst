@@ -83,16 +83,11 @@ results are obtained and advances in media by which results are
 disseminated.
 
 In contrast, the typical code review process during software development
-
-community (Google, ITK, etc) relies on collaboration between often
-physically distant software authors and code reviewers. As an example,
-the Gerrit code review system enables ordered and systematic discussions
-of not only the editorial content of scientific work but also the
-scripts, compilable code and data, and provides reviewers the ability to
-interact, modify, annotate and discuss the contents of an author's
-submission. Indeed, the purpose of Gerrit mirrors the purpose of
-scientific review: to increase the clarity, reproducibility and
-correctness of works that enter the canon.
+is often open, collaborative, and interactive, engaging many
+participants with varying levels of expertise. There is also an
+objective standard by which new code gets integrated into the main
+project. However some of the problems faced by article reviews are not
+as relevant in code review, such as
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
