@@ -167,7 +167,7 @@ of support, impartiality, or expertise of the reviews or reviewers. This
 closed process and lack of analytic or summary measures
 \ :sup:``[a] <#cmnt1>`_`\ assigned to specific portions of an article or
 its reviews prevents an evaluation or objective standardization of the
-scientific process.
+review process.
 
 5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
 
