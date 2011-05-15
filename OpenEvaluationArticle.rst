@@ -90,10 +90,10 @@ main project. An example review workflow for the Android project is
 shown in Figure X. Since computer programs are much more structured and
 objective than prose, it is more amenable to standardization and
 therefore to review. These code review systems also take advantage of
-some of the latest technologies. Despite all of these differences, the
-purpose of code review systems mirror the purpose of scientific review
-to increase the clarity, reproducibility and correctness of
-contributions.
+some of the latest technologies and have the potential to be used for
+publication review. Despite all of these differences, the purpose of
+code review systems mirror the purpose of publication review to increase
+the clarity, reproducibility and correctness of contributions.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
@@ -109,6 +109,9 @@ Problems
 
 ----------------------
 
+Armamentaria are problematical (please contact the corresponding author
+for explication.)
+
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
 Reviewers are expected to work in isolation, unable to discuss the
@@ -117,7 +120,7 @@ with an article that may be authored by half a dozen or more experts in
 their respective disciplines, how could a few reviewers be expected to
 have the range of expertise necessary to adequately understand and gauge
 the significance (or insignificance) of all aspects of a given article?
-And why are the different components of an article, including the
+Why are the different components of an article, including the
 background, experimental design, methods, analysis of results, and
 interpretations handed over as a package to each reviewer, rather than
 delegated to many experts in each domain? Realistically, it is common
@@ -133,32 +136,16 @@ slow, and inefficient.
 2. \*\*Reviewers do not have sufficient access to methods and materials
 to evaluate a study.\*\*
 
-The typical review process does not require submission of data and
+The typical review process does not require submission of data or
 software associated with an article, and the descriptions provided in
 methods sections are often inadequate for replication. This makes it
 impossible for a reviewer, if so inclined, to fully evaluate an
 article’s methods, data quality, or software, let alone to replicate the
-analysis of the study. A related problem to not reporting findings in a
-replicable manner is not reporting replicated
-findings\ :sup:``[a] <#cmnt1>`_`\ . Articles are biased toward reporting
-novel findings, but from a scientific perspective, positive-, negative-
-and non-results are extremely useful to the community.
-
-[cite: ioannidis2005most]
-
-[http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124]
-
-[http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0040028]
-
-[cite: line2007reproducible]
-
-[cite: coombes2007microarrays]
-
-Failing to expose the methods, data, and software underlying a study can
-lead to needless misdirection and inefficiency, and even loss of
-scientific credibility. One well-known example is the case of XXX Chung,
-whose rigorous and correct experimental work was later retracted due to
-a software bug that undermined the paper's conclusions [cite:
+analysis of the study. Failing to expose the methods, data, and software
+underlying a study can lead to needless misdirection and inefficiency,
+and even loss of scientific credibility. One example is the case of XXX
+Chung, whose rigorous and correct experimental work was later retracted
+due to a software bug that undermined the paper's conclusions [cite:
 XXXNature].
 
 3. \*\*Reviewers are not acknowledged.\*\*
@@ -179,7 +166,7 @@ scrutiny and data mining, there is no attempt to even quantify the level
 of support, impartiality, or expertise of the reviews or reviewers.
 
 This closed process and lack of analytic or summary measures
-\ :sup:``[b] <#cmnt2>`_`\ prevents an evaluation or objective
+\ :sup:``[a] <#cmnt1>`_`\ prevents an evaluation or objective
 standardization of the scientific process.
 
 5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
@@ -195,7 +182,7 @@ methods, analysis, and interpretations of the results are all a product
 of their time and context, and at a later time may not stand up to
 scrutiny or may yield new insights. Simply enabling a continuing
 dialogue about each article would make it a living document and
-integrate it in a rich scientific dialogue. \ :sup:``[c] <#cmnt3>`_`\ 
+integrate it in a rich scientific dialogue. \ :sup:``[b] <#cmnt2>`_`\ 
 
 Proposed solutions
 
@@ -246,7 +233,7 @@ article, only able to comment, etc...
 \*Software review example:\*
 
 The software development community (Google,
-ITK\ :sup:``[d] <#cmnt4>`_`\ , etc) relies on collaboration between
+ITK\ :sup:``[c] <#cmnt3>`_`\ , etc) relies on collaboration between
 often physically distant software authors and code reviewers. We propose
 to draw ideas from existing code review systems such as Gerrit and
 GitHub to enable ordered and systematic discussions of not only the
@@ -284,7 +271,7 @@ changes taking place as a function of the discussion.
 While this interface addresses code review, we recommend the following
 changes in the context of publication review. A reviewer should be able
 to select one or more sections of text instead of a line at a
-time\ :sup:``[e] <#cmnt5>`_`\  (sections can be words, phrases,
+time\ :sup:``[d] <#cmnt4>`_`\  (sections can be words, phrases,
 sentences or paragraphs) from the article or comments regarding the
 article. A mock-up of such a system is shown in Figure X. While such
 code review stops once the pull request is accepted or merged into the
@@ -323,7 +310,7 @@ processing components for part of a neuroimaging analysis. Such
 information can complement methods sections in articles.
 
 With regard to publication bias, reviewers should not judge every
-article based on novelty\ :sup:``[f] <#cmnt6>`_`\ , but instead
+article based on novelty\ :sup:``[e] <#cmnt5>`_`\ , but instead
 encourage replication of experiments as well as publication of
 experiments that did not produce results. By appropriately labeling the
 articles as such, one can quantify the success of a method or paradigm
@@ -459,7 +446,7 @@ versed in the general stylistic guidelines as well as code optimization
 for execution speed, memory consumption and readability. Since the
 review process is open, the code tends to get reviewed by the most
 pertinent as well as a diverse group of
-people\ :sup:``[g] <#cmnt7>`_`\ . This results in making the code the
+people\ :sup:``[f] <#cmnt6>`_`\ . This results in making the code the
 best it can be as the overall goal is to improve the quality of the
 software through constructive criticism. However, since the entire code
 is maintained in an online repository, registered members can continue
@@ -516,6 +503,22 @@ at every stage in the evolution of a
 
 project.
 
+A related problem to not reporting findings in a replicable manner is
+not reporting replicated findings\ :sup:``[g] <#cmnt7>`_`\ . Articles
+are biased toward reporting novel findings, but from a scientific
+perspective, positive-, negative- and non-results are extremely useful
+to the community.
+
+[cite: ioannidis2005most]
+
+[http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0020124]
+
+[http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0040028]
+
+[cite: line2007reproducible]
+
+[cite: coombes2007microarrays]
+
 `http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_
 
 Reviewers are biased by personal motives
@@ -561,40 +564,40 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-the issue of positive results bias is a very important (and widely
-studied) one, but it's really a little separate from the title of this
-section, and I think it's a distraction to conflate it here. The title
-of the section starts talking about one thing, and then the text goes
-off in a different direction.
-
-`[b] <#cmnt_ref2>`_fdo.perez:
-
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[b] <#cmnt_ref2>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[c] <#cmnt_ref3>`_fdo.perez:
 
 ??? What is this?
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[d] <#cmnt_ref4>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[e] <#cmnt_ref5>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[g] <#cmnt_ref7>`_fdo.perez:
+`[f] <#cmnt_ref6>`_fdo.perez:
 
 This sentence parses really weird
+
+`[g] <#cmnt_ref7>`_fdo.perez:
+
+the issue of positive results bias is a very important (and widely
+studied) one, but it's really a little separate from the title of this
+section, and I think it's a distraction to conflate it here. The title
+of the section starts talking about one thing, and then the text goes
+off in a different direction.
 
 `[h] <#cmnt_ref8>`_jbpoline:
 
