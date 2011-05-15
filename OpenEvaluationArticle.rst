@@ -38,6 +38,10 @@ propose an open review process that draws on the ideas, experience, and
 technologies recently developed to support code review in open source
 software projects.
 
+The review process should be an extension of the scientific discourse
+that takes place in laboratories when initiating ideas for experiments
+and discussing results.
+
 .. contents::
 
 Introduction
@@ -234,14 +238,18 @@ research and in complex software projects, specialists focus on specific
 components of the problem. However, unlike scientific review, code
 review is not limited to specialists. When multiple pairs of eyes look
 at code, the code improves, bugs are caught, and all participants are
-encouraged to write better code.
+encouraged to write better code. Existing code review systems such as
+Gerrit (http://code.google.com/p/gerrit) and GitHub (http://github.com)
+are built for such a distributed review process and provide reviewers
+the ability to interact, modify, annotate and discuss the contents of
+submitted code changes. While no journals provide a platform for
+performing for such open and distributed review, the Frontiers journals
+do provide an interactive discussion forum for authors and reviewers to
+improve the quality of a submission after an initial closed review.
 
-Existing code review systems such as Gerrit
-(http://code.google.com/p/gerrit) and GitHub (http://github.com) provide
-reviewers the ability to interact, modify, annotate and discuss the
-contents of submitted code changes. Indeed, the purpose of these systems
-mirror the purpose of scientific review to increase the clarity,
-reproducibility and correctness of works that enter the canon.
+Indeed, the purpose of these systems mirror the purpose of scientific
+review to increase the clarity, reproducibility and correctness of works
+that enter the canon.
 
 An example of a collaborative code review process, GitHub provides a
 software hosting service together with a web-based front-end for
