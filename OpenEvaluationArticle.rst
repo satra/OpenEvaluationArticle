@@ -319,8 +319,9 @@ software or data. Currently, it is considered adequate for article
 reviewers to simply read a submitted article. However, code reviewers
 must not only be able to read the code, they must also see the output of
 running the code. To do this they require access to relevant data or to
-automated testing results. Code review systems store the complete
-history of the code through software version control systems such as Git
+automated testing results. Code review systems are not meant to store
+data, but complement such information by storing the complete history of
+the code through software version control systems such as Git
 (git-scm.com) and Mercurial (mercurial.selenic.com). In addition to
 providing access to this history, these systems also provide other
 pertinent details such as problems, their status (whether fixed or not),
@@ -332,12 +333,11 @@ reviewer to comment on submitted code.
 
 \*Enhancing code review systems for article review:\*
 
-Software review systems are built for code, not for data. In some
-disciplines (such as neuroimaging) the amount of data can be large, and
-these code review/control systems are not built to handle such extensive
-quantities of data. However, such review systems can be coupled with
-database systems (e.g., Extensible Neuroimaging Archive Toolkit - XNAT)
-to enable storage of such large amounts of data.
+As stated earlier, code review systems are built for code, not for data.
+In some disciplines (such as neuroimaging) the amount of data can be
+large. Code review systems should be coupled with database systems
+(e.g., Extensible Neuroimaging Archive Toolkit - XNAT) to enable storage
+of such large amounts of data.
 
 3. \*\*Acknowledge reviewers\*\*
 
@@ -350,25 +350,26 @@ in that dialogue gets heard. Second, it transforms the review process
 from one of secrecy to one of engaging social discourse. Third, an open
 review process makes it possible to quantitatively assess reviewer
 contributions, which could lead to assessments for promotions and
-grants. There are two things that can be used towards assessment of
-reviewers. First, reviewer names are immediately associated with the
-publication. Second, reviewer grades eventually become associated with
-the reviewer based on community feedback on the reviews.
+grants. There are two things that can be used to acknowledge reviewers.
+First, reviewer names (e.g., Frontiers) and contributions (e.g.,
+BioMedCentral) are immediately associated with the publication. Second,
+measures of review quality eventually become associated with the
+reviewer based on community feedback on the reviews.
 
 \*Relevance of code review systems:\*
 
 In software development, reviewers are acknowledged implicitly by having
 their names associated with comments related to a code review. Other
 systems, like Geritt and GitHub explicitly list the reviewers
-participating in the review process. An example from Geritt is shown
-below.
+participating in the review process. An example from Geritt is shown in
+Figure X.
 
 .. figure:: images/image04.png
    :align: center
    :alt: 
 Figure X: A web page snippet from the Geritt code review system used for
-ITK. This explicitly lists the reviewers who are participating in the
-review.
+ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
+are participating in the review.
 
 \*Enhancing code review systems for article review:\*
 
