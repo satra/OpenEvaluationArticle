@@ -246,16 +246,16 @@ Frontiers journals do provide an interactive discussion forum for
 authors and reviewers to improve the quality of a submission after an
 initial closed review.
 
-As an example of a collaborative system, GitHub provides a web-based
-front-end for code review and interactive discussion of software
+In As an example of a collaborative system, GitHub provides a web
+interface for code review and interactive discussion of software
 projects. Similar to a publication workflow, authors submit code for
 review. This code is available for everyone to view and for registered
-GitHub members to comment on and report issues. The interactive review
-interface combines discussion together with a mechanism for accepting
-new updates to the code that fixes unresolved issues or reviewer
-comments. The web interface allows inserting comments in an interactive
-discussion form or for any given line of the code. These discussions
-become part of the permanent log of the project.
+GitHub members to comment on and report issues using an interactive web
+interface. The interface combines a discussion forum that allows
+inserting comments on any given line of code together with a mechanism
+for accepting new updates to the code that fix unresolved issues or
+address reviewer comments. These interactive discussions become part of
+a permanent log of the project.
 
 .. figure:: images/image06.png
    :align: center
