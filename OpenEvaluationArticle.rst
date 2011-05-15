@@ -86,12 +86,11 @@ For the review process to continue to play a critical role in science,
 there are a number of problems that need to be addressed, five of which
 we list below. While there are notable examples of journals (e.g.,
 ArXiv, Frontiers, BioMed Central, PLoS) that address some of these
-problems, we consider the vast majority
-
-To address these problems, in the following section we propose an open
-evaluation system for scientific publishing that draws on the ideas,
-experience, and technologies recently developed to support code review
-in open source software projects.
+individual problems, we consider the vast majority of journals that do
+not. To address all of these problems, in the following section we
+propose an open evaluation system for scientific publishing that draws
+on the ideas, experience, and technologies recently developed to support
+code review in open source software projects.
 
 1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
 
@@ -162,8 +161,9 @@ The closed and anonymous review process is not only lost from external
 scrutiny and data mining, there is no attempt to even quantify the level
 of support, impartiality, or expertise of the reviews or reviewers.
 
-This closed process and lack of analytic or summary measures prevents an
-evaluation or objective standardization of the scientific process.
+This closed process and lack of analytic or summary measures
+\ :sup:``[b] <#cmnt2>`_`\ prevents an evaluation or objective
+standardization of the scientific process.
 
 5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
 
@@ -546,7 +546,14 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[b] <#cmnt_ref2>`_jbpoline:
+`[b] <#cmnt_ref2>`_fdo.perez:
+
+Be careful with how this argument is constructed. Above you point out
+the detrimental effects of the crazy focus on all kinds of publication
+impact metrics, yet here you seem to be arguing for similar metrics in
+the review process...
+
+`[c] <#cmnt_ref3>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -566,7 +573,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[c] <#cmnt_ref3>`_binarybottle:
+`[d] <#cmnt_ref4>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -583,22 +590,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[e] <#cmnt_ref5>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[e] <#cmnt_ref5>`_stnava:
+`[f] <#cmnt_ref6>`_stnava:
 
 move elsewhere
 
-`[f] <#cmnt_ref6>`_binarybottle:
+`[g] <#cmnt_ref7>`_binarybottle:
 
 if and in which journal an article
 
-`[g] <#cmnt_ref7>`_kimlumbard:
+`[h] <#cmnt_ref8>`_kimlumbard:
 
 Howdy all!
 
@@ -638,24 +645,17 @@ binarybottle:
 
 thank you, kim!
 
-`[h] <#cmnt_ref8>`_millman.ucb:
+`[i] <#cmnt_ref9>`_millman.ucb:
 
 update at the end to include everyone
 
-`[i] <#cmnt_ref9>`_fdo.perez:
+`[j] <#cmnt_ref10>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[j] <#cmnt_ref10>`_fdo.perez:
-
-This sentence parses really weird
-
 `[k] <#cmnt_ref11>`_fdo.perez:
 
-Be careful with how this argument is constructed. Above you point out
-the detrimental effects of the crazy focus on all kinds of publication
-impact metrics, yet here you seem to be arguing for similar metrics in
-the review process...
+This sentence parses really weird
 
 `[l] <#cmnt_ref12>`_yarikoptic:
 
