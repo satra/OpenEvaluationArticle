@@ -248,17 +248,14 @@ initial closed review.
 
 As an example of a collaborative system, GitHub provides a web-based
 front-end for code review and interactive discussion of software
-projects. The code that is the subject of review and discussion is
-available for everyone to view and for registered GitHub members to
-comment on and report issues. A typical analogy to submitting an article
-for publication would be for a developer to send maintainers of a
-project a message to integrate the developer’s changes to the code into
-the main project. Such a request is handled via a web interface that
-combines discussion together with the code changes. Although the primary
-developers of the project get the email, any GitHub member is allowed to
-comment on such a request. The web interface allows inserting comments
-in an interactive discussion form or for any given line of the code.
-These pull requests become part of the permanent log of the project.
+projects. Similar to a publication workflow, authors submit code for
+review. This code is available for everyone to view and for registered
+GitHub members to comment on and report issues. The interactive review
+interface combines discussion together with a mechanism for accepting
+new updates to the code that fixes unresolved issues or reviewer
+comments. The web interface allows inserting comments in an interactive
+discussion form or for any given line of the code. These discussions
+become part of the permanent log of the project.
 
 .. figure:: images/image06.png
    :align: center
