@@ -173,15 +173,14 @@ impossible to evaluate or standardize the review process.
 A lengthy review process holds up grant submissions, funding of research
 programs, and the progress of science itself. And even after this
 process, for the vast majority of articles none of the information
-generated during the review (criticism and feedback) is made available.
-Furthermore, after an article has been published, the review process
-simply ends even for those who participated, as if the work and
-interpretations of the results are sealed in a time capsule. Data,
-methods, analysis, and interpretations of the results are all a product
-of their time and context, and at a later time may not stand up to
-scrutiny or may yield new insights. Simply enabling a continuing
-dialogue about each article would make it a living document and
-integrate it in a rich scientific dialogue. \ :sup:``[a] <#cmnt1>`_`\ 
+(criticism or feedback) generated during the review is made publicly
+available (BioMed Central is one counterexample). Furthermore, after an
+article has been published, the review process simply ends even for
+those who participated, as if the work and interpretations of the
+results are sealed in a time capsule. Data, methods, analysis, and
+interpretations of the results are all a product of their time and
+context, and at a later time may not stand up to scrutiny or may yield
+new insights.
 
 Proposed solutions
 
@@ -201,17 +200,17 @@ potential to address every one of the problems raised above.
 
 Reviewers would no longer work in isolation or necessarily in anonymity,
 benefiting from direct, dynamic, and interactive communication with the
-authors and the world of potential reviewers to clarify points, resolve
-ambiguities, receive open collegial advice, attract feedback from people
-well outside of the authors' disciplines, and situate the discussion in
-the larger scientific community. Because each reviewer's feedback can be
-focused on his or her specialty or area of interest, there is less
-burden placed on any one reviewer, enabling a more comprehensive and
-timely review. In any complex software project, there are specialists
-who focus on certain components of the software. However, code review is
-not limited to specialists. When multiple pairs of eyes look at code,
-the code improves, bugs are caught, and all participants are encouraged
-to write better code.
+authors and the world of potential reviewers. This would help reviewers
+to clarify points, resolve ambiguities, receive open collegial advice,
+attract feedback from people well outside of the authors' disciplines,
+and situate the discussion in the larger scientific community. Because
+each reviewer's feedback can be focused on his or her specialty or area
+of interest, there is less burden placed on any one reviewer, enabling a
+more comprehensive and timely review. In any complex software project,
+there are specialists who focus on certain components of the software.
+However, code review is not limited to specialists. When multiple pairs
+of eyes look at code, the code improves, bugs are caught, and all
+participants are encouraged to write better code.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -232,7 +231,7 @@ article, only able to comment, etc...
 \*Software review example:\*
 
 The software development community (Google,
-ITK\ :sup:``[b] <#cmnt2>`_`\ , etc) relies on collaboration between
+ITK\ :sup:``[a] <#cmnt1>`_`\ , etc) relies on collaboration between
 often physically distant software authors and code reviewers. We propose
 to draw ideas from existing code review systems such as Gerrit and
 GitHub to enable ordered and systematic discussions of not only the
@@ -270,7 +269,7 @@ changes taking place as a function of the discussion.
 While this interface addresses code review, we recommend the following
 changes in the context of publication review. A reviewer should be able
 to select one or more sections of text instead of a line at a
-time\ :sup:``[c] <#cmnt3>`_`\  (sections can be words, phrases,
+time\ :sup:``[b] <#cmnt2>`_`\  (sections can be words, phrases,
 sentences or paragraphs) from the article or comments regarding the
 article. A mock-up of such a system is shown in Figure X. While such
 code review stops once the pull request is accepted or merged into the
@@ -309,7 +308,7 @@ processing components for part of a neuroimaging analysis. Such
 information can complement methods sections in articles.
 
 With regard to publication bias, reviewers should not judge every
-article based on novelty\ :sup:``[d] <#cmnt4>`_`\ , but instead
+article based on novelty\ :sup:``[c] <#cmnt3>`_`\ , but instead
 encourage replication of experiments as well as publication of
 experiments that did not produce results. By appropriately labeling the
 articles as such, one can quantify the success of a method or paradigm
@@ -437,6 +436,10 @@ just as a method or philosophy, but as a social endeavor. This could
 make scientific review and science a more welcoming community, and more
 desirable career choice.
 
+Simply enabling a continuing dialogue about each article would make it a
+living document and integrate it in a rich scientific dialogue.
+\ :sup:``[d] <#cmnt4>`_`\ 
+
 \*Software review example:\*
 
 In a software project, code reviews are performed by people who are
@@ -563,21 +566,21 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-Don't engage in solution proposals here, since you're so far just
-statinng the various problems...
-
-`[b] <#cmnt_ref2>`_fdo.perez:
-
 ??? What is this?
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[b] <#cmnt_ref2>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[d] <#cmnt_ref4>`_fdo.perez:
+`[c] <#cmnt_ref3>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
+
+`[d] <#cmnt_ref4>`_fdo.perez:
+
+Don't engage in solution proposals here, since you're so far just
+statinng the various problems...
 
 `[e] <#cmnt_ref5>`_fdo.perez:
 
