@@ -315,10 +315,11 @@ analyses for every publication.
 While certain journals (e.g., PLoS One, Insight Journal) require code to
 be submitted for any article describing software or algorithm
 development, most journals do not require submission of relevant
-software or data and reviewers do not have access to information beyond
-the submitted article. Unlike article reviewers, for code reviewers it
-is essential to see the output of running code or have access to
-software testing dashboards.
+software or data. Currently, it is considered adequate for article
+reviewers to simply read a submitted article. However, code reviewers
+must not only be able to read the code, they must also see the output of
+running the code. To do this they require access to relevant data or to
+automated testing results.
 
 software code review systems are strongly connected to software version
 control systems such as Git (git-scm.com) and Mercurial
