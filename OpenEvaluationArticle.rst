@@ -204,13 +204,10 @@ authors and the world of potential reviewers. This would help reviewers
 to clarify points, resolve ambiguities, receive open collegial advice,
 attract feedback from people well outside of the authors' disciplines,
 and situate the discussion in the larger scientific community. Because
-each reviewer's feedback can be focused on his or her specialty or area
-of interest, there is less burden placed on any one reviewer, enabling a
-more comprehensive and timely review. In any complex software project,
-there are specialists who focus on certain components of the software.
-However, code review is not limited to specialists. When multiple pairs
-of eyes look at code, the code improves, bugs are caught, and all
-participants are encouraged to write better code.
+each reviewer's feedback can be focused on portions of the article that
+reflect the reviewer’s specialty or area of interest, there is less
+burden placed on any one reviewer, enabling a more comprehensive and
+timely review.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -223,12 +220,17 @@ would still improve scientific rigor while lessening the burden on each
 individual reviewer, as long as they review specific components of the
 article they are knowledgeable about. A third would be to conduct a
 preview consisting of a limited and expedited review process preceding a
-full and open review.
-
-.. meritocracy -> different roles: mediator, able to change status of
-article, only able to comment, etc...
+full and open review. At different stages of such a tiered review,
+reviewers might be assigned different roles: mediator, able to change
+status of article, only able to comment, etc...
 
 \*Software review example:\*
+
+In any complex software project, there are specialists who focus on
+certain components of the software. However, code review is not limited
+to specialists. When multiple pairs of eyes look at code, the code
+improves, bugs are caught, and all participants are encouraged to write
+better code.
 
 The software development community (Google,
 ITK\ :sup:``[a] <#cmnt1>`_`\ , etc) relies on collaboration between
