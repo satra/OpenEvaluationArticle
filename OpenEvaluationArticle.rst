@@ -163,11 +163,11 @@ promotion and funding opportunities .
 
 The closed and anonymous review process is not only lost from external
 scrutiny and data mining, there is no attempt to even quantify the level
-of support, impartiality, or expertise of the reviews or reviewers.
-
-This closed process and lack of analytic or summary measures
-\ :sup:``[a] <#cmnt1>`_`\ prevents an evaluation or objective
-standardization of the scientific process.
+of support, impartiality, or expertise of the reviews or reviewers. This
+closed process and lack of analytic or summary measures
+\ :sup:``[a] <#cmnt1>`_`\ assigned to specific portions of an article or
+its reviews prevents an evaluation or objective standardization of the
+scientific process.
 
 5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
 
