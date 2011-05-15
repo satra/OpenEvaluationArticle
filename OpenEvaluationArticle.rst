@@ -374,7 +374,9 @@ are participating in the review.
 \*Enhancing code review systems for article review:\*
 
 The criterion for accepting code is based on the functionality of the
-final code rather than
+final code rather than the quality of reviews. As such code review
+systems typically do not have a quantitative, non-social mechanism to
+rate the quality of reviews.
 
 In our proposed model for peer review, reviewers can select articles for
 review and only portions of those articles and comments about those
