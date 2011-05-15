@@ -84,8 +84,9 @@ disseminated.
 
 For the review process to continue to play a critical role in science,
 there are a number of problems that need to be addressed, five of which
-we list below. While there are notable examples (e.g., ArXiv, Frontiers,
-BioMed Central, PLoS)
+we list below. While there are notable examples of journals (e.g.,
+ArXiv, Frontiers, BioMed Central, PLoS) that address some of these
+problems, we consider the vast majority
 
 To address these problems, in the following section we propose an open
 evaluation system for scientific publishing that draws on the ideas,
