@@ -448,15 +448,19 @@ Code review invites and requires participation from people with
 differing degrees of expertise and knowledge of the project. This leads
 to higher quality of the code as well as faster development than
 individual programmers could normally contribute. These contributions
-are also made well beyond the initial code review.
-
-However, since the entire code is maintained in an online repository,
-registered members can continue to comment on the code beyond the time
-when it is integrated into the codebase. Furthermore, this allows for
-bugs to be detected and improvements to be made well beyond the initial
-review.
+are also made well beyond the initial code review allowing for bugs to
+be detected and improvements to be made. Extending the life of the
+review process beyond initial review could result in similar benefits.
 
 \*Enhancing code review systems for article review:\*
+
+Current code-review systems have components to expedite review and for
+continued review within a single code-review systems. However, one
+cannot perform reviews that cross-link different code review systems
+(e.g., git vs mercurial based systems). In the context of scientific
+publications, we recommend that reviews be shared between such systems
+similar to the Neuroscience Peer Review Consortium
+(http://nprc.incf.org)
 
 Metrics
 
