@@ -312,12 +312,12 @@ processing components for part of a neuroimaging analysis. Such
 information can complement methods sections in articles.
 
 With regard to publication bias, reviewers should not judge every
-article based on novelty, but instead encourage replication of
-experiments as well as publication of experiments that did not produce
-results. By appropriately labeling the articles as such, one can
-quantify the success of a method or paradigm as well as provide an
-additional factor in assessing scientists' contributions to the
-community.
+article based on novelty\ :sup:``[f] <#cmnt6>`_`\ , but instead
+encourage replication of experiments as well as publication of
+experiments that did not produce results. By appropriately labeling the
+articles as such, one can quantify the success of a method or paradigm
+as well as provide an additional factor in assessing scientists'
+contributions to the community.
 
 \*Software review example:\*
 
@@ -579,7 +579,11 @@ statinng the various problems...
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[f] <#cmnt_ref6>`_jbpoline:
+`[f] <#cmnt_ref6>`_fdo.perez:
+
+Frontiers has this already in its editorial policy
+
+`[g] <#cmnt_ref7>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -599,7 +603,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[g] <#cmnt_ref7>`_binarybottle:
+`[h] <#cmnt_ref8>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -616,22 +620,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[h] <#cmnt_ref8>`_fdo.perez:
+`[i] <#cmnt_ref9>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[i] <#cmnt_ref9>`_stnava:
+`[j] <#cmnt_ref10>`_stnava:
 
 move elsewhere
 
-`[j] <#cmnt_ref10>`_binarybottle:
+`[k] <#cmnt_ref11>`_binarybottle:
 
 if and in which journal an article
 
-`[k] <#cmnt_ref11>`_kimlumbard:
+`[l] <#cmnt_ref12>`_kimlumbard:
 
 Howdy all!
 
@@ -671,13 +675,9 @@ binarybottle:
 
 thank you, kim!
 
-`[l] <#cmnt_ref12>`_millman.ucb:
+`[m] <#cmnt_ref13>`_millman.ucb:
 
 update at the end to include everyone
-
-`[m] <#cmnt_ref13>`_fdo.perez:
-
-Frontiers has this already in its editorial policy
 
 `[n] <#cmnt_ref14>`_fdo.perez:
 
