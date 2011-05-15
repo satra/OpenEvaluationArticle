@@ -165,7 +165,7 @@ There is no attempt to quantify the quality, strength, impartiality, or
 expertise of the reviews or reviewers. Without measures associated with
 the quality of any portion of a review, the community is forced to trust
 the judgment of the editor and the journal’s impact factor as proxies
-for quality. The prevents external scrutiny, data mining, and makes it
+for quality. This prevents external scrutiny, data mining, and makes it
 impossible to evaluate or standardize the review process.
 
 5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
