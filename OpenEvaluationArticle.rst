@@ -448,13 +448,14 @@ conversant with a particular section of code along with people who are
 versed in the general stylistic guidelines as well as code optimization
 for execution speed, memory consumption and readability. Since the
 review process is open, the code tends to get reviewed by the most
-pertinent as well as a diverse group of people. This results in making
-the code the best it can be as the overall goal is to improve the
-quality of the software through constructive criticism. However, since
-the entire code is maintained in an online repository, registered
-members can continue to comment on the code beyond it being accepted.
-Furthermore, this allows for bugs to be detected and improvements to be
-made beyond initial review.
+pertinent as well as a diverse group of
+people\ :sup:``[g] <#cmnt7>`_`\ . This results in making the code the
+best it can be as the overall goal is to improve the quality of the
+software through constructive criticism. However, since the entire code
+is maintained in an online repository, registered members can continue
+to comment on the code beyond it being accepted. Furthermore, this
+allows for bugs to be detected and improvements to be made beyond
+initial review.
 
 \*Proposed improvements for publication review:\*
 
@@ -584,7 +585,11 @@ minutiae, out of place when you are discussing larger scope issues
 
 Frontiers has this already in its editorial policy
 
-`[g] <#cmnt_ref7>`_jbpoline:
+`[g] <#cmnt_ref7>`_fdo.perez:
+
+This sentence parses really weird
+
+`[h] <#cmnt_ref8>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -604,7 +609,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[h] <#cmnt_ref8>`_binarybottle:
+`[i] <#cmnt_ref9>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -621,22 +626,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[i] <#cmnt_ref9>`_fdo.perez:
+`[j] <#cmnt_ref10>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[j] <#cmnt_ref10>`_stnava:
+`[k] <#cmnt_ref11>`_stnava:
 
 move elsewhere
 
-`[k] <#cmnt_ref11>`_binarybottle:
+`[l] <#cmnt_ref12>`_binarybottle:
 
 if and in which journal an article
 
-`[l] <#cmnt_ref12>`_kimlumbard:
+`[m] <#cmnt_ref13>`_kimlumbard:
 
 Howdy all!
 
@@ -676,13 +681,9 @@ binarybottle:
 
 thank you, kim!
 
-`[m] <#cmnt_ref13>`_millman.ucb:
+`[n] <#cmnt_ref14>`_millman.ucb:
 
 update at the end to include everyone
-
-`[n] <#cmnt_ref14>`_fdo.perez:
-
-This sentence parses really weird
 
 `[o] <#cmnt_ref15>`_yarikoptic:
 
