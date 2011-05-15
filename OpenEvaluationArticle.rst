@@ -83,26 +83,16 @@ results are obtained and advances in media by which results are
 disseminated.
 
 In contrast, the typical code review process during software development
+
 community (Google, ITK, etc) relies on collaboration between often
-physically distant software authors and
-
-code reviewers. We propose to rely upon an existing code review
-
-system, Gerrit, to enable ordered and systematic discussions of not
-
-only the editorial content of scientific work but also the scripts,
-
-compilable code and data. Gerrit, as it currently stands today
-
-without modification, provides reviewers the ability to interact,
-
-modify, annotate and discuss the contents of an author's
-
-submission. Indeed, the purpose of Gerrit mirrors {\\em almost
-
-exactly} the purpose of scientific review: to increase the clarity,
-
-reproducibility and correctness of works that enter the canon.
+physically distant software authors and code reviewers. As an example,
+the Gerrit code review system enables ordered and systematic discussions
+of not only the editorial content of scientific work but also the
+scripts, compilable code and data, and provides reviewers the ability to
+interact, modify, annotate and discuss the contents of an author's
+submission. Indeed, the purpose of Gerrit mirrors the purpose of
+scientific review: to increase the clarity, reproducibility and
+correctness of works that enter the canon.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
@@ -287,11 +277,12 @@ changes taking place as a function of the discussion.
 
 While this interface addresses code review, we recommend the following
 changes in the context of publication review. A reviewer should be able
-to select one or more sections of text instead of a line at a time
-(sections can be words, phrases, sentences or paragraphs) from the
-article or comments regarding the article. A mock-up of such a system is
-shown in Figure X. While such code review stops once the pull request is
-accepted or merged into the main code, we recommend ...
+to select one or more sections of text instead of a line at a
+time\ :sup:``[e] <#cmnt5>`_`\  (sections can be words, phrases,
+sentences or paragraphs) from the article or comments regarding the
+article. A mock-up of such a system is shown in Figure X. While such
+code review stops once the pull request is accepted or merged into the
+main code, we recommend ...
 
 2. \*\*Provide reviewers materials and methods to perform comprehensive
 evaluation.\*\*
@@ -588,7 +579,12 @@ statinng the various problems...
 
 ??? What is this?
 
-`[e] <#cmnt_ref5>`_jbpoline:
+`[e] <#cmnt_ref5>`_fdo.perez:
+
+While this is important, I think it's a bit of low-level technical
+minutiae, out of place when you are discussing larger scope issues
+
+`[f] <#cmnt_ref6>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -608,7 +604,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[f] <#cmnt_ref6>`_binarybottle:
+`[g] <#cmnt_ref7>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -625,22 +621,22 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[g] <#cmnt_ref7>`_fdo.perez:
+`[h] <#cmnt_ref8>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[h] <#cmnt_ref8>`_stnava:
+`[i] <#cmnt_ref9>`_stnava:
 
 move elsewhere
 
-`[i] <#cmnt_ref9>`_binarybottle:
+`[j] <#cmnt_ref10>`_binarybottle:
 
 if and in which journal an article
 
-`[j] <#cmnt_ref10>`_kimlumbard:
+`[k] <#cmnt_ref11>`_kimlumbard:
 
 Howdy all!
 
@@ -680,33 +676,33 @@ binarybottle:
 
 thank you, kim!
 
-`[k] <#cmnt_ref11>`_millman.ucb:
+`[l] <#cmnt_ref12>`_millman.ucb:
 
 update at the end to include everyone
 
-`[l] <#cmnt_ref12>`_fdo.perez:
+`[m] <#cmnt_ref13>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[m] <#cmnt_ref13>`_fdo.perez:
+`[n] <#cmnt_ref14>`_fdo.perez:
 
 This sentence parses really weird
 
-`[n] <#cmnt_ref14>`_yarikoptic:
+`[o] <#cmnt_ref15>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[o] <#cmnt_ref15>`_fdo.perez:
+`[p] <#cmnt_ref16>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[p] <#cmnt_ref16>`_binarybottle:
+`[q] <#cmnt_ref17>`_binarybottle:
 
 and are followed up by
 
-`[q] <#cmnt_ref17>`_binarybottle:
+`[r] <#cmnt_ref18>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -716,11 +712,6 @@ test or replicate work in the article. we can't expect every article to
 provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
-
-`[r] <#cmnt_ref18>`_fdo.perez:
-
-While this is important, I think it's a bit of low-level technical
-minutiae, out of place when you are discussing larger scope issues
 
 `[s] <#cmnt_ref19>`_yarikoptic:
 
