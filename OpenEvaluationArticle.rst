@@ -1,30 +1,32 @@
-.. \|emdash\| unicode:: U+02014
-
-========================================================================
-
 Learning from open-source software projects to improve scientific review
 
-========================================================================
+Satrajit S. Ghosh1, Arno Klein2, Brian Avants3, K. Jarrod Millman4
 
-:author: Satrajit Ghosh
+1 Research Laboratory of Electronics, Massachusetts Institute of
+Technology, Cambridge, MA, USA
 
-:institution: MIT
+2 Division of Molecular Imaging and Neuropathology, New York State
+Psychiatric Institute, Columbia University, New York, NY, USA
 
-:author: Arno Klein
+3 PICSL, Department of Radiology, University of Pennsylvania School of
+Medicine, Philadelphia, PA, USA
 
-:institution: Columbia University
+4 Helen Willis Neuroscience Institute, University of California,
+Berkeley, Berkeley, CA, USA
 
-:author: Brian Avants
+Correspondence:
 
-:institution: University of Pennsylvania
+Dr. Satrajit Ghosh
 
-:author: \`\`K. Jarrod Millman\`\`
+50 Vassar St
 
-:institution: University of California, Berkeley
+36-587 MIT
+
+Cambridge, MA 02139, USA
+
+Running title: Reviewing with open-source software systems
 
 Abstract
-
---------
 
 Peer review is the primary means of evaluating the quality and validity
 of scientific publications. The review process is fraught with many
@@ -38,11 +40,9 @@ propose an open review process that draws on the ideas, experience, and
 technologies recently developed to support code review in open source
 software projects.
 
-.. contents::
+Keywords:
 
 Introduction
-
-------------
 
 Peer-reviewed scientific publications continue to be the primary
 mechanism for dissemination of scientific information and for
