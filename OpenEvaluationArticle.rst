@@ -82,18 +82,19 @@ keeping pace with the dramatic advances in computing resources by which
 results are obtained and advances in media by which results are
 disseminated.
 
-In contrast, the typical code review process during software development
-is often open, collaborative, and interactive, engaging many
-participants with varying levels of expertise. There is a clear process
-by which comments get addressed and new code gets integrated into the
-main project. An example review workflow for the Android project is
-shown in Figure X. Since computer programs are much more structured and
-objective than prose, it is more amenable to standardization and
-therefore to review. These code review systems also take advantage of
-some of the latest technologies and have the potential to be used for
-publication review. Despite all of these differences, the purpose of
-code review systems mirror the purpose of publication review to increase
-the clarity, reproducibility and correctness of contributions.
+In contrast, the typical review process for programs (code review)
+during software development is often open, collaborative, and
+interactive, engaging many participants with varying levels of
+expertise. There is a clear process by which comments get addressed and
+new code gets integrated into the main project. An example review
+workflow for the Android project is shown in Figure X. Since computer
+programs are much more structured and objective than prose, it is more
+amenable to standardization and therefore to review. These code review
+systems also take advantage of some of the latest technologies and have
+the potential to be used for publication review. Despite all of these
+differences, the purpose of code review systems mirror the purpose of
+publication review to increase the clarity, reproducibility and
+correctness of contributions.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
@@ -224,7 +225,7 @@ full and open review. At different stages of such a tiered review,
 reviewers might be assigned different roles, such as mediator, editor,
 or commenter.
 
-\*Software review example:\*
+\*Analogy with code review:\*
 
 In any complex software project, there are specialists who focus on
 developing certain components of the software. However, code review is
@@ -239,27 +240,29 @@ contents of submitted code changes. Indeed, the purpose of these systems
 mirror the purpose of scientific review to increase the clarity,
 reproducibility and correctness of works that enter the canon.
 
-As an example, GitHub provides a software hosting service together with
-a web-based front-end for interacting with these projects. For these
-projects, code is available for everyone to view and for registered
-GitHub members to comment on and report issues. A typical analogy to
-submitting an article for publication would be for a developer to create
-a “pull request” that sends maintainers of a project a message to
-integrate the developer’s changes to the code into the main project.
-Such a request is handled via a web interface that combines discussion
-together with the code changes. Although the primary developers of the
-project get the “pull request” email, any GitHub member is allowed to
-comment on such a request. The web interface allows inserting comments
-in an interactive discussion form or for any given line of the code.
-These pull requests become part of the permanent log of the project.
+An example of a collaborative code review process, GitHub provides a
+software hosting service together with a web-based front-end for
+interacting with software projects.
+
+For these projects, code is available for everyone to view and for
+registered GitHub members to comment on and report issues. A typical
+analogy to submitting an article for publication would be for a
+developer to send maintainers of a project a message to integrate the
+developer’s changes to the code into the main project. Such a request is
+handled via a web interface that combines discussion together with the
+code changes. Although the primary developers of the project get the
+email, any GitHub member is allowed to comment on such a request. The
+web interface allows inserting comments in an interactive discussion
+form or for any given line of the code. These pull requests become part
+of the permanent log of the project.
 
 .. figure:: images/image06.png
    :align: center
    :alt: 
 Figure X. A snapshot from the web interface of a pull request of the
-NiPyPE project on GitHub, demonstrating part of a discussion thread,
-inline commenting of code (for line 98) as well as updates on code
-changes taking place as a function of the discussion.
+NiPyPE (nipy.org/nipype) project on GitHub, demonstrating part of a
+discussion thread, inline commenting of code (for line 98) as well as
+updates on code changes taking place as a function of the discussion.
 
 \*Proposed improvements for publication review:\*
 
@@ -287,48 +290,43 @@ We propose that data and software be submitted together with the
 article. This not only facilitates transparency for all readers
 including reviewers but also facilitates reproducibility and encourages
 method reuse. While rerunning an entire study’s analysis might not be
-currently feasible as part of a review process, simply exposing scripts
-can often help reviewers follow what was done and allows for replication
-of the results in the future. In the long run, virtual machines or
-servers may indeed allow standardization of analysis environments and
-replication of results for every publication. For example, a workflow
-graph from a neuroimaging analyses captures numerous details in a
-compact visual form which would otherwise be absent in the methods
-section from an article.
+currently feasible as part of a review process, simply exposing code can
+often help reviewers follow what was done and allows for replication of
+the results in the future. In the long run, virtual machines or servers
+may indeed allow standardization of analysis environments and
+replication of analyses for every publication. For example, a workflow
+graph (for example, Fig. X) from a neuroimaging analysis captures
+numerous details in a compact visual form which would otherwise be
+absent in a methods section.
 
 .. figure:: images/image05.png
    :align: center
    :alt: 
-Figure X: A graph generated by the NiPyPE software package captures the
-processing components for part of a neuroimaging analysis. Such
-information can complement methods sections in articles.
-
-With regard to publication bias, reviewers should not judge every
-article based on novelty\ :sup:``[a] <#cmnt1>`_`\ , but instead
-encourage replication of experiments as well as publication of
-experiments that did not produce results. By appropriately labeling the
-articles as such, one can quantify the success of a method or paradigm
-as well as provide an additional factor in assessing scientists'
-contributions to the community.
+Figure X: A graph generated by the NiPyPE software package captures a
+preprocessing workflow for brain image analysis showing which algorithms
+and software packages were used. Such information can complement an
+article’s methods section.
 
 \*Software review example:\*
 
 Software code review systems are strongly connected to software version
-control systems (e.g., git, svn) that store the complete history of the
-code. In addition to providing access to this history, these systems
-also provide other pertinent details (e.g., bug fixes and enhancements).
-Furthermore, during software development, specific versions of the
-software or particular files are tagged to reflect milestones during
-development. These milestones provide additional contextual information
-about the history of the project. All of these aspects are useful to
-capture the provenance of the project and enables the reviewer to
-appropriately comment on submitted code. It also plays a very important
-role in timestamping contributions to the project.
+control systems such as Git (git-scm.com) and Mercurial
+(mercurial.selenic.com) that store the complete history of the code. In
+addition to providing access to this history, these systems also provide
+other pertinent details such as problems, their status (whether fixed or
+not), timestamps and other enhancements. Furthermore, during software
+development, specific versions of the software or particular files are
+tagged to reflect milestones during development. All of these aspects
+are useful to capture the provenance of the project and provide
+sufficient contextual information for a reviewer to comment on submitted
+code.
+
+From a publication standpoint, su
 
 \*Proposed improvements for publication review:\*
 
-Software review systems are built for code not for data. In some
-disciplines (e.g., neuroimaging) the amount of data can be large, and
+Software review systems are built for code, not for data. In some
+disciplines (such as neuroimaging) the amount of data can be large, and
 these code review/control systems are not built to handle such extensive
 quantities of data. However, such review systems can be coupled with
 database systems (e.g., Extensible Neuroimaging Archive Toolkit - XNAT)
@@ -434,7 +432,7 @@ desirable career choice.
 
 Simply enabling a continuing dialogue about each article would make it a
 living document and integrate it in a rich scientific dialogue.
-\ :sup:``[b] <#cmnt2>`_`\ 
+\ :sup:``[a] <#cmnt1>`_`\ 
 
 \*Software review example:\*
 
@@ -444,7 +442,7 @@ versed in the general stylistic guidelines as well as code optimization
 for execution speed, memory consumption and readability. Since the
 review process is open, the code tends to get reviewed by the most
 pertinent as well as a diverse group of
-people\ :sup:``[c] <#cmnt3>`_`\ . This results in making the code the
+people\ :sup:``[b] <#cmnt2>`_`\ . This results in making the code the
 best it can be as the overall goal is to improve the quality of the
 software through constructive criticism. However, since the entire code
 is maintained in an online repository, registered members can continue
@@ -503,6 +501,14 @@ collaborative research and also ensures that optimal decisions are taken
 at every stage in the evolution of a
 
 project.
+
+With regard to publication bias, reviewers should not judge every
+article based on novelty\ :sup:``[c] <#cmnt3>`_`\ , but instead
+encourage replication of experiments as well as publication of
+experiments that did not produce results. By appropriately labeling the
+articles as such, one can quantify the success of a method or paradigm
+as well as provide an additional factor in assessing scientists'
+contributions to the community.
 
 A related problem to not reporting findings in a replicable manner is
 not reporting replicated findings\ :sup:``[d] <#cmnt4>`_`\ . Articles
@@ -565,16 +571,16 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_fdo.perez:
 
-Frontiers has this already in its editorial policy
-
-`[b] <#cmnt_ref2>`_fdo.perez:
-
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
 
-`[c] <#cmnt_ref3>`_fdo.perez:
+`[b] <#cmnt_ref2>`_fdo.perez:
 
 This sentence parses really weird
+
+`[c] <#cmnt_ref3>`_fdo.perez:
+
+Frontiers has this already in its editorial policy
 
 `[d] <#cmnt_ref4>`_fdo.perez:
 
