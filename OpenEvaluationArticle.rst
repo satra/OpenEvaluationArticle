@@ -121,12 +121,12 @@ interpretations handed over as a package to each reviewer, rather than
 delegated to many experts in each domain? Realistically, it is common
 practice for a reviewer to criticize portions of an article that he or
 she understands, is interested in, has time to read, and takes issue
-with, while falling silent on the rest of the article. GiThis leads an
-editor to falsely assume that uncommented portions have met with
-approval. The unrealistic expectations placed on each of the reviewers,
-coupled with the delayed and sequential interactions they have with the
-authors and editors, have made the review process unnecessarily tedious,
-slow, and inefficient.
+with, while falling silent on the rest of the article. Given the current
+This leads an editor to falsely assume that uncommented portions have
+met with approval. The unrealistic expectations placed on each of the
+reviewers, coupled with the delayed and sequential interactions they
+have with the authors and editors, have made the review process
+unnecessarily tedious, slow, and inefficient.
 
 2. Reviewers do not have sufficient access to methods and materials to
 evaluate a study.
@@ -370,8 +370,6 @@ Figure 5.
 Figure 5: A web page snippet from the Geritt code review system used for
 ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
 are participating in the review.
-
-Certain software
 
 Enhancing code review systems for article review
 
