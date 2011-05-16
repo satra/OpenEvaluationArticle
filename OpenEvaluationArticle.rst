@@ -501,19 +501,19 @@ publication. The classic “Like” tally used to indicate appreciation of a
 contribution in Digg.com, Facebook.com, etc., is the most obvious
 measure assigned by a community, but it is simplistic and vague. In
 addition to slow and direct measures of impact such as the number of
-times an article is citedations direct behavioral measures of interest
-as a proxy for impact or importance can be derived from clickstream
-data, web usage, number of article downloads. Other measures include
-those derived possibilities include measuring the activity, frequency
-(Figure X), impact (Figure X), and topic range of a contributor or their
+times an article is cited, there are faster, indirect behavioral
+measures of interest as a proxy for impact that can be derived from
+clickstream data, web usage, and number of article downloads. Other
+possibilities include measuring the activity, frequency (Figure X),
+impact (Figure X), and topic range of an author or reviewer or their
 contributions over time. It would also be possible to aggregate these
 metrics to assess the impact or importance of, for example,
 collaborators, coauthors, institutions, or different areas of
 multidisciplinary research as it relates to their contributions to
-scientific publishing, as collective authors and reviewers or as topics.
-As simple examples, one could add the number of quotations by two or
-more individuals in Figure X or the impact of two or more reviewers in
-Figure X.
+scientific publishing, as collective authors and reviewers or as
+inter-related topics. As simple examples, one could add the number of
+quotations by two or more individuals in Figure X or the impact of two
+or more reviewers in Figure X. This could
 
 clickstream data, web usage, downloads, citation
 
@@ -581,7 +581,7 @@ decisions are taken at every stage in the evolution of a project.
 
 As mentioned earlier, a number of the ideas presented in this article
 have already been adopted by various journal publishing entities.
-(`http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_)
+(`http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_).
 
 Reviewers are biased by personal motives
 
