@@ -41,12 +41,12 @@ provided with too little information who go unacknowledged, the quality
 of their reviews goes unmeasured, and reviews take a lot of time and
 once submitted cannot evolve. In this article, we argue that these
 problems can be addressed by opening up the review process to include
-many reviewers, provide them with the data and software to replicate a
-study, acknowledge their contributions, quantify the quality of their
-contributions, and ensure that reviews are timely and live on beyond the
-publication date. We propose that an effective means for implementing
-these changes would be to enhance current code review systems for
-software development to support article review.
+many reviewers, provide them with the data and software to replicate the
+results of a study, acknowledge their contributions, quantify the
+quality of their contributions, and ensure that reviews are timely and
+live on beyond the publication date. We propose that an effective means
+for implementing these changes would be to enhance current code review
+systems for software development to support article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development
@@ -66,13 +66,13 @@ amount of information apportioned to each article. Moreover, the lack of
 objective standards for the review process results in great variability
 in the percentage and quality of articles accepted. This has led to a
 hierarchy in the status of journals, often quantified by a journal's
-impact factor (Garfield, 1955). As such, certain journal titles are
-taken as arbiters of quality and significance of published works instead
-of the review process.
+impact factor (Garfield, 1955). As such, certain journal titles have
+overtaken the review process as arbiters of quality and significance of
+research.
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
-private review, typically by a small group of (3-5) peers presumed to
+private review, typically by a small group of (2-5) peers presumed to
 have expertise in the research topic.\ :sup:``[1] <#ftnt1>`_`\  The
 journal editor takes into consideration the reviewers' recommendations
 to either publish, reject or request revisions of the article. After
@@ -116,7 +116,7 @@ from distributed code review in open source software development.
 Figure 1. A patch submission workflow for the Android project. [source:
 http://source.android.com/source/life-of-a-patch.html]
 
-Problems with current peer-review system
+Problems with current peer-review process
 
 1. Reviewers are expected to have comprehensive expertise.
 
@@ -132,31 +132,32 @@ interpretations handed over as a package to each reviewer, rather than
 delegated to many experts in each domain? Realistically, it is common
 practice for a reviewer to criticize portions of an article that he or
 she understands, is interested in, has time to read, and takes issue
-with, while falling silent on the rest of the article. Given the current
-structure of the review process these silences are easily taken as a
-tacit approval. The unrealistic expectations placed on each of the
-reviewers, coupled with the delayed and sequential interactions they
-have with the authors and editors, have made the review process
-unnecessarily tedious, slow, and inefficient.
+with, while falling silent on the rest of the article. This leads an
+editor to assume these silences are indicators of tacit approval. The
+unrealistic expectations placed on each of the reviewers, coupled with
+the delayed and sequential interactions they have with the authors and
+editors, have made the review process unnecessarily tedious, slow, and
+inefficient.
 
 2. Reviewers do not have sufficient access to methods and materials to
 evaluate a study.
 
 The typical review process does not require submission of data or
-software associated with an article (ACM TOMS is an early exception),
-and the descriptions provided in methods sections are often inadequate
-for replication. This makes it impossible for a reviewer, if so
-inclined, to fully evaluate an article’s methods, data quality, or
-software, let alone to replicate the analysis of the study. Failing to
-expose the methods, data, and software underlying a study can lead to
-needless misdirection and inefficiency, and even loss of scientific
-credibility. One example is the case of Geoffrey Chang, whose rigorous
-and correct experimental work was later retracted due to a software bug
-that undermined the paper's conclusions (Chang et al., 2006).
+software associated with an article (Association for Computing Machinery
+Transactions on Mathematical Software was an early exception), and the
+descriptions provided in methods sections are often inadequate for
+replication. This makes it impossible for a reviewer, if so inclined, to
+fully evaluate an article’s methods, data quality, or software, let
+alone to replicate the results of the study. Failing to expose the
+methods, data, and software underlying a study can lead to needless
+misdirection and inefficiency, and even loss of scientific credibility.
+One example is the case of Geoffrey Chang, whose rigorous and correct
+experimental work was later retracted due to a software bug that
+undermined the paper's conclusions (Chang et al., 2006).
 
 3. Reviewers are not acknowledged.
 
-Reviewing is currently considered one's unpaid "duty" to maintain the
+Review is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. The reviewer stands to
 gain by early exposure to relevant areas of research, while a publisher
 stands to gain financially through either publication or subscription
@@ -171,8 +172,8 @@ There is no attempt to quantify the quality, strength, impartiality, or
 expertise of the reviews or reviewers. Without measures associated with
 the quality of any portion of a review, the community is forced to trust
 the judgment of the editor and the journal’s impact factor as proxies
-for quality. This prevents external scrutiny, data mining, and makes it
-impossible to evaluate or standardize the review process.
+for quality. This prevents external scrutiny and makes it impossible to
+evaluate or standardize the review process.
 
 5. Reviews take a lot of time, and once submitted cannot evolve.
 
@@ -188,19 +189,18 @@ interpretations of the results are all a product of their time and
 context, and at a later time may not stand up to scrutiny or may yield
 new insights.
 
-Proposed re-design of the peer review system
+Proposed re-design of the peer review process
 
 While there are notable examples of journals (e.g., Frontiers -
 frontiersin.org, BioMedCentral - biomedcentral.com, PLoS One -
 plosone.org) and paper archives (arXiv.org) that address some of the
 above individual problems, the vast majority of journals do not. In this
-section, we address all of these problems by proposing an open
-evaluation system for scientific publishing that draws on the ideas,
-experience, and technologies recently developed to support community
-code review in open source software projects. Opening up the review
-process to everyone, not just to a select few anonymous reviewers, has
-the potential to address every one of the problems raised above. In the
-following sections, for each of the problems listed above, we first
+section, we propose an open evaluation system for scientific publishing
+that draws on the ideas, experience, and technologies recently developed
+to support community code review in open source software projects.
+Opening up the review process to everyone, not just to a select few
+anonymous reviewers, has the potential to address every one of the
+problems raised above. For each of the problems listed above, we first
 describe our proposed solution, then highlight the relevance of current
 code review systems in addressing the problem and finally describe
 enhancements to the current systems to support our proposed solution.
@@ -252,25 +252,25 @@ and discuss the contents of submitted code changes.
 .. figure:: images/image01.png
    :align: center
    :alt: 
-Figure 2. A snapshot from the web interface of a pull request of the
-NiPyPE (nipy.org/nipype) project on GitHub, demonstrating part of a
-discussion thread, inline commenting of code (for line 98) as well as
-updates on code changes taking place as a function of the discussion.
+Figure 2. A snapshot from the web interface of a request to merge code
+into the NiPyPE (nipy.org/nipype) project on GitHub, demonstrating part
+of a discussion thread, inline commenting of code (for line 98) as well
+as updates on code changes taking place as a function of the discussion.
 
 Indeed, the purpose of these systems mirror the purpose of scientific
-review to increase the clarity, reproducibility and correctness of works
-that enter the canon. While no journals provide a platform for
-performing for such open and distributed review, the Frontiers journals
-do provide an interactive discussion forum for authors and reviewers to
-improve the quality of a submission after an initial closed review. In
-GitHub, code is available for everyone to view and for registered GitHub
-members to comment on and report issues using an interactive web
-interface. The interface combines a discussion forum that allows
-inserting comments on any given line of code together with a mechanism
-for accepting new updates to the code that fix unresolved issues or
-address reviewer comments (an example is shown in Figure 2). These
-interactive discussions become part of a permanent and open log of the
-project.
+review -- to increase the clarity, reproducibility and correctness of
+works that enter the canon. While no journals provide a platform for
+performing such open and distributed review, the Frontiers journals do
+provide an interactive, but non-public discussion forum for authors and
+reviewers to improve the quality of a submission after an initial closed
+review. In GitHub, code is available for everyone to view and for
+registered GitHub members to comment on and report issues on using an
+interactive web interface. The interface combines a discussion forum
+that allows inserting comments on any given line of code together with a
+mechanism for accepting new updates to the code that fix unresolved
+issues or address reviewer comments (an example is shown in Figure 2).
+These interactive discussions become part of a permanent and open log of
+the project.
 
 .. figure:: images/image05.png
    :align: center
@@ -318,21 +318,20 @@ article’s methods section.
 We propose that data and software be submitted together with the
 article. This not only facilitates transparency for all readers
 including reviewers but also facilitates reproducibility and encourages
-method reuse. For example, a workflow graph (for example, Fig. 4) from a
-neuroimaging analysis captures numerous details in a compact visual form
-which would otherwise be absent in a methods section. Furthermore,
-several journals (e.g. Science -
-`sciencemag.org <http://sciencemag.org>`_ , Proceedings of the National
+method reuse. For example, a workflow graph from a neuroimaging analysis
+captures numerous details in a compact visual form which would otherwise
+be absent in a methods section (see Figure 4). Furthermore, several
+journals (e.g. Science - sciencemag.org , Proceedings of the National
 Academy of Sciences - pnas.org) are now mandating submitting all
-components necessary to reproduce the results of the study as part of
+components necessary to reproduce the results of a study as part of
 article submission.
 
-While rerunning an entire study’s analysis might not be currently
-feasible as part of a review process, simply exposing code can often
-help reviewers follow what was done and allows for replication of the
-results in the future. In the long run, virtual machines or servers may
-indeed allow standardization of analysis environments and replication of
-analyses for every publication.
+While rerunning an entire study’s analysis might not currently be
+feasible as part of a review, simply exposing code can often help
+reviewers follow what was done and provides the possibility of
+replicating the results in the future. In the long run, virtual machines
+or servers may indeed allow standardization of analysis environments and
+replication of analyses for every publication.
 
 Relevance of code review systems
 
@@ -351,8 +350,8 @@ providing access to this history, these systems also provide other
 pertinent details such as problems, their status (whether fixed or not),
 timestamps and other enhancements. Furthermore, during software
 development, specific versions of the software or particular files are
-tagged to reflect milestones during development. Such test result
-reports and detailed project history provide contextual information to
+tagged to reflect milestones during development. Automated testing
+results and detailed project histories provide contextual information to
 assist reviewers when asked to comment on submitted code.
 
 Enhancing code review systems for article review
@@ -360,8 +359,8 @@ Enhancing code review systems for article review
 As stated earlier, code review systems are built for code, not for data.
 In some disciplines (such as neuroimaging) the amount of data can be
 large. Code review systems should be coupled with database systems
-(e.g., Extensible Neuroimaging Archive Toolkit - XNAT) to enable storage
-of such large amounts of data.
+(e.g., Extensible Neuroimaging Archive Toolkit - XNAT - xnatcentral.org)
+to enable storage of such large amounts of data.
 
 3. Acknowledge reviewers
 
@@ -376,7 +375,7 @@ review process makes it possible to quantitatively assess reviewer
 contributions, which could lead to assessments for promotions and
 grants. There are two things that can be used to acknowledge reviewers.
 First, reviewer names (e.g., Frontiers) and contributions (e.g.,
-BioMedCentral) are immediately associated with the publication. Second,
+BioMedCentral) are immediately associated with a publication. Second,
 measures of review quality eventually become associated with the
 reviewer based on community feedback on the reviews.
 
@@ -390,13 +389,13 @@ are participating in the review.
 Relevance of code review systems
 
 In software development, reviewers are acknowledged implicitly by having
-their names associated with comments related to a code review. Other
-systems, like Geritt and GitHub explicitly list the reviewers
-participating in the review process. An example from Geritt is shown in
-Figure 5. In addition, certain social coding websites (e.g., ohloh.net)
-analyzes contributions of developers to various projects and assigns
-“kudos” to indicate the involvement, but not necessarily the proficiency
-of the developers.
+their names associated with comments related to a code review. Systems
+like Geritt and GitHub explicitly list the reviewers participating in
+the review process. An example from Geritt is shown in Figure 5. In
+addition, certain social coding websites (e.g., ohloh.net) analyze
+contributions of developers to various projects and assign “kudos” to
+indicate the involvement of developers, but not necessarily their
+proficiency.
 
 Enhancing code review systems for article review
 
@@ -407,7 +406,7 @@ reviewer contributions. We propose that code review systems adapted for
 article review include quantitative assessment of the contributions of
 reviewers. This would include a weighted combination of the number of
 reviews as well as the quality of those reviews as assessed via a metric
-described next.
+described later in this article.
 
 4. Quantify review quality.
 
@@ -416,16 +415,16 @@ accepted, it is still behind closed doors and limited to the editor, the
 authors, and a small set of reviewers. An open and recorded review
 ensures that the role and importance of reviewers and information
 generated during the review would be shared and acknowledged. The
-exchanges themselves can be used to quantitatively assess the importance
-of a submission, and analysis of the review process then becomes
-possible and could lead to an objective standardization of the
-scientific process.
+quantity and quality of this information (assessed by, for example,
+voting) can be used to quantitatively assess the importance of a
+submitted article. Such quantification could lead to an objective
+standardization of review.
 
 Relevance of code review systems
 
 In general, code review systems use a discussion mechanism, where a code
-change is moderated through an iterative process as illustrated earlier
-in Figure 1. In the context of code review, there is often an objective
+change is moderated through an iterative process as illustrated in
+Figure 1. In the context of code review, there is often an objective
 criterion – the code performs as expected and is written using proper
 style and documentation. Once these standards are met, the code is
 accepted into the main project. The discussion mechanism facilitates
@@ -447,30 +446,31 @@ systems) with a mechanism similar to the one used in discussion forums
 such as `stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
 quality of reviews. These sites provide a web interface for soliciting
-responses to questions for topics related to either computer programming
+responses to questions on topics related to either computer programming
 or mathematics, respectively. The web interface allows registered
-members to post or respond to a question, to comment on a response, to
-vote on the quality or importance of a question, of a response, or of a
-comment. Figure 6 shows a screenshot of the response from a registered
+members to post or respond to a question, to comment on a response, and
+to vote on the quality or importance of a question, of a response, or of
+a comment. Figure 6 shows a screenshot of the response from a registered
 member to a question submitted to Stack Overflow, where 299 indicates
 the number of votes received for the response from registered members.
 
 5. Expedite reviews and allow for post-publication review.
 
 Once open and online, reviews can be dynamic, interactive, and conducted
-in real time (e.g., Frontiers). And with many reviewers, they can choose
-to review only those articles and components of those articles that
-match their expertise and interests. Not only would these two changes
-make the review process more enjoyable, but they would expedite the
-review process. And there is no reason for a review process to end after
-an article has been published. The article can continue as a living
-document, where the dialogue can continue and flourish (see Figure 7),
-and references to different articles could be supplemented with
-references to the comments about these articles, firmly establishing
-these communications within the dialogue and provenance of science,
-where science serves not just as a method or philosophy, but as a social
-endeavor. This could make scientific review and science a more welcoming
-community, and more desirable career choice.
+in real time (e.g., Frontiers). And with the participation of many
+reviewers, they can choose to review only those articles and components
+of those articles that match their expertise and interests. Not only
+would these two changes make the review process more enjoyable, but they
+would expedite the review process. And there is no reason for a review
+process to end after an article has been published. The article can
+continue as a living document, where the dialogue can continue and
+flourish (see Figure 7), and references to different articles could be
+supplemented with references to the comments about these articles,
+firmly establishing these communications within the dialogue and
+provenance of science, where science serves not just as a method or
+philosophy, but as a social endeavor. This could make scientific review
+and science a more welcoming community, and a more desirable career
+choice.
 
 .. figure:: images/image00.gif
    :align: center
@@ -505,36 +505,35 @@ Quantifying an open-review system
 
 There exist metrics for quantifying the importance of an author,
 article, or journal (Hirsch, 2005; Bollen et al., 2009), but we know of
-no metrics used in either article review or in code review for
-quantifying the quality, impact, or importance of a review, comment on a
-review, or any portions thereof. Metrics have many uses in this context,
-including constructing a dynamic assessment of individuals or ideas (as
-in the Stack Overflow example in Figure 6) for use in promotion and
-allocation of funds and resources. Metrics also make it possible to mine
-reviews and comment histories to study the process of scientific
-publication. The classic “Like” tally used to indicate appreciation of a
-contribution in Digg, Facebook, etc., is the most obvious measure
-assigned by a community, but it is simplistic and vague. In addition to
-slow and direct measures of impact such as the number of times an
-article is cited, there are faster, indirect behavioral measures of
-interest as a proxy for impact that can be derived from clickstream
-data, web usage, and number of article downloads. Other possibilities
-include measuring the activity, frequency (Figure 8), impact (Figure 9),
-and topic range of an author or reviewer or their contributions over
-time.
+no metric used in either article review or in code review for
+quantifying the quality, impact, or importance of a review, of a comment
+on a review, or of any portions thereof. Metrics have many uses in this
+context, including constructing a dynamic assessment of individuals or
+ideas (as in the Stack Overflow example in Figure 6) for use in
+promotion and allocation of funds and resources. Metrics also make it
+possible to mine reviews and comment histories to study the process of
+scientific publication. The classic “Like” tally used to indicate
+appreciation of a contribution in Digg, Facebook, etc., is the most
+obvious measure assigned by a community, but it is simplistic and vague.
+In addition to slow and direct measures of impact such as the number of
+times an article is cited, there are faster, indirect behavioral
+measures of interest as a proxy for impact that can be derived from
+clickstream data, web usage, and number of article downloads. Other
+possibilities include measuring the activity, frequency (Figure 8),
+impact (Figure 9), and topic range of an author or reviewer or their
+contributions over time.
 
 It would also be possible to aggregate these metrics to assess the
 impact or importance of, for example, collaborators, coauthors,
-institutions, or different areas of multidisciplinary research as it
-relates to their contributions to scientific publishing, as collective
-authors and reviewers or as inter-related topics. As simple examples,
-one could add the number of quotations by two or more individuals in
-Figure 8 or the impact of two or more coders in Figure 9. This could be
-useful for determining, for example, when half of a pool of reviewers A
-agrees with a given statement in an article and the other half B
-disagrees with the statement, then a decision in favor of group A could
-be made if the aggregate metric evaluating A’s expertise on the
-statement’s topic is higher than that of B.
+institutions, or different areas of multidisciplinary research. As
+simple examples, one could add the number of quotations by two or more
+individuals in Figure 8 or the impact of two or more coders in Figure 9.
+This could be useful in determining what decision to make regarding a
+statement in an article in the following scenario. Half of a pool of
+reviewers A agrees with the statement and the other half B disagrees
+with the statement. A decision in favor of group A could be made if the
+aggregate metric evaluating A’s expertise on the statement’s topic is
+higher than that of B.
 
 .. figure:: images/image06.png
    :align: center
@@ -659,7 +658,7 @@ publishing. The Frontiers system (frontiersin.org) solicits reviews from
 a select group of review editors and the Brain and Behavioral Sciences
 publication
 (http://journals.cambridge.org/action/displayJournal?jid=BBS) solicits
-reviews from the community.
+commentary from the community.
 
 `[2] <#ftnt_ref2>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
