@@ -191,7 +191,8 @@ process to everyone, not just to a select few anonymous reviewers, has
 the potential to address every one of the problems raised above. In the
 following sections, for each of the problems listed above, we first
 describe our proposed solution, then highlight the relevance of current
-code review systems in addressing the problem and finally
+code review systems in addressing the problem and finally describe
+enhancements to the current systems to support our proposed solution.
 
 1. Distribute reviews to many reviewers.
 
