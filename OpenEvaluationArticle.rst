@@ -516,7 +516,8 @@ another of us took some decisions on remaining issues without seeking
 approval from all other reviewers. All three of these point to the
 problem of reviewers reaching a consensus so that the article could be
 published in a timely manner. This may be handled by not requiring a
-consensus, but instead by
+consensus, but instead by exploiting metrics that quantify the quality
+of the reviews and comments on these reviews to make a decision.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
