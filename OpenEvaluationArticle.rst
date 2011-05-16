@@ -504,7 +504,15 @@ of scientific publication. The classic “Like” tally used to indicate
 appreciation of a contribution in Digg.com, Facebook.com, etc., is the
 most obvious and simplistic way to indicate quality. Other possibilities
 include measuring the activity, frequency (Figure X), impact (Figure X),
-and topic range of a contributor or their contributions over time.
+and topic range of a contributor or their contributions over time. It
+would also be possible to aggregate these metrics to assess the impact
+or importance of collaborators, coauthors, institutions, etc. as it
+relates to their contributions to scientific publishing, as collective
+authors and reviewers. Likewise, it would be possible to aggregate these
+metrics to assess the impact or importance of different areas of
+research. When metrics, collaborators, coauthors, institutions, etc. as
+it relates to their contributions to scientific publishing, as
+collective authors and reviewers.
 
 .. figure:: images/image02.png
    :align: center
