@@ -482,35 +482,20 @@ the number of times the speaker was quoted in a given time period.
 Discussion
 
 The writing of this article was conducted in the spirit of the content
-of the article, with multiple authors/reviewers contributing primarily
-via GitHub, followed by dynamic, interactive, real-time collaboration
-via Google Docs.
-
-The general goal of natural scientists is to clarify our understanding
-of the natural world through replicable experiments and improved
-techniques for experimentation and data analysis. It is therefore in the
-best interest of all scientists to improve the quality of published
-science and to continue to validate and replicate findings. The review
-process therefore should be an extension of the same scientific
-discourse that takes place in laboratories when initiating ideas for
-experiments and novel algorithms and when discussing the outcomes of
-experiments. In keeping with these ideals, we have also chosen to use
-code review (github.com/satra/scientific-review) and shared
-collaboration (docs.google.com) systems to create this article and
-receive feedback from our peers during the creation process.
-
-A number of the ideas presented in this article have already been
-adopted by various journal publishing entities.
-
-- reviewers assumed to be honest, no selfish motives
+of the article, with multiple authors and peer reviewers contributing
+primarily via GitHub (github.com/satra/scientific-review), followed by
+dynamic, interactive, real-time collaboration via Google Docs
+(docs.google.com). Because we did this experiment on a very small scale,
+soliciting only a few rather than many reviewers, there are a few issues
+that we did not have to face. First, as in the content of the article,
+we assumed that the reviewers did not have selfish motives or
+egotistical attitudes that affected their reviews.
 
 - changing the review process will take time and will most likely be
 
 implemented in an iterative manner
 
 - different fields may have different constraints
-
-- Practical and psychological limitations
 
 - different reviewer opinions; resolve deadlock
 
@@ -522,7 +507,9 @@ at every stage in the evolution of a
 
 project.
 
-`http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_
+As mentioned earlier, a number of the ideas presented in this article
+have already been adopted by various journal publishing entities.
+(`http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_)
 
 Reviewers are biased by personal motives
 
@@ -532,20 +519,6 @@ and Physics); judge a paper based only on scientific soundness, not
 impact or scope
 
 (PLoS ONE)
-
-Peer review is too slow, affecting public health, grants, and credit for
-ideas
-
-Solution: Shorten publication time to a few days (PLoS Currents
-Influenza); bypass subsequent reviews (Journal of Biology); publish
-first drafts (European Geosciences Union journals)
-
-Too many papers to review
-
-Solution: Recycle reviews from journals that have rejected the
-manuscript (Neuroscience Peer Review Consortium); wait for volunteers
-(Chemical Physics Letters); reward reviewer efforts (Biology Direct,
-BMC, Frontiers, ACP)
 
 access to criticism and feedback can spur new directions of research
 
