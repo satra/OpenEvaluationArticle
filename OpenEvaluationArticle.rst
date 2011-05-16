@@ -149,12 +149,10 @@ Reviewing is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. The reviewer stands to
 gain by early exposure to relevant areas of research, while a publisher
 stands to gain financially through either publication or subscription
-fees. However, without acknowledging the contributions of reviewers,
-there is little incentive for potential reviewers to participate in the
-review process, and a lack of acknowledgment for their services that
-could factor into their evaluations for promotion and funding
-opportunities (there are a few journals such as Frontiers, which have
-begun acknowledging reviewers).
+fees. There is little motivation for potential reviewers to participate
+in the review process, and a lack of acknowledgment for their services
+(as in Frontiers journals) that could factor into their evaluations for
+promotion and funding opportunities .
 
 4. There is no measure of the quality of a review.
 
@@ -417,10 +415,10 @@ systems) with a mechanism similar to the one used in discussion forums
 such as `stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
 quality of reviews. These sites provide a web interface for soliciting
-responses to questions for either computer programming related topics or
-mathematics respectively. The web interface allows registered members to
-post or respond to a question, to comment on a response, to vote on the
-quality or importance of a question, of a response or of a comment.
+responses to questions for topics related to either computer programming
+or mathematics, respectively. The web interface allows registered
+members to post or respond to a question, to comment on a response, to
+vote on the quality or importance of a question, response, or comment.
 Figure 6 below shows a screenshot of the response from a registered
 member to a question submitted to Stack Overflow.
 
