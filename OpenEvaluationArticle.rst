@@ -528,7 +528,7 @@ authors and reviewers or as inter-related topics. As simple examples,
 one could add the number of quotations by two or more individuals in
 Figure 8 or the impact of two or more coders in Figure 9. This could be
 useful for determining, for example, when half of a pool of reviewers A
-agrees with a given statement in an article and the other half D
+agrees with a given statement in an article and the other half B
 disagrees with the statement, then a decision in favor of group A could
 be made if the aggregate metric evaluating A’s expertise on the
 statement’s topic is higher than that of B.
