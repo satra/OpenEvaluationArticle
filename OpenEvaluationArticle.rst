@@ -180,9 +180,10 @@ new insights.
 
 Proposed re-design of the peer review system
 
-While there are notable examples of journals (e.g., ArXiv.org,
-Frontiers, BioMed Central, PLoS) that address some of the above
-individual problems, the vast majority of journals do not. In this
+While there are notable examples of journals (e.g., Frontiers -
+frontiersin.org, BioMedCentral - biomedcentral.com, PLoS One -
+plosone.org) and paper archives (arXiv.org) that address some of the
+above individual problems, the vast majority of journals do not. In this
 section, we address all of these problems by proposing an open
 evaluation system for scientific publishing that draws on the ideas,
 experience, and technologies recently developed to support community
@@ -288,7 +289,9 @@ article. This not only facilitates transparency for all readers
 including reviewers but also facilitates reproducibility and encourages
 method reuse. For example, a workflow graph (for example, Fig. 4) from a
 neuroimaging analysis captures numerous details in a compact visual form
-which would otherwise be absent in a methods section.
+which would otherwise be absent in a methods section. Furthermore,
+several journals are now requesting or mandating this as part of article
+submission.
 
 .. figure:: images/image05.png
    :align: center
@@ -517,6 +520,116 @@ impact or scope
 access to criticism and feedback can spur new directions of research
 
 PEP Talk -- guidelines vs restrictions
+
+References
+
+Begg, C., Cho, M., Eastwood, S., Horton, R., Moher, D., Olkin, I.,
+Pitkin, R., Rennie, D., Schulz, K., Simel, D., et al. (1996). Improving
+the quality of reporting of randomized controlled trials. JAMA: the
+journal of the American Medical Association, 276(8):637.
+
+Brazma, A., Hingamp, P., Quackenbush, J., Sherlock, G., Spellman, P.,
+Stoeckert, C., Aach, J., Ansorge, W., Ball, C., Causton, H., et al.
+(2001). Minimum information about a microarray experiment (miame)toward
+standards for microarray data. Nature genetics, 29(4):365–371.
+
+Chang, G., Roth, C. B., Reyes, C. L., Pornillos, O., Chen, Y.-J., and
+Chen, A. P. (2006). Retraction. Science, 314(5807):1875.
+
+Cokol, M., Iossifov, I., Rodriguez-Esteban, R., and Rzhetsky, A. (2007).
+How many scientific papers should be retracted? EMBO reports,
+8(5):422–423.
+
+Cokol, M., Ozbay, F., and Rodriguez-Esteban, R. (2008). Retraction rates
+are on the rise. EMBO reports, 9(1):2–2.
+
+Coombes, K., Wang, J., and Baggerly, K. (2007). Microarrays: retracing
+steps. Nature medicine, 13(11):1276–1277.
+
+Gallivan, M. (2001). Striking a balance between trust and control in a
+virtual organization: a content analysis of open source software case
+studies. Information Systems Journal, 11(4):277–304.
+
+Garfield, E. (1955). Citation indexes to science: a new dimension in
+docu- mentation through association of ideas. Science, 122(3159):108–11.
+
+Grivell, L. (2006). Through a glass darkly: The present and the future
+of editorial peer review. EMBO reports, 7(6):567.
+
+Hirsch, J. (2005). An index to quantify an individual’s scientific
+research output. Proceedings of the National Academy of Sciences of the
+United States of America, 102(46):16569.
+
+Ioannidis, J. (2005). Why most published research findings are false.
+PLoS Medicine, 2(8):e124.
+
+May 15, 2011
+
+Laine, C., Goodman, S., Griswold, M., and Sox, H. (2007). Reproducible
+research: moving toward research the public can really trust. Annals of
+internal medicine, 146(6):450.
+
+Nordlie, E., Gewaltig, M., and Plesser, H. (2009). Towards reproducible
+descriptions of neuronal network models. PLoS Comput. Biol, 5(8).
+
+Peng, R. (2009). Reproducible research and biostatistics. Biostatistics,
+10(3):405.
+
+Poldrack, R., Fletcher, P., Henson, R., Worsley, K., Brett, M., and
+Nichols, T. (2008). Guidelines for reporting an fmri study. Neuroimage,
+40(2):409– 414.
+
+Poschl, U. (2004). Interactive journal concept for improved scientific
+publishing and quality assurance. Learned Publishing, 17(2):105–113.
+
+Poschl, U. and Koop, T. (2008). Interactive open access publishing and
+collaborative peer review for improved scientific communication and
+quality assurance. Information Services and Use, 28(2):105–107.
+
+Schwab, M., Karrenbach, N., and Claerbout, J. (2000). Making scientific
+computations reproducible. Computing in Science & Engineering,
+2(6):61–67.
+
+Smith, R. (2006). Peer review: a flawed process at the heart of science
+and journals. Journal of the Royal Society of Medicine, 99(4):178.
+
+Sollaci, L. and Pereira, M. (2004). The introduction, methods, results,
+and discussion (imrad) structure: a fifty-year survey. Journal of the
+Medical Library Association, 92(3):364.
+
+Spier, R. (2002). The history of the peer-review process. Trends in
+biotechnology, 20(8):357–358.
+
+Steen, R. (2011a). Misinformation in the medical literature: What role
+do error and fraud play? Journal of Medical Ethics.
+
+Steen, R. (2011b). Retractions in the scientific literature: is the
+incidence of research fraud increasing? Journal of Medical Ethics,
+37(4):249.
+
+Stodden, V. (2009). Enabling reproducible research: Open licensing for
+scientific innovation. 1-55. International Journal of Communications Law
+and Policy, (13).
+
+Triggle, C. and Triggle, D. (2007). What is the future of peer review?
+Why is there fraud in science? Is plagiarism out of control? Why do
+scientists do bad things? Is it all a case of:All that is necessary for
+the triumph of evil is that good men do nothing?. Vascular health and
+risk management, 3(1):39.
+
+Van de Sompel, H., Payette, S., Erickson, J., Lagoze, C., and Warner, S.
+(2004). Rethinking scholarly communication. D-Lib Magazine,
+10(9):1082–9873.
+
+Van Horn, J., Grethe, J., Kostelec, P., Woodward, J., Aslam, J., Rus,
+D., Rockmore, D., and Gazzaniga, M. (2001). The Functional Magnetic
+Resonance Imaging Data Center (fMRIDC): the challenges and rewards of
+large–scale databasing of neuroimaging studies. Philosophical
+Transactions of the Royal Society of London. Series B: Biological
+Sciences, 356(1412):1323.
+
+Vannier, M. and Summers, R. (2003). Sharing Images1. Radiology,
+228(1):23.
 
 --------------
 
