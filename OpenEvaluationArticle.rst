@@ -495,9 +495,11 @@ quantifying the quality of reviews, let alone of comments on reviews.
 Metrics have many uses, from assessing the contributions of reviewers
 and the importance of individual contributions (as in the Stack Overflow
 example in Figure X), to data mining reviews and comment histories to
-study the process of scientific publication. The classic “like” tally
+study the process of scientific publication. The classic “Like” tally
 used to indicate appreciation of a contribution in Digg.com,
-Facebook.com, etc., is the most obvious
+Facebook.com, etc., is the most obvious and simplistic way to indicate
+the quality of a contribution (whether article, review, comment on a
+review, or any portions therein).
 
 and are many ways Integral of discussions over time (by paper, author,
 reviewer) weighted by “like” factor of each comment or discussion. This
@@ -559,10 +561,9 @@ to make a decision.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
-through planning, execution, and documentation [cite: Nature editorial
-on e-lab notebooks]. This facilitates collaborative research and also
-ensures that optimal decisions are taken at every stage in the evolution
-of a project.
+through planning, execution, and documentation (Butler 2005). This
+facilitates collaborative research and also ensures that optimal
+decisions are taken at every stage in the evolution of a project.
 
 As mentioned earlier, a number of the ideas presented in this article
 have already been adopted by various journal publishing entities.
@@ -592,6 +593,8 @@ Brazma, A., Hingamp, P., Quackenbush, J., Sherlock, G., Spellman, P.,
 Stoeckert, C., Aach, J., Ansorge, W., Ball, C., Causton, H., et al.
 (2001). Minimum information about a microarray experiment (miame) toward
 standards for microarray data. Nature genetics, 29(4):365–371.
+
+Butler, D. (2005). Electronic notebooks: A new leaf. Nature,
 
 Chang, G., Roth, C. B., Reyes, C. L., Pornillos, O., Chen, Y.-J., and
 Chen, A. P. (2006). Retraction. Science, 314(5807):1875.
