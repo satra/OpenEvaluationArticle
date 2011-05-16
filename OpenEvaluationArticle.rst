@@ -499,12 +499,13 @@ allocation of funds and resources. Metrics also make it possible to mine
 reviews and comment histories to study the process of scientific
 publication. The classic “Like” tally used to indicate appreciation of a
 contribution in Digg.com, Facebook.com, etc., is the most obvious
-measure assigned by a community, but it is simplistic measure, but is
-vague.
-
-way to indicate appreciationvalue, albeit as a vague problematical.
-Other possibilities include measuring the activity, frequency (Figure
-X), impact (Figure X), and topic range of a contributor or their
+measure assigned by a community, but it is simplistic and vague. In
+addition to slow and direct measures of impact such as the number of
+times an article is citedations direct behavioral measures of interest
+as a proxy for impact or importance can be derived from clickstream
+data, web usage, number of article downloads. Other measures include
+those derived possibilities include measuring the activity, frequency
+(Figure X), impact (Figure X), and topic range of a contributor or their
 contributions over time. It would also be possible to aggregate these
 metrics to assess the impact or importance of, for example,
 collaborators, coauthors, institutions, or different areas of
@@ -513,6 +514,8 @@ scientific publishing, as collective authors and reviewers or as topics.
 As simple examples, one could add the number of quotations by two or
 more individuals in Figure X or the impact of two or more reviewers in
 Figure X.
+
+clickstream data, web usage, downloads, citation
 
 .. figure:: images/image02.png
    :align: center
