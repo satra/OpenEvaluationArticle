@@ -122,8 +122,8 @@ delegated to many experts in each domain? Realistically, it is common
 practice for a reviewer to criticize portions of an article that he or
 she understands, is interested in, has time to read, and takes issue
 with, while falling silent on the rest of the article. Given the current
-This leads an editor to falsely assume that uncommented portions have
-met with approval. The unrealistic expectations placed on each of the
+structure of the review process these silences are easily taken as a
+tacit approval. The unrealistic expectations placed on each of the
 reviewers, coupled with the delayed and sequential interactions they
 have with the authors and editors, have made the review process
 unnecessarily tedious, slow, and inefficient.
@@ -486,8 +486,9 @@ Discussion
 
 In this article, we raise five problems with the current process for
 reviewing scientific articles, and argue that opening up the review
-process to many reviewers could address all of these problems. We
-propose that this may be accomplished by using The writing of this
+process to include many reviewers, could address all of these problems.
+We propose that this may be accomplished by enhancing current code
+review systems for application to article review. The writing of this
 article was conducted in the spirit of the content of the article, with
 multiple authors and peer reviewers contributing primarily via GitHub
 (github.com/satra/scientific-review), followed by dynamic, interactive,
