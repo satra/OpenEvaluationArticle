@@ -1,4 +1,4 @@
-Learning from open-source software projects to improve scientific review
+Learning from open source software projects to improve scientific review
 
 Satrajit S. Ghosh1, Arno Klein2, Brian Avants3, K. Jarrod Millman4
 
@@ -24,7 +24,7 @@ Dr. Satrajit Ghosh
 
 Cambridge, MA 02139, USA
 
-Running title: Reviewing with open-source software systems
+Running title: Code review and scientific publications
 
 Abstract
 
@@ -344,9 +344,9 @@ providing access to this history, these systems also provide other
 pertinent details such as problems, their status (whether fixed or not),
 timestamps and other enhancements. Furthermore, during software
 development, specific versions of the software or particular files are
-tagged to reflect milestones during development. Such testing data and
-history of the project provide sufficient contextual information for a
-reviewer to comment on submitted code.
+tagged to reflect milestones during development. Such test result
+reports and detailed project history provide contextual information to
+assist reviewers when asked to comment on submitted code.
 
 Enhancing code review systems for article review
 
@@ -419,7 +419,7 @@ Relevance of code review systems
 In general, code review systems use a discussion mechanism, where a code
 change is moderated through an iterative process as illustrated earlier
 in Figure 1. In the context of code review, there is often an objective
-criterion - the code performs as expected and is written using proper
+criterion – the code performs as expected and is written using proper
 style and documentation. Once these standards are met, the code is
 accepted into the main project. The discussion mechanism facilitates
 this process. However, in the case of code review, the quality of review
@@ -671,7 +671,7 @@ large–scale databasing of neuroimaging studies. Philosophical
 Transactions of the Royal Society of London. Series B: Biological
 Sciences, 356(1412):1323.
 
-Vannier, M. and Summers, R. (2003). Sharing Images1. Radiology,
+Vannier, M. and Summers, R. (2003). Sharing Images. Radiology,
 228(1):23.
 
 --------------
