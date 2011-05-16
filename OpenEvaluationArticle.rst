@@ -81,7 +81,7 @@ not keeping pace with the dramatic advances in computing resources by
 which results are obtained and advances in media by which results are
 disseminated.
 
-In contrast, during opensource software development, the typical review
+In contrast, during open source software development, the typical review
 process for programs (code review) during software development is often
 open, collaborative, and interactive, engaging many participants with
 varying levels of expertise. There is a clear process by which comments
@@ -491,9 +491,9 @@ of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
 (docs.google.com). We found the collaborative editing and reviewing
-through the use of these tools to be enjoyable and efficientIf we had
-solicited many reviewers, problems would have arisen that are we did not
-at such a small scale. First, as in the content of this article, we
+through the use of these tools to be enjoyable and efficient, but If we
+had solicited many reviewers, problems would have arisen that are we did
+not at such a small scale. First, as in the content of this article, we
 assumed that the reviewers did not have selfish motives or egotistical
 attitudes that affected their reviews. Second, we reached a consensus on
 most issues, resulting in a very rapid process of writing and reviewing,
