@@ -560,7 +560,7 @@ proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central). Initially some of
 the ideas from of our proposed system could be implemented as part of
-the post-publication system.
+the post-publication system. As journals gaexperience with these system
 
 Example in practice
 
