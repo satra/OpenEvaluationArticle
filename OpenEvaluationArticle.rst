@@ -494,9 +494,11 @@ Quantifying an open-review system
 There is a dearth of metrics in article review and in code review for
 quantifying the quality of reviews, let alone of comments on reviews.
 Metrics have many uses, from assessing the contributions of reviewers
-and the impor (as in the Stack Overflow example in Figure X), to data
-mining reviews and comment histories to study the process of scientific
-publication.
+and the importance of individual contributions (as in the Stack Overflow
+example in Figure X), to data mining reviews and comment histories to
+study the process of scientific publication. The classic “like” tally
+used to indicate appreciation of a contribution in Digg.com,
+Facebook.com, etc., is the most obvious
 
 and are many ways Integral of discussions over time (by paper, author,
 reviewer) weighted by “like” factor of each comment or discussion. This
