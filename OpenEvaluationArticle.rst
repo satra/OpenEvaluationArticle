@@ -475,11 +475,12 @@ desirable career choice.
 .. figure:: images/image00.gif
    :align: center
    :alt: 
-Figure 7. 2003 computer graphics by Fernanda B. Vizgas, Martin Watt
-(IBM)
-
-history flow is a tool for visualizing dynamic, evolving documents and
-the interactions of multiple collaborating authors. In its current
+Figure 7. A visualization of the evolutionary history Wikipedia entry
+(“Evolution”) as an example of an evolving body of text (2003 computer
+graphics by Fernanda B. Vizgas, Martin Watt at IBM). history flow
+(http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm)
+is a tool for visualizing dynamic, evolving documents and the
+interactions of multiple collaborating authors. In its current
 implementation, history flow is being used to visualize the evolutionary
 history of wiki\* pages on Wikipedia.
 
