@@ -31,23 +31,37 @@ Abstract
 Over the last decade, scientists, institutions, publishers and funding
 agencies have made tremendous strides in the way scientific research is
 disseminated and accessed. With the advent of open-access journals as
-well as the growing availability of articles freely available online
-(e.g., PubMed Central, arXiv.org, faculty websites), scientists face an
-expanding volume of scientific literature. Given the massive influx of
-scientific publications, an objective, thorough and timely evaluation of
-research becomes essential. However, the increasingly interdisciplinary
-nature of research, high volume of submissions and limited time and
-availability of expert reviewers have resulted in high variability in
-the quality and timeliness of the review process. The current review
-process for scientific publications is fraught with many problems that
-undermine the pace, validity, and credibility of science. These problems
-include: reviewers are expected to have comprehensive expertise, do not
-have sufficient access to methods and materials to evaluate a study, and
-are typically anonymous and not acknowledged; there is no measure of the
-quality of a review; and reviews take a lot of time and once submitted
-cannot evolve. To address these problems, we propose an open review
-process that draws on the ideas, experience, and technologies developed
-to support code review in open source software projects.
+well as the growing availability of articles freely available online,
+scientists face an expanding volume of scientific literature. Peer
+review is the primary means of evaluating the quality and validity of
+this literature. The current review process for scientific publications
+is, however, fraught with many problems that undermine the pace,
+validity, and credibility of science.
+
+These problems include: reviewers are expected to have comprehensive
+expertise, do not have sufficient access to methods and materials to
+evaluate a study, and are typically anonymous and not acknowledged;
+there is no measure of the quality of a review; and reviews take a lot
+of time and once submitted cannot evolve.
+
+In this article, we raise five problems with the current process for
+reviewing scientific articles, and argue that we could address all of
+these problems by opening up the review process to include many
+reviewers, provide them with the data and software to replicate a study,
+acknowledge their contributions, quantify the quality of their
+contributions, and ensure that reviews are timely and live on beyond the
+publication date. We propose that an effective means for implementing
+these changes would be to enhance current code review systems for
+software development to support article review.
+
+These problems include: reviewers are expected to have comprehensive
+expertise, do not have sufficient access to methods and materials to
+evaluate a study, and are typically anonymous and not acknowledged;
+there is no measure of the quality of a review; and reviews take a lot
+of time and once submitted cannot evolve. To address these problems, we
+propose an open review process that draws on the ideas, experience, and
+technologies developed to support code review in open source software
+projects.
 
 Keywords: distributed peer review, code review systems, open-source
 software development
