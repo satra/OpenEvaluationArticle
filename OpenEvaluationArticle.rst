@@ -490,18 +490,23 @@ among such systems similar to the Neuroscience Peer Review Consortium
 
 Quantifying an open-review system
 
-There is a dearth of metrics in article review and in code review for
-quantifying the quality of reviews, let alone of comments on reviews.
-Metrics have many uses, from assessing the contributions of reviewers
-and the importance of individual contributions (as in the Stack Overflow
-example in Figure X), to data mining reviews and comment histories to
-study the process of scientific publication. The classic “Like” tally
-used to indicate appreciation of a contribution in Digg.com,
-Facebook.com, etc., is the most obvious and simplistic way to indicate
-the quality of a contribution (whether it be an article, review, comment
-on a review, or any portions thereof). Other possibilities include
-measuring the activity, frequency (Figure X), impact (Figure X), and
-topic range of a contributor or their contributions over time.
+There is a dearth of metrics in both article review and in code review
+for quantifying the importance of an author or reviewer or any of their
+contributions (whether the contribution is an article, review, comment
+on a review, or any portions thereof). Metrics have many uses in this
+context, including constructing a dynamic assessment of individuals or
+their ideas (as in the Stack Overflow example in Figure X) for use in
+promotion and allocation of funds and resources.
+
+assessing the importance of reviewers and the importance of individual
+contributions , to data mining reviews and comment histories to study
+the process of scientific publication. The classic “Like” tally used to
+indicate appreciation of a contribution in Digg.com, Facebook.com, etc.,
+is the most obvious and simplistic way to indicate the quality of a
+contribution (whether it be an article, review, comment on a review, or
+any portions thereof). Other possibilities include measuring the
+activity, frequency (Figure X), impact (Figure X), and topic range of a
+contributor or their contributions over time.
 
 .. figure:: images/image02.png
    :align: center
