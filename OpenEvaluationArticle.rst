@@ -475,13 +475,13 @@ desirable career choice.
 
 Relevance of code review systems
 
-Code review invites and requires participation from people with
-differing degrees of expertise and knowledge of the project. This leads
-to higher quality of the code as well as faster development than
-individual programmers could normally contribute. These contributions
-are also made well beyond the initial code review allowing for bugs to
-be detected and improvements to be made. Extending the life of the
-review process beyond initial review could result in similar benefits.
+Code review requires participation from people with differing degrees of
+expertise and knowledge of the project. This leads to higher quality of
+the code as well as faster development than individual programmers could
+normally contribute. These contributions are also made well beyond the
+initial code review allowing for bugs to be detected and improvements to
+be made. Extending the life of the review process beyond initial review
+could result in similar benefits.
 
 Enhancing code review systems for article review
 
@@ -564,7 +564,7 @@ Practical and psychological limitations
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted some aspects
-of our proposed system (e.g., Frontiers,)
+of our proposed system (e.g., Frontiers, )
 
 Example in practice
 
