@@ -512,19 +512,20 @@ measures of interest as a proxy for impact that can be derived from
 clickstream data, web usage, and number of article downloads. Other
 possibilities include measuring the activity, frequency (Figure X),
 impact (Figure X), and topic range of an author or reviewer or their
-contributions over time. It would also be possible to aggregate these
-metrics to assess the impact or importance of, for example,
-collaborators, coauthors, institutions, or different areas of
-multidisciplinary research as it relates to their contributions to
-scientific publishing, as collective authors and reviewers or as
-inter-related topics. As simple examples, one could add the number of
-quotations by two or more individuals in Figure X or the impact of two
-or more reviewers in Figure X. This could be useful for determining, for
-example, when half of a pool of reviewers A agrees with a given
-statement in an article and the other half D disagrees with the
-statement, then a decision in favor of group A could be made if the
-aggregate metric evaluating A’s expertise on the statement’s topic is
-higher than that of B.
+contributions over time.
+
+It would also be possible to aggregate these metrics to assess the
+impact or importance of, for example, collaborators, coauthors,
+institutions, or different areas of multidisciplinary research as it
+relates to their contributions to scientific publishing, as collective
+authors and reviewers or as inter-related topics. As simple examples,
+one could add the number of quotations by two or more individuals in
+Figure X or the impact of two or more reviewers in Figure X. This could
+be useful for determining, for example, when half of a pool of reviewers
+A agrees with a given statement in an article and the other half D
+disagrees with the statement, then a decision in favor of group A could
+be made if the aggregate metric evaluating A’s expertise on the
+statement’s topic is higher than that of B.
 
 .. figure:: images/image03.png
    :align: center
