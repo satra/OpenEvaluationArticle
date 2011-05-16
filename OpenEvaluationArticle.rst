@@ -606,7 +606,10 @@ decisions are taken at every stage in the evolution of a project.
 
 In this article, we have proposed a re-design of the current peer review
 system by incorporating ideas from code review systems associated with
-open source software development.
+open source software development. Such a system should enable a fair,
+unbiased, efficient review and rapid dissemination of scientific work,
+while providing a framework for extending scientific discourse beyond
+the labs
 
 --------------
 
