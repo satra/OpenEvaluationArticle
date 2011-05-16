@@ -498,15 +498,15 @@ in the Stack Overflow example in Figure 6) for use in promotion and
 allocation of funds and resources. Metrics also make it possible to mine
 reviews and comment histories to study the process of scientific
 publication. The classic “Like” tally used to indicate appreciation of a
-contribution in Digg.com, Facebook.com, etc., is the most obvious
-measure assigned by a community, but it is simplistic and vague. In
-addition to slow and direct measures of impact such as the number of
-times an article is cited, there are faster, indirect behavioral
-measures of interest as a proxy for impact that can be derived from
-clickstream data, web usage, and number of article downloads. Other
-possibilities include measuring the activity, frequency (Figure 7),
-impact (Figure 8), and topic range of an author or reviewer or their
-contributions over time.
+contribution in Digg, Facebook, etc., is the most obvious measure
+assigned by a community, but it is simplistic and vague. In addition to
+slow and direct measures of impact such as the number of times an
+article is cited, there are faster, indirect behavioral measures of
+interest as a proxy for impact that can be derived from clickstream
+data, web usage, and number of article downloads. Other possibilities
+include measuring the activity, frequency (Figure 8), impact (Figure 9),
+and topic range of an author or reviewer or their contributions over
+time.
 
 It would also be possible to aggregate these metrics to assess the
 impact or importance of, for example, collaborators, coauthors,
@@ -514,9 +514,9 @@ institutions, or different areas of multidisciplinary research as it
 relates to their contributions to scientific publishing, as collective
 authors and reviewers or as inter-related topics. As simple examples,
 one could add the number of quotations by two or more individuals in
-Figure 7 or the impact of two or more reviewers in Figure 8. This could
-be useful for determining, for example, when half of a pool of reviewers
-A agrees with a given statement in an article and the other half D
+Figure 8 or the impact of two or more coders in Figure 9. This could be
+useful for determining, for example, when half of a pool of reviewers A
+agrees with a given statement in an article and the other half D
 disagrees with the statement, then a decision in favor of group A could
 be made if the aggregate metric evaluating A’s expertise on the
 statement’s topic is higher than that of B.
@@ -524,7 +524,7 @@ statement’s topic is higher than that of B.
 .. figure:: images/image04.png
    :align: center
    :alt: 
-Figure 7. Example of a metric for quantifying contributor frequency.
+Figure 8. Example of a metric for quantifying contributor frequency.
 Quotes over Time (www.qovert.info) tracked the top-quoted people from
 Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
@@ -533,11 +533,11 @@ the number of times the speaker was quoted on a given day.
 .. figure:: images/image02.png
    :align: center
    :alt: 
-Figure 8. Example of a metric for quantifying contributions over time.
+Figure 9. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
-history of code review, where each color indicates an individual
-reviewer and the width of a colored ribbon represents that individual’s
-“impact” during a week-long period.
+history of code additions, where each color indicates an individual
+contributor and the width of a colored ribbon represents that
+individual’s “impact” or contributions during a week-long period.
 
 Discussion
 
@@ -561,8 +561,6 @@ researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central). Initially some of
 the ideas from of our proposed system could be implemented as part of
 the post-publication system.
-
-these existing reforms to the review process
 
 Example in practice
 
