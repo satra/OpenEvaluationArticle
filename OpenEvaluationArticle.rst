@@ -500,7 +500,9 @@ used to indicate appreciation of a contribution in Digg.com,
 Facebook.com, etc., is the most obvious and simplistic way to indicate
 the quality of a contribution (whether it be an article, review, comment
 on a review, or any portions thereof). Other possibilities include
-measuring the number of times a contr
+measuring the frequency (Figure X) or impact (Figure X) of a contributor
+or their contributions over time, the breadth of topics the reviewer has
+reviewed,
 
 .. figure:: images/image02.png
    :align: center
