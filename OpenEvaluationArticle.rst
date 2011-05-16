@@ -480,8 +480,8 @@ entry (“Evolution”) as an example of an evolving body of text. History
 flow
 (http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm)
 is a tool for visualizing dynamic, evolving documents and the
-interactions of multiple collaborating authors (by Fernanda B. Fernanda
-B. Viégas , Martin Wattenberg at IBM, 2003)
+interactions of multiple collaborating authors (by Fernanda B. Viégas
+and Martin Wattenberg at IBM, 2003)
 
 Relevance of code review systems
 
@@ -569,12 +569,11 @@ Practical and psychological limitations
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
-our proposed system (e.g., Frontiers, BioMed Central). Initially some of
-the ideas from of our proposed system could be implemented as part of
-the post-publication system. As scientists gain familiarity and journals
-gain experience with these aspects of the system, they can be refined
-and improved. To demonstrate the efficacy of such a system it could also
-be used alongside a more traditional anonymous peer review system.
+our proposed system (e.g., Frontiers, BioMed Central). Initially, our
+full proposal could be implemented as part of the post-publication
+system, alongside a more traditional anonymous peer review system. As
+scientists gain familiarity and journals gain experience with these
+aspects of the system, they can be refined and improved.
 
 Example in practice
 
