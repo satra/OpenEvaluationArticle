@@ -190,7 +190,8 @@ code review in open source software projects. Opening up the review
 process to everyone, not just to a select few anonymous reviewers, has
 the potential to address every one of the problems raised above. In the
 following sections, for each of the problems listed above, we first
-describe our proposed solution, then highligh
+describe our proposed solution, then highlight the relevance of current
+code review systems in addressing the problem and finally
 
 1. Distribute reviews to many reviewers.
 
@@ -511,9 +512,9 @@ primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
 (docs.google.com). We found the collaborative editing and reviewing
 through the use of these tools to be enjoyable and efficient, while
-exposing some of the current limitations of code review systems for
-article review mentioned above. Had we solicited many reviewers, we
-could have experienced more of the real-world challenges of such an open
+exposing some of the above-mentioned limitations of code review systems
+for use in article review. Had we solicited many reviewers, we could
+have experienced more of the real-world challenges of such an open
 review system. First, as in the content of this article, we assumed that
 the reviewers did not have selfish motives or egotistical attitudes that
 affected their reviews. Second, we reached a consensus on most issues,
