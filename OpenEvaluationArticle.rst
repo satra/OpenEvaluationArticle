@@ -464,13 +464,13 @@ match their expertise and interests. Not only would these two changes
 make the review process more enjoyable, but they would expedite the
 review process. And there is no reason for a review process to end after
 an article has been published. The article can continue as a living
-document, where the dialogue can continue and flourish, and references
-to different articles could be supplemented with references to the
-comments about these articles, firmly establishing these communications
-within the dialogue and provenance of science, where science serves not
-just as a method or philosophy, but as a social endeavor. This could
-make scientific review and science a more welcoming community, and more
-desirable career choice.
+document, where the dialogue can continue and flourish (see Figure 7),
+and references to different articles could be supplemented with
+references to the comments about these articles, firmly establishing
+these communications within the dialogue and provenance of science,
+where science serves not just as a method or philosophy, but as a social
+endeavor. This could make scientific review and science a more welcoming
+community, and more desirable career choice.
 
 .. figure:: images/image00.gif
    :align: center
@@ -494,8 +494,9 @@ improvements to be made by new contributors.
 
 Enhancing code review systems for article review
 
-Current code review systems have components for expedited and
-continuedreview.
+Current code review systems have components for expedited and continued
+review. Where they could stand to be improved is in their visual
+interfaces.
 
 Quantifying an open-review system
 
@@ -572,8 +573,9 @@ researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central). Initially, our
 full proposal could be implemented as part of the post-publication
 system, alongside a more traditional anonymous peer review system. As
-scientists gain familiarity and journals gain experience with these
-aspects of the system, they can be refined and improved.
+scientists gain familiarity and journals gain experience with our
+proposed system, it can be refined and improved. Different reviewer
+metrics can be gathered and compared.
 
 Example in practice
 
