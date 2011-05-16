@@ -287,7 +287,7 @@ expose contradictions, unsubstantiated assumptions, and other
 inconsistencies across the body of an article or across reviews for the
 article. A mock-up of such a system is shown in Figure 3.
 
-INSERT FIGURE HERE
+|image0|INSERT FIGURE HERE
 
 Figure 3. Mock-up of a modified commenting system.
 
@@ -922,3 +922,5 @@ everyone time.
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
+
+.. |image0| image:: images/image07.png
