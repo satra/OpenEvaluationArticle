@@ -487,9 +487,9 @@ The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). We found that the use of these tools enjoyed the
-process and found it to be very efficientIf we had solicited many
-reviewers, problems would have arisen that are we did not at such a
+(docs.google.com). We found the collaborative editing use of these tools
+enjoyed the process and found it to be very efficientIf we had solicited
+many reviewers, problems would have arisen that are we did not at such a
 small scale. First, as in the content of this article, we assumed that
 the reviewers did not have selfish motives or egotistical attitudes that
 affected their reviews. Second, we reached a consensus on most issues,
