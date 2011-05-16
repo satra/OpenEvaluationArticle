@@ -269,6 +269,8 @@ expose contradictions, unsubstantiated pretexts, and other
 inconsistencies across the body of an article or across reviews for the
 article. A mock-up of such a system is shown in Figure 3.
 
+INSERT FIGURE HERE
+
 Figure 3. Mock-up of a modified commenting system.
 
 2. Provide reviewers materials and methods to perform comprehensive
@@ -418,9 +420,11 @@ quality of reviews. These sites provide a web interface for soliciting
 responses to questions for topics related to either computer programming
 or mathematics, respectively. The web interface allows registered
 members to post or respond to a question, to comment on a response, to
-vote on the quality or importance of a question, response, or comment.
-Figure 6 below shows a screenshot of the response from a registered
-member to a question submitted to Stack Overflow.
+vote on the quality or importance of a question, of a response, or of a
+comment. Figure 6 below shows a screenshot of the response from a
+registered member to a question submitted to Stack Overflow, where 299
+indicates the number of votes received for the response from registered
+members.
 
 .. figure:: images/image01.png
    :align: center
@@ -496,6 +500,8 @@ contributions, and ensure that reviews are timely and live on beyond the
 publication date. We propose that an effective means for implementing
 these changes would be to enhance current code review systems for
 software development to support article review.
+
+Example in practice
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
