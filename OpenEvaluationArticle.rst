@@ -491,17 +491,19 @@ Quantifying an open-review system
 There exist metrics for quantifying the importance of an author,
 article, or journal (Hirsch, 2005; Bollen et al., 2009), but we know of
 no metrics used in either article review or in code review for
-quantifying any of their contributions (whether the contribution is an
-article, review, comment on a review, or any portions thereof). Metrics
-have many uses in this context, including constructing a dynamic
-assessment of individuals or ideas (as in the Stack Overflow example in
-Figure X) for use in promotion and allocation of funds and resources.
-Metrics also make it possible to mine reviews and comment histories to
-study the process of scientific publication. The classic “Like” tally
-used to indicate appreciation of a contribution in Digg.com,
-Facebook.com, etc., is the most obvious and simplistic way to indicate
-quality. Other possibilities include measuring the activity, frequency
-(Figure X), impact (Figure X), and topic range of a contributor or their
+quantifying the quality, impact, or importance of a review, comment on a
+review, or any portions thereof. Metrics have many uses in this context,
+including constructing a dynamic assessment of individuals or ideas (as
+in the Stack Overflow example in Figure X) for use in promotion and
+allocation of funds and resources. Metrics also make it possible to mine
+reviews and comment histories to study the process of scientific
+publication. The classic “Like” tally used to indicate appreciation of a
+contribution in Digg.com, Facebook.com, etc., is the most obvious
+measure assigned by a community, and simplistic measure, but is vague.
+
+way to indicate appreciationvalue, albeit as a vague problematical.
+Other possibilities include measuring the activity, frequency (Figure
+X), impact (Figure X), and topic range of a contributor or their
 contributions over time. It would also be possible to aggregate these
 metrics to assess the impact or importance of, for example,
 collaborators, coauthors, institutions, or different areas of
