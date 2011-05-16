@@ -287,10 +287,6 @@ expose contradictions, unsubstantiated assumptions, and other
 inconsistencies across the body of an article or across reviews for the
 article. A mock-up of such a system is shown in Figure 3.
 
-.. figure:: images/image07.png
-   :align: center
-   :alt: 
-
 Figure 3. Mock-up of a modified commenting system.
 
 2. Provide reviewers materials and methods to perform comprehensive
@@ -510,9 +506,9 @@ or importance of collaborators, coauthors, institutions, etc. as it
 relates to their contributions to scientific publishing, as collective
 authors and reviewers. Likewise, it would be possible to aggregate these
 metrics to assess the impact or importance of different areas of
-research. When metrics, collaborators, coauthors, institutions, etc. as
-it relates to their contributions to scientific publishing, as
-collective authors and reviewers.
+research. When , collaborators, coauthors, institutions, etc. as it
+relates to their contributions to scientific publishing, as collective
+authors and reviewers.
 
 .. figure:: images/image02.png
    :align: center
