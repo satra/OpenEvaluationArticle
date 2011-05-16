@@ -577,8 +577,7 @@ full proposal could be implemented as part of the post-publication
 system, alongside a more traditional anonymous peer review system. As
 scientists gain familiarity and journals gain experience with our
 proposed system, it can be refined and improved. Different reviewer
-metrics can be gathered and compared. Once enough data about the
-usefulness
+metrics can be gathered and compared.
 
 Example in practice
 
