@@ -44,6 +44,11 @@ evaluate a study, and are typically anonymous and not acknowledged;
 there is no measure of the quality of a review; and reviews take a lot
 of time and once submitted cannot evolve.
 
+There are too few reviewers provided with too little information who go
+unacknowledged, and the quality of their contributions goes unmeasured
+work quality of their contributions, and ensure that reviews are timely
+and live on beyond the publication date.
+
 In this article, we raise five problems with the current process for
 reviewing scientific articles, and argue that we could address all of
 these problems by opening up the review process to include many
