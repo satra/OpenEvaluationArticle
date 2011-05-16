@@ -500,14 +500,13 @@ used to indicate appreciation of a contribution in Digg.com,
 Facebook.com, etc., is the most obvious and simplistic way to indicate
 the quality of a contribution (whether it be an article, review, comment
 on a review, or any portions thereof). Other possibilities include
-measuring the frequency (Figure X) or impact (Figure X) of a contributor
-or their contributions over time, the breadth of topics the reviewer has
-reviewed,
+measuring the activity, frequency (Figure X), impact (Figure X), and
+topic range of a contributor or their contributions over time.
 
 .. figure:: images/image02.png
    :align: center
    :alt: 
-Figure X. Example of a metric for quantifying contributions over time.
+Figure X. Example of a metric for quantifying contributor frequency.
 Quotes over Time (www.qovert.info) tracked the top-quoted people from
 Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
