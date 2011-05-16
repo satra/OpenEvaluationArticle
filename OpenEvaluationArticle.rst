@@ -75,11 +75,11 @@ science is thought to have a self-correcting character. However, with
 the difficulty for individual reviewers to review the increasing number
 and complexity of articles, and the use of journal impact factors as
 proxies for evaluations of individual articles, the integrity of the
-review process, and indeed of science, suffers. Another danger to the
-review process, and to scientific articles themselves, is that they are
-not keeping pace with the dramatic advances in computing resources by
-which results are obtained and advances in media by which results are
-disseminated.
+review process, and indeed of science, suffers (Poschl and Koop, 2008;
+Smith, 2006). Another danger to the review process, and to scientific
+articles themselves, is that they are not keeping pace with the dramatic
+advances in computing resources by which results are obtained and
+advances in media by which results are disseminated.
 
 In contrast, during open source software development, the typical review
 process for programs (code review) during software development is often
@@ -516,7 +516,7 @@ another of us took some decisions on remaining issues without seeking
 approval from all other reviewers. All three of these point to the
 problem of reviewers reaching a consensus so that the article could be
 published in a timely manner. This may be handled by not requiring a
-consensus, but in
+consensus, but instead by
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
