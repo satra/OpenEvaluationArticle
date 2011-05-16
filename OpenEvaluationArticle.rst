@@ -480,8 +480,8 @@ entry (“Evolution”) as an example of an evolving body of text. History
 flow
 (http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm)
 is a tool for visualizing dynamic, evolving documents and the
-interactions of multiple collaborating authors (by Fernanda B. Vizgas,
-Martin Watt at IBM, 2003)
+interactions of multiple collaborating authors (by Fernanda B. Fernanda
+B. Viégas , Martin Wattenberg at IBM, 2003)
 
 Relevance of code review systems
 
