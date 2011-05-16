@@ -190,7 +190,7 @@ code review in open source software projects. Opening up the review
 process to everyone, not just to a select few anonymous reviewers, has
 the potential to address every one of the problems raised above. In the
 following sections, for each of the problems listed above, we first
-describe our proposed solution,
+describe our proposed solution, then highligh
 
 1. Distribute reviews to many reviewers.
 
