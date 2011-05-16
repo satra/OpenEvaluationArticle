@@ -483,17 +483,13 @@ primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
 (docs.google.com). Because we did this experiment on a very small scale,
 soliciting only a few rather than many reviewers, there are a few issues
-that we did not have to face. First, as in the content of the article,
+that we did not have to face. First, as in the content of this article,
 we assumed that the reviewers did not have selfish motives or
-egotistical attitudes that affected their reviews.
-
-- changing the review process will take time and will most likely be
-
-implemented in an iterative manner
-
-- different fields may have different constraints
-
-- different reviewer opinions; resolve deadlock
+egotistical attitudes that affected their reviews. Second, we reached a
+consensus on most issues, resulting in a very rapid process of writing
+and reviewing, without conflicts or deadlock. Third, because we had to
+meet the submission deadline for this article, we took some decisions be
+taken without seeking approval from all reviewers.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
