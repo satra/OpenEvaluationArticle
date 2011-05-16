@@ -106,14 +106,12 @@ from distributed code review in open source software development.
    :alt: 
 Figure X. A review workflow for the Android project.
 
-Problems
-
-----------------------
+Problems with current peer-review system
 
 Armamentaria are problematical (please contact the corresponding author
 for explication.)
 
-1. \*\*Reviewers are expected to have comprehensive expertise.\*\*
+1. Reviewers are expected to have comprehensive expertise.
 
 Reviewers are expected to work in isolation, unable to discuss the
 content of an article with the authors or other reviewers. When faced
@@ -134,8 +132,8 @@ coupled with the delayed and sequential interactions they have with the
 authors and editors, have made the review process unnecessarily tedious,
 slow, and inefficient.
 
-2. \*\*Reviewers do not have sufficient access to methods and materials
-to evaluate a study.\*\*
+2. Reviewers do not have sufficient access to methods and materials to
+evaluate a study.
 
 The typical review process does not require submission of data or
 software associated with an article (ACM TOMS is an early exception),
@@ -149,7 +147,7 @@ credibility. One example is the case of Geoffrey Chang, whose rigorous
 and correct experimental work was later retracted due to a software bug
 that undermined the paper's conclusions [cite: chang2006retraction].
 
-3. \*\*Reviewers are not acknowledged.\*\*
+3. Reviewers are not acknowledged.
 
 Reviewing is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. The reviewer stands to
@@ -160,7 +158,7 @@ in the review process, and a lack of acknowledgment for their services
 (as in Frontiers journals) that could factor into their evaluations for
 promotion and funding opportunities .
 
-4. \*\*There is no measure of the quality of a review.\*\*
+4. There is no measure of the quality of a review.
 
 There is no attempt to quantify the quality, strength, impartiality, or
 expertise of the reviews or reviewers. Without measures associated with
@@ -169,7 +167,7 @@ the judgment of the editor and the journal’s impact factor as proxies
 for quality. This prevents external scrutiny, data mining, and makes it
 impossible to evaluate or standardize the review process.
 
-5. \*\*Reviews take a lot of time, and once submitted cannot evolve.\*\*
+5. Reviews take a lot of time, and once submitted cannot evolve.
 
 A lengthy review process holds up grant submissions, funding of research
 programs, and the progress of science itself. And even after this
@@ -183,9 +181,7 @@ interpretations of the results are all a product of their time and
 context, and at a later time may not stand up to scrutiny or may yield
 new insights.
 
-Proposed solutions
-
-----------------------
+Proposed solutions to re-design the peer review system
 
 While there are notable examples of journals (e.g., ArXiv.org,
 Frontiers, BioMed Central, PLoS) that address some of the above
@@ -197,7 +193,7 @@ code review in open source software projects. Opening up the review
 process to everyone, not just to a select few anonymous reviewers, has
 the potential to address every one of the problems raised above.
 
-1. \*\*Distribute reviews to many reviewers.\*\*
+1. Distribute reviews to many reviewers.
 
 Reviewers would no longer work in isolation or necessarily in anonymity,
 benefiting from direct, dynamic, and interactive communication with the
@@ -225,7 +221,7 @@ full and open review. At different stages of such a tiered review,
 reviewers might be assigned different roles, such as mediator, editor,
 or commenter.
 
-\*Relevance of code review systems:\*
+Relevance of code review systems
 
 In the same manner that articles are submitted for review and
 publication in journals, code in collaborative software projects are
@@ -261,7 +257,7 @@ NiPyPE (nipy.org/nipype) project on GitHub, demonstrating part of a
 discussion thread, inline commenting of code (for line 98) as well as
 updates on code changes taking place as a function of the discussion.
 
-\*Enhancing code review systems for article review:\*
+Enhancing code review systems for article review
 
 These existing code review systems, while suitable for code, have
 certain drawbacks for reviewing scientific articles. For example, the
