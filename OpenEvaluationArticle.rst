@@ -411,11 +411,13 @@ We propose to augment code review systems (and in turn, article review
 systems) with a mechanism similar to the one used in discussion forums
 such as `stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
-quality of reviews. Figure 6 below shows a screenshot of the response
-from a registered member to a question submitted to Stack Overflow. As
-can be seen in the figure, it is possible for other members to comment
-on a response, vote on the quality of the response, as well as on the
-comment to a response.
+quality of reviews. These sites provide a web interface for soliciting
+responses to questions for either computer programming related topics or
+mathematics respectively. The web interface Figure 6 below shows a
+screenshot of the response from a registered member to a question
+submitted to Stack Overflow. As can be seen in the figure, it is
+possible for other members to comment on a response, vote on the quality
+of the response, as well as on the comment to a response.
 
 .. figure:: images/image01.png
    :align: center
