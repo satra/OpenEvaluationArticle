@@ -28,16 +28,26 @@ Running title: Reviewing with open-source software systems
 
 Abstract
 
-The current review process for scientific publications is fraught with
-many problems that undermine the pace, validity, and credibility of
-science. These problems include: reviewers are expected to have
-comprehensive expertise, do not have sufficient access to methods and
-materials to evaluate a study, and are typically anonymous and not
-acknowledged; there is no measure of the quality of a review; and
-reviews take a lot of time and once submitted cannot evolve. To address
-these problems, we propose an open review process that draws on the
-ideas, experience, and technologies developed to support code review in
-open source software projects.
+Over the last decade, scientists, institutions, publishers and funding
+agencies have made tremendous strides in the way scientific research is
+disseminated and accessed. With the advent of open-access journals as
+well as the growing availability of articles freely available online
+(e.g., PubMed Central, arXiv.org, faculty websites), scientists face an
+expanding volume of scientific literature. Given the massive influx of
+scientific publications, an objective, thorough and timely evaluation of
+research becomes essential. However, the increasingly interdisciplinary
+nature of research, high volume of submissions and limited time and
+availability of expert reviewers have resulted in high variability in
+the quality and timeliness of the review process. The current review
+process for scientific publications is fraught with many problems that
+undermine the pace, validity, and credibility of science. These problems
+include: reviewers are expected to have comprehensive expertise, do not
+have sufficient access to methods and materials to evaluate a study, and
+are typically anonymous and not acknowledged; there is no measure of the
+quality of a review; and reviews take a lot of time and once submitted
+cannot evolve. To address these problems, we propose an open review
+process that draws on the ideas, experience, and technologies developed
+to support code review in open source software projects.
 
 Keywords: distributed peer review, code review systems, open-source
 software development
@@ -270,7 +280,7 @@ phrases, sentences or paragraphs in different parts of the text. For
 example, a reviewer might come across a sentence in the discussion
 section of an article that contradicts two sentences in different parts
 of the results section. The interface should allow multiple reviewers to
-expose contradictions, unsubstantiated pretexts, and other
+expose contradictions, unsubstantiated assumptions, and other
 inconsistencies across the body of an article or across reviews for the
 article. A mock-up of such a system is shown in Figure 3.
 
