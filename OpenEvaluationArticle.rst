@@ -287,7 +287,9 @@ expose contradictions, unsubstantiated assumptions, and other
 inconsistencies across the body of an article or across reviews for the
 article. A mock-up of such a system is shown in Figure 3.
 
-|image0|INSERT FIGURE HERE
+.. figure:: images/image07.png
+   :align: center
+   :alt: 
 
 Figure 3. Mock-up of a modified commenting system.
 
@@ -496,17 +498,13 @@ contributions (whether the contribution is an article, review, comment
 on a review, or any portions thereof). Metrics have many uses in this
 context, including constructing a dynamic assessment of individuals or
 their ideas (as in the Stack Overflow example in Figure X) for use in
-promotion and allocation of funds and resources.
-
-assessing the importance of reviewers and the importance of individual
-contributions , to data mining reviews and comment histories to study
-the process of scientific publication. The classic “Like” tally used to
-indicate appreciation of a contribution in Digg.com, Facebook.com, etc.,
-is the most obvious and simplistic way to indicate the quality of a
-contribution (whether it be an article, review, comment on a review, or
-any portions thereof). Other possibilities include measuring the
-activity, frequency (Figure X), impact (Figure X), and topic range of a
-contributor or their contributions over time.
+promotion and allocation of funds and resources. Metrics also make it
+possible to data mine reviews and comment histories to study the process
+of scientific publication. The classic “Like” tally used to indicate
+appreciation of a contribution in Digg.com, Facebook.com, etc., is the
+most obvious and simplistic way to indicate quality. Other possibilities
+include measuring the activity, frequency (Figure X), impact (Figure X),
+and topic range of a contributor or their contributions over time.
 
 .. figure:: images/image02.png
    :align: center
@@ -928,5 +926,3 @@ everyone time.
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
-
-.. |image0| image:: images/image07.png
