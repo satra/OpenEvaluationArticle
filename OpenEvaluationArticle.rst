@@ -110,7 +110,7 @@ in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
 from distributed code review in open source software development.
 
-.. figure:: images/image04.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 1. A patch submission workflow for the Android project. [source:
@@ -272,7 +272,7 @@ address reviewer comments (an example is shown in Figure 2). These
 interactive discussions become part of a permanent and open log of the
 project.
 
-.. figure:: images/image02.png
+.. figure:: images/image03.png
    :align: center
    :alt: 
 Figure 3. Mock-up of a modified commenting system. The left panel shows
@@ -432,6 +432,14 @@ accepted into the main project. The discussion mechanism facilitates
 this process. However, in the case of code review, the quality of review
 is typically not quantified.
 
+.. figure:: images/image01.png
+   :align: center
+   :alt: 
+Figure 6. A response to a question on stackoverflow.net. The top left
+number indicates the number of positive votes this response received.
+There are comments to the response itself and the number next to the
+comments reflects the number of positive votes for the comment.
+
 Enhancing code review systems for article review
 
 We propose to augment code review systems (and in turn, article review
@@ -443,18 +451,9 @@ responses to questions for topics related to either computer programming
 or mathematics, respectively. The web interface allows registered
 members to post or respond to a question, to comment on a response, to
 vote on the quality or importance of a question, of a response, or of a
-comment. Figure 6 below shows a screenshot of the response from a
-registered member to a question submitted to Stack Overflow, where 299
-indicates the number of votes received for the response from registered
-members.
-
-.. figure:: images/image05.png
-   :align: center
-   :alt: 
-Figure 6. A response to a question on stackoverflow.net. The top left
-number indicates the number of positive votes this response received.
-There are comments to the response itself and the number next to the
-comments reflects the number of positive votes for the comment.
+comment. Figure 6 shows a screenshot of the response from a registered
+member to a question submitted to Stack Overflow, where 299 indicates
+the number of votes received for the response from registered members.
 
 5. Expedite reviews and allow for post-publication review.
 
@@ -478,10 +477,9 @@ Relevance of code review systems
 Code review requires participation from people with differing degrees of
 expertise and knowledge of the project. This leads to higher quality of
 the code as well as faster development than individual programmers could
-normally contribute. These contributions are also made well beyond the
-initial code review allowing for bugs to be detected and improvements to
-be made. Extending the life of the review process beyond initial review
-could result in similar benefits.
+normally contribute. These contributions can also be made well beyond
+the initial code review allowing for bugs to be detected and
+improvements to be made by noobs newdies contributors.
 
 Enhancing code review systems for article review
 
@@ -527,7 +525,7 @@ disagrees with the statement, then a decision in favor of group A could
 be made if the aggregate metric evaluating A’s expertise on the
 statement’s topic is higher than that of B.
 
-.. figure:: images/image03.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
 Figure 7. Example of a metric for quantifying contributor frequency.
@@ -536,7 +534,7 @@ Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
 the number of times the speaker was quoted on a given day.
 
-.. figure:: images/image01.png
+.. figure:: images/image02.png
    :align: center
    :alt: 
 Figure 8. Example of a metric for quantifying contributions over time.
@@ -564,7 +562,7 @@ Practical and psychological limitations
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted some aspects
-of our proposed system (e.g., Frontiers, )
+of our proposed system (e.g., Frontiers, BioMed Central)
 
 Example in practice
 
