@@ -291,7 +291,8 @@ neuroimaging analysis captures numerous details in a compact visual form
 which would otherwise be absent in a methods section. Furthermore,
 several journals (e.g. Science -
 `sciencemag.org <http://sciencemag.org>`_ , Proceedings of the National
-Academy of Sciences - pnas.org) are now mandating this as part of
+Academy of Sciences - pnas.org) are now mandating submitting all
+components necessary to reproduce the results of the study as part of
 article submission.
 
 .. figure:: images/image05.png
@@ -487,18 +488,19 @@ The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). We found the collaborative editing use of these tools
-enjoyed the process and found it to be very efficientIf we had solicited
-many reviewers, problems would have arisen that are we did not at such a
-small scale. First, as in the content of this article, we assumed that
-the reviewers did not have selfish motives or egotistical attitudes that
-affected their reviews. Second, we reached a consensus on most issues,
-resulting in a very rapid process of writing and reviewing, without
-conflicts or deadlock. Third, because we had to meet the submission
-deadline for this article, one or another of us took some decisions
-without seeking approval from all other reviewers. All three of these
-point to the problem of reviewers reaching an agreement so that the
-article could be published in a timely manner.
+(docs.google.com). We found the collaborative editing to be enjoyable
+and efficienuse of these tools enjoyed the process and found it to be
+very efficientIf we had solicited many reviewers, problems would have
+arisen that are we did not at such a small scale. First, as in the
+content of this article, we assumed that the reviewers did not have
+selfish motives or egotistical attitudes that affected their reviews.
+Second, we reached a consensus on most issues, resulting in a very rapid
+process of writing and reviewing, without conflicts or deadlock. Third,
+because we had to meet the submission deadline for this article, one or
+another of us took some decisions without seeking approval from all
+other reviewers. All three of these point to the problem of reviewers
+reaching an agreement so that the article could be published in a timely
+manner.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
