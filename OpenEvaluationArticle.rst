@@ -232,23 +232,24 @@ components of the problem. However, unlike scientific review, code
 review is not limited to specialists. When multiple pairs of eyes look
 at code, the code improves, bugs are caught, and all participants are
 encouraged to write better code. Existing code review systems such as
-Gerrit (http://code.google.com/p/gerrit) and GitHub (http://github.com)
-are built for such a distributed review process and provide reviewers
-the ability to interact, modify, annotate and discuss the contents of
-submitted code changes. Indeed, the purpose of these systems mirror the
-purpose of scientific review to increase the clarity, reproducibility
-and correctness of works that enter the canon. While no journals provide
-a platform for performing for such open and distributed review, the
-Frontiers journals do provide an interactive discussion forum for
-authors and reviewers to improve the quality of a submission after an
-initial closed review. In GitHub, code is available for everyone to view
-and for registered GitHub members to comment on and report issues using
-an interactive web interface. The interface combines a discussion forum
-that allows inserting comments on any given line of code together with a
-mechanism for accepting new updates to the code that fix unresolved
-issues or address reviewer comments (an example is shown in Figure 2).
-These interactive discussions become part of a permanent and open log of
-the project.
+Gerrit (http://code.google.com/p/gerrit) as well as the collaborative
+development and code review functionality provided by hosting services
+like GitHub (http://github.com) are built for a distributed review
+process and provide reviewers the ability to interact, modify, annotate
+and discuss the contents of submitted code changes. Indeed, the purpose
+of these systems mirror the purpose of scientific review to increase the
+clarity, reproducibility and correctness of works that enter the canon.
+While no journals provide a platform for performing for such open and
+distributed review, the Frontiers journals do provide an interactive
+discussion forum for authors and reviewers to improve the quality of a
+submission after an initial closed review. In GitHub, code is available
+for everyone to view and for registered GitHub members to comment on and
+report issues using an interactive web interface. The interface combines
+a discussion forum that allows inserting comments on any given line of
+code together with a mechanism for accepting new updates to the code
+that fix unresolved issues or address reviewer comments (an example is
+shown in Figure 2). These interactive discussions become part of a
+permanent and open log of the project.
 
 .. figure:: images/image06.png
    :align: center
