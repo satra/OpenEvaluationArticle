@@ -496,7 +496,8 @@ Enhancing code review systems for article review
 
 Current code review systems have components for expedited and continued
 review. Where they could stand to be improved is in their visual
-interfaces.
+interfaces, to make them more intuitive for a non-programmer to quickly
+navigate, and to
 
 Quantifying an open-review system
 
