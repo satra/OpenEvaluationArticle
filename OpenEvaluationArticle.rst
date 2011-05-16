@@ -479,7 +479,7 @@ expertise and knowledge of the project. This leads to higher quality of
 the code as well as faster development than individual programmers could
 normally contribute. These contributions can also be made well beyond
 the initial code review allowing for bugs to be detected and
-improvements to be made by noobs newdies contributors.
+improvements to be made by new contributors.
 
 Enhancing code review systems for article review
 
@@ -561,8 +561,8 @@ Practical and psychological limitations
 
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
-researchers may resist. Some journals have already adopted some aspects
-of our proposed system (e.g., Frontiers, BioMed Central)
+researchers may resist. Some journals have already adopted aspects of
+our proposed system (e.g., Frontiers, BioMed Central)
 
 Example in practice
 
