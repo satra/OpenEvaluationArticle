@@ -149,9 +149,10 @@ Reviewing is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. The reviewer stands to
 gain by early exposure to relevant areas of research, while a publisher
 stands to gain financially through either publication or subscription
-fees. There is little motivation for potential reviewers to participate
-in the review process, and a lack of acknowledgment for their services
-that could factor into their evaluations for promotion and funding
+fees. However, without acknowledging the contributions or reviewers,
+there is little incentive for potential reviewers to participate in the
+review process, and a lack of acknowledgment for their services that
+could factor into their evaluations for promotion and funding
 opportunities (there are a few journals such as Frontiers, which have
 begun acknowledging reviewers).
 
