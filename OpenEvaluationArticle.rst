@@ -371,6 +371,8 @@ Figure 5: A web page snippet from the Geritt code review system used for
 ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
 are participating in the review.
 
+Certain software
+
 Enhancing code review systems for article review
 
 The criterion for accepting code is based on the functionality of the
@@ -488,19 +490,18 @@ The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). We found the collaborative editing to be enjoyable
-and efficienuse of these tools enjoyed the process and found it to be
-very efficientIf we had solicited many reviewers, problems would have
-arisen that are we did not at such a small scale. First, as in the
-content of this article, we assumed that the reviewers did not have
-selfish motives or egotistical attitudes that affected their reviews.
-Second, we reached a consensus on most issues, resulting in a very rapid
-process of writing and reviewing, without conflicts or deadlock. Third,
-because we had to meet the submission deadline for this article, one or
-another of us took some decisions without seeking approval from all
-other reviewers. All three of these point to the problem of reviewers
-reaching an agreement so that the article could be published in a timely
-manner.
+(docs.google.com). We found the collaborative editing and reviewing
+through the use of these tools to be enjoyable and efficientIf we had
+solicited many reviewers, problems would have arisen that are we did not
+at such a small scale. First, as in the content of this article, we
+assumed that the reviewers did not have selfish motives or egotistical
+attitudes that affected their reviews. Second, we reached a consensus on
+most issues, resulting in a very rapid process of writing and reviewing,
+without conflicts or deadlock. Third, because we had to meet the
+submission deadline for this article, one or another of us took some
+decisions without seeking approval from all other reviewers. All three
+of these point to the problem of reviewers reaching an agreement so that
+the article could be published in a timely manner.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
@@ -537,7 +538,7 @@ journal of the American Medical Association, 276(8):637.
 
 Brazma, A., Hingamp, P., Quackenbush, J., Sherlock, G., Spellman, P.,
 Stoeckert, C., Aach, J., Ansorge, W., Ball, C., Causton, H., et al.
-(2001). Minimum information about a microarray experiment (miame)toward
+(2001). Minimum information about a microarray experiment (miame) toward
 standards for microarray data. Nature genetics, 29(4):365–371.
 
 Chang, G., Roth, C. B., Reyes, C. L., Pornillos, O., Chen, Y.-J., and
@@ -558,7 +559,7 @@ virtual organization: a content analysis of open source software case
 studies. Information Systems Journal, 11(4):277–304.
 
 Garfield, E. (1955). Citation indexes to science: a new dimension in
-docu- mentation through association of ideas. Science, 122(3159):108–11.
+documentation through association of ideas. Science, 122(3159):108–11.
 
 Grivell, L. (2006). Through a glass darkly: The present and the future
 of editorial peer review. EMBO reports, 7(6):567.
