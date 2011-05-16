@@ -188,7 +188,9 @@ evaluation system for scientific publishing that draws on the ideas,
 experience, and technologies recently developed to support community
 code review in open source software projects. Opening up the review
 process to everyone, not just to a select few anonymous reviewers, has
-the potential to address every one of the problems raised above.
+the potential to address every one of the problems raised above. In the
+following sections, for each of the problems listed above, we first
+describe our proposed solution,
 
 1. Distribute reviews to many reviewers.
 
@@ -213,10 +215,10 @@ number of reviewers to those solicited from a pool of experts. This
 would still improve scientific rigor while lessening the burden on each
 individual reviewer, as long as they review specific components of the
 article they are knowledgeable about. A third would be to conduct a
-preview consisting of a limited and expedited review process preceding a
-full and open review. At different stages of such a tiered review,
-reviewers might be assigned different roles, such as mediator, editor,
-or commenter.
+preliminary review consisting of a limited and expedited review process
+prior to the full and open review. At different stages of such a tiered
+review, reviewers might be assigned different roles, such as mediator,
+editor, or commenter.
 
 Relevance of code review systems
 
