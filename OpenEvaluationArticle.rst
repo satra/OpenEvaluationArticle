@@ -514,8 +514,9 @@ process of writing and reviewing, without conflicts or deadlock. Third,
 because we had to meet the submission deadline for this article, one or
 another of us took some decisions on remaining issues without seeking
 approval from all other reviewers. All three of these point to the
-problem of reviewers reaching a con so that the article could be
-published in a timely manner.
+problem of reviewers reaching a consensus so that the article could be
+published in a timely manner. This may be handled by not requiring a
+consensus, but in
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
