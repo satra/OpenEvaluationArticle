@@ -499,7 +499,8 @@ allocation of funds and resources. Metrics also make it possible to mine
 reviews and comment histories to study the process of scientific
 publication. The classic “Like” tally used to indicate appreciation of a
 contribution in Digg.com, Facebook.com, etc., is the most obvious
-measure assigned by a community, and simplistic measure, but is vague.
+measure assigned by a community, but it is simplistic measure, but is
+vague.
 
 way to indicate appreciationvalue, albeit as a vague problematical.
 Other possibilities include measuring the activity, frequency (Figure
@@ -542,6 +543,8 @@ contributions, and ensure that reviews are timely and live on beyond the
 publication date. We propose that an effective means for implementing
 these changes would be to enhance current code review systems for
 software development to support article review.
+
+-----
 
 Example in practice
 
