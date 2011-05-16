@@ -121,7 +121,7 @@ interpretations handed over as a package to each reviewer, rather than
 delegated to many experts in each domain? Realistically, it is common
 practice for a reviewer to criticize portions of an article that he or
 she understands, is interested in, has time to read, and takes issue
-with, while falling silent on the rest of the article. This leads an
+with, while falling silent on the rest of the article. GiThis leads an
 editor to falsely assume that uncommented portions have met with
 approval. The unrealistic expectations placed on each of the reviewers,
 coupled with the delayed and sequential interactions they have with the
