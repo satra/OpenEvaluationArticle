@@ -686,7 +686,7 @@ Van de Sompel, H., Payette, S., Erickson, J., Lagoze, C., and Warner, S.
 Van Horn, J., Grethe, J., Kostelec, P., Woodward, J., Aslam, J., Rus,
 D., Rockmore, D., and Gazzaniga, M. (2001). The Functional Magnetic
 Resonance Imaging Data Center (fMRIDC): the challenges and rewards of
-large–scale databasing of neuroimaging studies. Philosophical
+large-scale databasing of neuroimaging studies. Philosophical
 Transactions of the Royal Society of London. Series B: Biological
 Sciences, 356(1412):1323.
 
