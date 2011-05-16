@@ -58,9 +58,8 @@ amount of information apportioned to each article. Moreover, the lack of
 objective standards for the review process results in great variability
 in the percentage and quality of articles accepted. This has led to a
 hierarchy in the status of journals, often quantified by a journal's
-impact factor [cite: Thompson's index, Hirsch’s h-index, the Eigenfactor
-index,...]. As such, certain journal titles are taken as arbiters of
-quality and significance of published works instead of the review
+impact factor (). As such, certain journal titles are taken as arbiters
+of quality and significance of published works instead of the review
 process.
 
 Currently the typical review process for an article involves a
@@ -533,7 +532,9 @@ reviewers choose articles and components of the article they want to
 review. These are ideas that have already been implemented in scientific
 publishing. The Frontiers system (frontiersin.org) solicits reviews from
 a select group of review editors and the Brain and Behavioral Sciences
-publication [cite: XXX] solicits reviews from the community.
+publication
+(http://journals.cambridge.org/action/displayJournal?jid=BBS) solicits
+reviews from the community.
 
 `[2] <#ftnt_ref2>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
