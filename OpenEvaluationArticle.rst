@@ -533,7 +533,8 @@ statement in an article in the following scenario. Half of a pool of
 reviewers A agrees with the statement and the other half B disagrees
 with the statement. A decision in favor of group A could be made if the
 aggregate metric evaluating A’s expertise on the statement’s topic is
-higher than that of B.
+higher than that of B. However, such decisions will only be possible
+once this system has acquired a sufficient set of data about expertise.
 
 .. figure:: images/image06.png
    :align: center
