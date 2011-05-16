@@ -249,7 +249,7 @@ like GitHub (http://github.com) are built for a distributed review
 process and provide reviewers the ability to interact, modify, annotate
 and discuss the contents of submitted code changes.
 
-.. figure:: images/image00.png
+.. figure:: images/image01.png
    :align: center
    :alt: 
 Figure 2. A snapshot from the web interface of a pull request of the
@@ -272,7 +272,7 @@ address reviewer comments (an example is shown in Figure 2). These
 interactive discussions become part of a permanent and open log of the
 project.
 
-.. figure:: images/image03.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
 Figure 3. Mock-up of a modified commenting system. The left panel shows
@@ -432,7 +432,7 @@ accepted into the main project. The discussion mechanism facilitates
 this process. However, in the case of code review, the quality of review
 is typically not quantified.
 
-.. figure:: images/image01.png
+.. figure:: images/image02.png
    :align: center
    :alt: 
 Figure 6. A response to a question on stackoverflow.net. The top left
@@ -472,6 +472,11 @@ just as a method or philosophy, but as a social endeavor. This could
 make scientific review and science a more welcoming community, and more
 desirable career choice.
 
+.. figure:: images/image00.gif
+   :align: center
+   :alt: 
+Figure 7.
+
 Relevance of code review systems
 
 Code review requires participation from people with differing degrees of
@@ -483,8 +488,8 @@ improvements to be made by new contributors.
 
 Enhancing code review systems for article review
 
-Current code review systems have components for expedited and continued
-|image0|review.
+Current code review systems have components for expedited and
+continuedreview.
 
 Quantifying an open-review system
 
@@ -530,7 +535,7 @@ Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
 the number of times the speaker was quoted on a given day.
 
-.. figure:: images/image02.png
+.. figure:: images/image03.png
    :align: center
    :alt: 
 Figure 9. Example of a metric for quantifying contributions over time.
@@ -561,7 +566,8 @@ researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central). Initially some of
 the ideas from of our proposed system could be implemented as part of
 the post-publication system. As scientists gain familiarity and journals
-gain experience with these aspects of the system, t
+gain experience with these aspects of the system, they can be refined
+and improved.
 
 Example in practice
 
@@ -953,5 +959,3 @@ everyone time.
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
-
-.. |image0| image:: images/image04.gif
