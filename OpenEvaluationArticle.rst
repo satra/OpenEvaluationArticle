@@ -597,7 +597,6 @@ the post-publication system, alongside a more traditional anonymous peer
 review system (e.g., Atmospheric Chemistry and Physics,
 atmos-chem-phys.net). As scientists gain familiarity and journals gain
 experience with our proposed system, it could be refined and improved.
-
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
 through planning, execution, and documentation (Butler, 2005). This
@@ -606,10 +605,9 @@ decisions are taken at every stage in the evolution of a project.
 
 In this article, we have proposed a re-design of the current peer review
 system by incorporating ideas from code review systems associated with
-open source software development. Such a system should enable a fair,
-unbiased, efficient review and rapid dissemination of scientific work,
-while providing a framework for extending scientific discourse beyond
-the labs
+open source software development. Such a system should enable an
+unbiased, comprehensive, and efficient review of scientific work while
+ensuring a continued, evolving, public dialogue.
 
 --------------
 
