@@ -534,9 +534,7 @@ but can be engaged throughout the process of research, from inception
 through planning, execution, and documentation [cite: Nature editorial
 on e-lab notebooks]. This facilitates collaborative research and also
 ensures that optimal decisions are taken at every stage in the evolution
-of a
-
-project.
+of a project.
 
 As mentioned earlier, a number of the ideas presented in this article
 have already been adopted by various journal publishing entities.
