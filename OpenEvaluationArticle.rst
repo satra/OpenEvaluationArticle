@@ -562,7 +562,8 @@ Eliminating bias from scientific review
 Practical and psychological limitations
 
 It may not be practical to immediately adopt the open review process
-proposed in this article and it is likely that
+proposed in this article and will require a change of culture that many
+researchers may resist. It is our belief that journals that start
 
 Example in practice
 
