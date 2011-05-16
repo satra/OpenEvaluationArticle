@@ -362,7 +362,10 @@ In software development, reviewers are acknowledged implicitly by having
 their names associated with comments related to a code review. Other
 systems, like Geritt and GitHub explicitly list the reviewers
 participating in the review process. An example from Geritt is shown in
-Figure 5.
+Figure 5. In addition, certain social coding websites (e.g., ohloh)
+analyzes contributions of developers to various projects and assigns
+“kudos” to indicate the involvement, but not necessarily the proficiency
+of the developers.
 
 .. figure:: images/image04.png
    :align: center
@@ -486,27 +489,29 @@ Discussion
 
 In this article, we raise five problems with the current process for
 reviewing scientific articles, and argue that opening up the review
-process to include many reviewers, could address all of these problems.
-We propose that this may be accomplished by enhancing current code
-review systems for application to article review. The writing of this
-article was conducted in the spirit of the content of the article, with
-multiple authors and peer reviewers contributing primarily via GitHub
-(github.com/satra/scientific-review), followed by dynamic, interactive,
-real-time collaboration via Google Docs (docs.google.com). We found the
-collaborative editing and reviewing through the use of these tools to be
-enjoyable and efficient, while exposing some of the current limitations
-of code review systems for article review mentioned above. Had we
-solicited many reviewers, we could have experienced more of the
-real-world challenges of such an open review system. First, as in the
-content of this article, we assumed that the reviewers did not have
-selfish motives or egotistical attitudes that affected their reviews.
-Second, we reached a consensus on most issues, resulting in a very rapid
-process of writing and reviewing, without conflicts or deadlock. Third,
-because we had to meet the submission deadline for this article, one or
-another of us took some decisions without seeking approval from all
-other reviewers. All three of these point to the problem of reviewers
-reaching an agreement so that the article could be published in a timely
-manner.
+process to include many reviewers, provide them with the data and
+software to replicate a study, acknowledge their contributions, quantify
+the quality of their contributions, and could address all of these
+problems. We propose that this may be accomplished by enhancing current
+code review systems for software development to support article review.
+The writing of this article was conducted in the spirit of the content
+of the article, with multiple authors and peer reviewers contributing
+primarily via GitHub (github.com/satra/scientific-review), followed by
+dynamic, interactive, real-time collaboration via Google Docs
+(docs.google.com). We found the collaborative editing and reviewing
+through the use of these tools to be enjoyable and efficient, while
+exposing some of the current limitations of code review systems for
+article review mentioned above. Had we solicited many reviewers, we
+could have experienced more of the real-world challenges of such an open
+review system. First, as in the content of this article, we assumed that
+the reviewers did not have selfish motives or egotistical attitudes that
+affected their reviews. Second, we reached a consensus on most issues,
+resulting in a very rapid process of writing and reviewing, without
+conflicts or deadlock. Third, because we had to meet the submission
+deadline for this article, one or another of us took some decisions
+without seeking approval from all other reviewers. All three of these
+point to the problem of reviewers reaching an agreement so that the
+article could be published in a timely manner.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
