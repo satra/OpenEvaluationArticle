@@ -611,8 +611,9 @@ ensuring a continued, evolving, public dialogue.
 
 Acknowledgements
 
-Arno Klein would like to thank the NIMH for their funding of R01 grant
-MH084029.
+We would like to thank Fernando Perez for his helpful comments. Arno
+Klein would like to thank Deepanjana and Ellora, as well as the NIMH for
+their support via R01 grant MH084029.
 
 --------------
 
