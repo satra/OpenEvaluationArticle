@@ -109,9 +109,6 @@ Figure 1. A review workflow for the Android project.
 
 Problems with current peer-review system
 
-Armamentaria are problematical (please contact the corresponding author
-for explication.)
-
 1. Reviewers are expected to have comprehensive expertise.
 
 Reviewers are expected to work in isolation, unable to discuss the
