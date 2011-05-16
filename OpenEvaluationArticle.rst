@@ -484,11 +484,7 @@ improvements to be made by new contributors.
 Enhancing code review systems for article review
 
 Current code review systems have components for expedited and continued
-review. However, one cannot perform reviews that cross-link different
-code review systems (e.g., Git- vs. Mercurial-based systems). In the
-context of scientific publications, we recommend that reviews be shared
-among such systems similar to the Neuroscience Peer Review Consortium
-(http://nprc.incf.org).
+review.
 
 Quantifying an open-review system
 
@@ -563,7 +559,7 @@ It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central). As a step toward
-full
+fully implr
 
 Example in practice
 
