@@ -498,7 +498,8 @@ Current code review systems have components for expedited and continued
 review. Where they could stand to be improved is in their visual
 interfaces, to make them more intuitive for a non-programmer to quickly
 navigate, and to enable a temporal view of the evolutionary history of
-an arbitrary section of text, analogous to Figure 7.
+an arbitrary section of text, analogous to Figure 7 (except as an
+interactive tool).
 
 Quantifying an open-review system
 
@@ -565,22 +566,6 @@ publication date. We propose that an effective means for implementing
 these changes would be to enhance current code review systems for
 software development to support article review.
 
-Eliminating bias from scientific review
-
-Practical and psychological limitations
-
-It may not be practical to immediately adopt the open review process
-proposed in this article and will require a change of culture that many
-researchers may resist. Some journals have already adopted aspects of
-our proposed system (e.g., Frontiers, BioMed Central). Initially, our
-full proposal could be implemented as part of the post-publication
-system, alongside a more traditional anonymous peer review system. As
-scientists gain familiarity and journals gain experience with our
-proposed system, it can be refined and improved. Different reviewer
-metrics can be gathered and compared.
-
-Example in practice
-
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
@@ -601,30 +586,23 @@ three of these point to the problem of reviewers reaching a consensus so
 that the article could be published in a timely manner. This may be
 handled by not requiring a consensus, but instead by exploiting metrics
 that quantify the quality of the reviews and comments on these reviews
-to make a decision.
+to make a decision, as discussed earlier.
+
+It may not be practical to immediately adopt the open review process
+proposed in this article and will require a change of culture that many
+researchers may resist. Some journals have already adopted aspects of
+our proposed system (e.g., Frontiers, BioMed Central, Science, PNAS,
+PLoS One). Initially, our full proposal could be implemented as part of
+the post-publication system, alongside a more traditional anonymous peer
+review system (e.g., Atmospheric Chemistry and Physics,
+atmos-chem-phys.net). As scientists gain familiarity and journals gain
+experience with our proposed system, it could be refined and improved.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
-through planning, execution, and documentation (Butler 2005). This
+through planning, execution, and documentation (Butler, 2005). This
 facilitates collaborative research and also ensures that optimal
 decisions are taken at every stage in the evolution of a project.
-
-As mentioned earlier, a number of the ideas presented in this article
-have already been adopted by various journal publishing entities.
-(`http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG <http://www.the-scientist.com/article/display/57601/#ixzz1MKhYtfZG>`_).
-
-Reviewers are biased by personal motives
-
-Solution: Eliminate anonymous peer review ( Biology Direct, BMJ, BMC);
-run open peer review alongside traditional review (Atmospheric Chemistry
-and Physics); judge a paper based only on scientific soundness, not
-impact or scope
-
-(PLoS ONE)
-
-access to criticism and feedback can spur new directions of research
-
-PEP Talk -- guidelines vs restrictions
 
 --------------
 
