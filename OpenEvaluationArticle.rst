@@ -11,7 +11,7 @@ Psychiatric Institute, Columbia University, New York, NY, USA
 3 PICSL, Department of Radiology, University of Pennsylvania School of
 Medicine, Philadelphia, PA, USA
 
-4 Helen Willis Neuroscience Institute, University of California,
+4 Helen Wills Neuroscience Institute, University of California,
 Berkeley, Berkeley, CA, USA
 
 Correspondence:
@@ -37,8 +37,8 @@ evaluate a study, and are typically anonymous and not acknowledged, that
 there is no measure of the quality of a review, and reviews take a lot
 of time, and once submitted cannot evolve. To address these problems, we
 propose an open review process that draws on the ideas, experience, and
-technologies recently developed to support code review in open source
-software projects.
+technologies developed to support code review in open source software
+projects.
 
 Keywords: distributed peer review, code review systems, open-source
 software development
@@ -454,7 +454,7 @@ Current code review systems have components for expedited and continued
 review. However, one cannot perform reviews that cross-link different
 code review systems (e.g., Git- vs. Mercurial-based systems). In the
 context of scientific publications, we recommend that reviews be shared
-between such systems similar to the Neuroscience Peer Review Consortium
+among such systems similar to the Neuroscience Peer Review Consortium
 (http://nprc.incf.org).
 
 Quantifying an open-review system
@@ -531,8 +531,8 @@ narrow and biased selection of reviewers. An alternative way to solicit
 reviewers is to broadcast an article to a pool of reviewers and to let
 reviewers choose articles and components of the article they want to
 review. These are ideas that have already been implemented in scientific
-publishing. The Frontiers system [cite: XXX] solicits reviews from a
-select group of review editors and the Brain and Behavioral Sciences
+publishing. The Frontiers system (frontiersin.org) solicits reviews from
+a select group of review editors and the Brain and Behavioral Sciences
 publication [cite: XXX] solicits reviews from the community.
 
 `[2] <#ftnt_ref2>`_To allay concerns over worldwide pre-publication
