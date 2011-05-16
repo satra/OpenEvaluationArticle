@@ -523,8 +523,8 @@ or more reviewers in Figure X. This could be useful for determining, for
 example, when half of a pool of reviewers A agrees with a given
 statement in an article and the other half D disagrees with the
 statement, then a decision in favor of group A could be made if the
-aggregate metric evaluating the expertise of A on the statement’s topic
-is higher than that of B.
+aggregate metric evaluating A’s expertise on the statement’s topic is
+higher than that of B.
 
 .. figure:: images/image03.png
    :align: center
