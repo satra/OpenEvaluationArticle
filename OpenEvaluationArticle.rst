@@ -272,8 +272,8 @@ expose contradictions, unsubstantiated pretexts, and other
 inconsistencies across the body of an article or across reviews for the
 article. A mock-up of such a system is shown in Figure X.
 
-2. \*\*Provide reviewers materials and methods to perform comprehensive
-evaluation.\*\*
+2. Provide reviewers materials and methods to perform comprehensive
+evaluation.
 
 In a wide-scale, open review, descriptions of experimental designs and
 methods would come under greater scrutiny by people from different
@@ -306,7 +306,7 @@ results in the future. In the long run, virtual machines or servers may
 indeed allow standardization of analysis environments and replication of
 analyses for every publication.
 
-\*Relevance of code review systems:\*
+Relevance of code review systems
 
 While certain journals (e.g., PLoS One, Insight Journal) require code to
 be submitted for any article describing software or algorithm
@@ -327,7 +327,7 @@ tagged to reflect milestones during development. Such testing data and
 history of the project provide sufficient contextual information for a
 reviewer to comment on submitted code.
 
-\*Enhancing code review systems for article review:\*
+Enhancing code review systems for article review
 
 As stated earlier, code review systems are built for code, not for data.
 In some disciplines (such as neuroimaging) the amount of data can be
@@ -335,7 +335,7 @@ large. Code review systems should be coupled with database systems
 (e.g., Extensible Neuroimaging Archive Toolkit - XNAT) to enable storage
 of such large amounts of data.
 
-3. \*\*Acknowledge reviewers\*\*
+3. Acknowledge reviewers
 
 When reviewers are given the opportunity to provide feedback regarding
 just the areas they are interested in, the review process becomes much
@@ -352,7 +352,7 @@ BioMedCentral) are immediately associated with the publication. Second,
 measures of review quality eventually become associated with the
 reviewer based on community feedback on the reviews.
 
-\*Relevance of code review systems:\*
+Relevance of code review systems
 
 In software development, reviewers are acknowledged implicitly by having
 their names associated with comments related to a code review. Other
@@ -367,7 +367,7 @@ Figure X: A web page snippet from the Geritt code review system used for
 ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
 are participating in the review.
 
-\*Enhancing code review systems for article review:\*
+Enhancing code review systems for article review
 
 The criterion for accepting code is based on the functionality of the
 final code rather than the quality of reviews. As such code review
@@ -378,7 +378,7 @@ reviewers. This would include a weighted combination of the number of
 reviews as well as the quality of those reviews as assessed via a metric
 described next.
 
-4. \*\*Quantify review quality.\*\*
+4. Quantify review quality.
 
 Although certain journals hold a limited discussion before a paper is
 accepted, it is still behind closed doors and limited to the editor, the
@@ -390,7 +390,7 @@ of a submission, and analysis of the review process then becomes
 possible and could lead to an objective standardization of the
 scientific process.
 
-\*Relevance of code review systems:\*
+Relevance of code review systems
 
 In general, code review systems use a discussion mechanism, where a code
 change is moderated through an iterative process as illustrated earlier
@@ -401,7 +401,7 @@ accepted into the main project. The discussion mechanism facilitates
 this process. However, in the case of code review, the quality of review
 is typically not quantified.
 
-\*Enhancing code review systems for article review:\*
+Enhancing code review systems for article review
 
 We propose to augment code review systems (and in turn, article review
 systems) with a mechanism similar to the one used in discussion forums
@@ -421,7 +421,7 @@ number indicates the number of positive votes this response received.
 There are comments to the response itself and the number next to the
 comments reflects the number of positive votes for the comment.
 
-5. \*\*Expedite reviews and allow for post-publication review.\*\*
+5. Expedite reviews and allow for post-publication review.
 
 Once open and online, reviews can be dynamic, interactive, and conducted
 in real time (e.g., Frontiers). And with many reviewers, they can choose
@@ -438,7 +438,7 @@ just as a method or philosophy, but as a social endeavor. This could
 make scientific review and science a more welcoming community, and more
 desirable career choice.
 
-\*Relevance of code review systems:\*
+Relevance of code review systems
 
 Code review invites and requires participation from people with
 differing degrees of expertise and knowledge of the project. This leads
@@ -448,7 +448,7 @@ are also made well beyond the initial code review allowing for bugs to
 be detected and improvements to be made. Extending the life of the
 review process beyond initial review could result in similar benefits.
 
-\*Enhancing code review systems for article review:\*
+Enhancing code review systems for article review
 
 Current code review systems have components for expedited and continued
 review. However, one cannot perform reviews that cross-link different
@@ -480,7 +480,10 @@ the number of times the speaker was quoted in a given time period.
 
 Discussion
 
-----------
+The writing of this article was conducted in the spirit of the content
+of the article, with multiple authors/reviewers contributing primarily
+via GitHub, followed by dynamic, interactive, real-time collaboration
+via Google Docs.
 
 The general goal of natural scientists is to clarify our understanding
 of the natural world through replicable experiments and improved
