@@ -252,7 +252,6 @@ and discuss the contents of submitted code changes.
 .. figure:: images/image00.png
    :align: center
    :alt: 
-
 Figure 2. A snapshot from the web interface of a pull request of the
 NiPyPE (nipy.org/nipype) project on GitHub, demonstrating part of a
 discussion thread, inline commenting of code (for line 98) as well as
