@@ -504,9 +504,9 @@ the number of times the speaker was quoted on a given day.
    :align: center
    :alt: 
 Figure X. Example of a metric for quantifying contributions over time.
-This is a screenshot of a visualization in GitHub of the
-
-Blocks represent “impact”
+This is a screenshot of a ribbon chart visualization in GitHub of the
+history of code review, where each color indicates the width of a ribbon
+represents the “impact” during a week-long period.
 
 Discussion
 
