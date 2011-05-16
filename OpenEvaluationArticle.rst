@@ -562,7 +562,8 @@ Practical and psychological limitations
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
-our proposed system (e.g., Frontiers, BioMed Central)
+our proposed system (e.g., Frontiers, BioMed Central). As a step toward
+full
 
 Example in practice
 
