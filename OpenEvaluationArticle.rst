@@ -475,7 +475,13 @@ desirable career choice.
 .. figure:: images/image00.gif
    :align: center
    :alt: 
-Figure 7.
+Figure 7. 2003 computer graphics by Fernanda B. Vizgas, Martin Watt
+(IBM)
+
+history flow is a tool for visualizing dynamic, evolving documents and
+the interactions of multiple collaborating authors. In its current
+implementation, history flow is being used to visualize the evolutionary
+history of wiki\* pages on Wikipedia.
 
 Relevance of code review systems
 
