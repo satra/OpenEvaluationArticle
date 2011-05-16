@@ -513,7 +513,12 @@ multidisciplinary research as it relates to their contributions to
 scientific publishing, as collective authors and reviewers or as
 inter-related topics. As simple examples, one could add the number of
 quotations by two or more individuals in Figure X or the impact of two
-or more reviewers in Figure X. This could
+or more reviewers in Figure X. This could be useful for determining, for
+example, when half of a pool of reviewers agree with a given statement
+in an article and disagree with the other half of the reviewers, but the
+codoesn’t combination of reviewers who agree with each other have a
+combined impact on a review that is greater than another combination of
+reviewers who agree with each other.
 
 clickstream data, web usage, downloads, citation
 
