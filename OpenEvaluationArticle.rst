@@ -58,9 +58,9 @@ amount of information apportioned to each article. Moreover, the lack of
 objective standards for the review process results in great variability
 in the percentage and quality of articles accepted. This has led to a
 hierarchy in the status of journals, often quantified by a journal's
-impact factor (). As such, certain journal titles are taken as arbiters
-of quality and significance of published works instead of the review
-process.
+impact factor (Garfield, 1955). As such, certain journal titles are
+taken as arbiters of quality and significance of published works instead
+of the review process.
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
@@ -70,12 +70,12 @@ journal editor takes into consideration the reviewers' recommendations
 to either publish, reject or request revisions of the article. After
 publication, problems such as fraud or mistakes are addressed via
 retraction after disclosure or exposure by countering articles or
-letters to the editor (e.g. cite: chang2006retraction). Through the
-review process and the scientific community's history of policing
-itself, science is thought to have a self-correcting character. However,
-with the difficulty for individual reviewers to review the increasing
-number and complexity of articles, and the use of journal impact factors
-as proxies for evaluations of individual articles, the integrity of the
+letters to the editor (e.g. Chang et al., 2006). Through the review
+process and the scientific community's history of policing itself,
+science is thought to have a self-correcting character. However, with
+the difficulty for individual reviewers to review the increasing number
+and complexity of articles, and the use of journal impact factors as
+proxies for evaluations of individual articles, the integrity of the
 review process, and indeed of science, suffers. Another danger to the
 review process, and to scientific articles themselves, is that they are
 not keeping pace with the dramatic advances in computing resources by
@@ -142,7 +142,7 @@ expose the methods, data, and software underlying a study can lead to
 needless misdirection and inefficiency, and even loss of scientific
 credibility. One example is the case of Geoffrey Chang, whose rigorous
 and correct experimental work was later retracted due to a software bug
-that undermined the paper's conclusions [cite: chang2006retraction].
+that undermined the paper's conclusions (Chang et al., 2006).
 
 3. Reviewers are not acknowledged.
 
@@ -488,8 +488,10 @@ we assumed that the reviewers did not have selfish motives or
 egotistical attitudes that affected their reviews. Second, we reached a
 consensus on most issues, resulting in a very rapid process of writing
 and reviewing, without conflicts or deadlock. Third, because we had to
-meet the submission deadline for this article, we took some decisions be
-taken without seeking approval from all reviewers.
+meet the submission deadline for this article, one or another of us took
+some decisions without seeking approval from all other reviewers. All
+three of these point to the problem that reviewers would face reaching
+an agreement so that the article could be published.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
