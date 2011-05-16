@@ -563,7 +563,8 @@ Practical and psychological limitations
 
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
-researchers may resist. Some journals have already adopted some aspe
+researchers may resist. Some journals have already adopted some aspects
+of our proposed system (e.g., Frontiers,)
 
 Example in practice
 
