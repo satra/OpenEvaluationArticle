@@ -498,12 +498,9 @@ example in Figure X), to data mining reviews and comment histories to
 study the process of scientific publication. The classic “Like” tally
 used to indicate appreciation of a contribution in Digg.com,
 Facebook.com, etc., is the most obvious and simplistic way to indicate
-the quality of a contribution (whether article, review, comment on a
-review, or any portions therein).
-
-and are many ways Integral of discussions over time (by paper, author,
-reviewer) weighted by “like” factor of each comment or discussion. This
-is illustrated in the figure below.
+the quality of a contribution (whether it be an article, review, comment
+on a review, or any portions thereof). Other possibilities include
+measuring the number of times a contr
 
 .. figure:: images/image02.png
    :align: center
