@@ -393,7 +393,7 @@ In software development, reviewers are acknowledged implicitly by having
 their names associated with comments related to a code review. Other
 systems, like Geritt and GitHub explicitly list the reviewers
 participating in the review process. An example from Geritt is shown in
-Figure 5. In addition, certain social coding websites (e.g., ohloh)
+Figure 5. In addition, certain social coding websites (e.g., ohloh.net)
 analyzes contributions of developers to various projects and assigns
 “kudos” to indicate the involvement, but not necessarily the proficiency
 of the developers.
