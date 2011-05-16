@@ -149,7 +149,7 @@ Reviewing is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. The reviewer stands to
 gain by early exposure to relevant areas of research, while a publisher
 stands to gain financially through either publication or subscription
-fees. However, without acknowledging the contributions or reviewers,
+fees. However, without acknowledging the contributions of reviewers,
 there is little incentive for potential reviewers to participate in the
 review process, and a lack of acknowledgment for their services that
 could factor into their evaluations for promotion and funding
@@ -512,10 +512,10 @@ selfish motives or egotistical attitudes that affected their reviews.
 Second, we reached a consensus on most issues, resulting in a very rapid
 process of writing and reviewing, without conflicts or deadlock. Third,
 because we had to meet the submission deadline for this article, one or
-another of us took some decisions without seeking approval from all
-other reviewers. All three of these point to the problem of reviewers
-reaching an agreement so that the article could be published in a timely
-manner.
+another of us took some decisions on remaining issues without seeking
+approval from all other reviewers. All three of these point to the
+problem of reviewers reaching a con so that the article could be
+published in a timely manner.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
