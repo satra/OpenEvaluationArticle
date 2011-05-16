@@ -413,11 +413,11 @@ such as `stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
 quality of reviews. These sites provide a web interface for soliciting
 responses to questions for either computer programming related topics or
-mathematics respectively. The web interface Figure 6 below shows a
-screenshot of the response from a registered member to a question
-submitted to Stack Overflow. As can be seen in the figure, it is
-possible for other members to comment on a response, vote on the quality
-of the response, as well as on the comment to a response.
+mathematics respectively. The web interface allows registered members to
+post or respond to a question, to comment on a response, to vote on the
+quality or importance of a question, of a response or of a comment.
+Figure 6 below shows a screenshot of the response from a registered
+member to a question submitted to Stack Overflow.
 
 .. figure:: images/image01.png
    :align: center
@@ -488,17 +488,17 @@ The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). At this small scale, soliciting only a few rather
-than many reviewers, there are a few issues that we did not have to
-face. First, as in the content of this article, we assumed that the
-reviewers did not have selfish motives or egotistical attitudes that
-affected their reviews. Second, we reached a consensus on most issues,
-resulting in a very rapid process of writing and reviewing, without
-conflicts or deadlock. Third, because we had to meet the submission
-deadline for this article, one or another of us took some decisions
-without seeking approval from all other reviewers. All three of these
-point to the problem of reviewers reaching an agreement so that the
-article could be published in a timely manner.
+(docs.google.com). We had If we had solicited many reviewers, problems
+would have arisen that are we did not at such a small scale. First, as
+in the content of this article, we assumed that the reviewers did not
+have selfish motives or egotistical attitudes that affected their
+reviews. Second, we reached a consensus on most issues, resulting in a
+very rapid process of writing and reviewing, without conflicts or
+deadlock. Third, because we had to meet the submission deadline for this
+article, one or another of us took some decisions without seeking
+approval from all other reviewers. All three of these point to the
+problem of reviewers reaching an agreement so that the article could be
+published in a timely manner.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
