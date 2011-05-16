@@ -498,7 +498,7 @@ Current code review systems have components for expedited and continued
 review. Where they could stand to be improved is in their visual
 interfaces, to make them more intuitive for a non-programmer to quickly
 navigate, and to enable a temporal view of the evolutionary history of
-an arbitrary section of text.
+an arbitrary section of text, analogous to Figure 7.
 
 Quantifying an open-review system
 
@@ -577,7 +577,8 @@ full proposal could be implemented as part of the post-publication
 system, alongside a more traditional anonymous peer review system. As
 scientists gain familiarity and journals gain experience with our
 proposed system, it can be refined and improved. Different reviewer
-metrics can be gathered and compared. Once
+metrics can be gathered and compared. Once enough data about the
+usefulness
 
 Example in practice
 
