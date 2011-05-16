@@ -489,28 +489,26 @@ among such systems similar to the Neuroscience Peer Review Consortium
 Quantifying an open-review system
 
 There exist metrics for quantifying the importance of an author or
-reviewer (Hirsh, 2005,
-`http://www.plosone.org/article/info:doi/10.1371/journal.pone.0006022 <>`_),
-bu is a dearth of metrics in both article review and in code review for
-or any of their contributions (whether the contribution is an article,
-review, comment on a review, or any portions thereof). Metrics have many
-uses in this context, including constructing a dynamic assessment of
-individuals or ideas (as in the Stack Overflow example in Figure X) for
-use in promotion and allocation of funds and resources. Metrics also
-make it possible to data mine reviews and comment histories to study the
-process of scientific publication. The classic “Like” tally used to
-indicate appreciation of a contribution in Digg.com, Facebook.com, etc.,
-is the most obvious and simplistic way to indicate quality. Other
-possibilities include measuring the activity, frequency (Figure X),
-impact (Figure X), and topic range of a contributor or their
-contributions over time. It would also be possible to aggregate these
-metrics to assess the impact or importance of, for example,
-collaborators, coauthors, institutions, or different areas of
-multidisciplinary research as it relates to their contributions to
-scientific publishing, as collective authors and reviewers or as topics.
-As simple examples, one could add the number of quotations by two or
-more individuals in Figure X or the impact of two or more reviewers in
-Figure X.
+reviewer (Hirsch, 2005; Bollen et al., 2009), but we know of no metrics
+used in either article review or in code review for quantifying any of
+their contributions (whether the contribution is an article, review,
+comment on a review, or any portions thereof). Metrics have many uses in
+this context, including constructing a dynamic assessment of individuals
+or ideas (as in the Stack Overflow example in Figure X) for use in
+promotion and allocation of funds and resources. Metrics also make it
+possible to mine reviews and comment histories to study the process of
+scientific publication. The classic “Like” tally used to indicate
+appreciation of a contribution in Digg.com, Facebook.com, etc., is the
+most obvious and simplistic way to indicate quality. Other possibilities
+include measuring the activity, frequency (Figure X), impact (Figure X),
+and topic range of a contributor or their contributions over time. It
+would also be possible to aggregate these metrics to assess the impact
+or importance of, for example, collaborators, coauthors, institutions,
+or different areas of multidisciplinary research as it relates to their
+contributions to scientific publishing, as collective authors and
+reviewers or as topics. As simple examples, one could add the number of
+quotations by two or more individuals in Figure X or the impact of two
+or more reviewers in Figure X.
 
 .. figure:: images/image02.png
    :align: center
