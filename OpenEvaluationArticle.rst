@@ -560,6 +560,9 @@ Eliminating bias from scientific review
 
 Practical and psychological limitations
 
+It may not be practical to immediately adopt the open review process
+proposed in this article and it is likely that
+
 Example in practice
 
 The writing of this article was conducted in the spirit of the content
