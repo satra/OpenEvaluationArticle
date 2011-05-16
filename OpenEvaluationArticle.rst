@@ -573,7 +573,8 @@ our proposed system (e.g., Frontiers, BioMed Central). Initially some of
 the ideas from of our proposed system could be implemented as part of
 the post-publication system. As scientists gain familiarity and journals
 gain experience with these aspects of the system, they can be refined
-and improved.
+and improved. To demonstrate the efficacy of such a system it could also
+be used alongside a more traditional anonymous peer review system.
 
 Example in practice
 
