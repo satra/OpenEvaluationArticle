@@ -110,7 +110,7 @@ in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
 from distributed code review in open source software development.
 
-.. figure:: images/image06.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 Figure 1. A patch submission workflow for the Android project. [source:
@@ -272,7 +272,7 @@ address reviewer comments (an example is shown in Figure 2). These
 interactive discussions become part of a permanent and open log of the
 project.
 
-.. figure:: images/image04.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 3. Mock-up of a modified commenting system. The left panel shows
@@ -380,6 +380,13 @@ BioMedCentral) are immediately associated with the publication. Second,
 measures of review quality eventually become associated with the
 reviewer based on community feedback on the reviews.
 
+.. figure:: images/image04.png
+   :align: center
+   :alt: 
+Figure 5: A web page snippet from the Geritt code review system used for
+ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
+are participating in the review.
+
 Relevance of code review systems
 
 In software development, reviewers are acknowledged implicitly by having
@@ -390,13 +397,6 @@ Figure 5. In addition, certain social coding websites (e.g., ohloh)
 analyzes contributions of developers to various projects and assigns
 “kudos” to indicate the involvement, but not necessarily the proficiency
 of the developers.
-
-.. figure:: images/image07.png
-   :align: center
-   :alt: 
-Figure 5: A web page snippet from the Geritt code review system used for
-ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
-are participating in the review.
 
 Enhancing code review systems for article review
 
@@ -535,7 +535,7 @@ disagrees with the statement, then a decision in favor of group A could
 be made if the aggregate metric evaluating A’s expertise on the
 statement’s topic is higher than that of B.
 
-.. figure:: images/image05.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
 Figure 8. Example of a metric for quantifying contributor frequency.
