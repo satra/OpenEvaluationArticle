@@ -95,14 +95,15 @@ process for programs (code review) during software development is often
 open, collaborative, and interactive, engaging many participants with
 varying levels of expertise. There is a clear process by which comments
 get addressed and new code gets integrated into the main project. An
-example review workflow for the Android project is shown in Figure 1.
-Since computer programs are much more structured and objective than
-prose, it is more amenable to standardization and therefore to review.
-These code review systems also take advantage of some of the latest
-technologies and have the potential to be used for publication review.
-Despite all of these differences, the purpose of code review systems
-mirror the purpose of publication review to increase the clarity,
-reproducibility and correctness of contributions.
+example workflow for accepting code patches into the Google Android
+project is shown in Figure 1. Since computer programs are much more
+structured and objective than prose, it is more amenable to
+standardization and therefore to review. These code review systems also
+take advantage of some of the latest technologies and have the potential
+to be used for publication review. Despite all of these differences, the
+purpose of code review systems mirror the purpose of publication review
+to increase the clarity, reproducibility and correctness of
+contributions.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
@@ -112,7 +113,7 @@ from distributed code review in open source software development.
 .. figure:: images/image03.png
    :align: center
    :alt: 
-Figure 1. A review workflow for the Android project. [source:
+Figure 1. A patch submission workflow for the Android project. [source:
 http://source.android.com/source/life-of-a-patch.html]
 
 Problems with current peer-review system
@@ -246,28 +247,31 @@ Gerrit (http://code.google.com/p/gerrit) as well as the collaborative
 development and code review functionality provided by hosting services
 like GitHub (http://github.com) are built for a distributed review
 process and provide reviewers the ability to interact, modify, annotate
-and discuss the contents of submitted code changes. Indeed, the purpose
-of these systems mirror the purpose of scientific review to increase the
-clarity, reproducibility and correctness of works that enter the canon.
-While no journals provide a platform for performing for such open and
-distributed review, the Frontiers journals do provide an interactive
-discussion forum for authors and reviewers to improve the quality of a
-submission after an initial closed review. In GitHub, code is available
-for everyone to view and for registered GitHub members to comment on and
-report issues using an interactive web interface. The interface combines
-a discussion forum that allows inserting comments on any given line of
-code together with a mechanism for accepting new updates to the code
-that fix unresolved issues or address reviewer comments (an example is
-shown in Figure 2). These interactive discussions become part of a
-permanent and open log of the project.
+and discuss the contents of submitted code changes.
 
 .. figure:: images/image00.png
    :align: center
    :alt: 
+
 Figure 2. A snapshot from the web interface of a pull request of the
 NiPyPE (nipy.org/nipype) project on GitHub, demonstrating part of a
 discussion thread, inline commenting of code (for line 98) as well as
 updates on code changes taking place as a function of the discussion.
+
+Indeed, the purpose of these systems mirror the purpose of scientific
+review to increase the clarity, reproducibility and correctness of works
+that enter the canon. While no journals provide a platform for
+performing for such open and distributed review, the Frontiers journals
+do provide an interactive discussion forum for authors and reviewers to
+improve the quality of a submission after an initial closed review. In
+GitHub, code is available for everyone to view and for registered GitHub
+members to comment on and report issues using an interactive web
+interface. The interface combines a discussion forum that allows
+inserting comments on any given line of code together with a mechanism
+for accepting new updates to the code that fix unresolved issues or
+address reviewer comments (an example is shown in Figure 2). These
+interactive discussions become part of a permanent and open log of the
+project.
 
 Enhancing code review systems for article review
 
@@ -487,9 +491,16 @@ among such systems similar to the Neuroscience Peer Review Consortium
 
 Quantifying an open-review system
 
-Integral of discussions over time (by paper, author, reviewer) weighted
-by “like” factor of each comment or discussion. This is illustrated in
-the figure below.
+There is a dearth of metrics in article review and in code review for
+quantifying the quality of reviews, let alone of comments on reviews.
+Metrics have many uses, from assessing the contributions of reviewers
+and the impor (as in the Stack Overflow example in Figure X), to data
+mining reviews and comment histories to study the process of scientific
+publication.
+
+and are many ways Integral of discussions over time (by paper, author,
+reviewer) weighted by “like” factor of each comment or discussion. This
+is illustrated in the figure below.
 
 .. figure:: images/image02.png
    :align: center
@@ -505,8 +516,9 @@ the number of times the speaker was quoted on a given day.
    :alt: 
 Figure X. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
-history of code review, where each color indicates the width of a ribbon
-represents the “impact” during a week-long period.
+history of code review, where each color indicates an individual
+reviewer and the width of a colored ribbon represents that individual’s
+“impact” during a week-long period.
 
 Discussion
 
