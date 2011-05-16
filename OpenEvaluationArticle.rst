@@ -604,6 +604,10 @@ through planning, execution, and documentation (Butler, 2005). This
 facilitates collaborative research and also ensures that optimal
 decisions are taken at every stage in the evolution of a project.
 
+In this article, we have proposed a re-design of the current peer review
+system by incorporating ideas from code review systems associated with
+open source software development.
+
 --------------
 
 References
