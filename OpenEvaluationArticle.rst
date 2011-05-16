@@ -290,8 +290,10 @@ including reviewers but also facilitates reproducibility and encourages
 method reuse. For example, a workflow graph (for example, Fig. 4) from a
 neuroimaging analysis captures numerous details in a compact visual form
 which would otherwise be absent in a methods section. Furthermore,
-several journals are now requesting or mandating this as part of article
-submission.
+several journals (e.g. Science -
+`sciencemag.org <http://sciencemag.org>`_ , Proceedings of the National
+Academy of Sciences - pnas.org) are now mandating this as part of
+article submission.
 
 .. figure:: images/image05.png
    :align: center
@@ -484,23 +486,24 @@ The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). Because we did this experiment on a very small scale,
-soliciting only a few rather than many reviewers, there are a few issues
-that we did not have to face. First, as in the content of this article,
-we assumed that the reviewers did not have selfish motives or
-egotistical attitudes that affected their reviews. Second, we reached a
-consensus on most issues, resulting in a very rapid process of writing
-and reviewing, without conflicts or deadlock. Third, because we had to
-meet the submission deadline for this article, one or another of us took
-some decisions without seeking approval from all other reviewers. All
-three of these point to the problem that reviewers would face reaching
-an agreement so that the article could be published.
+(docs.google.com). At this small scale, soliciting only a few rather
+than many reviewers, there are a few issues that we did not have to
+face. First, as in the content of this article, we assumed that the
+reviewers did not have selfish motives or egotistical attitudes that
+affected their reviews. Second, we reached a consensus on most issues,
+resulting in a very rapid process of writing and reviewing, without
+conflicts or deadlock. Third, because we had to meet the submission
+deadline for this article, one or another of us took some decisions
+without seeking approval from all other reviewers. All three of these
+point to the problem of reviewers reaching an agreement so that the
+article could be published in a timely manner.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
-through planning, execution, and documentation. This facilitates
-collaborative research and also ensures that optimal decisions are taken
-at every stage in the evolution of a
+through planning, execution, and documentation [cite: Nature editorial
+on e-lab notebooks]. This facilitates collaborative research and also
+ensures that optimal decisions are taken at every stage in the evolution
+of a
 
 project.
 
