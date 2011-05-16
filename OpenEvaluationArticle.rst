@@ -436,9 +436,9 @@ is typically not quantified.
    :align: center
    :alt: 
 Figure 6. A response to a question on stackoverflow.net. The top left
-number indicates the number of positive votes this response received.
-There are comments to the response itself and the number next to the
-comments reflects the number of positive votes for the comment.
+number (299) indicates the number of positive votes this response
+received. There are comments to the response itself and the number next
+to the comments reflects the number of positive votes for the comment.
 
 Enhancing code review systems for article review
 
@@ -476,12 +476,12 @@ desirable career choice.
    :align: center
    :alt: 
 Figure 7. A visualization of the evolutionary history of a Wikipedia
-entry (“Evolution”) as an example of an evolving body of text (2003
-computer graphics by Fernanda B. Vizgas, Martin Watt at IBM). history
+entry (“Evolution”) as an example of an evolving body of text. History
 flow
 (http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm)
 is a tool for visualizing dynamic, evolving documents and the
-interactions of multiple collaborating authors.
+interactions of multiple collaborating authors (by Fernanda B. Vizgas,
+Martin Watt at IBM, 2003)
 
 Relevance of code review systems
 
