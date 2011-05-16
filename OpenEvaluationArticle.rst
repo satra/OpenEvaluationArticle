@@ -28,17 +28,16 @@ Running title: Reviewing with open-source software systems
 
 Abstract
 
-Peer review is the primary means of evaluating the quality and validity
-of scientific publications. The review process is fraught with many
-problems that undermine the pace, validity, and credibility of science.
-These problems include: reviewers are expected to have comprehensive
-expertise, do not have sufficient access to methods and materials to
-evaluate a study, and are typically anonymous and not acknowledged, that
-there is no measure of the quality of a review, and reviews take a lot
-of time, and once submitted cannot evolve. To address these problems, we
-propose an open review process that draws on the ideas, experience, and
-technologies developed to support code review in open source software
-projects.
+The current review process for scientific publications is fraught with
+many problems that undermine the pace, validity, and credibility of
+science. These problems include: reviewers are expected to have
+comprehensive expertise, do not have sufficient access to methods and
+materials to evaluate a study, and are typically anonymous and not
+acknowledged; there is no measure of the quality of a review; and
+reviews take a lot of time and once submitted cannot evolve. To address
+these problems, we propose an open review process that draws on the
+ideas, experience, and technologies developed to support code review in
+open source software projects.
 
 Keywords: distributed peer review, code review systems, open-source
 software development
@@ -488,18 +487,18 @@ The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 primarily via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). We found the enjoyed the process and found it to be
-very efficientIf we had solicited many reviewers, problems would have
-arisen that are we did not at such a small scale. First, as in the
-content of this article, we assumed that the reviewers did not have
-selfish motives or egotistical attitudes that affected their reviews.
-Second, we reached a consensus on most issues, resulting in a very rapid
-process of writing and reviewing, without conflicts or deadlock. Third,
-because we had to meet the submission deadline for this article, one or
-another of us took some decisions without seeking approval from all
-other reviewers. All three of these point to the problem of reviewers
-reaching an agreement so that the article could be published in a timely
-manner.
+(docs.google.com). We found that the use of these tools enjoyed the
+process and found it to be very efficientIf we had solicited many
+reviewers, problems would have arisen that are we did not at such a
+small scale. First, as in the content of this article, we assumed that
+the reviewers did not have selfish motives or egotistical attitudes that
+affected their reviews. Second, we reached a consensus on most issues,
+resulting in a very rapid process of writing and reviewing, without
+conflicts or deadlock. Third, because we had to meet the submission
+deadline for this article, one or another of us took some decisions
+without seeking approval from all other reviewers. All three of these
+point to the problem of reviewers reaching an agreement so that the
+article could be published in a timely manner.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
