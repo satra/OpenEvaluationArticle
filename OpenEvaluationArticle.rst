@@ -495,27 +495,29 @@ acknowledge their contributions, quantify the quality of their
 contributions, and ensure that reviews are timely and live on beyond the
 publication date. We propose that an effective means for implementing
 these changes would be to enhance current code review systems for
-software development to support article review. The writing of this
-article was conducted in the spirit of the content of the article, with
-multiple authors and peer reviewers contributing primarily via GitHub
-(github.com/satra/scientific-review), followed by dynamic, interactive,
-real-time collaboration via Google Docs (docs.google.com). We found the
-collaborative editing and reviewing through the use of these tools to be
-enjoyable and efficient, while exposing some of the current limitations
-of code review systems for article review mentioned above. Had we
-solicited many reviewers, we could have experienced more of the
-real-world challenges of such an open review system. First, as in the
-content of this article, we assumed that the reviewers did not have
-selfish motives or egotistical attitudes that affected their reviews.
-Second, we reached a consensus on most issues, resulting in a very rapid
-process of writing and reviewing, without conflicts or deadlock. Third,
-because we had to meet the submission deadline for this article, one or
-another of us took some decisions on remaining issues without seeking
-approval from all other reviewers. All three of these point to the
-problem of reviewers reaching a consensus so that the article could be
-published in a timely manner. This may be handled by not requiring a
-consensus, but instead by exploiting metrics that quantify the quality
-of the reviews and comments on these reviews to make a decision.
+software development to support article review.
+
+The writing of this article was conducted in the spirit of the content
+of the article, with multiple authors and peer reviewers contributing
+primarily via GitHub (github.com/satra/scientific-review), followed by
+dynamic, interactive, real-time collaboration via Google Docs
+(docs.google.com). We found the collaborative editing and reviewing
+through the use of these tools to be enjoyable and efficient, while
+exposing some of the current limitations of code review systems for
+article review mentioned above. Had we solicited many reviewers, we
+could have experienced more of the real-world challenges of such an open
+review system. First, as in the content of this article, we assumed that
+the reviewers did not have selfish motives or egotistical attitudes that
+affected their reviews. Second, we reached a consensus on most issues,
+resulting in a very rapid process of writing and reviewing, without
+conflicts or deadlock. Third, because we had to meet the submission
+deadline for this article, one or another of us took some decisions on
+remaining issues without seeking approval from all other reviewers. All
+three of these point to the problem of reviewers reaching a consensus so
+that the article could be published in a timely manner. This may be
+handled by not requiring a consensus, but instead by exploiting metrics
+that quantify the quality of the reviews and comments on these reviews
+to make a decision.
 
 In the long run, the review process need not be limited to publication,
 but can be engaged throughout the process of research, from inception
