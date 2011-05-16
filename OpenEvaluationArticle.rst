@@ -500,7 +500,7 @@ no metrics used in either article review or in code review for
 quantifying the quality, impact, or importance of a review, comment on a
 review, or any portions thereof. Metrics have many uses in this context,
 including constructing a dynamic assessment of individuals or ideas (as
-in the Stack Overflow example in Figure X) for use in promotion and
+in the Stack Overflow example in Figure 6) for use in promotion and
 allocation of funds and resources. Metrics also make it possible to mine
 reviews and comment histories to study the process of scientific
 publication. The classic “Like” tally used to indicate appreciation of a
@@ -510,8 +510,8 @@ addition to slow and direct measures of impact such as the number of
 times an article is cited, there are faster, indirect behavioral
 measures of interest as a proxy for impact that can be derived from
 clickstream data, web usage, and number of article downloads. Other
-possibilities include measuring the activity, frequency (Figure X),
-impact (Figure X), and topic range of an author or reviewer or their
+possibilities include measuring the activity, frequency (Figure 7),
+impact (Figure 8), and topic range of an author or reviewer or their
 contributions over time.
 
 It would also be possible to aggregate these metrics to assess the
@@ -520,7 +520,7 @@ institutions, or different areas of multidisciplinary research as it
 relates to their contributions to scientific publishing, as collective
 authors and reviewers or as inter-related topics. As simple examples,
 one could add the number of quotations by two or more individuals in
-Figure X or the impact of two or more reviewers in Figure X. This could
+Figure 7 or the impact of two or more reviewers in Figure 8. This could
 be useful for determining, for example, when half of a pool of reviewers
 A agrees with a given statement in an article and the other half D
 disagrees with the statement, then a decision in favor of group A could
@@ -530,7 +530,7 @@ statement’s topic is higher than that of B.
 .. figure:: images/image03.png
    :align: center
    :alt: 
-Figure X. Example of a metric for quantifying contributor frequency.
+Figure 7. Example of a metric for quantifying contributor frequency.
 Quotes over Time (www.qovert.info) tracked the top-quoted people from
 Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
@@ -539,7 +539,7 @@ the number of times the speaker was quoted on a given day.
 .. figure:: images/image01.png
    :align: center
    :alt: 
-Figure X. Example of a metric for quantifying contributions over time.
+Figure 8. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code review, where each color indicates an individual
 reviewer and the width of a colored ribbon represents that individual’s
@@ -563,7 +563,7 @@ Practical and psychological limitations
 
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
-researchers may resist. It is our belief that journals that start
+researchers may resist. Some journals have already adopted some aspe
 
 Example in practice
 
