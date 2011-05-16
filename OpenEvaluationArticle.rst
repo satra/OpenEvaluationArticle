@@ -113,8 +113,8 @@ from distributed code review in open source software development.
 .. figure:: images/image07.png
    :align: center
    :alt: 
-Figure 1. A patch submission workflow for the Android project. [source:
-http://source.android.com/source/life-of-a-patch.html]
+Figure 1. A patch submission workflow for the Android project
+(http://source.android.com/source/life-of-a-patch.html)
 
 Problems with current peer-review process
 
@@ -477,11 +477,10 @@ choice.
    :alt: 
 Figure 7. A visualization of the evolutionary history of a Wikipedia
 entry (“Evolution”) as an example of an evolving body of text. History
-flow
-(http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm)
-is a tool for visualizing dynamic, evolving documents and the
-interactions of multiple collaborating authors (by Fernanda B. Viégas
-and Martin Wattenberg at IBM, 2003)
+flow is a tool for visualizing dynamic, evolving documents and the
+interactions of multiple collaborating authors
+(http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm
+by Fernanda B. Viégas and Martin Wattenberg at IBM, 2003)
 
 Relevance of code review systems
 
@@ -534,7 +533,8 @@ reviewers A agrees with the statement and the other half B disagrees
 with the statement. A decision in favor of group A could be made if the
 aggregate metric evaluating A’s expertise on the statement’s topic is
 higher than that of B. However, such decisions will only be possible
-once this system has acquired a sufficient set of data about expertise.
+once this system has acquired a sufficient amount of data about group A
+and B’s expertise on reviewing this topic.
 
 .. figure:: images/image06.png
    :align: center
@@ -550,8 +550,8 @@ the number of times the speaker was quoted on a given day.
    :alt: 
 Figure 9. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
-history of code additions, where each color indicates an individual
-contributor and the width of a colored ribbon represents that
+history of code additions to a project, where each color indicates an
+individual contributor and the width of a colored ribbon represents that
 individual’s “impact” or contributions during a week-long period.
 
 Discussion
