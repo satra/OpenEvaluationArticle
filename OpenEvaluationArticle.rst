@@ -488,8 +488,8 @@ among such systems similar to the Neuroscience Peer Review Consortium
 
 Quantifying an open-review system
 
-There exist metrics for quantifying the importance of an author or
-reviewer (Hirsch, 2005; Bollen et al., 2009), but we know of no metrics
+There exist metrics for quantifying the importance of an article or
+author (Hirsch, 2005; Bollen et al., 2009), but we know of no metrics
 used in either article review or in code review for quantifying any of
 their contributions (whether the contribution is an article, review,
 comment on a review, or any portions thereof). Metrics have many uses in
