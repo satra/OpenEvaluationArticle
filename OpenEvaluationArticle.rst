@@ -68,7 +68,7 @@ in the percentage and quality of articles accepted. This has led to a
 hierarchy in the status of journals, often quantified by a journal's
 impact factor (Garfield, 1955). As such, certain journal titles have
 overtaken the review process as arbiters of quality and significance of
-research.
+research. JB:
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
