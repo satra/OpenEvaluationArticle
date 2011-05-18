@@ -218,6 +218,8 @@ reflect the reviewer’s specialty or area of interest, there is less
 burden placed on any one reviewer, enabling a more comprehensive and
 timely review.
 
+\ :sup:``[a] <#cmnt1>`_`\ 
+
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
 participation in a review where anyone could be a reviewer, there are at
