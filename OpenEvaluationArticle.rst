@@ -317,16 +317,16 @@ preprocessing workflow for brain image analysis showing which algorithms
 and software packages were used. Such information can complement an
 article’s methods section.
 
-We propose that data and software be submitted together with the
-article. This not only facilitates transparency for all readers
-including reviewers but also facilitates reproducibility and encourages
-method reuse. For example, a workflow graph from a neuroimaging analysis
-captures numerous details in a compact visual form which would otherwise
-be absent in a methods section (see Figure 4). Furthermore, several
-journals (e.g. Science - sciencemag.org , Proceedings of the National
-Academy of Sciences - pnas.org) are now mandating submitting all
-components necessary to reproduce the results of a study as part of
-article submission.
+We propose that data and software (including scripts containing
+parameters) be submitted together with the article. This not only
+facilitates transparency for all readers including reviewers but also
+facilitates reproducibility and encourages method reuse. For example, a
+workflow graph from a neuroimaging analysis captures numerous details in
+a compact visual form which would otherwise be absent in a methods
+section (see Figure 4). Furthermore, several journals (e.g. Science -
+sciencemag.org , Proceedings of the National Academy of Sciences -
+pnas.org) are now mandating submitting all components necessary to
+reproduce the results of a study as part of article submission.
 
 While rerunning an entire study’s analysis might not currently be
 feasible as part of a review, simply exposing code can often help
