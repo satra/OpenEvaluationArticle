@@ -233,7 +233,7 @@ article they are knowledgeable about. A third would be to conduct a
 preliminary review consisting of a limited and expedited review process
 prior to the full and open review. At different stages of such a tiered
 review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.
+editor, or commenter.\ :sup:``[b] <#cmnt2>`_`\ 
 
 Relevance of code review systems
 
@@ -594,9 +594,9 @@ It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central, Science, PNAS,
-PLoS One). Initially, our full proposal could be implemented as part of
-the post-publication system, alongside a more traditional anonymous peer
-review system (e.g., Atmospheric Chemistry and Physics,
+PLoS One). Initially, our full proposal could be implemented as a part
+of the post-publication system, alongside a more traditional anonymous
+peer review system (e.g., Atmospheric Chemistry and Physics,
 atmos-chem-phys.net). As scientists gain familiarity and journals gain
 experience with our proposed system, it could be refined and improved.
 In the long run, the review process need not be limited to publication,
@@ -645,7 +645,8 @@ collaborative peer review for improved scientific communication and
 quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
-and journals. Journal of the Royal Society of Medicine, 99(4):178.
+and journals. Journal of the Royal Society of Medicine,
+99(4):178.\ :sup:``[c] <#cmnt3>`_`\ 
 
 --------------
 
@@ -687,136 +688,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[b] <#cmnt_ref2>`_binarybottle:
-
-Science suffers. We suffer. We conclude.
-
-that technology used in open code review systems should be adipated to
-explicate the need for the current armamenteric \_adjective\_ evil
-\_armamentarium\_. with the exception for the journal for irreproducible
-results.
-
---------------
-
-satrajit.ghosh:
-
-In this abstract, you will see that we are EXTREMELY right and they are
-VERY wrong. It will be a slow and gruelling, uphill battle, but we will
-win it in the end. fini.
-
-`[c] <#cmnt_ref3>`_fdo.perez:
-
-the issue of positive results bias is a very important (and widely
-studied) one, but it's really a little separate from the title of this
-section, and I think it's a distraction to conflate it here. The title
-of the section starts talking about one thing, and then the text goes
-off in a different direction.
-
-`[d] <#cmnt_ref4>`_fdo.perez:
-
-While I understand where you come from and agree with the idea, it may
-sound a bit over the top to put "the integrity of science" in question
-right up front. I think a statement that strong should perhaps be
-reached after some more elaboration... Just a thought.
-
-`[e] <#cmnt_ref5>`_stnava:
-
-move elsewhere
-
-`[f] <#cmnt_ref6>`_binarybottle:
-
-if and in which journal an article
-
-`[g] <#cmnt_ref7>`_kimlumbard:
-
-Howdy all!
-
-I believe you can profitably mine the parallel between code development
-and peer review. You may want to take a look at Agile Development and
-SCRUM; these outline two simple methodologies for the timely production
-of code with client feedback. This would yield a tighter integration of
-the whole scientific process (i.e. including both those who fund and
-those who technologize).
-
-Btw, the review process is much more complex than is being portrayed
-here. When one reviews a paper, there are considerations of content,
-correctness, culture, format, presentation, relevance, and audience, to
-name a few. The code parallel might also be helpful here, insofar as
-code has ancillary metrics of format and correctness.
-
-Last but not least, your statements about "compromising the integrity of
-science" are perhaps too strong, because they are inaccurate. There are
-branches of science where frequent incremental publication is the
-optimal distribution of information; quantity does not preclude quality.
-Moreover, science is a human endeavor rife with social context. As such,
-bias, elitism, etc. can also be part of a desirable self-focusing
-feedback cycle.
-
-I'm in complete agreement that review should be fundamentally altered,
-and that scientists and not publishing companies should direct the
-process. You'll get wider acceptance if your theme is "we should use
-practices well-known in other fields to reliably improve the quality of
-the review process" than "we are here to save the integrity of science
-from the evil idiots who are handling it now." ;-P
-
-Bon chance!
-
---------------
-
-binarybottle:
-
-thank you, kim!
-
-`[h] <#cmnt_ref8>`_millman.ucb:
-
-update at the end to include everyone
-
-`[i] <#cmnt_ref9>`_fdo.perez:
-
-Frontiers has this already in its editorial policy
-
-`[j] <#cmnt_ref10>`_fdo.perez:
-
-This sentence parses really weird
-
-`[k] <#cmnt_ref11>`_fdo.perez:
-
-Be careful with how this argument is constructed. Above you point out
-the detrimental effects of the crazy focus on all kinds of publication
-impact metrics, yet here you seem to be arguing for similar metrics in
-the review process...
-
-`[l] <#cmnt_ref12>`_yarikoptic:
-
-Although not a publication per se but imho worth mentioning:
-http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
-
-`[m] <#cmnt_ref13>`_fdo.perez:
-
-this feels out of place and just like listing a 'feel good' idea,
-insufficiently developed.
-
-`[n] <#cmnt_ref14>`_binarybottle:
-
-and are followed up by
-
-`[o] <#cmnt_ref15>`_binarybottle:
-
-if this article is about the review process, a separate section on
-reproducible research seems out of place. perhaps we should say
-something to indicate that involvement of reviewers could range from
-out-of-field comments to direct requests for software or data to try to
-test or replicate work in the article. we can't expect every article to
-provide a unit-test-like framework to replicate a study, but we could
-evaluate the reproducibility of the work in a given article to indicate
-how far one could take a review, from comment to re-run the study!
-
-`[p] <#cmnt_ref16>`_fdo.perez:
-
-While this is important, I think it's a bit of low-level technical
-minutiae, out of place when you are discussing larger scope issues
-
-`[q] <#cmnt_ref17>`_yarikoptic:
+`[b] <#cmnt_ref2>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -869,6 +741,135 @@ at every step of the paper journey. With the suggestion above, paper
 gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
+
+`[c] <#cmnt_ref3>`_yarikoptic:
+
+Although not a publication per se but imho worth mentioning:
+http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
+
+`[d] <#cmnt_ref4>`_binarybottle:
+
+Science suffers. We suffer. We conclude.
+
+that technology used in open code review systems should be adipated to
+explicate the need for the current armamenteric \_adjective\_ evil
+\_armamentarium\_. with the exception for the journal for irreproducible
+results.
+
+--------------
+
+satrajit.ghosh:
+
+In this abstract, you will see that we are EXTREMELY right and they are
+VERY wrong. It will be a slow and gruelling, uphill battle, but we will
+win it in the end. fini.
+
+`[e] <#cmnt_ref5>`_fdo.perez:
+
+the issue of positive results bias is a very important (and widely
+studied) one, but it's really a little separate from the title of this
+section, and I think it's a distraction to conflate it here. The title
+of the section starts talking about one thing, and then the text goes
+off in a different direction.
+
+`[f] <#cmnt_ref6>`_fdo.perez:
+
+While I understand where you come from and agree with the idea, it may
+sound a bit over the top to put "the integrity of science" in question
+right up front. I think a statement that strong should perhaps be
+reached after some more elaboration... Just a thought.
+
+`[g] <#cmnt_ref7>`_stnava:
+
+move elsewhere
+
+`[h] <#cmnt_ref8>`_binarybottle:
+
+if and in which journal an article
+
+`[i] <#cmnt_ref9>`_kimlumbard:
+
+Howdy all!
+
+I believe you can profitably mine the parallel between code development
+and peer review. You may want to take a look at Agile Development and
+SCRUM; these outline two simple methodologies for the timely production
+of code with client feedback. This would yield a tighter integration of
+the whole scientific process (i.e. including both those who fund and
+those who technologize).
+
+Btw, the review process is much more complex than is being portrayed
+here. When one reviews a paper, there are considerations of content,
+correctness, culture, format, presentation, relevance, and audience, to
+name a few. The code parallel might also be helpful here, insofar as
+code has ancillary metrics of format and correctness.
+
+Last but not least, your statements about "compromising the integrity of
+science" are perhaps too strong, because they are inaccurate. There are
+branches of science where frequent incremental publication is the
+optimal distribution of information; quantity does not preclude quality.
+Moreover, science is a human endeavor rife with social context. As such,
+bias, elitism, etc. can also be part of a desirable self-focusing
+feedback cycle.
+
+I'm in complete agreement that review should be fundamentally altered,
+and that scientists and not publishing companies should direct the
+process. You'll get wider acceptance if your theme is "we should use
+practices well-known in other fields to reliably improve the quality of
+the review process" than "we are here to save the integrity of science
+from the evil idiots who are handling it now." ;-P
+
+Bon chance!
+
+--------------
+
+binarybottle:
+
+thank you, kim!
+
+`[j] <#cmnt_ref10>`_millman.ucb:
+
+update at the end to include everyone
+
+`[k] <#cmnt_ref11>`_fdo.perez:
+
+Frontiers has this already in its editorial policy
+
+`[l] <#cmnt_ref12>`_fdo.perez:
+
+This sentence parses really weird
+
+`[m] <#cmnt_ref13>`_fdo.perez:
+
+Be careful with how this argument is constructed. Above you point out
+the detrimental effects of the crazy focus on all kinds of publication
+impact metrics, yet here you seem to be arguing for similar metrics in
+the review process...
+
+`[n] <#cmnt_ref14>`_fdo.perez:
+
+this feels out of place and just like listing a 'feel good' idea,
+insufficiently developed.
+
+`[o] <#cmnt_ref15>`_binarybottle:
+
+and are followed up by
+
+`[p] <#cmnt_ref16>`_binarybottle:
+
+if this article is about the review process, a separate section on
+reproducible research seems out of place. perhaps we should say
+something to indicate that involvement of reviewers could range from
+out-of-field comments to direct requests for software or data to try to
+test or replicate work in the article. we can't expect every article to
+provide a unit-test-like framework to replicate a study, but we could
+evaluate the reproducibility of the work in a given article to indicate
+how far one could take a review, from comment to re-run the study!
+
+`[q] <#cmnt_ref17>`_fdo.perez:
+
+While this is important, I think it's a bit of low-level technical
+minutiae, out of place when you are discussing larger scope issues
 
 `[r] <#cmnt_ref18>`_fdo.perez:
 
