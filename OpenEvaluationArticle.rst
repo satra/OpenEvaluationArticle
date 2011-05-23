@@ -538,6 +538,13 @@ higher than that of B. However, such decisions will only be possible
 once this system has acquired a sufficient amount of data about group A
 and B’s expertise on reviewing this topic.
 
+A third possibility is that authors assign impact ratings to the review
+or segments of the review. Therefore, the authors will be able to
+quantitatively evaluate the reviewers. This additional measurement can
+be entered into the reviewer database. We acknowledge some reviewers
+might be discouraged by this idea, thus it may be optional to
+participate.
+
 .. figure:: images/image06.png
    :align: center
    :alt: 
