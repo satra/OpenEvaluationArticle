@@ -38,9 +38,9 @@ necessary to verify a study’s reproducibility. We argue that these
 problems can be addressed by building upon source code management
 systems to provide a community of reviewers interactive access to not
 only the text, but also (potentially) the data, software and scripts
-necessary to replicate the results of a study. Such systems allow the
-community to acknowledge reviewers and quantify the quality of their
-contributions. They also ensure that the review process itself is
+necessary to replicate the results of a study. Moreover, such systems
+enable the community to acknowledge reviewers and quantify the quality
+of their contributions. They ensure that the review process itself is
 preserved, is timely and has the ability to evolve beyond the
 publication date. We demonstrate that technology currently available in
 open code review systems support this framework.
@@ -69,29 +69,18 @@ private review by a very small number of individuals (2 to 5, but often
 just 2) presumed to have expertise in the research
 topic.\ :sup:``[1] <#ftnt1>`_`\  The editor takes into consideration the
 reviewers' recommendations to either publish, reject or request
-revisions of the article. Thus article acceptance relies on a handful of
-anonymous and unpublished opinions
-
-Thus article acceptance relies on a handful of anonymous and unpublished
-opinions
-
-... placing at the gate of scientific communication an undesirable
-combination of power and secrecy.
-
-After publication, problems such as fraud or mistakes are addressed via
-retraction after disclosure or exposure by countering articles or
-letters to the editor (e.g. Chang et al., 2006).
-
+revisions of the article. After publication, problems such as fraud or
+mistakes are addressed via retraction after disclosure or exposure by
+countering articles or letters to the editor (e.g. Chang et al., 2006).
 Through the review process and the scientific community's history of
 policing itself, science is thought to have a self-correcting character.
 
-However, there is also a lack of objective standards for the review
-process that results in great variability among journals in the
-percentage and quality of articles accepted. This has led to a hierarchy
-in the status of journals, often quantified by a journal's impact factor
-(Garfield, 1955). As such, certain journal titles have overtaken the
-review process as arbiters of quality and significance of research as
-well as
+However, a lack of objective standards for the review process results in
+great variability among journals in the percentage and quality of
+articles accepted. This has led to a hierarchy in the status of
+journals, often quantified by a journal's impact factor (Garfield,
+1955). As such, certain journal titles have overtaken the review process
+as arbiters of quality and significance of research as well as
 
 With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
@@ -103,6 +92,14 @@ Another danger to the review process, and to scientific articles
 themselves, is that they are not keeping pace with the dramatic advances
 in computing resources by which results are obtained and advances in
 media by which results are disseminated.
+
+Thus article acceptance relies on a handful of anonymous and unpublished
+opinions
+
+Thus article acceptance is of anonymous and unpublished opinions
+
+... placing at the gate of scientific communication an undesirable
+combination of power and secrecy.
 
 There is also a lack of objective standards for the review process that
 results in great variability among journals in the percentage and
