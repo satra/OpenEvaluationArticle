@@ -32,6 +32,10 @@ Scientific publications continue to be the primary mechanism for
 disseminating systematically gathered information about the natural
 world and for establishing precedence and credit for this research.
 
+Peer review is the primary means of filtering this rapidly growing
+literature prior to publication in an effort to ensure quality and
+validity.
+
 Scientific publications are good ‘n plenty. more available and numerous
 than ever. The current review process is, however, fraught with many
 problems that undermine the pace, validity, and credibility of science.
