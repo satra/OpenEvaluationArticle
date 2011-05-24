@@ -44,7 +44,7 @@ acknowledging the quality of their contributions and preserving their
 efforts in a document’s version history. Such an interactive and open
 system will also promote timely reviews and enable reviews to evolve
 beyond the publication date. We demonstrate that technology currently
-available in open code review systems support this framework.
+available in open code review systems supports this framework.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -76,25 +76,17 @@ countering articles or letters to the editor (e.g. Chang et al., 2006).
 
 Through this peer review and the scientific community's history of
 policing itself, scientists hope to achieve a self-correcting process.
-However, this process is currently slow,
-
-Another danger to the review process, and to scientific articles
-themselves, is that they are not keeping pace with the dramatic advances
-in computing resources by which results are obtained and advances in
-media by which results are disseminated.
-
-lacks objective standards, and results in great variability among
-journals in the percentage and quality of articles accepted. This has
-led to a hierarchy in the status of journals often quantified by a
-journal's impact factor (Garfield, 1955). As such, certain journal
-titles have overtaken the review process as arbiters of quality and
-significance of research and the
-
-With the difficulty for individual reviewers to review the increasing
-number and complexity of articles, and the use of journal impact factors
-as proxies for evaluations of individual articles, the integrity of the
-review process and, indeed, of science suffers (Poschl and Koop, 2008;
-Smith, 2006).
+However, this process is currently slow resulting from a lack of
+objective standards in the review process. This results in great
+variability among journals in the percentage and quality of articles
+accepted. This has led to a hierarchy in the status of journals often
+quantified by a journal's impact factor (Garfield, 1955). As such,
+certain journal titles have overtaken the review process as arbiters of
+quality and significance of research. With the difficulty for individual
+reviewers to review the increasing number and complexity of articles,
+and the use of journal impact factors as proxies for evaluations of
+individual articles, the integrity of the review process and, indeed, of
+science suffers (Poschl and Koop, 2008; Smith, 2006).
 
 JB:
 
