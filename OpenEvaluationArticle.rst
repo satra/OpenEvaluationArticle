@@ -35,25 +35,17 @@ science. Precious few reviewers work in relative isolation, in a short
 amount of time, and are not officially acknowledged. Reviewers also
 rarely have access to the information necessary to verify a study’s
 reproducibility. We argue that these problems can be addressed by
-building upon computer programming code management systems to provide a
-community of reviewers interactive, real-time access to not only the
-text, but also (potentially) the data, software and scripts necessary to
-replicate the results of a study. Moreover, such systems would enable
-the community to encourage reviewers by acknowledging the quality of
-their contributions and preserving their efforts in a document’s version
-history. Such an interactive and open system will also promote timely
-reviews and enable reviews to evolve beyond the publication
-date.\ :sup:``[a] <#cmnt1>`_`\  In this abstract, you will see that we
-are EXTREEMLY right and they are VERY wrong. It will be a slow and
-gruelling, uphill battle, but we will win it in the end. fini.
+building upon computer programming code management systems. to
 
-Ignore the above.
+provide a community of reviewers interactive, real-time access to not
+only the text, but also (potentially) the data, software and scripts
+necessary to replicate the results of a study.
 
---------
-
-Cut below this line.
-
---------
+Moreover, such systems would enable the community to encourage reviewers
+by acknowledging the quality of their contributions and preserving their
+efforts in a document’s version history. Such an interactive and open
+system will also promote timely reviews and enable reviews to evolve
+beyond the publication date.\ :sup:``[a] <#cmnt1>`_`\  [XXOOXXOO]
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
