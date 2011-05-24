@@ -34,8 +34,9 @@ fraught with many problems that undermine the pace, validity, and
 credibility of science.
 
 Precious few reviewers work in relative isolation, in a short amount of
-time, and are getting fat and old. They are scorned and excommunicated
-as pariahs.
+time, and are getting fat and old.
+
+They are scorned and excommunicated as pariahs.
 
 are not officially acknowledged and often cannot access the information
 necessary to provide credible critique.
@@ -60,26 +61,25 @@ review systems for software development to support article review.
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
 
-IntroductionScientific publications continue to be the primary mechanism
-for dissemination of scientific information and for establishing
-precedence and credit for scientific research.
+Introduction
 
-Peer review is the primary means of filtering this literature prior to
-publication in an effort to ensure quality and validity.
-
-In the current atmosphere of highly competitive and uncertain research
-funding, publications are instrumental in determining how resources are
-distributed, who gets promoted, and in which directions research
-advances. This has cultivated a publish-or-perish mentality where the
-focus is on maximizing the number of publications rather than on the
-validity and reproducibility of research findings, and a decrease in the
-amount of information apportioned to each article. Moreover, the lack of
-objective standards for the review process results in great variability
-in the percentage and quality of articles accepted. This has led to a
-hierarchy in the status of journals, often quantified by a journal's
-impact factor (Garfield, 1955). As such, certain journal titles have
-overtaken the review process as arbiters of quality and significance of
-research as well as . JB:
+Scientific publications continue to be the primary mechanism for
+dissemination of scientific information and for establishing precedence
+and credit for scientific research. In the current atmosphere of highly
+competitive and uncertain research funding, publications are
+instrumental in determining how resources are distributed, who gets
+promoted, and in which directions research advances. This has cultivated
+a publish-or-perish mentality where the focus is on maximizing the
+number of publications rather than on the validity and reproducibility
+of research findings, and a decrease in the amount of information
+apportioned to each article. Peer review is the primary means of
+filtering this literature prior to publication in an effort to ensure
+quality and validity. However, the lack of objective standards for the
+review process results in great variability in the percentage and
+quality of articles accepted. This has led to a hierarchy in the status
+of journals, often quantified by a journal's impact factor (Garfield,
+1955). As such, certain journal titles have overtaken the review process
+as arbiters of quality and significance of research as well as . JB:
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
