@@ -84,11 +84,11 @@ advances in computing resources by which results are obtained and
 advances in media by which results are disseminated.
 
 There is also a lack of objective standards for the review process that
-results in great variability in the percentage and quality of articles
-accepted. This has led to a hierarchy in the status of journals, often
-quantified by a journal's impact factor (Garfield, 1955). As such,
-certain journal titles have overtaken the review process as arbiters of
-quality and significance of research as well as . JB:
+results in great variability among journals in the percentage and
+quality of articles accepted. This has led to a hierarchy in the status
+of journals, often quantified by a journal's impact factor (Garfield,
+1955). As such, certain journal titles have overtaken the review process
+as arbiters of quality and significance of research as well as . JB:
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
