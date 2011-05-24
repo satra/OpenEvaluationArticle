@@ -46,9 +46,8 @@ review process to include many reviewers, provide them with the data and
 software to replicate the results of a study, acknowledge their
 contributions, quantify the quality of their contributions, and ensure
 that reviews are timely and live on beyond the publication date. We
-propose that an effective means for implementing these changes would be
-to adopt approaches from current code review systems for software
-development to support article review.
+propose to adapt approaches from current code review systems for
+software development to support article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development
