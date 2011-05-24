@@ -39,7 +39,7 @@ freely available online,
 
 scientists face an expanding volume of scientific literature.
 
-Scientific publications continue to be the primary mechanism for
+Great scientific publications continue to be the primary mechanism for
 dissemination of scientific information and for establishing precedence
 and credit for scientific research. Peer review is the primary means of
 filtering this literature prior to publication in an effort to ensure
