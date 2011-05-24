@@ -31,16 +31,16 @@ Abstract
 Peer-reviewed publications are the primary mechanism for sharing
 scientific results. The current peer-review process is, however, fraught
 with many problems that undermine the pace, validity, and credibility of
-science. Precious few reviewers work in relative isolation, in a short
-amount of time, and are not officially acknowledged. Reviewers also
-rarely have access to the information necessary to verify a study’s
-reproducibility.
+science. In this article, we highlight five major problems. Precious few
+anonymous reviewers work in relative isolation, in a short amount of
+time and rarely have access to the information necessary to verify a
+study’s reproducibility. Neither, are reviewers officially acknowledged,
+nor are their reviews held to any objective standard. We argue that
+these problems can be addressed by building upon computer programming
+code management systems.
 
-We argue that these problems can be addressed by building upon computer
-programming code management systems.
-
-We propose that these problems can be resolved by undertaking the
-following
+We propose that these problems can be resolved by making the following
+changes to the review process:
 
 1. Distribute reviews to many reviewers.
 
@@ -51,10 +51,15 @@ evaluation.
 
 4. Quantify review quality.
 
-& metrics
-
 We argue that these solutions can be addressed by building upon computer
 programming code management systems.
+
+We provide examples of current code review systems that offer
+opportunities for addressing the above problems, and offer
+
+the relevance of current code review systems
+
+and suggestions for enhancing code review systems for article review.
 
 provide a community of reviewers interactive, real-time access to not
 only the text, but also (potentially) the data, software and scripts
