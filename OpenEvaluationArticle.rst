@@ -74,8 +74,8 @@ revisions of the article. After publication, problems such as fraud or
 mistakes are addressed via retraction after disclosure or exposure by
 countering articles or letters to the editor (e.g. Chang et al., 2006).
 
-Through peer review and the scientific community's history of policing
-itself, scientists hope to achieve self-correcting process.
+Through this peer review and the scientific community's history of
+policing itself, scientists hope to achieve self-correcting process.
 
 There are no objective standards for the review process resulting in
 great variability among journals in the percentage and quality of
