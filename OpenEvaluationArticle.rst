@@ -32,6 +32,8 @@ Over the last decade, scientists, institutions, publishers and funding
 agencies have made advances in the way scientific research is
 disseminated and accessed.
 
+Scientifi
+
 With the advent of
 
 open-access journals as well as the growing availability of articles
@@ -39,7 +41,7 @@ freely available online,
 
 scientists face an expanding volume of scientific literature.
 
-Great scientific publications continue to be the primary mechanism for
+Scientific publications continue to be the primary mechanism for
 dissemination of scientific information and for establishing precedence
 and credit for scientific research. Peer review is the primary means of
 filtering this literature prior to publication in an effort to ensure
