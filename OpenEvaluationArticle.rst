@@ -33,21 +33,22 @@ agencies have made tremendous strides in the way scientific research is
 disseminated and accessed. With the advent of open-access journals as
 well as the growing availability of articles freely available online,
 scientists face an expanding volume of scientific literature. Peer
-review is the primary means of evaluating the quality and validity of
-this literature prior to publication … determines what gets published
-and where it gets published. The current review process for scientific
-publications is, however, fraught with many problems that undermine the
-pace, validity, and credibility of science. There are too few reviewers
-provided with too little information who go unacknowledged, the quality
-of their reviews goes unmeasured, and reviews take a lot of time and
-once submitted cannot evolve. In this article, we argue that these
-problems can be addressed by opening up the review process to include
-many reviewers, provide them with the data and software to replicate the
-results of a study, acknowledge their contributions, quantify the
-quality of their contributions, and ensure that reviews are timely and
-live on beyond the publication date. We propose that an effective means
-for implementing these changes would be to adopt approaches from current
-code review systems for software development to support article review.
+review is the primary means of filtering/screening this literature prior
+to publication in an effort to ensure quality and validity. … determines
+what gets published and where it gets published. The current review
+process for scientific publications is, however, fraught with many
+problems that undermine the pace, validity, and credibility of science.
+There are too few reviewers provided with too little information who go
+unacknowledged, the quality of their reviews goes unmeasured, and
+reviews take a lot of time and once submitted cannot evolve. In this
+article, we argue that these problems can be addressed by opening up the
+review process to include many reviewers, provide them with the data and
+software to replicate the results of a study, acknowledge their
+contributions, quantify the quality of their contributions, and ensure
+that reviews are timely and live on beyond the publication date. We
+propose that an effective means for implementing these changes would be
+to adopt approaches from current code review systems for software
+development to support article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development
