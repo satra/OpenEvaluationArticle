@@ -31,13 +31,24 @@ Abstract
 Peer-reviewed publications are the primary mechanism for sharing
 scientific results. The current peer-review process is, however, fraught
 with many problems that undermine the pace, validity, and credibility of
-science. In this article, we highlight five major problems. Precious few
-anonymous reviewers work in relative isolation, in a short amount of
-time and rarely have access to the information necessary to verify a
-study’s reproducibility. Neither, are reviewers officially acknowledged,
-nor are their reviews held to any objective standard. We argue that
-these problems can be addressed by building upon computer programming
-code management systems.
+science. In this article, we highlight five problems and th solutions.
+Precious few anonymous reviewers work in relative isolation, in a short
+amount of time and rarely have access to the information necessary to
+evaluate a study’s reproducibility. Reviewers are neither officially
+acknowledged, nor are their reviews held to any objective standard. We
+argue that these problems can be addressed by building upon computer
+programming code management systems.
+
+1. Reviewers are expected to have comprehensive expertise.
+
+2. Reviewers do not have sufficient access to methods and materials to
+evaluate a study.
+
+3. Reviewers are not acknowledged.
+
+4. There is no measure of the quality of a review.
+
+5. Reviews take a lot of time, and once submitted cannot evolve.
 
 We propose that these problems can be resolved by making the following
 changes to the review process:
@@ -51,19 +62,21 @@ evaluation.
 
 4. Quantify review quality.
 
+5. Expedite reviews and allow for post-publication review.
+
 We argue that these solutions can be addressed by building upon computer
-programming code management systems.
+programming code management systems. We provide examples of current code
+review systems that offer opportunities for addressing the above
+problems, and offer suggestions for enhancing code review systems for
+article review.
 
-We provide examples of current code review systems that offer
-opportunities for addressing the above problems, and offer
+relevance of current code review systems
 
-the relevance of current code review systems
-
-and suggestions for enhancing code review systems for article review.
+suggestions for enhancing code review systems for article review.
 
 provide a community of reviewers interactive, real-time access to not
 only the text, but also (potentially) the data, software and scripts
-necessary to replicate the results of a study.
+necessary to evaluate and possibly replicate the results of a study.
 
 Moreover, such systems would enable the community to encourage reviewers
 by acknowledging the quality of their contributions and preserving their
