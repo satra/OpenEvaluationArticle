@@ -89,8 +89,6 @@ of articles, and the use of journal impact factors as proxies for
 evaluations of individual articles, the integrity of the review process
 and, indeed, of science suffers (Poschl and Koop, 2008; Smith, 2006).
 
-JB:
-
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
 participants with varying levels of expertise. There is a clear process
