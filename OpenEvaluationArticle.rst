@@ -41,9 +41,9 @@ only the text, but also (potentially) the data, software and scripts
 necessary to replicate the results of a study. Such systems allow the
 community to acknowledge reviewers and quantify the quality of their
 contributions. They also ensure that the review process itself is
-preserved, is timely and has the ability enduring beyond the publication
-date. We demonstrate that technology currently available in open code
-review systems support this framework.
+preserved, is timely and has the ability to evolve beyond the
+publication date. We demonstrate that technology currently available in
+open code review systems support this framework.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -71,6 +71,9 @@ topic.\ :sup:``[1] <#ftnt1>`_`\  The editor takes into consideration the
 reviewers' recommendations to either publish, reject or request
 revisions of the article. Thus article acceptance relies on a handful of
 anonymous and unpublished opinions
+
+Thus article acceptance relies on a handful of anonymous and unpublished
+opinions
 
 ... placing at the gate of scientific communication an undesirable
 combination of power and secrecy.
