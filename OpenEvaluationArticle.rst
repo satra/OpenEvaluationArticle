@@ -69,7 +69,7 @@ just 2) presumed to have expertise in the research
 topic.\ :sup:``[1] <#ftnt1>`_`\  The editor takes into consideration the
 reviewers' recommendations to either publish, reject or request
 revisions of the article. The review process therefore relies on very
-few anonymous opinions, combining power and secrecy. After publication,
+few anonymous opinions combining power and secrecy. After publication,
 problems such as fraud or mistakes are addressed via retraction after
 disclosure or exposure by countering articles or letters to the editor
 (e.g. Chang et al., 2006). Through the review process and the scientific
