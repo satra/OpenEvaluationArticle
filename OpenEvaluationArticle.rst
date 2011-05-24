@@ -76,13 +76,14 @@ countering articles or letters to the editor (e.g. Chang et al., 2006).
 
 Through this peer review and the scientific community's history of
 policing itself, scientists hope to achieve a self-correcting process.
-However, this self-correction is currently impeded by a slow and
-incremental reviews that lack openness and objective standards. This
-results in great variability among journals in the percentage and
-quality of articles accepted. This has led to a hierarchy in the status
-of journals often quantified by a journal's impact factor (Garfield,
-1955). As such, certain journal titles have overtaken the review process
-as arbiters of quality and significance of research.
+However, this self-correction is currently impeded by slow and
+incremental reviews that lack openness and objective standards with
+limited post-publication. This results in great variability among
+journals in the percentage and quality of articles accepted. This has
+led to a hierarchy in the status of journals often quantified by a
+journal's impact factor (Garfield, 1955). As such, certain journal
+titles have overtaken the review process as arbiters of quality and
+significance of research.
 
 With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
