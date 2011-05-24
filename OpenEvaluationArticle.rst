@@ -31,8 +31,8 @@ Abstract
 Peer-reviewed publications are the primary mechanism for sharing
 scientific results. The current peer-review process is, however, fraught
 with many problems that undermine the pace, validity, and credibility of
-science. We highlight five major problems: (1) Reviewers are expected to
-have comprehensive expertise; (2) Reviewers do not have sufficient
+science. We highlight five salient problems: (1) Reviewers are expected
+to have comprehensive expertise; (2) Reviewers do not have sufficient
 access to methods and materials to evaluate a study; (3) Reviewers are
 not acknowledged; (4) There is no measure of the quality of a review;
 and (5) Reviews take a lot of time, and once submitted cannot evolve.
