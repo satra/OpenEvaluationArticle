@@ -29,35 +29,19 @@ Running title: Code review and scientific publications
 Abstract
 
 Scientific publications are more available and plentiful than at any
-previous point in history.
+previous point in history. The current review process is, however,
+fraught with many problems that undermine the pace, validity, and
+credibility of science.
 
-However,
+Reviewers are not officially acknowledged and often cannot access the
+information necessary to provide credible critique. They
 
-the process in which we discuss these publications is still prehistoric.
+There are too few reviewers provided with too little information who go
+unacknowledged, the quality of their reviews goes unmeasured, and
+reviews take a lot of time and once submitted cannot evolve.
 
-With the advent of
-
-open-access journals as well as the growing availability of articles
-freely available online,
-
-scientists face an expanding volume of scientific literature.
-
-Scientific publications continue to be the primary mechanism for
-dissemination of scientific information and for establishing precedence
-and credit for scientific research.
-
-Peer review is the primary means of filtering this literature prior to
-publication in an effort to ensure quality and validity. The current
-review process for scientific publications is, however, fraught with
-many problems that undermine the pace, validity, and credibility of
-science. A reviewer is at best weakly acknowledged, often cannot access
-the information necessary to provide credible critique and works in
-isolation, which does not allow his or her opinion to evolve or be
-commented upon. There are too few reviewers provided with too little
-information who go unacknowledged, the quality of their reviews goes
-unmeasured, and reviews take a lot of time and once submitted cannot
-evolve. In this article, we argue that these problems can be addressed
-by opening up the review process to include many reviewers, provide them
+In this article, we argue that these problems can be addressed by
+opening up the review process to include many reviewers, provide them
 with the data and software to replicate the results of a study,
 acknowledge their contributions, quantify the quality of their
 contributions, and ensure that reviews are timely and live on beyond the
@@ -67,13 +51,15 @@ review systems for software development to support article review.
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
 
-Introduction
+IntroductionScientific publications continue to be the primary mechanism
+for dissemination of scientific information and for establishing
+precedence and credit for scientific research.
 
-Peer-reviewed scientific publications continue to be the primary
-mechanism for dissemination of scientific information and for
-establishing precedence and credit for scientific research. In the
-current atmosphere of highly competitive and uncertain research funding,
-publications are instrumental in determining how resources are
+Peer review is the primary means of filtering this literature prior to
+publication in an effort to ensure quality and validity.
+
+In the current atmosphere of highly competitive and uncertain research
+funding, publications are instrumental in determining how resources are
 distributed, who gets promoted, and in which directions research
 advances. This has cultivated a publish-or-perish mentality where the
 focus is on maximizing the number of publications rather than on the
