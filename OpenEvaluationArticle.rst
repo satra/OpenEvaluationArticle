@@ -36,8 +36,8 @@ isolation, in a short amount of time, and are not officially
 acknowledged. Reviewers also rarely have access to the information
 necessary to verify a study’s reproducibility. We argue that these
 problems can be addressed by building upon source code management
-systems to provide a community of reviewers interactive access to not
-only the text, but also (potentially) the data, software and scripts
+systems to provide a community of reviewers interactive, re access to
+not only the text, but also (potentially) the data, software and scripts
 necessary to replicate the results of a study. Moreover, such systems
 enable the community to encourage reviewers by acknowledging the quality
 of their contributions and preserving their efforts in a document’s
@@ -74,15 +74,15 @@ revisions of the article. After publication, problems such as fraud or
 mistakes are addressed via retraction after disclosure or exposure by
 countering articles or letters to the editor (e.g. Chang et al., 2006).
 
-Through the review process and the scientific community's history of
-policing itself, scientists hope to achieve self-correcting method.
+Through peer review and the scientific community's history of policing
+itself, scientists hope to achieve self-correcting process.
 
-There are no obkective standards for the review process results in great
-variability among journals in the percentage and quality of articles
-accepted. This has led to a hierarchy in the status of journals, often
-quantified by a journal's impact factor (Garfield, 1955). As such,
-certain journal titles have overtaken the review process as arbiters of
-quality and significance of research.
+There are no objective standards for the review process resulting in
+great variability among journals in the percentage and quality of
+articles accepted. This has led to a hierarchy in the status of
+journals, often quantified by a journal's impact factor (Garfield,
+1955). As such, certain journal titles have overtaken the review process
+as arbiters of quality and significance of research.
 
 With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
