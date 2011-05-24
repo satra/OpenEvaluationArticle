@@ -32,7 +32,9 @@ Over the last decade, scientists, institutions, publishers and funding
 agencies have made advances in the way scientific research is
 disseminated and accessed.
 
-Scientifi
+Scientific publications are more available and plentiful than at any
+previous point in history. However, the process in which we discuss
+these publications is still prehistoric.
 
 With the advent of
 
