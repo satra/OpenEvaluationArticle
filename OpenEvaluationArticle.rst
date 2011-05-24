@@ -41,10 +41,10 @@ only the text, but also (potentially) the data, software and scripts
 necessary to replicate the results of a study. Moreover, such systems
 enable the community to encourage reviewers by acknowledging the quality
 of their contributions and preserving their efforts in a document’s
-version history. They ensure that the review process itself is
-preserved, is timely and has the ability to evolve beyond the
-publication date. We demonstrate that technology currently available in
-open code review systems support this framework.
+version history. Such an interactive and open system will also promote
+timely reviews and enable rto evolve beyond the publication date. We
+demonstrate that technology currently available in open code review
+systems support this framework.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -75,7 +75,7 @@ mistakes are addressed via retraction after disclosure or exposure by
 countering articles or letters to the editor (e.g. Chang et al., 2006).
 
 Through the review process and the scientific community's history of
-policing itself, scientists hto be self-correcting.
+policing itself, scientists hope to achieve self-correcting method for .
 
 However, a lack of objective standards for the review process results in
 great variability among journals in the percentage and quality of
