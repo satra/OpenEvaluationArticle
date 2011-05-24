@@ -40,9 +40,10 @@ systems to provide a community of reviewers interactive access to not
 only the text, but also (potentially) the data, software and scripts
 necessary to replicate the results of a study. Such systems allow the
 community to acknowledge reviewers and quantify the quality of their
-contributions. They also ensure that the review process is both timely
-and enduring beyond the publication date. We demonstrate that technology
-currently available in open code review systems support this framework.
+contributions. They also ensure that the review process itself is
+preserved, is timely and has the ability enduring beyond the publication
+date. We demonstrate that technology currently available in open code
+review systems support this framework.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -71,7 +72,8 @@ reviewers' recommendations to either publish, reject or request
 revisions of the article. Thus article acceptance relies on a handful of
 anonymous and unpublished opinions
 
-combination power and secrecy.
+... placing at the gate of scientific communication an undesirable
+combination of power and secrecy.
 
 After publication, problems such as fraud or mistakes are addressed via
 retraction after disclosure or exposure by countering articles or
@@ -92,10 +94,12 @@ With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
 as proxies for evaluations of individual articles, the integrity of the
 review process, and indeed of science, suffers (Poschl and Koop, 2008;
-Smith, 2006). Another danger to the review process, and to scientific
-articles themselves, is that they are not keeping pace with the dramatic
-advances in computing resources by which results are obtained and
-advances in media by which results are disseminated.
+Smith, 2006).
+
+Another danger to the review process, and to scientific articles
+themselves, is that they are not keeping pace with the dramatic advances
+in computing resources by which results are obtained and advances in
+media by which results are disseminated.
 
 There is also a lack of objective standards for the review process that
 results in great variability among journals in the percentage and
