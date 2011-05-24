@@ -35,16 +35,17 @@ credibility of science. Precious few reviewers work in relative
 isolation, in a short amount of time, and are not officially
 acknowledged. Reviewers also rarely have access to the information
 necessary to verify a study’s reproducibility. We argue that these
-problems can be addressed by building upon source code management
-systems to provide a community of reviewers interactive, real-time
-access to not only the text, but also (potentially) the data, software
-and scripts necessary to replicate the results of a study. Moreover,
-such systems enable the community to encourage reviewers by
+problems can be addressed by building upon computer programming code
+management systems to provide a community of reviewers interactive,
+real-time access to not only the text, but also (potentially) the data,
+software and scripts necessary to replicate the results of a study.
+Moreover, such systems enable the community to encourage reviewers by
 acknowledging the quality of their contributions and preserving their
 efforts in a document’s version history. Such an interactive and open
 system will also promote timely reviews and enable reviews to evolve
 beyond the publication date. We demonstrate that technology currently
-available in open code review systems supports this framework.
+available in open code review systems may be adapted to eliminate the
+need for the current evil empire.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
