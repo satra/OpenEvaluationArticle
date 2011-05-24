@@ -493,8 +493,8 @@ Figure 7. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm
-by Fernanda B. Viégas and Martin Wattenberg at IBM, 2003).
+(http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+Víegas, F. et al., 2004).
 
 Relevance of code review systems
 
@@ -666,6 +666,11 @@ quality assurance. Information Services and Use, 28(2):105–107.
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
 99(4):178.\ :sup:``[d] <#cmnt4>`_`\ 
+
+Vi ́egas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
+and conflict between authors with history flow visualizations. In
+Proceedings of the SIGCHI conference on Human factors in computing
+systems, pages 575–582. ACM.
 
 --------------
 
