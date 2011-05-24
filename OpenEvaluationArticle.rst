@@ -38,16 +38,19 @@ to publication in an effort to ensure quality and validity. … determines
 what gets published and where it gets published. The current review
 process for scientific publications is, however, fraught with many
 problems that undermine the pace, validity, and credibility of science.
-There are too few reviewers provided with too little information who go
-unacknowledged, the quality of their reviews goes unmeasured, and
-reviews take a lot of time and once submitted cannot evolve. In this
-article, we argue that these problems can be addressed by opening up the
-review process to include many reviewers, provide them with the data and
-software to replicate the results of a study, acknowledge their
-contributions, quantify the quality of their contributions, and ensure
-that reviews are timely and live on beyond the publication date. We
-propose to adapt approaches from current code review systems for
-software development to support article review.
+A reviewer is at best weakly acknowledged, often cannot access the
+information necessary to provide credible critique and works in
+isolation, which does not allow his or her opinion to evolve or be
+commented upon. There are too few reviewers provided with too little
+information who go unacknowledged, the quality of their reviews goes
+unmeasured, and reviews take a lot of time and once submitted cannot
+evolve. In this article, we argue that these problems can be addressed
+by opening up the review process to include many reviewers, provide them
+with the data and software to replicate the results of a study,
+acknowledge their contributions, quantify the quality of their
+contributions, and ensure that reviews are timely and live on beyond the
+publication date. We propose to adapt approaches from current code
+review systems for software development to support article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development
