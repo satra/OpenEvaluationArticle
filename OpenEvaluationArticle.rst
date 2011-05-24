@@ -33,8 +33,16 @@ previous point in history. The current review process is, however,
 fraught with many problems that undermine the pace, validity, and
 credibility of science.
 
+They work in relative isolation, as short-order cooks, and have lost a
+lot of weight.
+
 Reviewers are not officially acknowledged and often cannot access the
-information necessary to provide credible critique. They
+information necessary to provide credible critique.
+
+Reviewers are not officially acknowledged and often cannot access the
+information necessary to provide credible critique. They work in
+isolation, for a relatively short time, and their opinions cannot evolve
+or be commented upon.
 
 There are too few reviewers provided with too little information who go
 unacknowledged, the quality of their reviews goes unmeasured, and
