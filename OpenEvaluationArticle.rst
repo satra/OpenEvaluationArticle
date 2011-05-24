@@ -79,8 +79,8 @@ However, this self-correction is currently impeded by slow and
 incremental reviews that lack openness and objective standards with
 limited post-publication feedback.
 
-At the end of this review process, all that remains of the cevaluation
-is where it was ultimately published.
+At the end of this review process, all that remains of the evaluation is
+where it was ultimately published providing the readership the illusi
 
 This results in great variability among journals in the percentage and
 quality of articles accepted. This has led to a hierarchy in the status
@@ -88,8 +88,8 @@ of journals often quantified by a journal's impact factor (Garfield,
 1955). As such, certain journal titles have overtaken the review process
 as arbiters of quality and significance of research.
 
-Without a transparent and objective framework, journals have galed to a
-hierarchy in the status of journals often quantified by a journal's
+Without a transparent and objective framework, journals have gained
+hierarchicy in the status of journals often quantified by a journal's
 impact factor (Garfield, 1955). As such, certain journal titles have
 overtaken the review process as arbiters of quality and significance of
 research.
