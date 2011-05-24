@@ -31,13 +31,12 @@ Abstract
 Peer-reviewed publications are the primary mechanism for sharing
 scientific results. The current peer-review process is, however, fraught
 with many problems that undermine the pace, validity, and credibility of
-science. In this article, we highlight five problems and th solutions.
-Precious few anonymous reviewers work in relative isolation, in a short
-amount of time and rarely have access to the information necessary to
-evaluate a study’s reproducibility. Reviewers are neither officially
-acknowledged, nor are their reviews held to any objective standard. We
-argue that these problems can be addressed by building upon computer
-programming code management systems.
+science. Precious few anonymous reviewers work in relative isolation, in
+a short amount of time and rarely have access to the information
+necessary to evaluate a study’s reproducibility. Reviewers are neither
+officially acknowledged, nor are their reviews held to any objective
+standard. We argue that these problems can be addressed by building upon
+computer programming code management systems.
 
 1. Reviewers are expected to have comprehensive expertise.
 
@@ -400,7 +399,7 @@ large. Code review systems should be coupled with database systems
 (e.g., Extensible Neuroimaging Archive Toolkit - XNAT - xnatcentral.org)
 to enable storage of such large amounts of data.
 
-3. Acknowledge reviewers
+3. Acknowledge reviewers.
 
 When reviewers are given the opportunity to provide feedback regarding
 just the areas they are interested in, the review process becomes much
