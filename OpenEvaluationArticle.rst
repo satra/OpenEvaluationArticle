@@ -75,18 +75,17 @@ mistakes are addressed via retraction after disclosure or exposure by
 countering articles or letters to the editor (e.g. Chang et al., 2006).
 
 Through this peer review and the scientific community's history of
-policing itself, scientists hope to achieve self-correcting process.
-
-There are no objective standards for the review process resulting in
-great variability among journals in the percentage and quality of
-articles accepted. This has led to a hierarchy in the status of
-journals, often quantified by a journal's impact factor (Garfield,
+policing itself, scientists hope to achieve a self-correcting process.
+However, this process is currently slow, lacks objective standards, and
+results in great variability among journals in the percentage and
+quality of articles accepted. This has led to a hierarchy in the status
+of journals often quantified by a journal's impact factor (Garfield,
 1955). As such, certain journal titles have overtaken the review process
-as arbiters of quality and significance of research. Another danger to
-the review process, and to scientific articles themselves, is that they
-are not keeping pace with the dramatic advances in computing resources
-by which results are obtained and advances in media by which results are
-disseminated.
+as arbiters of quality and significance of research and theAnother
+danger to the review process, and to scientific articles themselves, is
+that they are not keeping pace with the dramatic advances in computing
+resources by which results are obtained and advances in media by which
+results are disseminated.
 
 With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
@@ -94,29 +93,7 @@ as proxies for evaluations of individual articles, the integrity of the
 review process and, indeed, of science suffers (Poschl and Koop, 2008;
 Smith, 2006).
 
-no objective standards -> journal hierarchy
-
-technology gap
-
-self-correcting, science suffers
-
-Another danger to the review process, and to scientific articles
-themselves, is that they are not keeping pace with the dramatic advances
-in computing resources by which results are obtained and advances in
-media by which results are disseminated.
-
-Thus article acceptance relies on a handful of anonymous and unpublished
-opinions
-
-... placing at the gate of scientific communication an undesirable
-combination of power and secrecy.
-
-There is also a lack of objective standards for the review process that
-results in great variability among journals in the percentage and
-quality of articles accepted. This has led to a hierarchy in the status
-of journals, often quantified by a journal's impact factor (Garfield,
-1955). As such, certain journal titles have overtaken the review process
-as arbiters of quality and significance of research as well as . JB:
+JB:
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
