@@ -534,7 +534,7 @@ measures of interest as a proxy for impact that can be derived from
 clickstream data, web usage, and number of article downloads. Other
 possibilities include measuring the activity, frequency (Figure 8),
 impact (Figure 9), and topic range of an author or reviewer or their
-contributions over time.
+contributions over time (which could Figure 7).
 
 It would also be possible to aggregate these metrics to assess the
 impact or importance of, for example, collaborators, coauthors,
@@ -577,15 +577,15 @@ individual’s “impact” or contributions during a week-long period.
 
 Discussion
 
-In this article, we raise five problems with the current process for
-reviewing scientific articles, and argue that we could address all of
-these problems by opening up the review process to include many
-reviewers, provide them with the data and software to replicate a study,
-acknowledge their contributions, quantify the quality of their
-contributions, and ensure that reviews are timely and live on beyond the
-publication date. We propose that an effective means for implementing
-these changes would be to enhance current code review systems for
-software development to support article review.
+In this article, we raise five critical problems with the current
+process for reviewing scientific articles, and argue that we could
+address all of these problems by opening up the review process to
+include many reviewers, provide them with the data and software to
+replicate a study, acknowledge their contributions, quantify the quality
+of their contributions, and ensure that reviews are timely and live on
+beyond the publication date. We propose that an effective means for
+implementing these changes would be to enhance current code review
+systems for software development to support article review.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
@@ -634,7 +634,7 @@ Acknowledgements
 
 We would like to thank Fernando Perez for his helpful comments. Arno
 Klein would like to thank Deepanjana and Ellora, as well as the NIMH for
-their support via R01 grant MH084029.
+their support via R01 grant MH084029.\ :sup:``[c] <#cmnt3>`_`\ 
 
 --------------
 
@@ -665,7 +665,7 @@ quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[c] <#cmnt3>`_`\ 
+99(4):178.\ :sup:``[d] <#cmnt4>`_`\ 
 
 --------------
 
@@ -761,12 +761,16 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[c] <#cmnt_ref3>`_yarikoptic:
+`[c] <#cmnt_ref3>`_millman.ucb:
+
+update at the end to include everyone
+
+`[d] <#cmnt_ref4>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[d] <#cmnt_ref4>`_binarybottle:
+`[e] <#cmnt_ref5>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -783,7 +787,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[f] <#cmnt_ref6>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -791,22 +795,22 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[g] <#cmnt_ref7>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[g] <#cmnt_ref7>`_stnava:
+`[h] <#cmnt_ref8>`_stnava:
 
 move elsewhere
 
-`[h] <#cmnt_ref8>`_binarybottle:
+`[i] <#cmnt_ref9>`_binarybottle:
 
 if and in which journal an article
 
-`[i] <#cmnt_ref9>`_kimlumbard:
+`[j] <#cmnt_ref10>`_kimlumbard:
 
 Howdy all!
 
@@ -845,10 +849,6 @@ Bon chance!
 binarybottle:
 
 thank you, kim!
-
-`[j] <#cmnt_ref10>`_millman.ucb:
-
-update at the end to include everyone
 
 `[k] <#cmnt_ref11>`_fdo.perez:
 
