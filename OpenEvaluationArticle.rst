@@ -39,67 +39,33 @@ and (5) Reviews take a lot of time, and once submitted cannot evolve. We
 propose that these problems can be resolved by making the following
 changes to the review process:
 
-Distributing reviews to many reviewers would allow e each reviewer's
-feedback can be focused on portions of the article that reflect the
-reviewer’s specialty or area of interest, there is less burden placed on
-any one reviewer, enabling a more comprehensive and timely review.
-
-\ :sup:``[a] <#cmnt1>`_`\ 
-
-In case there is a fear of disclosure prior to
-publication\ :sup:``[1] <#ftnt1>`_`\  or of an overwhelming amount of
-participation in a review where anyone could be a reviewer, there are at
-least three types of compromise available. One would be to assign
-certain reviewers as moderators for different components of the article,
-to lessen the burden on the editor. A second would be to restrict the
-number of reviewers to those solicited from a pool of experts. This
-would still improve scientific rigor while lessening the burden on each
-individual reviewer, as long as they review specific components of the
-article they are knowledgeable about. A third would be to conduct a
-preliminary review consisting of a limited and expedited review process
-prior to the full and open review. At different stages of such a tiered
-review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.\ :sup:``[b] <#cmnt2>`_`\ 
-
-Relevance of code review systems
-
-In the same manner that articles are submitted for review and
-publication in journals, code in collaborative software projects are
-submitted for review and integration into a codebase. In both scientific
-research and in complex software projects, specialists focus on specific
-components of the problem. However, unlike scientific review, code
-review is not limited to specialists. When multiple pairs of eyes look
-at code, the code improves, bugs are caught, and all participants are
-encouraged to write better code. Existing code review systems such as
-
-2. Provide reviewers materials and methods to perform comprehensive
-evaluation.
-
-3. Acknowledge reviewers
-
-4. Quantify review quality.
-
-5. Expedite reviews and allow for post-publication review.
-
-We argue that these solutions can be addressed by building upon computer
-programming code management systems. We provide examples of current code
-review systems that offer opportunities for addressing the above
-problems, and offer suggestions for enhancing code review systems for
-article review.
-
-relevance of current code review systems
-
-suggestions for enhancing code review systems for article review.
-
-provide a community of reviewers interactive, real-time access to not
-only the text, but also (potentially) the data, software and scripts
-necessary to evaluate and possibly replicate the results of a study.
+Distributing reviews to many reviewers would allow each reviewer to
+focus on portions of the article that reflect the reviewer’s specialty
+or area of interest and would place less of a burden on any one
+reviewer, enabling a more comprehensive and timely review. Providing
+reviewers materials and methods to perform comprehensive evaluation
+would facilitate transparency and enable greater scrutiny by people from
+different fields using different nomenclature, leading to greater
+clarity and cross-fertilization of ideas. Acknowledging reviewers makes
+it possible to quantitatively assess reviewer contributions, which could
+lead to assessments for promotions and grants. Quantifying review
+quality could help establish the role and importance of reviewers and
+information generated during a review as well as quantitatively assess
+the importance of a submitted article. Expediting reviews and allowing
+for post-publication review by making reviews dynamic, interactive,
+conducted in real time, and continue on as a living document, can allow
+for the dialogue to continue and flourish, incrementally improving the
+scientific literature. We argue that these solutions can be addressed by
+building upon computer programming code management systems. We provide
+examples of current code review systems that offer opportunities for
+addressing the above problems, and offer suggestions for enhancing code
+review systems for article review.
 
 Moreover, such systems would enable the community to encourage reviewers
 by acknowledging the quality of their contributions and preserving their
 efforts in a document’s version history. Such an interactive and open
 system will also promote timely reviews and enable reviews to evolve
-beyond the publication date.\ :sup:``[c] <#cmnt3>`_`\  [XXOOXXOO]
+beyond the publication date.\ :sup:``[a] <#cmnt1>`_`\  [XXOOXXOO]
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -123,7 +89,7 @@ Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
 private review by a very small number of individuals (2 to 5, but often
 just 2) presumed to have expertise in the research
-topic.\ :sup:``[2] <#ftnt2>`_`\  The editor takes into consideration the
+topic.\ :sup:``[1] <#ftnt1>`_`\  The editor takes into consideration the
 reviewers' recommendations to either publish, reject or request
 revisions of the article. At the end of this review process, all that
 remains of the evaluation is where it was ultimately published. After
@@ -163,7 +129,7 @@ in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
 from distributed code review in open source software development.
 
-.. figure:: images/image06.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 Figure 1. A patch submission workflow for the Android project
@@ -271,10 +237,10 @@ reflect the reviewer’s specialty or area of interest, there is less
 burden placed on any one reviewer, enabling a more comprehensive and
 timely review.
 
-\ :sup:``[a] <#cmnt1>`_`\ 
+\ :sup:``[b] <#cmnt2>`_`\ 
 
 In case there is a fear of disclosure prior to
-publication\ :sup:``[3] <#ftnt3>`_`\  or of an overwhelming amount of
+publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
 participation in a review where anyone could be a reviewer, there are at
 least three types of compromise available. One would be to assign
 certain reviewers as moderators for different components of the article,
@@ -286,7 +252,7 @@ article they are knowledgeable about. A third would be to conduct a
 preliminary review consisting of a limited and expedited review process
 prior to the full and open review. At different stages of such a tiered
 review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.\ :sup:``[b] <#cmnt2>`_`\ 
+editor, or commenter.\ :sup:``[c] <#cmnt3>`_`\ 
 
 Relevance of code review systems
 
@@ -598,7 +564,7 @@ be entered into the reviewer database. We acknowledge some reviewers
 might be discouraged by this idea, thus it may be optional to
 participate.
 
-.. figure:: images/image07.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
 Figure 8. Example of a metric for quantifying contributor frequency.
@@ -710,11 +676,7 @@ and journals. Journal of the Royal Society of Medicine,
 
 --------------
 
-`[1] <#ftnt_ref1>`_To allay concerns over worldwide pre-publication
-exposure, precedence could be documented by submission and revision
-timestamps acknowledging who performed the research.
-
-`[2] <#ftnt_ref2>`_Currently, reviewers are solicited by the editors of
+`[1] <#ftnt_ref1>`_Currently, reviewers are solicited by the editors of
 journals based on either names recommended by the authors who submitted
 the article, the editors' knowledge of the domain or from an internal
 journal reviewer database. This selection process results in a very
@@ -728,11 +690,28 @@ publication
 (http://journals.cambridge.org/action/displayJournal?jid=BBS) solicits
 commentary from the community.
 
-`[3] <#ftnt_ref3>`_To allay concerns over worldwide pre-publication
+`[2] <#ftnt_ref2>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[a] <#cmnt_ref1>`_jbpoline:
+`[a] <#cmnt_ref1>`_binarybottle:
+
+Science suffers. We suffer. We conclude.
+
+that technology used in open code review systems should be adipated to
+explicate the need for the current armamenteric \_adjective\_ evil
+\_armamentarium\_. with the exception for the journal for irreproducible
+results.
+
+--------------
+
+satrajit.ghosh:
+
+In this abstract, you will see that we are EXTREMELY right and they are
+VERY wrong. It will be a slow and gruelling, uphill battle, but we will
+win it in the end. fini.
+
+`[b] <#cmnt_ref2>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -752,7 +731,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[b] <#cmnt_ref2>`_yarikoptic:
+`[c] <#cmnt_ref3>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -805,23 +784,6 @@ at every step of the paper journey. With the suggestion above, paper
 gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
-
-`[c] <#cmnt_ref3>`_binarybottle:
-
-Science suffers. We suffer. We conclude.
-
-that technology used in open code review systems should be adipated to
-explicate the need for the current armamenteric \_adjective\_ evil
-\_armamentarium\_. with the exception for the journal for irreproducible
-results.
-
---------------
-
-satrajit.ghosh:
-
-In this abstract, you will see that we are EXTREMELY right and they are
-VERY wrong. It will be a slow and gruelling, uphill battle, but we will
-win it in the end. fini.
 
 `[d] <#cmnt_ref4>`_yarikoptic:
 
