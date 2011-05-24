@@ -31,23 +31,19 @@ Abstract
 Peer-reviewed publications are the primary mechanism for sharing
 scientific results. The current peer-review process is, however, fraught
 with many problems that undermine the pace, validity, and credibility of
-science. Precious few anonymous reviewers work in relative isolation, in
-a short amount of time and rarely have access to the information
-necessary to evaluate a study’s reproducibility. Reviewers are neither
-officially acknowledged, nor are their reviews held to any objective
-standard. We argue that these problems can be addressed by building upon
-computer programming code management systems.
+science. We identify five fingers of death, doom, destruction, and
+despair, : (1) Reviewers are expected to have comprehensive expertise;
+(2) Reviewers do not have sufficient access to methods and materials to
+evaluate a study; (3) Reviewers are not acknowledged; (4) There is no
+measure of the quality of a review; and (5) Reviews take a lot of time,
+and once submitted cannot evolve.
 
-1. Reviewers are expected to have comprehensive expertise.
-
-2. Reviewers do not have sufficient access to methods and materials to
-evaluate a study.
-
-3. Reviewers are not acknowledged.
-
-4. There is no measure of the quality of a review.
-
-5. Reviews take a lot of time, and once submitted cannot evolve.
+Precious few anonymous reviewers work in relative isolation, in a short
+amount of time and rarely have access to the information necessary to
+evaluate a study’s reproducibility. Reviewers are neither officially
+acknowledged, nor are their reviews held to any objective standard. We
+argue that these problems can be addressed by building upon computer
+programming code management systems. \ :sup:``[a] <#cmnt1>`_`\ 
 
 We propose that these problems can be resolved by making the following
 changes to the review process:
@@ -81,7 +77,7 @@ Moreover, such systems would enable the community to encourage reviewers
 by acknowledging the quality of their contributions and preserving their
 efforts in a document’s version history. Such an interactive and open
 system will also promote timely reviews and enable reviews to evolve
-beyond the publication date.\ :sup:``[a] <#cmnt1>`_`\  [XXOOXXOO]
+beyond the publication date.\ :sup:``[b] <#cmnt2>`_`\  [XXOOXXOO]
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -253,7 +249,7 @@ reflect the reviewer’s specialty or area of interest, there is less
 burden placed on any one reviewer, enabling a more comprehensive and
 timely review.
 
-\ :sup:``[b] <#cmnt2>`_`\ 
+\ :sup:``[c] <#cmnt3>`_`\ 
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -268,7 +264,7 @@ article they are knowledgeable about. A third would be to conduct a
 preliminary review consisting of a limited and expedited review process
 prior to the full and open review. At different stages of such a tiered
 review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.\ :sup:``[c] <#cmnt3>`_`\ 
+editor, or commenter.\ :sup:``[d] <#cmnt4>`_`\ 
 
 Relevance of code review systems
 
@@ -688,7 +684,7 @@ quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[d] <#cmnt4>`_`\ 
+99(4):178.\ :sup:``[e] <#cmnt5>`_`\ 
 
 --------------
 
@@ -710,7 +706,11 @@ commentary from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[a] <#cmnt_ref1>`_binarybottle:
+`[a] <#cmnt_ref1>`_stnava:
+
+move elsewhere
+
+`[b] <#cmnt_ref2>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -727,7 +727,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[b] <#cmnt_ref2>`_jbpoline:
+`[c] <#cmnt_ref3>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -747,7 +747,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[c] <#cmnt_ref3>`_yarikoptic:
+`[d] <#cmnt_ref4>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -801,12 +801,12 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[d] <#cmnt_ref4>`_yarikoptic:
+`[e] <#cmnt_ref5>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[f] <#cmnt_ref6>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -814,16 +814,12 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[g] <#cmnt_ref7>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
-
-`[g] <#cmnt_ref7>`_stnava:
-
-move elsewhere
 
 `[h] <#cmnt_ref8>`_binarybottle:
 
