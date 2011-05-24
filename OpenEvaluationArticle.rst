@@ -489,12 +489,12 @@ choice.
 .. figure:: images/image00.gif
    :align: center
    :alt: 
-Figure 7. A visualization of the evolutionary history of a Wikipedia
-entry (“Evolution”) as an example of an evolving body of text. History
-flow is a tool for visualizing dynamic, evolving documents and the
-interactions of multiple collaborating authors
+Figure 7. A visualization of the edit history of the interactions of
+multiple authors of a Wikipedia entry (“Evolution”). The text is in the
+right column and the ribbon chart in the center represents the text
+edits over time, where each color indicates an individual contributor
 (http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm
-by Fernanda B. Viégas and Martin Wattenberg at IBM, 2003)
+by Fernanda B. Viégas and Martin Wattenberg at IBM, 2003).
 
 Relevance of code review systems
 
