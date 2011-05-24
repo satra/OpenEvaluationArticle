@@ -52,17 +52,17 @@ software development, post-publication peer review
 Introduction
 
 Scientific publications continue to be the primary mechanism for
-dissemination of scientific information and for establishing precedence
-and credit for scientific research. In the current atmosphere of highly
-competitive and uncertain research funding, publications are
-instrumental in determining how resources are distributed, who gets
-promoted, and in which directions research advances. This has cultivated
-a publish-or-perish mentality where the focus is on maximizing the
-number of publications rather than on the validity and reproducibility
-of research findings, and a decrease in the amount of information
-apportioned to each article. Peer review is the primary means of
-filtering this rapidly growing literature prior to publication in an
-effort to ensure quality and validity.
+disseminating systematically gathered information about the natural
+world and for establishing precedence and credit for scientific
+research. In the current atmosphere of highly competitive and uncertain
+research funding, publications are instrumental in determining how
+resources are distributed, who gets promoted, and in which directions
+research advances. This has cultivated a publish-or-perish mentality
+where the focus is on maximizing the number of publications rather than
+on the validity and reproducibility of research findings, and a decrease
+in the amount of information apportioned to each article. Peer review is
+the primary means of filtering this rapidly growing literature prior to
+publication in an effort to ensure quality and validity.
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
@@ -77,12 +77,6 @@ countering articles or letters to the editor (e.g. Chang et al., 2006).
 Through this peer review and the scientific community's history of
 policing itself, scientists hope to achieve self-correcting process.
 
-no objective standards -> journal hierarchy
-
-technology gap
-
-self-correcting, science suffers
-
 There are no objective standards for the review process resulting in
 great variability among journals in the percentage and quality of
 articles accepted. This has led to a hierarchy in the status of
@@ -95,6 +89,12 @@ number and complexity of articles, and the use of journal impact factors
 as proxies for evaluations of individual articles, the integrity of the
 review process, and indeed of science, suffers (Poschl and Koop, 2008;
 Smith, 2006).
+
+no objective standards -> journal hierarchy
+
+technology gap
+
+self-correcting, science suffers
 
 Another danger to the review process, and to scientific articles
 themselves, is that they are not keeping pace with the dramatic advances
