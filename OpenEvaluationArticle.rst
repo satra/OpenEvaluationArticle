@@ -77,6 +77,12 @@ countering articles or letters to the editor (e.g. Chang et al., 2006).
 Through this peer review and the scientific community's history of
 policing itself, scientists hope to achieve self-correcting process.
 
+no objective standards -> journal hierarchy
+
+technology gap
+
+self-correcting, science suffers
+
 There are no objective standards for the review process resulting in
 great variability among journals in the percentage and quality of
 articles accepted. This has led to a hierarchy in the status of
