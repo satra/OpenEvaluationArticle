@@ -667,7 +667,7 @@ Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
 99(4):178.\ :sup:``[d] <#cmnt4>`_`\ 
 
-Vi ́egas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
+Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
 systems, pages 575–582. ACM.
