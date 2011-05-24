@@ -42,8 +42,8 @@ necessary to replicate the results of a study. Moreover, such systems
 enable the community to encourage reviewers by acknowledging the quality
 of their contributions and preserving their efforts in a document’s
 version history. Such an interactive and open system will also promote
-timely reviews and enable rto evolve beyond the publication date. We
-demonstrate that technology currently available in open code review
+timely reviews and enable reviews to evolve beyond the publication date.
+We demonstrate that technology currently available in open code review
 systems support this framework.
 
 Keywords: distributed peer review, code review systems, open source
@@ -75,14 +75,14 @@ mistakes are addressed via retraction after disclosure or exposure by
 countering articles or letters to the editor (e.g. Chang et al., 2006).
 
 Through the review process and the scientific community's history of
-policing itself, scientists hope to achieve self-correcting method for .
+policing itself, scientists hope to achieve self-correcting method.
 
-However, a lack of objective standards for the review process results in
-great variability among journals in the percentage and quality of
-articles accepted. This has led to a hierarchy in the status of
-journals, often quantified by a journal's impact factor (Garfield,
-1955). As such, certain journal titles have overtaken the review process
-as arbiters of quality and significance of research.
+There are no obkective standards for the review process results in great
+variability among journals in the percentage and quality of articles
+accepted. This has led to a hierarchy in the status of journals, often
+quantified by a journal's impact factor (Garfield, 1955). As such,
+certain journal titles have overtaken the review process as arbiters of
+quality and significance of research.
 
 With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
