@@ -34,29 +34,16 @@ fraught with many problems that undermine the pace, validity, and
 credibility of science.
 
 Precious few reviewers work in relative isolation, in a short amount of
-time, and are getting fat and old.
+time, and are not officially acknowledged. Reviewers also rarely have
+access to the information necessary to verify a study’s reproducibility.
 
-They are scorned and excommunicated as pariahs.
-
-are not officially acknowledged and often cannot access the information
-necessary to provide credible critique.
-
-Reviewers are not officially acknowledged and often cannot access the
-information necessary to provide credible critique. They work in
-isolation, for a relatively short time, and their opinions cannot evolve
-or be commented upon.
-
-There are too few reviewers provided with too little information who go
-unacknowledged, the quality of their reviews goes unmeasured, and
-reviews take a lot of time and once submitted cannot evolve.
-
-In this article, we argue that these problems can be addressed by
-opening up the review process to include many reviewers, provide them
-with the data and software to replicate the results of a study,
-acknowledge their contributions, quantify the quality of their
-contributions, and ensure that reviews are timely and live on beyond the
-publication date. We propose to adapt approaches from current code
-review systems for software development to support article review.
+We argue that these problems can be addressed by opening up the review
+process to include many reviewers, provide them with the data and
+software to replicate the results of a study, acknowledge their
+contributions, quantify the quality of their contributions, and ensure
+that reviews are timely and live on beyond the publication date. We
+propose to adapt approaches from current code review systems for
+software development to support article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -73,13 +60,8 @@ a publish-or-perish mentality where the focus is on maximizing the
 number of publications rather than on the validity and reproducibility
 of research findings, and a decrease in the amount of information
 apportioned to each article. Peer review is the primary means of
-filtering this literature prior to publication in an effort to ensure
-quality and validity. However, the lack of objective standards for the
-review process results in great variability in the percentage and
-quality of articles accepted. This has led to a hierarchy in the status
-of journals, often quantified by a journal's impact factor (Garfield,
-1955). As such, certain journal titles have overtaken the review process
-as arbiters of quality and significance of research as well as . JB:
+filtering this rapidly growing literature prior to publication in an
+effort to ensure quality and validity.
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
@@ -100,6 +82,13 @@ Smith, 2006). Another danger to the review process, and to scientific
 articles themselves, is that they are not keeping pace with the dramatic
 advances in computing resources by which results are obtained and
 advances in media by which results are disseminated.
+
+There is also a lack of objective standards for the review process that
+results in great variability in the percentage and quality of articles
+accepted. This has led to a hierarchy in the status of journals, often
+quantified by a journal's impact factor (Garfield, 1955). As such,
+certain journal titles have overtaken the review process as arbiters of
+quality and significance of research as well as . JB:
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
