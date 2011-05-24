@@ -37,35 +37,28 @@ access to methods and materials to evaluate a study; (3) Reviewers are
 not acknowledged; (4) There is no measure of the quality of a review;
 and (5) Reviews take a lot of time, and once submitted cannot evolve. We
 propose that these problems can be resolved by making the following
-changes to the review process:
-
-Distributing reviews to many reviewers would allow each reviewer to
-focus on portions of the article that reflect the reviewer’s specialty
-or area of interest and would place less of a burden on any one
-reviewer, enabling a more comprehensive and timely review. Providing
-reviewers materials and methods to perform comprehensive evaluation
-would facilitate transparency and enable greater scrutiny by people from
-different fields using different nomenclature, leading to greater
-clarity and cross-fertilization of ideas. Acknowledging reviewers makes
-it possible to quantitatively assess reviewer contributions, which could
-lead to assessments for promotions and grants. Quantifying review
-quality could help establish the role and importance of reviewers and
-information generated during a review as well as quantitatively assess
-the importance of a submitted article. Expediting reviews and allowing
-for post-publication review by making reviews dynamic, interactive,
-conducted in real time, and continue on as a living document, can allow
-for the dialogue to continue and flourish, incrementally improving the
-scientific literature. We argue that these solutions can be addressed by
-building upon computer programming code management systems. We provide
+changes to the review process: Distributing reviews to many reviewers
+would allow each reviewer to focus on portions of the article that
+reflect the reviewer’s specialty or area of interest and would place
+less of a burden on any one reviewer, enabling a more comprehensive and
+timely review. Providing reviewers materials and methods to perform
+comprehensive evaluation would facilitate transparency and enable
+greater scrutiny by people from different fields using different
+nomenclature, leading to greater clarity and cross-fertilization of
+ideas. Acknowledging reviewers makes it possible to quantitatively
+assess reviewer contributions, which could lead to assessments for
+promotions and grants. Quantifying review quality could help establish
+the role and importance of reviewers and information generated during a
+review as well as quantitatively assess the importance of a submitted
+article. Expediting reviews and allowing for post-publication review by
+making reviews dynamic, interactive, conducted in real time, and
+continue on as a living document, can allow for the dialogue to continue
+and flourish, incrementally improving the scientific literature. We
+argue that these solutions can be addressed by building upon computer
+programming code management systems. In this article, we provide
 examples of current code review systems that offer opportunities for
 addressing the above problems, and offer suggestions for enhancing code
 review systems for article review.
-
-Moreover, such systems would enable the community to encourage reviewers
-by acknowledging the quality of their contributions and preserving their
-efforts in a document’s version history. Such an interactive and open
-system will also promote timely reviews and enable reviews to evolve
-beyond the publication date.\ :sup:``[a] <#cmnt1>`_`\  [XXOOXXOO]
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -237,7 +230,7 @@ reflect the reviewer’s specialty or area of interest, there is less
 burden placed on any one reviewer, enabling a more comprehensive and
 timely review.
 
-\ :sup:``[b] <#cmnt2>`_`\ 
+\ :sup:``[a] <#cmnt1>`_`\ 
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -252,7 +245,7 @@ article they are knowledgeable about. A third would be to conduct a
 preliminary review consisting of a limited and expedited review process
 prior to the full and open review. At different stages of such a tiered
 review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.\ :sup:``[c] <#cmnt3>`_`\ 
+editor, or commenter.\ :sup:``[b] <#cmnt2>`_`\ 
 
 Relevance of code review systems
 
@@ -672,7 +665,7 @@ quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[d] <#cmnt4>`_`\ 
+99(4):178.\ :sup:``[c] <#cmnt3>`_`\ 
 
 --------------
 
@@ -694,24 +687,7 @@ commentary from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[a] <#cmnt_ref1>`_binarybottle:
-
-Science suffers. We suffer. We conclude.
-
-that technology used in open code review systems should be adipated to
-explicate the need for the current armamenteric \_adjective\_ evil
-\_armamentarium\_. with the exception for the journal for irreproducible
-results.
-
---------------
-
-satrajit.ghosh:
-
-In this abstract, you will see that we are EXTREMELY right and they are
-VERY wrong. It will be a slow and gruelling, uphill battle, but we will
-win it in the end. fini.
-
-`[b] <#cmnt_ref2>`_jbpoline:
+`[a] <#cmnt_ref1>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -731,7 +707,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[c] <#cmnt_ref3>`_yarikoptic:
+`[b] <#cmnt_ref2>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -785,10 +761,27 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[d] <#cmnt_ref4>`_yarikoptic:
+`[c] <#cmnt_ref3>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
+
+`[d] <#cmnt_ref4>`_binarybottle:
+
+Science suffers. We suffer. We conclude.
+
+that technology used in open code review systems should be adipated to
+explicate the need for the current armamenteric \_adjective\_ evil
+\_armamentarium\_. with the exception for the journal for irreproducible
+results.
+
+--------------
+
+satrajit.ghosh:
+
+In this abstract, you will see that we are EXTREMELY right and they are
+VERY wrong. It will be a slow and gruelling, uphill battle, but we will
+win it in the end. fini.
 
 `[e] <#cmnt_ref5>`_fdo.perez:
 
