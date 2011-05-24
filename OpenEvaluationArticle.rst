@@ -34,8 +34,27 @@ with many problems that undermine the pace, validity, and credibility of
 science. Precious few reviewers work in relative isolation, in a short
 amount of time, and are not officially acknowledged. Reviewers also
 rarely have access to the information necessary to verify a study’s
-reproducibility. We argue that these problems can be addressed by
-building upon computer programming code management systems. First,
+reproducibility.
+
+We argue that these problems can be addressed by building upon computer
+programming code management systems.
+
+We propose that these problems can be resolved by undertaking the
+following
+
+1. Distribute reviews to many reviewers.
+
+2. Provide reviewers materials and methods to perform comprehensive
+evaluation.
+
+3. Acknowledge reviewers
+
+4. Quantify review quality.
+
+& metrics
+
+We argue that these solutions can be addressed by building upon computer
+programming code management systems.
 
 provide a community of reviewers interactive, real-time access to not
 only the text, but also (potentially) the data, software and scripts
