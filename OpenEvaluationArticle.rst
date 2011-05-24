@@ -534,7 +534,7 @@ measures of interest as a proxy for impact that can be derived from
 clickstream data, web usage, and number of article downloads. Other
 possibilities include measuring the activity, frequency (Figure 8),
 impact (Figure 9), and topic range of an author or reviewer or their
-contributions over time (which could Figure 7).
+contributions over time (Figure 7).
 
 It would also be possible to aggregate these metrics to assess the
 impact or importance of, for example, collaborators, coauthors,
