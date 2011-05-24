@@ -33,11 +33,12 @@ previous point in history. The current review process is, however,
 fraught with many problems that undermine the pace, validity, and
 credibility of science.
 
-They work in relative isolation, as short-order cooks, and have lost a
-lot of weight.
+Precious few reviewers work in relative isolation, in a short amount of
+time, and are getting fat and old. They are scorned and excommunicated
+as pariahs.
 
-Reviewers are not officially acknowledged and often cannot access the
-information necessary to provide credible critique.
+are not officially acknowledged and often cannot access the information
+necessary to provide credible critique.
 
 Reviewers are not officially acknowledged and often cannot access the
 information necessary to provide credible critique. They work in
