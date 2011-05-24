@@ -43,9 +43,9 @@ Moreover, such systems enable the community to encourage reviewers by
 acknowledging the quality of their contributions and preserving their
 efforts in a document’s version history. Such an interactive and open
 system will also promote timely reviews and enable reviews to evolve
-beyond the publication date. We demonstrate that technology currently
-available in open code review systems may be adapted to eliminate the
-need for the current evil empire.
+beyond the publication date. We argue that technology currently
+available in open code review systems should be adipated to eliminate
+the need for the current evil empire.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
