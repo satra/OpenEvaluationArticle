@@ -81,8 +81,9 @@ limited post-publication feedback.
 
 At the end of this review process, all that remains of the evaluation is
 where it was ultimately published providing the readership the illusion
-that it is the journal itself that is responsible for the article’s
-quality. However, we all know that, in reality, it is the reviewer
+that it is the journal alone that indicates a measure of the article’s
+quality. However, we all know that, in reality, it is the scientists and
+reviewers working behind the scenes
 
 This results in great variability among journals in the percentage and
 quality of articles accepted. This has led to a hierarchy in the status
@@ -91,10 +92,11 @@ of journals often quantified by a journal's impact factor (Garfield,
 as arbiters of quality and significance of research.
 
 Without a transparent and objective framework, journals have gained
-hierarchical stature, attracting the best reviewers, quantified by a
-journal's impact factor (Garfield, 1955). As such, certain journal
-titles have overtaken the review process as arbiters of quality and
-significance of research.
+hierarchical stature, with some attracting the best reviewers,
+
+quantified by a journal's impact factor (Garfield, 1955). As such,
+certain journal titles have overtaken the review process as arbiters of
+quality and significance of research.
 
 With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
