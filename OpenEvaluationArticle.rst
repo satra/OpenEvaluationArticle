@@ -29,17 +29,34 @@ Running title: Code review and scientific publications
 Abstract
 
 Over the last decade, scientists, institutions, publishers and funding
-agencies have made tremendous strides in the way scientific research is
-disseminated and accessed. With the advent of open-access journals as
-well as the growing availability of articles freely available online,
-scientists face an expanding volume of scientific literature. Peer
-review is the primary means of filtering/screening this literature prior
-to publication in an effort to ensure quality and validity. … determines
-what gets published and where it gets published. The current review
-process for scientific publications is, however, fraught with many
-problems that undermine the pace, validity, and credibility of science.
-A reviewer is at best weakly acknowledged, often cannot access the
-information necessary to provide credible critique and works in
+agencies have made advances in the way scientific research is
+disseminated and accessed.
+
+With the advent of
+
+open-access journals as well as the growing availability of articles
+freely available online,
+
+scientists face an expanding volume of scientific literature.
+
+Peer-reviewed scientific publications continue to be the primary
+mechanism for dissemination of scientific information and for
+establishing precedence and credit for scientific research.
+
+Peer-reviewed scientific publications continue to be the primary
+mechanism for establishing precedence and credit for scientific research
+and dissemination of scientific information in … literature.
+
+Peer-reviewed scientific publications continue to be the primary
+mechanism for dissemination of scientific information and for
+establishing precedence and credit for scientific research.
+
+Peer review is the primary means of filtering this literature prior to
+publication in an effort to ensure quality and validity. The current
+review process for scientific publications is, however, fraught with
+many problems that undermine the pace, validity, and credibility of
+science. A reviewer is at best weakly acknowledged, often cannot access
+the information necessary to provide credible critique and works in
 isolation, which does not allow his or her opinion to evolve or be
 commented upon. There are too few reviewers provided with too little
 information who go unacknowledged, the quality of their reviews goes
@@ -53,7 +70,7 @@ publication date. We propose to adapt approaches from current code
 review systems for software development to support article review.
 
 Keywords: distributed peer review, code review systems, open source
-software development
+software development, post-publication peer review
 
 Introduction
 
@@ -72,7 +89,7 @@ in the percentage and quality of articles accepted. This has led to a
 hierarchy in the status of journals, often quantified by a journal's
 impact factor (Garfield, 1955). As such, certain journal titles have
 overtaken the review process as arbiters of quality and significance of
-research. JB:
+research as well as . JB:
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
