@@ -39,35 +39,26 @@ freely available online,
 
 scientists face an expanding volume of scientific literature.
 
-Peer-reviewed scientific publications continue to be the primary
-mechanism for dissemination of scientific information and for
-establishing precedence and credit for scientific research.
-
-Peer-reviewed scientific publications continue to be the primary
-mechanism for establishing precedence and credit for scientific research
-and dissemination of scientific information in … literature.
-
-Peer-reviewed scientific publications continue to be the primary
-mechanism for dissemination of scientific information and for
-establishing precedence and credit for scientific research.
-
-Peer review is the primary means of filtering this literature prior to
-publication in an effort to ensure quality and validity. The current
-review process for scientific publications is, however, fraught with
-many problems that undermine the pace, validity, and credibility of
-science. A reviewer is at best weakly acknowledged, often cannot access
-the information necessary to provide credible critique and works in
-isolation, which does not allow his or her opinion to evolve or be
-commented upon. There are too few reviewers provided with too little
-information who go unacknowledged, the quality of their reviews goes
-unmeasured, and reviews take a lot of time and once submitted cannot
-evolve. In this article, we argue that these problems can be addressed
-by opening up the review process to include many reviewers, provide them
-with the data and software to replicate the results of a study,
-acknowledge their contributions, quantify the quality of their
-contributions, and ensure that reviews are timely and live on beyond the
-publication date. We propose to adapt approaches from current code
-review systems for software development to support article review.
+Scientific publications continue to be the primary mechanism for
+dissemination of scientific information and for establishing precedence
+and credit for scientific research. Peer review is the primary means of
+filtering this literature prior to publication in an effort to ensure
+quality and validity. The current review process for scientific
+publications is, however, fraught with many problems that undermine the
+pace, validity, and credibility of science. A reviewer is at best weakly
+acknowledged, often cannot access the information necessary to provide
+credible critique and works in isolation, which does not allow his or
+her opinion to evolve or be commented upon. There are too few reviewers
+provided with too little information who go unacknowledged, the quality
+of their reviews goes unmeasured, and reviews take a lot of time and
+once submitted cannot evolve. In this article, we argue that these
+problems can be addressed by opening up the review process to include
+many reviewers, provide them with the data and software to replicate the
+results of a study, acknowledge their contributions, quantify the
+quality of their contributions, and ensure that reviews are timely and
+live on beyond the publication date. We propose to adapt approaches from
+current code review systems for software development to support article
+review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
