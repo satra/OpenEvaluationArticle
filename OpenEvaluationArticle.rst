@@ -39,7 +39,7 @@ problems can be addressed by building upon source code management
 systems to provide a community of reviewers interactive access to not
 only the text, but also (potentially) the data, software and scripts
 necessary to replicate the results of a study. Moreover, such systems
-enable the community to acknowledge reviewers and quantify the quality
+enable the community to encourage reviewers by acknowledging the quality
 of their contributions. They ensure that the review process itself is
 preserved, is timely and has the ability to evolve beyond the
 publication date. We demonstrate that technology currently available in
@@ -72,6 +72,7 @@ reviewers' recommendations to either publish, reject or request
 revisions of the article. After publication, problems such as fraud or
 mistakes are addressed via retraction after disclosure or exposure by
 countering articles or letters to the editor (e.g. Chang et al., 2006).
+
 Through the review process and the scientific community's history of
 policing itself, science is thought to have a self-correcting character.
 
@@ -95,8 +96,6 @@ media by which results are disseminated.
 
 Thus article acceptance relies on a handful of anonymous and unpublished
 opinions
-
-Thus article acceptance is of anonymous and unpublished opinions
 
 ... placing at the gate of scientific communication an undesirable
 combination of power and secrecy.
