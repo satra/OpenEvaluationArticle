@@ -34,9 +34,10 @@ disseminated and accessed. With the advent of open-access journals as
 well as the growing availability of articles freely available online,
 scientists face an expanding volume of scientific literature. Peer
 review is the primary means of evaluating the quality and validity of
-this literature. The current review process for scientific publications
-is, however, fraught with many problems that undermine the pace,
-validity, and credibility of science. There are too few reviewers
+this literature prior to publication … determines what gets published
+and where it gets published. The current review process for scientific
+publications is, however, fraught with many problems that undermine the
+pace, validity, and credibility of science. There are too few reviewers
 provided with too little information who go unacknowledged, the quality
 of their reviews goes unmeasured, and reviews take a lot of time and
 once submitted cannot evolve. In this article, we argue that these
@@ -45,8 +46,8 @@ many reviewers, provide them with the data and software to replicate the
 results of a study, acknowledge their contributions, quantify the
 quality of their contributions, and ensure that reviews are timely and
 live on beyond the publication date. We propose that an effective means
-for implementing these changes would be to enhance current code review
-systems for software development to support article review.
+for implementing these changes would be to adopt approaches from current
+code review systems for software development to support article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development
@@ -90,14 +91,13 @@ articles themselves, is that they are not keeping pace with the dramatic
 advances in computing resources by which results are obtained and
 advances in media by which results are disseminated.
 
-In contrast, during open source software development, the typical review
-process for programs (code review) during software development is often
-open, collaborative, and interactive, engaging many participants with
-varying levels of expertise. There is a clear process by which comments
-get addressed and new code gets integrated into the main project. An
-example workflow for accepting code patches into the Google Android
-project is shown in Figure 1. Since computer programs are much more
-structured and objective than prose, it is more amenable to
+In contrast, during open source software development, the typical code
+review is open, collaborative, and interactive, engaging many
+participants with varying levels of expertise. There is a clear process
+by which comments get addressed and new code gets integrated into the
+main project. An example workflow for accepting code patches into the
+Google Android project is shown in Figure 1. Since computer programs are
+much more structured and objective than prose, it is more amenable to
 standardization and therefore to review. These code review systems also
 take advantage of some of the latest technologies and have the potential
 to be used for publication review. Despite all of these differences, the
