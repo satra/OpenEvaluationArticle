@@ -43,8 +43,9 @@ the community to encourage reviewers by acknowledging the quality of
 their contributions and preserving their efforts in a document’s version
 history. Such an interactive and open system will also promote timely
 reviews and enable reviews to evolve beyond the publication
-date.\ :sup:``[a] <#cmnt1>`_`\  It will be a slow and gruelling, uphill
-battle, but we will win it in the end. fini.
+date.\ :sup:``[a] <#cmnt1>`_`\  In this abstract, you will see that we
+are EXTREEMLY right and they are VERY wrong. It will be a slow and
+gruelling, uphill battle, but we will win it in the end. fini.
 
 Ignore the above.
 
