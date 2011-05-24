@@ -75,15 +75,16 @@ publication, problems such as fraud or mistakes are addressed via
 retraction after disclosure or exposure by countering articles or
 letters to the editor (e.g. Chang et al., 2006). Through the review
 process and the scientific community's history of policing itself,
-science is thought to have a self-correcting character. However, with
-the difficulty for individual reviewers to review the increasing number
-and complexity of articles, and the use of journal impact factors as
-proxies for evaluations of individual articles, the integrity of the
-review process, and indeed of science, suffers (Poschl and Koop, 2008;
-Smith, 2006). Another danger to the review process, and to scientific
-articles themselves, is that they are not keeping pace with the dramatic
-advances in computing resources by which results are obtained and
-advances in media by which results are disseminated.
+science is thought to have a self-correcting character.
+
+However, with the difficulty for individual reviewers to review the
+increasing number and complexity of articles, and the use of journal
+impact factors as proxies for evaluations of individual articles, the
+integrity of the review process, and indeed of science, suffers (Poschl
+and Koop, 2008; Smith, 2006). Another danger to the review process, and
+to scientific articles themselves, is that they are not keeping pace
+with the dramatic advances in computing resources by which results are
+obtained and advances in media by which results are disseminated.
 
 There is also a lack of objective standards for the review process that
 results in great variability among journals in the percentage and
