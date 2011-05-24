@@ -53,15 +53,15 @@ Introduction
 
 Scientific publications continue to be the primary mechanism for
 disseminating systematically gathered information about the natural
-world and for establishing precedence and credit for scientific
-research. In the current atmosphere of highly competitive and uncertain
-research funding, publications are instrumental in determining how
-resources are distributed, who gets promoted, and in which directions
-research advances. This has cultivated a publish-or-perish mentality
-where the focus is on maximizing the number of publications rather than
-on the validity and reproducibility of research findings, and a decrease
-in the amount of information apportioned to each article. Peer review is
-the primary means of filtering this rapidly growing literature prior to
+world and for establishing precedence and credit for this research. In
+the current atmosphere of highly competitive and uncertain research
+funding, publications are instrumental in determining how resources are
+distributed, who gets promoted, and in which directions research
+advances. This has cultivated a publish-or-perish mentality where the
+focus is on maximizing the number of publications rather than on the
+validity and reproducibility of research findings, and a decrease in the
+amount of information apportioned to each article. Peer review is the
+primary means of filtering this rapidly growing literature prior to
 publication in an effort to ensure quality and validity.
 
 Currently the typical review process for an article involves a
@@ -87,7 +87,7 @@ as arbiters of quality and significance of research.
 With the difficulty for individual reviewers to review the increasing
 number and complexity of articles, and the use of journal impact factors
 as proxies for evaluations of individual articles, the integrity of the
-review process, and indeed of science, suffers (Poschl and Koop, 2008;
+review process and indeed, of science, suffers (Poschl and Koop, 2008;
 Smith, 2006).
 
 no objective standards -> journal hierarchy
