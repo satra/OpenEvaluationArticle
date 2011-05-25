@@ -484,7 +484,7 @@ firmly establishing these communications within the dialogue and
 provenance of science, where science serves not just as a method or
 philosophy, but as a social endeavor. This could make scientific review
 and science a more welcoming community, and a more desirable career
-choice.
+choice.\ :sup:``[c] <#cmnt3>`_`\ 
 
 .. figure:: images/image00.gif
    :align: center
@@ -635,7 +635,7 @@ Acknowledgements
 
 We would like to thank Fernando Perez for his helpful comments. Arno
 Klein would like to thank Deepanjana and Ellora, as well as the NIMH for
-their support via R01 grant MH084029.\ :sup:``[c] <#cmnt3>`_`\ 
+their support via R01 grant MH084029.\ :sup:``[d] <#cmnt4>`_`\ 
 
 --------------
 
@@ -666,7 +666,7 @@ quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[d] <#cmnt4>`_`\ 
+99(4):178.\ :sup:``[e] <#cmnt5>`_`\ 
 
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
@@ -767,16 +767,21 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[c] <#cmnt_ref3>`_millman.ucb:
+`[c] <#cmnt_ref3>`_fdo.perez:
+
+this feels out of place and just like listing a 'feel good' idea,
+insufficiently developed.
+
+`[d] <#cmnt_ref4>`_millman.ucb:
 
 update at the end to include everyone
 
-`[d] <#cmnt_ref4>`_yarikoptic:
+`[e] <#cmnt_ref5>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[e] <#cmnt_ref5>`_binarybottle:
+`[f] <#cmnt_ref6>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -793,7 +798,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[g] <#cmnt_ref7>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -801,22 +806,22 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[g] <#cmnt_ref7>`_fdo.perez:
+`[h] <#cmnt_ref8>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[h] <#cmnt_ref8>`_stnava:
+`[i] <#cmnt_ref9>`_stnava:
 
 move elsewhere
 
-`[i] <#cmnt_ref9>`_binarybottle:
+`[j] <#cmnt_ref10>`_binarybottle:
 
 if and in which journal an article
 
-`[j] <#cmnt_ref10>`_kimlumbard:
+`[k] <#cmnt_ref11>`_kimlumbard:
 
 Howdy all!
 
@@ -856,25 +861,20 @@ binarybottle:
 
 thank you, kim!
 
-`[k] <#cmnt_ref11>`_fdo.perez:
+`[l] <#cmnt_ref12>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[l] <#cmnt_ref12>`_fdo.perez:
+`[m] <#cmnt_ref13>`_fdo.perez:
 
 This sentence parses really weird
 
-`[m] <#cmnt_ref13>`_fdo.perez:
+`[n] <#cmnt_ref14>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
-
-`[n] <#cmnt_ref14>`_fdo.perez:
-
-this feels out of place and just like listing a 'feel good' idea,
-insufficiently developed.
 
 `[o] <#cmnt_ref15>`_binarybottle:
 
