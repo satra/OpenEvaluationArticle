@@ -346,9 +346,12 @@ replicating the results in the future. In the long run, virtual machines
 or servers may indeed allow standardization of analysis environments and
 replication of analyses for every publication.
 
-Including data with an article will enable a reader or reviewer not only
-to evaluate the quality and specificity of the data to drill down
-through, for example, preprocessing stages of image analysis, ????
+Including data with an article enables readers and reviewers to not only
+evaluate the quality and specificity of the data used by the authors of
+a study, but potentially to drill down through, for example,
+preprocessing stages of image analysis pipeline.
+
+This
 
 Relevance of code review systems
 
