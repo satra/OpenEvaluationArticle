@@ -223,13 +223,13 @@ to clarify points, resolve ambiguities, receive open collegial advice,
 attract feedback from people well outside of the authors' disciplines,
 and situate the discussion in the larger scientific community. Reviewers
 could also focus on portions of the article that reflect their expertise
-and interests, but they would of course have the opportunity to provide
-feedback on an entire article. Furthermore, they would not be held
-responsible every aspect of the article, leaving portions that they are
-not qualified or interested in for others and their silence would not be
-mistaken for tacit approval. This will lessen burden placed on any one
-reviewer, enabling a more comprehensive, timely and scientifically
-rigorous review.
+and interests; but they would, of course, have the opportunity to
+provide feedback on an entire article. Furthermore, they would not be
+held responsible every aspect of the article, leaving portions that they
+are not qualified or interested in for others and their silence would
+not be mistaken for tacit approval. This will lessen burden placed on
+any one reviewer, enabling a more comprehensive, timely and
+scientifically rigorous review.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -622,6 +622,9 @@ but can be engaged throughout the process of research, from inception
 through planning, execution, and documentation (Butler, 2005). This
 facilitates collaborative research and also ensures that optimal
 decisions are taken at every stage in the evolution of a project.
+
+we can perform experiments to see what the most efficient and useful
+handling of this -- just like OS projects do today...
 
 In this article, we have proposed a re-design of the current peer review
 system by incorporating ideas from code review systems associated with
