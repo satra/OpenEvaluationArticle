@@ -92,16 +92,17 @@ articles or letters to the editor (e.g. Chang et al., 2006). Through
 peer review and the scientific community's history of policing itself,
 scientists hope to achieve a self-correcting process. However, this
 self-correction is currently impeded by slow, private and incremental
-reviews without objective standards and limited post-publication
-feedback. Without a transparent and objective framework, journals have
-gained a hierarchical stature, with some attracting the best authors,
-articles, and reviewers. These journals have been quantified by impact
-factors (Garfield, 1955), and as such, have overtaken the review process
-as arbiters of quality and significance of research. With the difficulty
-for individual reviewers to review the increasing number and complexity
-of articles, and the use of journal impact factors as proxies for
-evaluations of individual articles, the integrity of the review process
-and, indeed, of science suffers (Poschl and Koop, 2008; Smith, 2006).
+pre-publication reviews without objective standards and limited
+post-publication feedback. Without a transparent and objective
+framework, journals have gained a hierarchical stature, with some
+attracting the best authors, articles, and reviewers. These journals
+have been quantified by impact factors (Garfield, 1955), and as such,
+have overtaken the review process as arbiters of quality and
+significance of research. With the difficulty for individual reviewers
+to review the increasing number and complexity of articles, and the use
+of journal impact factors as proxies for evaluations of individual
+articles, the integrity of the review process and, indeed, of science
+suffers (Poschl and Koop, 2008; Smith, 2006).
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
