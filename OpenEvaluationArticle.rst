@@ -612,12 +612,17 @@ through planning, execution, and documentation (Butler, 2005). This
 facilitates collaborative research and also ensures that optimal
 decisions are taken at every stage in the evolution of a project.
 
-Our vision of the future of scientific review aims to raise the
-integrity of science by reducing bias, improving the quality and
-completeness of scientific communications, and robustness of results. We
-see hope in the model of review and communication used by open source
-software developers, which is open, collaborative, and interactive,
-engaging many participants with varying levels of expertise.
+We are gravely concerned with the current review process, and believe
+that it has compromised the integrity of science. It promotes bias,
+elitism, prolific but substandard contributions, as well as misleading
+metrics that emphasize the number of contributions in given journals
+rather than their quality. Our vision of the future of scientific review
+aims to raise the integrity of science by reducing bias, improving the
+quality and completeness of scientific communications, as well as
+increasing the reproducibility and robustness of results. We see hope in
+the model of review and communication used by open source software
+developers, which is open, collaborative, and interactive, engaging many
+participants with varying levels of expertise.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
@@ -639,7 +644,8 @@ three of these point to the problem of reviewers reaching a consensus so
 that the article could be published in a timely manner. This may be
 handled by not requiring a consensus, but instead by exploiting metrics
 that quantify the quality of the reviews and comments on these reviews
-to make a decision, as discussed earlier.
+to make a decision, as discussed earlier. --not limited to the review
+process!--
 
 we can perform experiments to see what the most efficient and useful
 handling of this -- just like OS projects do today...
