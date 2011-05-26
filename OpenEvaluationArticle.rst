@@ -176,13 +176,13 @@ factor into their evaluations for promotion and funding opportunities.
 
 4. There is no measure of the quality of a review.
 
-while there are qualitative, limited, . Currently there is no way to
-objectively quantify the quality, strength, impartiality, or expertise
-of the reviews or reviewers. Without measures associated with the
-quality of any portion of a review, the community is forced to trust the
-judgment of the editor and the journal’s impact factor as proxies for
-quality. This prevents external scrutiny and makes it impossible to
-evaluate or standardize the review process.
+Currently there is no way to objectively quantify the quality, strength,
+impartiality, or expertise of the reviews or reviewers. Without measures
+associated with the quality of any portion of a review, the community is
+forced to trust the qualitative assessment of the editor and the
+journal’s impact factor as proxies for quality. This prevents external
+scrutiny and makes it impossible to evaluate or standardize the review
+process.
 
 5. Reviews take a lot of time, and once submitted cannot evolve.
 
