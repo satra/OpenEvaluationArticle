@@ -244,7 +244,9 @@ article they are knowledgeable about. A third would be to conduct a
 preliminary review consisting of a limited and expedited review process
 prior to the full and open review. At different stages of such a tiered
 review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.\ :sup:``[a] <#cmnt1>`_`\ 
+editor, or commenter.\ :sup:``[a] <#cmnt1>`_`\  After any of these
+compromised solutions, a fully open post-publication review process
+could continue (see below).
 
 Relevance of code review systems
 
