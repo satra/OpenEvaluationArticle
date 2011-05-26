@@ -608,12 +608,14 @@ full proposal could be implemented as a part of the post-publication
 system, alongside a more traditional anonymous peer review system (e.g.,
 Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
 gain familiarity and journals gain experience with our proposed system,
-it could be refined and improved. In the long run, the review process
-need not be limited to publication, but can be engaged throughout the
-process of research, from inception through planning, execution, and
-documentation (Butler, 2005). This facilitates collaborative research
-and also ensures that optimal decisions are taken at every stage in the
-evolution of a project.
+it could be refined and improved. If our goal as scientists is to
+increase understanding of the natural world through carefully crafted
+experiments and thoughtful synthesis of data, then in the long run the
+review process should not be limited to publication, but should be
+engaged throughout the process of research, from inception through
+planning, execution, and documentation (Butler, 2005). This facilitates
+collaborative research and also ensures that optimal decisions are taken
+at every stage in the evolution of a project.
 
 We are gravely concerned with the current review process, and believe
 that it has compromised the integrity of science. It promotes bias,
