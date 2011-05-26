@@ -92,17 +92,16 @@ articles or letters to the editor (e.g. Chang et al., 2006). Through
 peer review and the scientific community's history of policing itself,
 scientists hope to achieve a self-correcting process. However, this
 self-correction is currently impeded by slow, private and incremental
-pre-publication reviews without objective standards and limited
-post-publication feedback. Without a transparent and objective
-framework, journals have gained a hierarchical stature, with some
-attracting the best authors, articles, and reviewers. These journals
-have been quantified by impact factors (Garfield, 1955), and as such,
-have overtaken the review process as arbiters of quality and
-significance of research. With the difficulty for individual reviewers
-to review the increasing number and complexity of articles, and the use
-of journal impact factors as proxies for evaluations of individual
-articles, the integrity of the review process and, indeed, of science
-suffers (Poschl and Koop, 2008; Smith, 2006).
+reviews without objective standards and limited post-publication
+feedback. Without a transparent and objective framework, journals have
+gained a hierarchical stature, with some attracting the best authors,
+articles, and reviewers. These journals have been quantified by impact
+factors (Garfield, 1955), and as such, have overtaken the review process
+as arbiters of quality and significance of research. With the difficulty
+for individual reviewers to review the increasing number and complexity
+of articles, and the use of journal impact factors as proxies for
+evaluations of individual articles, the integrity of the review process
+and, indeed, of science suffers (Poschl and Koop, 2008; Smith, 2006).
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
@@ -149,8 +148,7 @@ with, while falling silent on the rest of the article. This leads an
 editor to assume these silences are indicators of tacit approval. The
 unrealistic expectations placed on each of the reviewers, coupled with
 the delayed and sequential interactions they have with the authors and
-editors, have made the review process unnecessarily tedious, slow, and
-inefficient.
+editors, have made the review process inefficient.
 
 2. Reviewers do not have sufficient access to methods and materials to
 evaluate a study.
@@ -171,13 +169,14 @@ undermined the paper's conclusions (Chang et al., 2006).
 3. Reviewers are not acknowledged.
 
 Review is currently considered one's unpaid "duty" to maintain the
-standards and credibility of scientific research. The reviewer stands to
-gain by early exposure to relevant areas of research, while a publisher
-stands to gain financially through either publication or subscription
-fees. There is little motivation for potential reviewers to participate
-in the review process, and there is a lack of acknowledgment for their
-services that could factor into their evaluations for promotion and
-funding opportunities.
+standards and credibility of scientific research. There is little
+motivation for potential reviewers to participate in the review process,
+and there is a lack of acknowledgment for their services that could
+factor into their evaluations for promotion and funding opportunities.
+
+The reviewer stands to gain by early exposure to relevant areas of
+research, while a publisher stands to gain financially through either
+publication or subscription fees.
 
 4. There is no measure of the quality of a review.
 
@@ -633,9 +632,10 @@ ensuring a continued, evolving, public dialogue.
 
 Acknowledgements
 
-We would like to thank Fernando Perez for his helpful comments. Arno
-Klein would like to thank Deepanjana and Ellora, as well as the NIMH for
-their support via R01 grant MH084029.\ :sup:``[c] <#cmnt3>`_`\ 
+We would like to thank Fernando Perez, Yarik, JB, etc. for his helpful
+comments. Arno Klein would like to thank Deepanjana and Ellora, as well
+as the NIMH for their support via R01 grant
+MH084029.\ :sup:``[c] <#cmnt3>`_`\ 
 
 --------------
 
