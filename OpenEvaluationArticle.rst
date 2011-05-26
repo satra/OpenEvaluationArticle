@@ -221,19 +221,15 @@ benefiting from direct, dynamic, and interactive communication with the
 authors and the world of potential reviewers. This would help reviewers
 to clarify points, resolve ambiguities, receive open collegial advice,
 attract feedback from people well outside of the authors' disciplines,
-and situate the discussion in the larger scientific community.
-
-While most reviewers will naturally read the entire article, each
-reviewer can focus on portions of the article that reflect the
-reviewer’s specialty or area of interest. This will lessen burden placed
+and situate the discussion in the larger scientific community. Reviewers
+could also focus on portions of the article that reflect their expertise
+and interests, but they would of course have the opportunity to provide
+feedback on an entire article. Furthermore, they would not be held
+responsible every aspect of the article, leaving portions that they are
+not qualified or interested in for others and their silence would not be
+mistaken for unspoken approval/agreement. This will lessen burden placed
 on any one reviewer, enabling a more comprehensive, timely and
 scientifically rigorous review.
-
-While reviewers would have the opportunity to provide feedback on an
-entire article they would not be held responsible every aspect of the
-article, leaving portions that they are not
-qualified/comfortable/interested in to others. their silence would not
-be mistaken for approval/agreement.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
