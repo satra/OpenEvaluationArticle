@@ -337,28 +337,20 @@ a compact visual form which would otherwise be absent in a methods
 section (see Figure 4). Furthermore, several journals (e.g. Science -
 sciencemag.org , Proceedings of the National Academy of Sciences -
 pnas.org) are now mandating submitting all components necessary to
-reproduce the results of a study as part of article submission.
+reproduce the results (Drummond, 2009) of a study as part of article
+submission.
 
 While rerunning an entire study’s analysis might not currently be
 feasible as part of a review, simply exposing code can often help
-reviewers follow what was done and provides the possibility of
-replicating the results in the future. In the long run, virtual machines
-or servers may indeed allow standardization of analysis environments and
-replication of analyses for every publication.
-
-Providing the data necessary to reproduce the in published article
-
-Providing the data analyzed in published ar
-
-Including data with an article enables readers and reviewers to not only
-evaluate the quality, relevance, and robustness of the data used by the
-authors of a study, but also to determine if the results generalize to
-other data. Furthermore, including data allows reviewers to potentially
-drill down through the analysis steps, for example, to
-
-look at data from preprocessing stages of an image analysis pipeline to
-better understand and evaluate each stage of analysis.
-
+reviewers follow what was done and provides the possibility of reproduce
+the results in the future. In the long run, virtual machines or servers
+may indeed allow standardization of analysis environments and
+replication of analyses for every publication. Furthermore, including
+data with an article enables readers and reviewers to not only evaluate
+the quality and relevance of the data used by the authors of a study,
+but also to determine if the results generalize to other data. Providing
+the data necessary to reproduce the findings allows reviewers to
+potentially drill down through the analysis steps -- for example, to
 look at data from each preprocessing stage of an image analysis
 pipeline.
 
@@ -386,10 +378,9 @@ assist reviewers when asked to comment on submitted code.
 Enhancing code review systems for article review
 
 As stated earlier, code review systems are built for code, not for data.
-In some disciplines (such as neuroimaging) the amount of data can be
-large (on the order of terabytes). Code review systems should be coupled
-with database systems (e.g., Extensible Neuroimaging Archive Toolkit -
-XNAT - xnatcentral.org) to enable storage of such large amounts of data.
+Code review systems should be coupled with database systems (e.g.,
+Extensible Neuroimaging Archive Toolkit - XNAT - xnatcentral.org) to
+enable storage of such large amounts of data.
 
 3. Acknowledge reviewers.
 
