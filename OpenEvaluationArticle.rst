@@ -346,6 +346,10 @@ replicating the results in the future. In the long run, virtual machines
 or servers may indeed allow standardization of analysis environments and
 replication of analyses for every publication.
 
+Including data with an article will enable a reader or reviewer not only
+to evaluate the quality and specificity of the data to drill down
+through, for example, preprocessing stages of image analysis, ????
+
 Relevance of code review systems
 
 While certain journals (e.g., PLoS One, Insight Journal) require code to
@@ -371,9 +375,9 @@ Enhancing code review systems for article review
 
 As stated earlier, code review systems are built for code, not for data.
 In some disciplines (such as neuroimaging) the amount of data can be
-large (on the order of TB). Code review systems should be coupled with
-database systems (e.g., Extensible Neuroimaging Archive Toolkit - XNAT -
-xnatcentral.org) to enable storage of such large amounts of data.
+large (on the order of terabytes). Code review systems should be coupled
+with database systems (e.g., Extensible Neuroimaging Archive Toolkit -
+XNAT - xnatcentral.org) to enable storage of such large amounts of data.
 
 3. Acknowledge reviewers.
 
