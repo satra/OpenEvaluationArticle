@@ -223,18 +223,17 @@ to clarify points, resolve ambiguities, receive open collegial advice,
 attract feedback from people well outside of the authors' disciplines,
 and situate the discussion in the larger scientific community.
 
-While most reviewers will naturally read the entire article
+While most reviewers will naturally read the entire article, each
+reviewer can focus on portions of the article that reflect the
+reviewer’s specialty or area of interest. This will lessen burden placed
+on any one reviewer, enabling a more comprehensive, timely and
+scientifically rigorous review.
 
-Because each reviewer's feedback can be focused on portions of the
-article that reflect the reviewer’s specialty or area of interest, there
-is less burden placed on any one reviewer, enabling a more
-comprehensive, timely and scientifically rigorous review.
-
-While reviewers would have the opportunity to provide feedback on the
-entire article they would not be held responsible every for components
-of the article they do not or cannot review
-
-\ :sup:``[a] <#cmnt1>`_`\ 
+While reviewers would have the opportunity to provide feedback on an
+entire article they would not be held responsible every aspect of the
+article, leaving portions that they are not
+qualified/comfortable/interested in to others. their silence would not
+be mistaken for approval/agreement.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -249,7 +248,7 @@ article they are knowledgeable about. A third would be to conduct a
 preliminary review consisting of a limited and expedited review process
 prior to the full and open review. At different stages of such a tiered
 review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.\ :sup:``[b] <#cmnt2>`_`\ 
+editor, or commenter.\ :sup:``[a] <#cmnt1>`_`\ 
 
 Relevance of code review systems
 
@@ -639,7 +638,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yarik, JB, etc. for his helpful
 comments. Arno Klein would like to thank Deepanjana and Ellora, as well
 as the NIMH for their support via R01 grant
-MH084029.\ :sup:``[c] <#cmnt3>`_`\ 
+MH084029.\ :sup:``[b] <#cmnt2>`_`\ 
 
 --------------
 
@@ -670,7 +669,7 @@ quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[d] <#cmnt4>`_`\ 
+99(4):178.\ :sup:``[c] <#cmnt3>`_`\ 
 
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
@@ -697,27 +696,7 @@ commentary from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[a] <#cmnt_ref1>`_jbpoline:
-
-if each part of a paper is reviewed by an expert, this will lead to a
-very harsh review process?
-
---------------
-
-yarikoptic:
-
-moreover, reviewing parts by different people is probably applicable
-
-only for the verification of technical aspects. Quite often
-
-conceptual problems could be unraveled only after reading the full
-
-paper, thus poking at parts of the paper might be more destructive
-
-than constructive.... let me review last 3 pages of your paper and see
-how it goes ;-)
-
-`[b] <#cmnt_ref2>`_yarikoptic:
+`[a] <#cmnt_ref1>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -771,14 +750,34 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[c] <#cmnt_ref3>`_millman.ucb:
+`[b] <#cmnt_ref2>`_millman.ucb:
 
 update at the end to include everyone
 
-`[d] <#cmnt_ref4>`_yarikoptic:
+`[c] <#cmnt_ref3>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
+
+`[d] <#cmnt_ref4>`_jbpoline:
+
+if each part of a paper is reviewed by an expert, this will lead to a
+very harsh review process?
+
+--------------
+
+yarikoptic:
+
+moreover, reviewing parts by different people is probably applicable
+
+only for the verification of technical aspects. Quite often
+
+conceptual problems could be unraveled only after reading the full
+
+paper, thus poking at parts of the paper might be more destructive
+
+than constructive.... let me review last 3 pages of your paper and see
+how it goes ;-)
 
 `[e] <#cmnt_ref5>`_binarybottle:
 
