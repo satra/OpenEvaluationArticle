@@ -348,9 +348,9 @@ replication of analyses for every publication.
 
 Including data with an article enables readers and reviewers to only
 evaluate the quality, relevance, and robustness of the data used by the
-authors of a study, but
-
-the results of the study are tightly coupled to the data BUTT
+authors of a study, but also to determine generalizable the results of
+the study are or whether it is tightly coupled to this particular data
+set.
 
 potentially to drill down through, for example, preprocessing stages of
 an image analysis pipeline to better understand and evaluate each stage
