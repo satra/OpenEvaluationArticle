@@ -227,9 +227,9 @@ and interests, but they would of course have the opportunity to provide
 feedback on an entire article. Furthermore, they would not be held
 responsible every aspect of the article, leaving portions that they are
 not qualified or interested in for others and their silence would not be
-mistaken for unspoken approval/agreement. This will lessen burden placed
-on any one reviewer, enabling a more comprehensive, timely and
-scientifically rigorous review.
+mistaken for tacit approval. This will lessen burden placed on any one
+reviewer, enabling a more comprehensive, timely and scientifically
+rigorous review.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
