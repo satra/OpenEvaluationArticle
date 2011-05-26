@@ -378,9 +378,8 @@ assist reviewers when asked to comment on submitted code.
 Enhancing code review systems for article review
 
 As stated earlier, code review systems are built for code, not for data.
-Code review systems should be coupled with database systems (e.g.,
-Extensible Neuroimaging Archive Toolkit - XNAT - xnatcentral.org) to
-enable storage of such large amounts of data.
+Code review systems should be coupled with data storage systems to
+enable querying and accessing data relevant to the review.
 
 3. Acknowledge reviewers.
 
@@ -482,14 +481,15 @@ reviewers, they can choose to review only those articles and components
 of those articles that match their expertise and interests. Not only
 would these two changes make the review process more enjoyable, but they
 would expedite the review process. And there is no reason for a review
-process to end after an article has been published. The article can
-continue as a living document, where the dialogue can continue and
-flourish (see Figure 7), and references to different articles could be
-supplemented with references to the comments about these articles,
-firmly establishing these communications within the dialogue and
-provenance of science, where science serves not just as a method or
-philosophy, but as a social endeavor. This could make scientific review
-and science a more welcoming community.
+process to end after an article has been published. Under
+post-publication review, the article can continue as a living document,
+where the dialogue can evolve and flourish (see Figure 7), and
+references to different articles could be supplemented with references
+to the comments about these articles, firmly establishing these
+communications within the dialogue and provenance of science, where
+science serves not just as a method or philosophy, but as a social
+endeavor. This could make scientific review and science a more welcoming
+community.
 
 .. figure:: images/image00.gif
    :align: center
@@ -584,14 +584,33 @@ individual’s “impact” or contributions during a week-long period.
 Discussion
 
 In this article, we raise five critical problems with the current
-process for reviewing scientific articles, and argue that we could
-address all of these problems by opening up the review process to
-include many reviewers, provide them with the data and software to
-replicate a study, acknowledge their contributions, quantify the quality
-of their contributions, and ensure that reviews are timely and live on
-beyond the publication date. We propose that an effective means for
-implementing these changes would be to enhance current code review
-systems for software development to support article review.
+process for reviewing scientific articles: (1) Reviewers are expected to
+have comprehensive expertise; (2) Reviewers do not have sufficient
+access to methods and materials to evaluate a study; (3) Reviewers are
+not acknowledged; (4) There is no measure of the quality of a review;
+and (5) Reviews take a lot of time, and once submitted cannot evolve. We
+argue that we could address all of these problems via an open
+post-publication review process that engages many reviewers, provides
+them with the data and software to replicate a study, and acknowledges
+and quantifies the quality of their contributions. We propose that an
+effective means for implementing such a process would be to enhance
+current code review systems for software development to support article
+review.
+
+It may not be practical to immediately adopt the open review process
+proposed in this article and will require a change of culture that many
+researchers may resist. Some journals have already adopted aspects of
+our proposed system (e.g., Frontiers, BioMed Central, Science, PNAS,
+PLoS One). Initially, our full proposal could be implemented as a part
+of the post-publication system, alongside a more traditional anonymous
+peer review system (e.g., Atmospheric Chemistry and Physics,
+atmos-chem-phys.net). As scientists gain familiarity and journals gain
+experience with our proposed system, it could be refined and improved.
+In the long run, the review process need not be limited to publication,
+but can be engaged throughout the process of research, from inception
+through planning, execution, and documentation (Butler, 2005). This
+facilitates collaborative research and also ensures that optimal
+decisions are taken at every stage in the evolution of a project.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
@@ -614,21 +633,6 @@ that the article could be published in a timely manner. This may be
 handled by not requiring a consensus, but instead by exploiting metrics
 that quantify the quality of the reviews and comments on these reviews
 to make a decision, as discussed earlier.
-
-It may not be practical to immediately adopt the open review process
-proposed in this article and will require a change of culture that many
-researchers may resist. Some journals have already adopted aspects of
-our proposed system (e.g., Frontiers, BioMed Central, Science, PNAS,
-PLoS One). Initially, our full proposal could be implemented as a part
-of the post-publication system, alongside a more traditional anonymous
-peer review system (e.g., Atmospheric Chemistry and Physics,
-atmos-chem-phys.net). As scientists gain familiarity and journals gain
-experience with our proposed system, it could be refined and improved.
-In the long run, the review process need not be limited to publication,
-but can be engaged throughout the process of research, from inception
-through planning, execution, and documentation (Butler, 2005). This
-facilitates collaborative research and also ensures that optimal
-decisions are taken at every stage in the evolution of a project.
 
 we can perform experiments to see what the most efficient and useful
 handling of this -- just like OS projects do today...
