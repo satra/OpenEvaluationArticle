@@ -371,9 +371,9 @@ Enhancing code review systems for article review
 
 As stated earlier, code review systems are built for code, not for data.
 In some disciplines (such as neuroimaging) the amount of data can be
-large. Code review systems should be coupled with database systems
-(e.g., Extensible Neuroimaging Archive Toolkit - XNAT - xnatcentral.org)
-to enable storage of such large amounts of data.
+large (on the order of TB). Code review systems should be coupled with
+database systems (e.g., Extensible Neuroimaging Archive Toolkit - XNAT -
+xnatcentral.org) to enable storage of such large amounts of data.
 
 3. Acknowledge reviewers.
 
