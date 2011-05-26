@@ -347,13 +347,14 @@ or servers may indeed allow standardization of analysis environments and
 replication of analyses for every publication.
 
 Including data with an article enables readers and reviewers to not only
-evaluate the quality, relevance, and robustness
+evaluate the quality, relevance, and robustness of the data used by the
+authors of a study, but
 
-the results of thes
+the results of the study are tightly coupled to the data BUTT
 
-of the data used by the authors of a study, but potentially to drill
-down through, for example, preprocessing stages of an image analysis
-pipeline to better understand and evaluate each stage of analysis.
+potentially to drill down through, for example, preprocessing stages of
+an image analysis pipeline to better understand and evaluate each stage
+of analysis.
 
 Relevance of code review systems
 
