@@ -161,10 +161,11 @@ replication. This makes it impossible for a reviewer, if so inclined, to
 fully evaluate an article’s methods, data quality, or software, let
 alone to replicate the results of the study. Failing to expose the
 methods, data, and software underlying a study can lead to needless
-misdirection and inefficiency, and even loss of scientific credibility.
-One example is the case of Geoffrey Chang, whose rigorous and correct
-experimental work was later retracted due to a software bug that
-undermined the paper's conclusions (Chang et al., 2006).
+misdirection and inefficiency, and even loss of scientific credibility
+(Ioannidis, 2005). One example is the case of Geoffrey Chang, whose
+rigorous and correct experimental work was later retracted due to a
+software bug that undermined the paper's conclusions (Chang et al.,
+2006).
 
 3. Reviewers are not acknowledged.
 
@@ -601,28 +602,30 @@ It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central, Science, PNAS,
-PLoS One). Initially, our full proposal could be implemented as a part
-of the post-publication system, alongside a more traditional anonymous
-peer review system (e.g., Atmospheric Chemistry and Physics,
-atmos-chem-phys.net). As scientists gain familiarity and journals gain
-experience with our proposed system, it could be refined and improved.
-In the long run, the review process need not be limited to publication,
-but can be engaged throughout the process of research, from inception
-through planning, execution, and documentation (Butler, 2005). This
-facilitates collaborative research and also ensures that optimal
-decisions are taken at every stage in the evolution of a project.
+PLoS One; also see: http://futureofscipub.wordpress.com). Initially, our
+full proposal could be implemented as a part of the post-publication
+system, alongside a more traditional anonymous peer review system (e.g.,
+Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
+gain familiarity and journals gain experience with our proposed system,
+it could be refined and improved. In the long run, the review process
+need not be limited to publication, but can be engaged throughout the
+process of research, from inception through planning, execution, and
+documentation (Butler, 2005). This facilitates collaborative research
+and also ensures that optimal decisions are taken at every stage in the
+evolution of a project.
 
 We are gravely concerned with the current review process, and believe
 that it has compromised the integrity of science. It promotes bias,
-elitism, prolific but substandard contributions, as well as misleading
-metrics that emphasize the number of contributions in given journals
-rather than their quality. Our vision of the future of scientific review
-aims to raise the integrity of science by reducing bias, improving the
-quality and completeness of scientific communications, as well as
-increasing the reproducibility and robustness of results. We see hope in
-the model of review and communication used by open source software
-developers, which is open, collaborative, and interactive, engaging many
-participants with varying levels of expertise.
+elitism, often prolific but substandard contributions, as well as
+misleading metrics that emphasize the number of contributions in given
+journals rather than their quality. Our vision of the future of
+scientific review aims to raise the integrity of science by reducing
+bias, improving the quality and completeness of scientific
+communications, as well as increasing the reproducibility and robustness
+of results. We see hope in the model of review and communication used by
+open source software developers, which is open, collaborative, and
+interactive, engaging many participants with varying levels of
+expertise.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
@@ -679,12 +682,19 @@ Chen, A. P. (2006). Retraction. Science,
 
 314(5807):1875.
 
+Drummond, C. (2009). Replicability is not reproducibility: Nor is it
+good science. In Proceedings of the Evaluation Methods for Machine
+Learning Workshop at the 26th ICML. Citeseer.
+
 Garfield, E. (1955). Citation indexes to science: a new dimension in
 documentation through association of ideas. Science, 122(3159):108–11.
 
 Hirsch, J. (2005). An index to quantify an individual’s scientific
 research output. Proceedings of the National Academy of Sciences of the
 United States of America, 102(46):16569.
+
+Ioannidis, J. (2005). Why most published research findings are false.
+PLoS Medicine, 2(8):e124.
 
 Poschl, U. and Koop, T. (2008). Interactive open access publishing and
 collaborative peer review for improved scientific communication and
