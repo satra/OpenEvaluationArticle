@@ -224,8 +224,11 @@ attract feedback from people well outside of the authors' disciplines,
 and situate the discussion in the larger scientific community. Because
 each reviewer's feedback can be focused on portions of the article that
 reflect the reviewer’s specialty or area of interest, there is less
-burden placed on any one reviewer, enabling a more comprehensive and
-timely review.
+burden placed on any one reviewer, enabling a more comprehensive, timely
+and scientifically rigorous review.
+
+reviewer would have the opportunity to provide feedback on not held
+responsible for
 
 \ :sup:``[a] <#cmnt1>`_`\ 
 
