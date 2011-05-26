@@ -591,8 +591,8 @@ not acknowledged; (4) There is no measure of the quality of a review;
 and (5) Reviews take a lot of time, and once submitted cannot evolve. We
 argue that we could address all of these problems via an open
 post-publication review process that engages many reviewers, provides
-them with the data and software to replicate a study, and acknowledges
-and quantifies the quality of their contributions. We propose that an
+them with the data and software used in an article, and acknowledges and
+quantifies the quality of their contributions. We propose that an
 effective means for implementing such a process would be to enhance
 current code review systems for software development to support article
 review.
@@ -611,6 +611,13 @@ but can be engaged throughout the process of research, from inception
 through planning, execution, and documentation (Butler, 2005). This
 facilitates collaborative research and also ensures that optimal
 decisions are taken at every stage in the evolution of a project.
+
+Our vision of the future of scientific review aims to raise the
+integrity of science by reducing bias and improving the quality and
+completeness of scientific communications. We see hope in the model of
+review and communication used by open source software developers, which
+is open, collaborative, and interactive, engaging many participants with
+varying levels of expertise.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
