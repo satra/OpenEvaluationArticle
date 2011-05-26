@@ -101,7 +101,8 @@ as arbiters of quality and significance of research. With the difficulty
 for individual reviewers to review the increasing number and complexity
 of articles, and the use of journal impact factors as proxies for
 evaluations of individual articles, the integrity of the review process
-and, indeed, of science suffers (Poschl and Koop, 2008; Smith, 2006).
+and, indeed, of science \ :sup:``[a] <#cmnt1>`_`\ suffers (Poschl and
+Koop, 2008; Smith, 2006).
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
@@ -114,8 +115,8 @@ standardization and therefore to review. These code review systems also
 take advantage of some of the latest technologies that have the
 potential to be used for publication review. Despite all of these
 differences, the purpose of code review systems mirror the purpose of
-publication review to increase the clarity, reproducibility and
-correctness of contributions.
+publication review to increase the clarity, reproducibility
+\ :sup:``[b] <#cmnt2>`_`\ and correctness of contributions.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
@@ -337,9 +338,9 @@ workflow graph from a neuroimaging analysis captures numerous details in
 a compact visual form which would otherwise be absent in a methods
 section (see Figure 4). Furthermore, several journals (e.g. Science -
 sciencemag.org , Proceedings of the National Academy of Sciences -
-pnas.org) are now mandating submitting all components necessary to
-reproduce the results (Drummond, 2009) of a study as part of article
-submission.
+pnas.org\ :sup:``[c] <#cmnt3>`_`\ ) are now mandating submitting all
+components necessary to reproduce the results (Drummond, 2009) of a
+study as part of article submission.
 
 While rerunning an entire study’s analysis might not currently be
 feasible as part of a review, simply exposing code can often help
@@ -664,7 +665,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yarik, JB, etc. for his helpful
 comments. Arno Klein would like to thank Deepanjana and Ellora, as well
 as the NIMH for their support via R01 grant
-MH084029.\ :sup:``[a] <#cmnt1>`_`\ 
+MH084029.\ :sup:``[d] <#cmnt4>`_`\ 
 
 --------------
 
@@ -702,7 +703,7 @@ quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[b] <#cmnt2>`_`\ 
+99(4):178.\ :sup:``[e] <#cmnt5>`_`\ 
 
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
@@ -729,16 +730,16 @@ commentary from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[a] <#cmnt_ref1>`_millman.ucb:
+`[d] <#cmnt_ref4>`_millman.ucb:
 
 update at the end to include everyone
 
-`[b] <#cmnt_ref2>`_yarikoptic:
+`[e] <#cmnt_ref5>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[c] <#cmnt_ref3>`_jbpoline:
+`[f] <#cmnt_ref6>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -758,7 +759,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[d] <#cmnt_ref4>`_binarybottle:
+`[g] <#cmnt_ref7>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -775,7 +776,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[e] <#cmnt_ref5>`_fdo.perez:
+`[h] <#cmnt_ref8>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -783,22 +784,22 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[f] <#cmnt_ref6>`_fdo.perez:
+`[i] <#cmnt_ref9>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[g] <#cmnt_ref7>`_stnava:
+`[j] <#cmnt_ref10>`_stnava:
 
 move elsewhere
 
-`[h] <#cmnt_ref8>`_binarybottle:
+`[k] <#cmnt_ref11>`_binarybottle:
 
 if and in which journal an article
 
-`[i] <#cmnt_ref9>`_kimlumbard:
+`[l] <#cmnt_ref12>`_kimlumbard:
 
 Howdy all!
 
@@ -838,31 +839,31 @@ binarybottle:
 
 thank you, kim!
 
-`[j] <#cmnt_ref10>`_fdo.perez:
+`[m] <#cmnt_ref13>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[k] <#cmnt_ref11>`_fdo.perez:
+`[n] <#cmnt_ref14>`_fdo.perez:
 
 This sentence parses really weird
 
-`[l] <#cmnt_ref12>`_fdo.perez:
+`[o] <#cmnt_ref15>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[m] <#cmnt_ref13>`_fdo.perez:
+`[p] <#cmnt_ref16>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[n] <#cmnt_ref14>`_binarybottle:
+`[q] <#cmnt_ref17>`_binarybottle:
 
 and are followed up by
 
-`[o] <#cmnt_ref15>`_binarybottle:
+`[r] <#cmnt_ref18>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -873,12 +874,12 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[p] <#cmnt_ref16>`_fdo.perez:
+`[s] <#cmnt_ref19>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[q] <#cmnt_ref17>`_yarikoptic:
+`[t] <#cmnt_ref20>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -932,11 +933,11 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[r] <#cmnt_ref18>`_fdo.perez:
+`[u] <#cmnt_ref21>`_fdo.perez:
 
 ??? What is this?
 
-`[s] <#cmnt_ref19>`_fdo.perez:
+`[v] <#cmnt_ref22>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
