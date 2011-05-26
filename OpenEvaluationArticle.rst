@@ -42,23 +42,23 @@ would allow each reviewer to focus on portions of the article that
 reflect the reviewer’s specialty or area of interest and would place
 less of a burden on any one reviewer, enabling a more comprehensive and
 timely review. Providing reviewers materials and methods to perform
-comprehensive evaluation would facilitate transparency and enable
-greater scrutiny by people from different fields using different
-nomenclature, leading to greater clarity and cross-fertilization of
-ideas. Acknowledging reviewers makes it possible to quantitatively
-assess reviewer contributions, which could lead to assessments for
-promotions and grants. Quantifying review quality could help establish
-the role and importance of reviewers and information generated during a
-review as well as quantitatively assess the importance of a submitted
-article. Expediting reviews and allowing for post-publication review by
-making reviews dynamic, interactive, conducted in real time, and
-continue on as a living document, can allow for the dialogue to continue
-and flourish, incrementally improving the scientific literature. We
-argue that these solutions can be addressed by building upon computer
-programming code management systems. In this article, we provide
-examples of current code review systems that offer opportunities for
-addressing the above problems, and offer suggestions for enhancing code
-review systems for article review.
+comprehensive evaluation would facilitate transparency, replication of
+results and enable greater scrutiny by people from different fields
+using different nomenclature, leading to greater clarity and
+cross-fertilization of ideas. Acknowledging reviewers makes it possible
+to quantitatively assess reviewer contributions, which could lead to
+assessments for promotions and grants. Quantifying review quality could
+help establish the role and importance of reviewers and information
+generated during a review as well as quantitatively assess the
+importance of a submitted article. Expediting reviews and allowing for
+post-publication review by making reviews dynamic, interactive,
+conducted in real time, and continue on as a living document, can allow
+for the dialogue to continue and flourish, incrementally improving the
+scientific literature. We argue that these solutions can be addressed by
+building upon computer programming code management systems. In this
+article, we provide examples of current code review systems that offer
+opportunities for addressing the above problems, and offer suggestions
+for enhancing code review systems for article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -84,25 +84,31 @@ private review by a very small number of individuals (2 to 5, but often
 just 2) presumed to have expertise in the research
 topic.\ :sup:``[1] <#ftnt1>`_`\  The editor takes into consideration the
 reviewers' recommendations to either publish, reject or request
-revisions of the article. At the end of this review process, all that
-remains of the evaluation is where it\ :sup:``[a] <#cmnt1>`_`\  was
-ultimately published. After publication, problems such as fraud or
-mistakes are addressed via retraction after disclosure or exposure by
-countering articles or letters to the editor (e.g. Chang et al., 2006).
-Through peer review and the scientific community's history of policing
-itself, scientists hope to achieve a self-correcting process. However,
-this self-correction is currently impeded by slow and incremental
-reviews that lack openness and objective standards
-with\ :sup:``[b] <#cmnt2>`_`\  limited post-publication feedback.
-Without a transparent and objective framework, journals have gained a
-hierarchical stature, with some attracting the best authors, articles,
-and reviewers. These journals have been quantified by impact factors
-(Garfield, 1955), and as such, have overtaken the review process as
-arbiters of quality and significance of research. With the difficulty
-for individual reviewers to review the increasing number and complexity
-of articles, and the use of journal impact factors as proxies for
-evaluations of individual articles, the integrity of the review process
-and, indeed, of science suffers (Poschl and Koop, 2008; Smith, 2006).
+revisions of the article. If published, the public onl
+
+The review process culminates in an article’s rejection or publication,
+
+At the end of this review process, all that the public sees of the
+evaluation is in which journal an article was ultimately published, if
+it was published.
+
+After publication, problems such as fraud or mistakes are addressed via
+retraction after disclosure or exposure by countering articles or
+letters to the editor (e.g. Chang et al., 2006). Through peer review and
+the scientific community's history of policing itself, scientists hope
+to achieve a self-correcting process. However, this self-correction is
+currently impeded by slow and incremental reviews that lack openness and
+objective standards with\ :sup:``[a] <#cmnt1>`_`\  limited
+post-publication feedback. Without a transparent and objective
+framework, journals have gained a hierarchical stature, with some
+attracting the best authors, articles, and reviewers. These journals
+have been quantified by impact factors (Garfield, 1955), and as such,
+have overtaken the review process as arbiters of quality and
+significance of research. With the difficulty for individual reviewers
+to review the increasing number and complexity of articles, and the use
+of journal impact factors as proxies for evaluations of individual
+articles, the integrity of the review process and, indeed, of science
+suffers (Poschl and Koop, 2008; Smith, 2006).
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
@@ -231,7 +237,7 @@ reflect the reviewer’s specialty or area of interest, there is less
 burden placed on any one reviewer, enabling a more comprehensive and
 timely review.
 
-\ :sup:``[c] <#cmnt3>`_`\ 
+\ :sup:``[b] <#cmnt2>`_`\ 
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -246,7 +252,7 @@ article they are knowledgeable about. A third would be to conduct a
 preliminary review consisting of a limited and expedited review process
 prior to the full and open review. At different stages of such a tiered
 review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.\ :sup:``[d] <#cmnt4>`_`\ 
+editor, or commenter.\ :sup:``[c] <#cmnt3>`_`\ 
 
 Relevance of code review systems
 
@@ -635,7 +641,7 @@ Acknowledgements
 
 We would like to thank Fernando Perez for his helpful comments. Arno
 Klein would like to thank Deepanjana and Ellora, as well as the NIMH for
-their support via R01 grant MH084029.\ :sup:``[e] <#cmnt5>`_`\ 
+their support via R01 grant MH084029.\ :sup:``[d] <#cmnt4>`_`\ 
 
 --------------
 
@@ -666,7 +672,7 @@ quality assurance. Information Services and Use, 28(2):105–107.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[f] <#cmnt6>`_`\ 
+99(4):178.\ :sup:``[e] <#cmnt5>`_`\ 
 
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
@@ -695,13 +701,9 @@ timestamps acknowledging who performed the research.
 
 `[a] <#cmnt_ref1>`_binarybottle:
 
-if and in which journal an article
-
-`[b] <#cmnt_ref2>`_binarybottle:
-
 and are followed up by
 
-`[c] <#cmnt_ref3>`_jbpoline:
+`[b] <#cmnt_ref2>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -721,7 +723,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[d] <#cmnt_ref4>`_yarikoptic:
+`[c] <#cmnt_ref3>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -775,16 +777,16 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[e] <#cmnt_ref5>`_millman.ucb:
+`[d] <#cmnt_ref4>`_millman.ucb:
 
 update at the end to include everyone
 
-`[f] <#cmnt_ref6>`_yarikoptic:
+`[e] <#cmnt_ref5>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[g] <#cmnt_ref7>`_binarybottle:
+`[f] <#cmnt_ref6>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -801,7 +803,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[h] <#cmnt_ref8>`_fdo.perez:
+`[g] <#cmnt_ref7>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -809,16 +811,20 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[i] <#cmnt_ref9>`_fdo.perez:
+`[h] <#cmnt_ref8>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[j] <#cmnt_ref10>`_stnava:
+`[i] <#cmnt_ref9>`_stnava:
 
 move elsewhere
+
+`[j] <#cmnt_ref10>`_binarybottle:
+
+if and in which journal an article
 
 `[k] <#cmnt_ref11>`_kimlumbard:
 
