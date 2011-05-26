@@ -613,11 +613,11 @@ facilitates collaborative research and also ensures that optimal
 decisions are taken at every stage in the evolution of a project.
 
 Our vision of the future of scientific review aims to raise the
-integrity of science by reducing bias and improving the quality and
-completeness of scientific communications. We see hope in the model of
-review and communication used by open source software developers, which
-is open, collaborative, and interactive, engaging many participants with
-varying levels of expertise.
+integrity of science by reducing bias, improving the quality and
+completeness of scientific communications, and robustness of results. We
+see hope in the model of review and communication used by open source
+software developers, which is open, collaborative, and interactive,
+engaging many participants with varying levels of expertise.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
