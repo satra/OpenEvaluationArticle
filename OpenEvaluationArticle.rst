@@ -346,7 +346,7 @@ replicating the results in the future. In the long run, virtual machines
 or servers may indeed allow standardization of analysis environments and
 replication of analyses for every publication.
 
-Including data with an article enables readers and reviewers to only
+Including data with an article enables readers and reviewers to not only
 evaluate the quality, relevance, and robustness of the data used by the
 authors of a study, but also to determine generalizable the results of
 the study are or whether it is tightly coupled to this particular data
