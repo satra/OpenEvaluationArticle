@@ -101,7 +101,7 @@ as arbiters of quality and significance of research. With the difficulty
 for individual reviewers to review the increasing number and complexity
 of articles, and the use of journal impact factors as proxies for
 evaluations of individual articles, the integrity of the review process
-and, indeed, of science \ :sup:``[a] <#cmnt1>`_`\ suffers (Poschl and
+and, indeed, of science\ :sup:``[a] <#cmnt1>`_`\  suffers (Poschl and
 Koop, 2008; Smith, 2006).
 
 In contrast, during open source software development, the typical code
@@ -599,6 +599,23 @@ effective means for implementing such a process would be to enhance
 current code review systems for software development to support article
 review.
 
+The proposal to distribute reviews and to make the post-publication
+review process center around rapid iterative feedback has other
+parallels to software engineering. In particular, “agile development and
+scrum” (Schwaber and Beedle, 2001) is a technology development concept
+that focuses on development coupled with client feedback. This approach
+stems from the observation that client goals and expectations can change
+and change unpredictably. By focusing on short development cycles,
+companies adopting this practice can meet the volatility of project
+aims. In the scientific world, new discoveries and technologies create
+that volatility by providing alternative viewpoints and data acquisition
+and analyses approaches. This makes rapid dissemination and continued
+reappraisal of research in the context of this new knowledge an
+imperative. Changing the review process in ways outlined in this article
+should lead to better science by creating a discussion based environment
+to track and quantify impact, to create discourse and to refine the
+research directions that evolve from published work.
+
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
@@ -664,10 +681,10 @@ ensuring a continued, evolving, public dialogue.
 
 Acknowledgements
 
-We would like to thank Fernando Perez, Yarik, JB, etc. for his helpful
-comments. Arno Klein would like to thank Deepanjana and Ellora, as well
-as the NIMH for their support via R01 grant
-MH084029.\ :sup:``[d] <#cmnt4>`_`\ 
+We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
+Poline, Kim Lumbard etc. for their helpful comments. Arno Klein would
+like to thank Deepanjana and Ellora, as well as the NIMH for their
+support via R01 grant MH084029.\ :sup:``[d] <#cmnt4>`_`\ 
 
 --------------
 
@@ -702,6 +719,9 @@ PLoS Medicine, 2(8):e124.
 Poschl, U. and Koop, T. (2008). Interactive open access publishing and
 collaborative peer review for improved scientific communication and
 quality assurance. Information Services and Use, 28(2):105–107.
+
+Schwaber, K. and Beedle, M. (2001). Agile software development with
+scrum.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
