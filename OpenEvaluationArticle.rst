@@ -110,21 +110,22 @@ review is open, collaborative, and interactive, engaging many
 participants with varying levels of expertise. There is a clear process
 by which comments get addressed and new code gets integrated into the
 main project. An example workflow for accepting code patches into the
-Google Android project is shown in Figure 1. Since computer programs are
-much more structured and objective than prose, it is more amenable to
-standardization and therefore to review. These code review systems also
-take advantage of some of the latest technologies that have the
-potential to be used for publication review. Despite all of these
-differences, the purpose of code review systems mirror the purpose of
-publication review to increase the clarity, reproducibility
-\ :sup:``[c] <#cmnt3>`_`\ and correctness of contributions.
+Google Android project\ :sup:``[c] <#cmnt3>`_`\  is shown in Figure 1.
+Since computer programs are much more structured and objective than
+prose, it is more amenable to standardization and therefore to review.
+These code review systems also take advantage of some of the latest
+technologies that have the potential to be used for publication review.
+Despite all of these differences, the purpose of code review systems
+mirror the purpose of publication review to increase the clarity,
+reproducibility \ :sup:``[d] <#cmnt4>`_`\ and correctness of
+contributions.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
 from distributed code review in open source software development.
 
-|image0|\ :sup:``[d] <#cmnt4>`_`\ 
+|image0|\ :sup:``[e] <#cmnt5>`_`\ 
 
 Figure 1. A patch submission workflow for the Android project
 (http://source.android.com/source/life-of-a-patch.html)
@@ -174,7 +175,8 @@ Review is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. There is little
 motivation for potential reviewers to participate in the review process,
 and there is a lack of acknowledgment for their services that could
-factor into their evaluations for promotion and funding opportunities.
+factor into their evaluations for promotion and funding
+opportunities.\ :sup:``[f] <#cmnt6>`_`\ 
 
 4. There is no measure of the quality of a review.
 
@@ -198,7 +200,7 @@ those who participated, as if the work and interpretations of the
 results are sealed in a time capsule. Data, methods, analysis, and
 interpretations of the results are all a product of their time and
 context, and at a later time may not stand up to scrutiny or may yield
-new insights.
+new insights.\ :sup:``[g] <#cmnt7>`_`\ 
 
 Proposed re-design of the peer review process
 
@@ -227,11 +229,12 @@ and situate the discussion in the larger scientific community. Reviewers
 could also focus on portions of the article that reflect their expertise
 and interests; but they would, of course, have the opportunity to
 provide feedback on an entire article. Furthermore, they would not be
-held responsible every aspect of the article, leaving portions that they
-are not qualified or interested in for others and their silence would
-not be mistaken for tacit approval. This will lessen burden placed on
-any one reviewer, enabling a more comprehensive, timely and
-scientifically rigorous review.
+held responsible every\ :sup:``[h] <#cmnt8>`_`\  aspect of the article,
+leaving portions that they are not qualified or interested in for others
+and their silence would not be mistaken for tacit approval. This will
+lessen burden\ :sup:``[i] <#cmnt9>`_`\  placed on any one reviewer,
+enabling a more comprehensive, timely and scientifically rigorous
+review.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
@@ -293,7 +296,8 @@ the project.
 Figure 3. Mock-up of a modified commenting system. The left panel shows
 the annotated text from a prior revision of this article and the right
 panel shows the reviewer comments. Comments can be linked to multiple
-sections of the text and by multiple reviewers.
+sections of the text and by multiple
+reviewers.\ :sup:``[j] <#cmnt10>`_`\ 
 
 Enhancing code review systems for article review
 
@@ -338,7 +342,7 @@ workflow graph from a neuroimaging analysis captures numerous details in
 a compact visual form which would otherwise be absent in a methods
 section (see Figure 4). Furthermore, several journals (e.g. Science -
 sciencemag.org , Proceedings of the National Academy of Sciences -
-pnas.org\ :sup:``[e] <#cmnt5>`_`\ ) are now mandating submitting all
+pnas.org\ :sup:``[k] <#cmnt11>`_`\ ) are now mandating submitting all
 components necessary to reproduce the results (Drummond, 2009) of a
 study as part of article submission.
 
@@ -684,7 +688,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard etc. for their helpful comments. Arno Klein would
 like to thank Deepanjana and Ellora, as well as the NIMH for their
-support via R01 grant MH084029.\ :sup:``[f] <#cmnt6>`_`\ 
+support via R01 grant MH084029.\ :sup:``[l] <#cmnt12>`_`\ 
 
 --------------
 
@@ -729,7 +733,7 @@ and journals. Journal of the Royal Society of Medicine, 99(4):178.
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
-systems, pages 575–582. ACM.\ :sup:``[g] <#cmnt7>`_`\ 
+systems, pages 575–582. ACM.\ :sup:``[m] <#cmnt13>`_`\ 
 
 --------------
 
@@ -751,18 +755,66 @@ commentary from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[d] <#cmnt_ref4>`_eclosing:
+`[a] <#cmnt_ref1>`_esappts:
 
-I do not know Git and Repo. I would recommend making this chart as clear
-as possible by removing jargon (specific terminology). Also, I think the
-flow chart shapes could be more esthetically appealing. Right now, I
-feel like I'm looking at a business meeting slide.
+Interesting approach. A few comments:
 
-`[f] <#cmnt_ref6>`_millman.ucb:
+I loved your 'salient problem' #1. Fixing only that would be an
+invaluable improvement over the current system, as virtually everyone
+these days works as only one piece of a collaborative pool of expertise.
+Reviews should work the same way.
+
+The graphic figures (1,4,7,8,9) are more universally understandable to
+readers than examples of interactive feedback whose content is highly
+technical to a particular field (my eyes glazed over on figures 2 and 6
+- I think you can successfully capture the process with verbal
+description).
+
+Although I agreed with several of your main points, a more balanced
+approach would include some mention of the benefits of the current
+system, particularly some benefits of anonymity, which protects
+social-professional relationships from effects of the anger aroused by
+narcissistic injury when one is criticized; and anonymity may allow for
+more honesty as reviewer is not worried about professional
+repercussions. It is very possible that forced public acknowledgement of
+reviewers will reduce the number of people willing to review, as
+preparing for a higher level of scrutiny will take EVEN more time than
+reviewing does now.
+
+Salient problem #5 seems to me to be a two separate issues.
+
+`[c] <#cmnt_ref3>`_eclosing:
+
+explain what this project is and what it attempts to achieve.
+
+`[e] <#cmnt_ref5>`_eclosing:
+
+I recommend making this chart as clear as possible by removing jargon
+(specific terminology or unclear references--- Git & Repo??). Also, I
+think the flow chart shapes could be more esthetically appealing. Right
+now, I feel like I'm looking at a business meeting slide.
+
+`[f] <#cmnt_ref6>`_eclosing:
+
+and what of the issues of transparent review, including a possible
+decline in bitter vendettas anonymously thrust upon competitors? there
+are many reasons why a transparent review process might be more
+beneficial.
+
+`[g] <#cmnt_ref7>`_eclosing:
+
+I can pass along an interesting editorial from J. Neuroscience
+explaining their policy for dumping supplementary materials. relevant!
+
+`[j] <#cmnt_ref10>`_eclosing:
+
+I like the self-reflection of this figure. it's like cinema verite.
+
+`[l] <#cmnt_ref12>`_millman.ucb:
 
 update at the end to include everyone
 
-`[g] <#cmnt_ref7>`_kimlumbard:
+`[m] <#cmnt_ref13>`_kimlumbard:
 
 Howdy all!
 
@@ -802,7 +854,7 @@ binarybottle:
 
 thank you, kim!
 
-`[h] <#cmnt_ref8>`_jbpoline:
+`[n] <#cmnt_ref14>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -822,7 +874,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[i] <#cmnt_ref9>`_binarybottle:
+`[o] <#cmnt_ref15>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -839,7 +891,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[j] <#cmnt_ref10>`_fdo.perez:
+`[p] <#cmnt_ref16>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -847,46 +899,46 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[k] <#cmnt_ref11>`_fdo.perez:
+`[q] <#cmnt_ref17>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[l] <#cmnt_ref12>`_stnava:
+`[r] <#cmnt_ref18>`_stnava:
 
 move elsewhere
 
-`[m] <#cmnt_ref13>`_binarybottle:
+`[s] <#cmnt_ref19>`_binarybottle:
 
 if and in which journal an article
 
-`[n] <#cmnt_ref14>`_fdo.perez:
+`[t] <#cmnt_ref20>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[o] <#cmnt_ref15>`_fdo.perez:
+`[u] <#cmnt_ref21>`_fdo.perez:
 
 This sentence parses really weird
 
-`[p] <#cmnt_ref16>`_fdo.perez:
+`[v] <#cmnt_ref22>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[q] <#cmnt_ref17>`_fdo.perez:
+`[w] <#cmnt_ref23>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[r] <#cmnt_ref18>`_binarybottle:
+`[x] <#cmnt_ref24>`_binarybottle:
 
 and are followed up by
 
-`[s] <#cmnt_ref19>`_binarybottle:
+`[y] <#cmnt_ref25>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -897,12 +949,12 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[t] <#cmnt_ref20>`_fdo.perez:
+`[z] <#cmnt_ref26>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[u] <#cmnt_ref21>`_yarikoptic:
+`[aa] <#cmnt_ref27>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -956,11 +1008,11 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[v] <#cmnt_ref22>`_fdo.perez:
+`[ab] <#cmnt_ref28>`_fdo.perez:
 
 ??? What is this?
 
-`[w] <#cmnt_ref23>`_fdo.perez:
+`[ac] <#cmnt_ref29>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
