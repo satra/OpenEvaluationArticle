@@ -461,9 +461,9 @@ is typically not quantified.
    :alt: 
 Figure 6. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
-received. There are comments to the response itself and the number next
-to the comments reflects the number of positive votes for the
-comment.\ :sup:``[p] <#cmnt16>`_`\ 
+received. There are comments to the response itself and the numbers next
+to the comments reflect the number of positive votes for the
+comments.\ :sup:``[p] <#cmnt16>`_`\ 
 
 Enhancing code review systems for article review
 
