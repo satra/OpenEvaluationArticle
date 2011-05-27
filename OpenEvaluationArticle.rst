@@ -710,7 +710,7 @@ and journals. Journal of the Royal Society of Medicine,
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
-systems, pages 575–582. ACM.
+systems, pages 575–582. ACM.\ :sup:``[f] <#cmnt6>`_`\ 
 
 --------------
 
@@ -741,67 +741,7 @@ update at the end to include everyone
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[f] <#cmnt_ref6>`_jbpoline:
-
-if each part of a paper is reviewed by an expert, this will lead to a
-very harsh review process?
-
---------------
-
-yarikoptic:
-
-moreover, reviewing parts by different people is probably applicable
-
-only for the verification of technical aspects. Quite often
-
-conceptual problems could be unraveled only after reading the full
-
-paper, thus poking at parts of the paper might be more destructive
-
-than constructive.... let me review last 3 pages of your paper and see
-how it goes ;-)
-
-`[g] <#cmnt_ref7>`_binarybottle:
-
-Science suffers. We suffer. We conclude.
-
-that technology used in open code review systems should be adipated to
-explicate the need for the current armamenteric \_adjective\_ evil
-\_armamentarium\_. with the exception for the journal for irreproducible
-results.
-
---------------
-
-satrajit.ghosh:
-
-In this abstract, you will see that we are EXTREMELY right and they are
-VERY wrong. It will be a slow and gruelling, uphill battle, but we will
-win it in the end. fini.
-
-`[h] <#cmnt_ref8>`_fdo.perez:
-
-the issue of positive results bias is a very important (and widely
-studied) one, but it's really a little separate from the title of this
-section, and I think it's a distraction to conflate it here. The title
-of the section starts talking about one thing, and then the text goes
-off in a different direction.
-
-`[i] <#cmnt_ref9>`_fdo.perez:
-
-While I understand where you come from and agree with the idea, it may
-sound a bit over the top to put "the integrity of science" in question
-right up front. I think a statement that strong should perhaps be
-reached after some more elaboration... Just a thought.
-
-`[j] <#cmnt_ref10>`_stnava:
-
-move elsewhere
-
-`[k] <#cmnt_ref11>`_binarybottle:
-
-if and in which journal an article
-
-`[l] <#cmnt_ref12>`_kimlumbard:
+`[f] <#cmnt_ref6>`_kimlumbard:
 
 Howdy all!
 
@@ -840,6 +780,66 @@ Bon chance!
 binarybottle:
 
 thank you, kim!
+
+`[g] <#cmnt_ref7>`_jbpoline:
+
+if each part of a paper is reviewed by an expert, this will lead to a
+very harsh review process?
+
+--------------
+
+yarikoptic:
+
+moreover, reviewing parts by different people is probably applicable
+
+only for the verification of technical aspects. Quite often
+
+conceptual problems could be unraveled only after reading the full
+
+paper, thus poking at parts of the paper might be more destructive
+
+than constructive.... let me review last 3 pages of your paper and see
+how it goes ;-)
+
+`[h] <#cmnt_ref8>`_binarybottle:
+
+Science suffers. We suffer. We conclude.
+
+that technology used in open code review systems should be adipated to
+explicate the need for the current armamenteric \_adjective\_ evil
+\_armamentarium\_. with the exception for the journal for irreproducible
+results.
+
+--------------
+
+satrajit.ghosh:
+
+In this abstract, you will see that we are EXTREMELY right and they are
+VERY wrong. It will be a slow and gruelling, uphill battle, but we will
+win it in the end. fini.
+
+`[i] <#cmnt_ref9>`_fdo.perez:
+
+the issue of positive results bias is a very important (and widely
+studied) one, but it's really a little separate from the title of this
+section, and I think it's a distraction to conflate it here. The title
+of the section starts talking about one thing, and then the text goes
+off in a different direction.
+
+`[j] <#cmnt_ref10>`_fdo.perez:
+
+While I understand where you come from and agree with the idea, it may
+sound a bit over the top to put "the integrity of science" in question
+right up front. I think a statement that strong should perhaps be
+reached after some more elaboration... Just a thought.
+
+`[k] <#cmnt_ref11>`_stnava:
+
+move elsewhere
+
+`[l] <#cmnt_ref12>`_binarybottle:
+
+if and in which journal an article
 
 `[m] <#cmnt_ref13>`_fdo.perez:
 
