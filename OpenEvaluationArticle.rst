@@ -34,32 +34,33 @@ scientific results. The current peer-review process is, however, fraught
 with many problems that undermine the pace, validity, and credibility of
 science. We highlight five salient problems: (1) Reviewers are expected
 to have comprehensive expertise; (2) Reviewers do not have sufficient
-access to methods and materials to evaluate a study; (3) Reviewers are
-not acknowledged; (4) There is no measure of the quality of a review;
-and (5) Reviews take a lot of time, and once submitted cannot evolve. We
-propose that these problems can be resolved by making the following
-changes to the review process. Distributing reviews to many reviewers
-would allow each reviewer to focus on portions of the article that
-reflect the reviewer’s specialty or area of interest and would place
-less of a burden on any one reviewer, enabling a more comprehensive and
-timely review. Providing reviewers materials and methods to perform
-comprehensive evaluation would facilitate transparency, replication of
-results and enable greater scrutiny by people from different fields
-using different nomenclature, leading to greater clarity and
-cross-fertilization of ideas. Acknowledging reviewers makes it possible
-to quantitatively assess reviewer contributions, which could lead to
-assessments for promotions and grants. Quantifying review quality could
-help establish the role and importance of reviewers and information
-generated during a review as well as quantitatively assess the
-importance of a submitted article. Expediting reviews and allowing for
-post-publication review by making reviews dynamic, interactive,
-conducted in real time, and continue on as a living document, can allow
-for the dialogue to continue and flourish, incrementally improving the
-scientific literature. We argue that these solutions can be addressed by
-building upon computer programming code management systems. In this
-article, we provide examples of current code review systems that offer
-opportunities for addressing the above problems, and offer suggestions
-for enhancing code review systems for article review.
+access to methods and materials to evaluate a
+study;\ :sup:``[b] <#cmnt2>`_`\  (3) Reviewers are not acknowledged; (4)
+There is no measure of the quality of a review; and (5) Reviews take a
+lot of time, and once submitted cannot evolve. We propose that these
+problems can be resolved by making the following changes to the review
+process. Distributing reviews to many reviewers would allow each
+reviewer to focus on portions of the article that reflect the reviewer’s
+specialty or area of interest and would place less of a burden on any
+one reviewer, enabling a more comprehensive and timely review. Providing
+reviewers materials and methods to perform comprehensive evaluation
+would facilitate transparency, replication of results and enable greater
+scrutiny by people from different fields using different nomenclature,
+leading to greater clarity and cross-fertilization of ideas.
+Acknowledging reviewers makes it possible to quantitatively assess
+reviewer contributions, which could lead to assessments for promotions
+and grants. Quantifying review quality could help establish the role and
+importance of reviewers and information generated during a review as
+well as quantitatively assess the importance of a submitted article.
+Expediting reviews and allowing for post-publication review by making
+reviews dynamic, interactive, conducted in real time, and continue on as
+a living document, can allow for the dialogue to continue and flourish,
+incrementally improving the scientific literature. We argue that these
+solutions can be addressed by building upon computer programming code
+management systems. In this article, we provide examples of current code
+review systems that offer opportunities for addressing the above
+problems, and offer suggestions for enhancing code review systems for
+article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -102,7 +103,7 @@ as arbiters of quality and significance of research. With the difficulty
 for individual reviewers to review the increasing number and complexity
 of articles, and the use of journal impact factors as proxies for
 evaluations of individual articles, the integrity of the review process
-and, indeed, of science\ :sup:``[b] <#cmnt2>`_`\  suffers (Poschl and
+and, indeed, of science\ :sup:``[c] <#cmnt3>`_`\  suffers (Poschl and
 Koop, 2008; Smith, 2006).
 
 In contrast, during open source software development, the typical code
@@ -117,7 +118,7 @@ take advantage of some of the latest technologies that have the
 potential to be used for publication review. Despite all of these
 differences, the purpose of code review systems mirror the purpose of
 publication review to increase the clarity, reproducibility
-\ :sup:``[c] <#cmnt3>`_`\ and correctness of contributions.
+\ :sup:``[d] <#cmnt4>`_`\ and correctness of contributions.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
@@ -339,7 +340,7 @@ workflow graph from a neuroimaging analysis captures numerous details in
 a compact visual form which would otherwise be absent in a methods
 section (see Figure 4). Furthermore, several journals (e.g. Science -
 sciencemag.org , Proceedings of the National Academy of Sciences -
-pnas.org\ :sup:``[d] <#cmnt4>`_`\ ) are now mandating submitting all
+pnas.org\ :sup:``[e] <#cmnt5>`_`\ ) are now mandating submitting all
 components necessary to reproduce the results (Drummond, 2009) of a
 study as part of article submission.
 
@@ -685,7 +686,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard etc. for their helpful comments. Arno Klein would
 like to thank Deepanjana and Ellora, as well as the NIMH for their
-support via R01 grant MH084029.\ :sup:``[e] <#cmnt5>`_`\ 
+support via R01 grant MH084029.\ :sup:``[f] <#cmnt6>`_`\ 
 
 --------------
 
@@ -726,12 +727,12 @@ scrum.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[f] <#cmnt6>`_`\ 
+99(4):178.\ :sup:``[g] <#cmnt7>`_`\ 
 
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
-systems, pages 575–582. ACM.\ :sup:``[g] <#cmnt7>`_`\ 
+systems, pages 575–582. ACM.\ :sup:``[h] <#cmnt8>`_`\ 
 
 --------------
 
@@ -753,16 +754,20 @@ commentary from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[e] <#cmnt_ref5>`_millman.ucb:
+`[b] <#cmnt_ref2>`_eclosing:
+
+this seems to fall within problem #1
+
+`[f] <#cmnt_ref6>`_millman.ucb:
 
 update at the end to include everyone
 
-`[f] <#cmnt_ref6>`_yarikoptic:
+`[g] <#cmnt_ref7>`_yarikoptic:
 
 Although not a publication per se but imho worth mentioning:
 http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
-`[g] <#cmnt_ref7>`_kimlumbard:
+`[h] <#cmnt_ref8>`_kimlumbard:
 
 Howdy all!
 
@@ -802,7 +807,7 @@ binarybottle:
 
 thank you, kim!
 
-`[h] <#cmnt_ref8>`_jbpoline:
+`[i] <#cmnt_ref9>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -822,7 +827,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[i] <#cmnt_ref9>`_binarybottle:
+`[j] <#cmnt_ref10>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -839,7 +844,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[j] <#cmnt_ref10>`_fdo.perez:
+`[k] <#cmnt_ref11>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -847,20 +852,16 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[k] <#cmnt_ref11>`_fdo.perez:
+`[l] <#cmnt_ref12>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[l] <#cmnt_ref12>`_stnava:
+`[m] <#cmnt_ref13>`_stnava:
 
 move elsewhere
-
-`[m] <#cmnt_ref13>`_eclosing:
-
-this seems to fall within problem #1
 
 `[n] <#cmnt_ref14>`_binarybottle:
 
