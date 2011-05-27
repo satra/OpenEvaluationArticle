@@ -857,35 +857,39 @@ reached after some more elaboration... Just a thought.
 
 move elsewhere
 
-`[l] <#cmnt_ref12>`_binarybottle:
+`[l] <#cmnt_ref12>`_eclosing:
+
+this seems to fall within problem #1
+
+`[m] <#cmnt_ref13>`_binarybottle:
 
 if and in which journal an article
 
-`[m] <#cmnt_ref13>`_fdo.perez:
+`[n] <#cmnt_ref14>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[n] <#cmnt_ref14>`_fdo.perez:
+`[o] <#cmnt_ref15>`_fdo.perez:
 
 This sentence parses really weird
 
-`[o] <#cmnt_ref15>`_fdo.perez:
+`[p] <#cmnt_ref16>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[p] <#cmnt_ref16>`_fdo.perez:
+`[q] <#cmnt_ref17>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[q] <#cmnt_ref17>`_binarybottle:
+`[r] <#cmnt_ref18>`_binarybottle:
 
 and are followed up by
 
-`[r] <#cmnt_ref18>`_binarybottle:
+`[s] <#cmnt_ref19>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -896,12 +900,12 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[s] <#cmnt_ref19>`_fdo.perez:
+`[t] <#cmnt_ref20>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[t] <#cmnt_ref20>`_yarikoptic:
+`[u] <#cmnt_ref21>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -955,11 +959,11 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[u] <#cmnt_ref21>`_fdo.perez:
+`[v] <#cmnt_ref22>`_fdo.perez:
 
 ??? What is this?
 
-`[v] <#cmnt_ref22>`_fdo.perez:
+`[w] <#cmnt_ref23>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
