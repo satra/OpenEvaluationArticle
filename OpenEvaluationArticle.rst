@@ -124,9 +124,8 @@ in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
 from distributed code review in open source software development.
 
-.. figure:: images/image07.png
-   :align: center
-   :alt: 
+|image0|\ :sup:``[d] <#cmnt4>`_`\ 
+
 Figure 1. A patch submission workflow for the Android project
 (http://source.android.com/source/life-of-a-patch.html)
 
@@ -339,7 +338,7 @@ workflow graph from a neuroimaging analysis captures numerous details in
 a compact visual form which would otherwise be absent in a methods
 section (see Figure 4). Furthermore, several journals (e.g. Science -
 sciencemag.org , Proceedings of the National Academy of Sciences -
-pnas.org\ :sup:``[d] <#cmnt4>`_`\ ) are now mandating submitting all
+pnas.org\ :sup:``[e] <#cmnt5>`_`\ ) are now mandating submitting all
 components necessary to reproduce the results (Drummond, 2009) of a
 study as part of article submission.
 
@@ -685,7 +684,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard etc. for their helpful comments. Arno Klein would
 like to thank Deepanjana and Ellora, as well as the NIMH for their
-support via R01 grant MH084029.\ :sup:``[e] <#cmnt5>`_`\ 
+support via R01 grant MH084029.\ :sup:``[f] <#cmnt6>`_`\ 
 
 --------------
 
@@ -725,8 +724,7 @@ Schwaber, K. and Beedle, M. (2001). Agile software development with
 scrum.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
-and journals. Journal of the Royal Society of Medicine,
-99(4):178.\ :sup:``[f] <#cmnt6>`_`\ 
+and journals. Journal of the Royal Society of Medicine, 99(4):178.
 
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
@@ -753,14 +751,16 @@ commentary from the community.
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
-`[e] <#cmnt_ref5>`_millman.ucb:
+`[d] <#cmnt_ref4>`_eclosing:
+
+I do not know Git and Repo. I would recommend making this chart as clear
+as possible by removing jargon (specific terminology). Also, I think the
+flow chart shapes could be more esthetically appealing. Right now, I
+feel like I'm looking at a business meeting slide.
+
+`[f] <#cmnt_ref6>`_millman.ucb:
 
 update at the end to include everyone
-
-`[f] <#cmnt_ref6>`_yarikoptic:
-
-Although not a publication per se but imho worth mentioning:
-http://futureofscipub.wordpress.com/ from Nikolaus Kriegeskorte
 
 `[g] <#cmnt_ref7>`_kimlumbard:
 
@@ -964,3 +964,5 @@ everyone time.
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
+
+.. |image0| image:: images/image07.png
