@@ -462,7 +462,8 @@ is typically not quantified.
 Figure 6. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the number next
-to the comments reflects the number of positive votes for the comment.
+to the comments reflects the number of positive votes for the
+comment.\ :sup:``[p] <#cmnt16>`_`\ 
 
 Enhancing code review systems for article review
 
@@ -493,9 +494,9 @@ where the dialogue can evolve and flourish (see Figure 7), and
 references to different articles could be supplemented with references
 to the comments about these articles, firmly establishing these
 communications within the dialogue and provenance of science, where
-science serves not just as a method or philosophy, but as a social
-endeavor. This could make scientific review and science a more welcoming
-community.
+science serves not just as a method or
+philosophy\ :sup:``[q] <#cmnt17>`_`\ , but as a social endeavor. This
+could make scientific review and science a more welcoming community.
 
 .. figure:: images/image00.gif
    :align: center
@@ -504,7 +505,7 @@ Figure 7. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+(\ :sup:``[r] <#cmnt18>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
 Víegas, F. et al., 2004).
 
 Relevance of code review systems
@@ -542,10 +543,10 @@ obvious measure assigned by a community, but it is simplistic and vague.
 In addition to slow and direct measures of impact such as the number of
 times an article is cited, there are faster, indirect behavioral
 measures of interest as a proxy for impact that can be derived from
-clickstream data, web usage, and number of article downloads. Other
-possibilities include measuring the activity, frequency (Figure 8),
-impact (Figure 9), and topic range of an author or reviewer or their
-contributions over time (Figure 7).
+clickstream\ :sup:``[s] <#cmnt19>`_`\  data, web usage, and number of
+article downloads. Other possibilities include measuring the activity,
+frequency (Figure 8), impact (Figure 9), and topic range of an author or
+reviewer or their contributions over time (Figure 7).
 
 It would also be possible to aggregate these metrics to assess the
 impact or importance of, for example, collaborators, coauthors,
@@ -585,7 +586,8 @@ Figure 9. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
 individual contributor and the width of a colored ribbon represents that
-individual’s “impact” or contributions during a week-long period.
+individual’s “impact” or contributions during a week-long
+period.\ :sup:``[t] <#cmnt20>`_`\ 
 
 Discussion
 
@@ -688,7 +690,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard etc. for their helpful comments. Arno Klein would
 like to thank Deepanjana and Ellora, as well as the NIMH for their
-support via R01 grant MH084029.\ :sup:``[p] <#cmnt16>`_`\ 
+support via R01 grant MH084029.\ :sup:``[u] <#cmnt21>`_`\ 
 
 --------------
 
@@ -733,7 +735,7 @@ and journals. Journal of the Royal Society of Medicine, 99(4):178.
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
-systems, pages 575–582. ACM.\ :sup:``[q] <#cmnt17>`_`\ 
+systems, pages 575–582. ACM.\ :sup:``[v] <#cmnt22>`_`\ 
 
 --------------
 
@@ -837,11 +839,27 @@ would effect a reviewer's ability to assess methods.
 I assume that internet quacks and bullies could be blocked, or their
 comments limited in some way by an editor or website overseer?
 
-`[p] <#cmnt_ref16>`_millman.ucb:
+`[p] <#cmnt_ref16>`_eclosing:
+
+hmm. this voting rubs me the wrong way. I could sway my ignorant cronies
+to anonymously vote for anything. scientists with unpopular ideas (often
+the case for something revolutionary) would be voted down and voted out.
+
+`[q] <#cmnt_ref17>`_eclosing:
+
+fascinating. I love the idea of scientific review being synonymous with
+social networking.
+
+`[s] <#cmnt_ref19>`_eclosing:
+
+I check out a lot of crap that I don't agree with. clicking may not be
+the metric of choice.
+
+`[u] <#cmnt_ref21>`_millman.ucb:
 
 update at the end to include everyone
 
-`[q] <#cmnt_ref17>`_kimlumbard:
+`[v] <#cmnt_ref22>`_kimlumbard:
 
 Howdy all!
 
@@ -881,7 +899,7 @@ binarybottle:
 
 thank you, kim!
 
-`[r] <#cmnt_ref18>`_jbpoline:
+`[w] <#cmnt_ref23>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -901,7 +919,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[s] <#cmnt_ref19>`_binarybottle:
+`[x] <#cmnt_ref24>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -918,7 +936,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[t] <#cmnt_ref20>`_fdo.perez:
+`[y] <#cmnt_ref25>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -926,46 +944,46 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[u] <#cmnt_ref21>`_fdo.perez:
+`[z] <#cmnt_ref26>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[v] <#cmnt_ref22>`_stnava:
+`[aa] <#cmnt_ref27>`_stnava:
 
 move elsewhere
 
-`[w] <#cmnt_ref23>`_binarybottle:
+`[ab] <#cmnt_ref28>`_binarybottle:
 
 if and in which journal an article
 
-`[x] <#cmnt_ref24>`_fdo.perez:
+`[ac] <#cmnt_ref29>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[y] <#cmnt_ref25>`_fdo.perez:
+`[ad] <#cmnt_ref30>`_fdo.perez:
 
 This sentence parses really weird
 
-`[z] <#cmnt_ref26>`_fdo.perez:
+`[ae] <#cmnt_ref31>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[aa] <#cmnt_ref27>`_fdo.perez:
+`[af] <#cmnt_ref32>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[ab] <#cmnt_ref28>`_binarybottle:
+`[ag] <#cmnt_ref33>`_binarybottle:
 
 and are followed up by
 
-`[ac] <#cmnt_ref29>`_binarybottle:
+`[ah] <#cmnt_ref34>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -976,16 +994,16 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[ad] <#cmnt_ref30>`_fdo.perez:
+`[ai] <#cmnt_ref35>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[ae] <#cmnt_ref31>`_fdo.perez:
+`[aj] <#cmnt_ref36>`_fdo.perez:
 
 ??? What is this?
 
-`[af] <#cmnt_ref32>`_yarikoptic:
+`[ak] <#cmnt_ref37>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -1039,7 +1057,7 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[ag] <#cmnt_ref33>`_fdo.perez:
+`[al] <#cmnt_ref38>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
