@@ -589,7 +589,7 @@ individual contributor and the width of a colored ribbon represents that
 individual’s “impact” or contributions during a week-long
 period.\ :sup:``[t] <#cmnt20>`_`\ 
 
-Discussion
+Discussion\ :sup:``[u] <#cmnt21>`_`\ 
 
 In this article, we raise five critical problems with the current
 process for reviewing scientific articles: (1) Reviewers are expected to
@@ -689,8 +689,9 @@ Acknowledgements
 
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard etc. for their helpful comments. Arno Klein would
-like to thank Deepanjana and Ellora, as well as the NIMH for their
-support via R01 grant MH084029.\ :sup:``[u] <#cmnt21>`_`\ 
+like to thank Deepanjana and Ellora,\ :sup:``[v] <#cmnt22>`_`\  as well
+as the NIMH for their support via R01 grant
+MH084029.\ :sup:``[w] <#cmnt23>`_`\ 
 
 --------------
 
@@ -735,7 +736,7 @@ and journals. Journal of the Royal Society of Medicine, 99(4):178.
 Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
-systems, pages 575–582. ACM.\ :sup:``[v] <#cmnt22>`_`\ 
+systems, pages 575–582. ACM.\ :sup:``[x] <#cmnt24>`_`\ 
 
 --------------
 
@@ -862,11 +863,22 @@ social networking.
 I check out a lot of crap that I don't agree with. clicking may not be
 the metric of choice.
 
-`[u] <#cmnt_ref21>`_millman.ucb:
+`[u] <#cmnt_ref21>`_eclosing:
+
+Fascinating contribution, this article. One vexing problem that I don't
+see a solution to, is who is the arbiter of correct edits? I would like
+to promote a process in which the paper lives on and does not stagnate
+in a "time capsule," but I would also like to be able to cite a work, a
+product, and not go through 5,000 comments to figure out who's right and
+what points are most sound. I believe this is where peer-reviewed
+science, although presently slow, occasionally does a good job of
+self-correction.
+
+`[w] <#cmnt_ref23>`_millman.ucb:
 
 update at the end to include everyone
 
-`[v] <#cmnt_ref22>`_kimlumbard:
+`[x] <#cmnt_ref24>`_kimlumbard:
 
 Howdy all!
 
@@ -906,7 +918,7 @@ binarybottle:
 
 thank you, kim!
 
-`[w] <#cmnt_ref23>`_jbpoline:
+`[y] <#cmnt_ref25>`_jbpoline:
 
 if each part of a paper is reviewed by an expert, this will lead to a
 very harsh review process?
@@ -926,7 +938,7 @@ paper, thus poking at parts of the paper might be more destructive
 than constructive.... let me review last 3 pages of your paper and see
 how it goes ;-)
 
-`[x] <#cmnt_ref24>`_binarybottle:
+`[z] <#cmnt_ref26>`_binarybottle:
 
 Science suffers. We suffer. We conclude.
 
@@ -943,7 +955,7 @@ In this abstract, you will see that we are EXTREMELY right and they are
 VERY wrong. It will be a slow and gruelling, uphill battle, but we will
 win it in the end. fini.
 
-`[y] <#cmnt_ref25>`_fdo.perez:
+`[aa] <#cmnt_ref27>`_fdo.perez:
 
 the issue of positive results bias is a very important (and widely
 studied) one, but it's really a little separate from the title of this
@@ -951,57 +963,46 @@ section, and I think it's a distraction to conflate it here. The title
 of the section starts talking about one thing, and then the text goes
 off in a different direction.
 
-`[z] <#cmnt_ref26>`_fdo.perez:
+`[ab] <#cmnt_ref28>`_fdo.perez:
 
 While I understand where you come from and agree with the idea, it may
 sound a bit over the top to put "the integrity of science" in question
 right up front. I think a statement that strong should perhaps be
 reached after some more elaboration... Just a thought.
 
-`[aa] <#cmnt_ref27>`_stnava:
+`[ac] <#cmnt_ref29>`_stnava:
 
 move elsewhere
 
-`[ab] <#cmnt_ref28>`_binarybottle:
+`[ad] <#cmnt_ref30>`_binarybottle:
 
 if and in which journal an article
 
-`[ac] <#cmnt_ref29>`_eclosing:
-
-Fascinating contribution, this article. One vexing problem that I don't
-see a solution to, is who is the arbiter of correct edits? I would like
-to promote a process in which the paper lives on and does not stagnate
-in a "time capsule," but I would also like to be able to cite a work, a
-product, and not go through 5,000 comments to figure out who's right and
-what points are most sound. I believe this is where peer-reviewed
-science, although presently slow, occasionally does a good job of
-self-correction.
-
-`[ad] <#cmnt_ref30>`_fdo.perez:
+`[ae] <#cmnt_ref31>`_fdo.perez:
 
 Frontiers has this already in its editorial policy
 
-`[ae] <#cmnt_ref31>`_fdo.perez:
+`[af] <#cmnt_ref32>`_fdo.perez:
 
 This sentence parses really weird
 
-`[af] <#cmnt_ref32>`_fdo.perez:
+`[ag] <#cmnt_ref33>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[ag] <#cmnt_ref33>`_fdo.perez:
+`[ah] <#cmnt_ref34>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[ah] <#cmnt_ref34>`_binarybottle:
+`[ai] <#cmnt_ref35>`_binarybottle:
 
 and are followed up by
 
-`[ai] <#cmnt_ref35>`_binarybottle:
+`[aj] <#cmnt_ref36>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -1012,16 +1013,16 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[aj] <#cmnt_ref36>`_fdo.perez:
+`[ak] <#cmnt_ref37>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[ak] <#cmnt_ref37>`_fdo.perez:
+`[al] <#cmnt_ref38>`_fdo.perez:
 
 ??? What is this?
 
-`[al] <#cmnt_ref38>`_yarikoptic:
+`[am] <#cmnt_ref39>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -1075,7 +1076,7 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[am] <#cmnt_ref39>`_fdo.perez:
+`[an] <#cmnt_ref40>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
