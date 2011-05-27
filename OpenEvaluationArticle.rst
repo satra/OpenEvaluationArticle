@@ -462,8 +462,8 @@ is typically not quantified.
 Figure 6. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
-to the comments reflect the number of positive votes for the
-comments.\ :sup:``[p] <#cmnt16>`_`\ 
+to the comments reflect the number of positive votes for each
+comment.\ :sup:``[p] <#cmnt16>`_`\ 
 
 Enhancing code review systems for article review
 
@@ -785,6 +785,13 @@ reviewing does now.
 
 Salient problem #5 seems to me to be a two separate issues.
 
+--------------
+
+eclosing:
+
+My eyes glazed over the same 2 figures for the same reason. toss in fig
+4 as well.
+
 `[c] <#cmnt_ref3>`_eclosing:
 
 explain what this project is and what it attempts to achieve.
@@ -959,31 +966,42 @@ move elsewhere
 
 if and in which journal an article
 
-`[ac] <#cmnt_ref29>`_fdo.perez:
+`[ac] <#cmnt_ref29>`_eclosing:
 
-Frontiers has this already in its editorial policy
+Fascinating contribution, this article. One vexing problem that I don't
+see a solution to, is who is the arbiter of correct edits? I would like
+to promote a process in which the paper lives on and does not stagnate
+in a "time capsule," but I would also like to be able to cite a work, a
+product, and not go through 5,000 comments to figure out who's right and
+what points are most sound. I believe this is where peer-reviewed
+science, although presently slow, occasionally does a good job of
+self-correction.
 
 `[ad] <#cmnt_ref30>`_fdo.perez:
 
-This sentence parses really weird
+Frontiers has this already in its editorial policy
 
 `[ae] <#cmnt_ref31>`_fdo.perez:
+
+This sentence parses really weird
+
+`[af] <#cmnt_ref32>`_fdo.perez:
 
 Be careful with how this argument is constructed. Above you point out
 the detrimental effects of the crazy focus on all kinds of publication
 impact metrics, yet here you seem to be arguing for similar metrics in
 the review process...
 
-`[af] <#cmnt_ref32>`_fdo.perez:
+`[ag] <#cmnt_ref33>`_fdo.perez:
 
 this feels out of place and just like listing a 'feel good' idea,
 insufficiently developed.
 
-`[ag] <#cmnt_ref33>`_binarybottle:
+`[ah] <#cmnt_ref34>`_binarybottle:
 
 and are followed up by
 
-`[ah] <#cmnt_ref34>`_binarybottle:
+`[ai] <#cmnt_ref35>`_binarybottle:
 
 if this article is about the review process, a separate section on
 reproducible research seems out of place. perhaps we should say
@@ -994,16 +1012,16 @@ provide a unit-test-like framework to replicate a study, but we could
 evaluate the reproducibility of the work in a given article to indicate
 how far one could take a review, from comment to re-run the study!
 
-`[ai] <#cmnt_ref35>`_fdo.perez:
+`[aj] <#cmnt_ref36>`_fdo.perez:
 
 While this is important, I think it's a bit of low-level technical
 minutiae, out of place when you are discussing larger scope issues
 
-`[aj] <#cmnt_ref36>`_fdo.perez:
+`[ak] <#cmnt_ref37>`_fdo.perez:
 
 ??? What is this?
 
-`[ak] <#cmnt_ref37>`_yarikoptic:
+`[al] <#cmnt_ref38>`_yarikoptic:
 
 I think that all 3 suggested strategies are just refinements for the
 
@@ -1057,7 +1075,7 @@ gets accepted at the initial step, and then reviewed once; thus saving
 
 everyone time.
 
-`[al] <#cmnt_ref38>`_fdo.perez:
+`[am] <#cmnt_ref39>`_fdo.perez:
 
 Don't engage in solution proposals here, since you're so far just
 statinng the various problems...
