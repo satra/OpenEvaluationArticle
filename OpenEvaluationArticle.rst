@@ -592,24 +592,15 @@ period.\ :sup:``[u] <#cmnt21>`_`\
 
 Discussion\ :sup:``[v] <#cmnt22>`_`\ 
 
-The review process is extremely complex. When one reviews a paper, there
-are considerations of content, relevance, presentation,
+The current review process is extremely complex rife with social
+context. When one reviews a paper, there are considerations of content,
+relevance, presentation, validity, as well as readership.
 
-clarity, lucidity, completeness, coherence, non-triviality, timeliness,
-novelty, sufficient citations,
-
-validity, as well as readership.
-
-The code parallel might also be helpful here, insofar as code has
-ancillary metrics of format and correctness.
-
-Last but not least, your statements about "compromising the integrity of
-science" are perhaps too strong, because they are inaccurate. There are
-branches of science where frequent incremental publication is the
-optimal distribution of information; quantity does not preclude quality.
-Moreover, science is a human endeavor rife with social context. As such,
-bias, elitism, etc. can also be part of a desirable self-focusing
-feedback cycle.
+There are branches of science where frequent incremental publication is
+the optimal distribution of information; quantity does not preclude
+quality. Moreover, science is a human endeavor rife with social context.
+As such, bias, elitism, etc. can also be part of a desirable
+self-focusing feedback cycle.
 
 Our vision of the future of scientific review aims to raise the
 integrity of science by reducing bias, improving the quality and
