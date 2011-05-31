@@ -691,6 +691,13 @@ that garner overwhelming feedback, it could make it impossible to
 extract relevant, interesting and constructive criticism. While social
 technologies (stackoverflow and mathoverflow)
 
+facebook
+
+have had a profound impact on people’s interactions, their comment
+histories and threads still consist of a primarily linear, chronological
+sequence of unfiltered text. The examples of stackoverflow and
+mathoverflow attemp
+
 we could best deliver the information by: assigning certain reviewers as
 moderators for different components of the article, restricting the
 number of reviewers to those solicited from a pool of experts, or
