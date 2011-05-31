@@ -639,7 +639,8 @@ It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist. Some journals have already adopted aspects of
 our proposed system (e.g., Frontiers, BioMed Central, Science, PNAS,
-PLoS One; also see: http://futureofscipub.wordpress.com). Initially, our
+PLoS One) and these problems and solutions have been discussed in
+scientific blogs (http://futureofscipub.wordpress.com). Initially, our
 full proposal could be implemented as a part of the post-publication
 system, alongside a more traditional anonymous peer review system (e.g.,
 Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
@@ -689,6 +690,17 @@ washed out by the efforts of numerous reviewers. To respond to
 overwhelming critical feedback, we could adopt the compromises mentioned
 above, where for example, a limited number of reviewers could moderate
 or curate the reviewer feedback.
+
+assign certain reviewers as moderators for different components of the
+article, to lessen the burden on the editor. A second would be to
+restrict the number of reviewers to those solicited from a pool of
+experts. This would still improve scientific rigor while lessening the
+burden on each individual reviewer, as long as they review specific
+components of the article they are knowledgeable about. A third would be
+to conduct a preliminary review consisting of a limited and expedited
+review process prior to the full and open review as we propose. At
+different stages of such a tiered review, reviewers might be assigned
+different roles, such as mediator, editor, or commenter.
 
 Rather than expect a consensus, metrics would quantify the quality of
 the reviews to help make a decision about publication of the article.
