@@ -75,9 +75,14 @@ distributed, who gets promoted, and in which directions research
 advances. This has cultivated a publish-or-perish mentality where the
 focus is on maximizing the number of publications rather than on the
 validity and reproducibility of research findings, and a decrease in the
-amount of information apportioned to each article. Peer review is the
-primary means of filtering this rapidly growing literature prior to
-publication in an effort to ensure quality and validity.
+amount of information apportioned to each article. However, there are
+branches of science where frequent incremental publication is a
+preferable distribution of information; quantity does not preclude
+quality.
+
+Peer review is the primary means of filtering this rapidly growing
+literature prior to publication in an effort to ensure quality and
+validity.
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
@@ -592,15 +597,14 @@ period.\ :sup:``[u] <#cmnt21>`_`\
 
 Discussion\ :sup:``[v] <#cmnt22>`_`\ 
 
-The current review process is extremely complex rife with social
-context. When one reviews a paper, there are considerations of content,
-relevance, presentation, validity, as well as readership.
+The current review process is extremely complex, reflecting the demands
+of academia and its social context. When one reviews a paper, there are
+considerations of content, relevance, presentation, validity, as well as
+readership.
 
 There are branches of science where frequent incremental publication is
 the optimal distribution of information; quantity does not preclude
-quality. Moreover, science is a human endeavor rife with social context.
-As such, bias, elitism, etc. can also be part of a desirable
-self-focusing feedback cycle.
+quality.
 
 Our vision of the future of scientific review aims to raise the
 integrity of science by reducing bias, improving the quality and
