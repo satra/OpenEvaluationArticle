@@ -593,8 +593,12 @@ period.\ :sup:``[u] <#cmnt21>`_`\
 Discussion\ :sup:``[v] <#cmnt22>`_`\ 
 
 The review process is extremely complex. When one reviews a paper, there
-are considerations of content, correctness, relevance, presentation,
-culture, and audience.
+are considerations of content, relevance, presentation,
+
+clarity, lucidity, completeness, coherence, non-triviality, timeliness,
+novelty, sufficient citations,
+
+validity, as well as readership.
 
 The code parallel might also be helpful here, insofar as code has
 ancillary metrics of format and correctness.
