@@ -663,30 +663,35 @@ efficient, it exposed technological as well as sociological limitations.
 With regard to technological limitations, we were unable to go back and
 forth between the two software environments because their respective
 version control and comment histories do not integrate. To this end, we
-created a custom version-controlled open-access repository of this
+created a custom, version-controlled, open-access repository of this
 article on GitHub (github.com/satra/OpenEvaluationArticle) using
 open-source tools (e.g., pandoc) and open programming interfaces to
-Google Docs . Other technical challenges that have yet to be met include
+Google Docs. Other technical challenges that have yet to be met include
 those mentioned in the “Enhancing code review systems for article
 review” subsections above: current code review systems are optimized for
 well-structured text as opposed to less structured prose or for data;
-they do not include quantitative assessment of the quality of reviews
-and the contributions of reviewers; and they are not visually intuitive
-for a non-programmer to understand or navigate.
+they do not include quantitative assessment of the quality of reviews or
+the contributions of reviewers; and they are not visually intuitive for
+a non-programmer to understand or navigate.
 
 With regard to sociological limitations, we did not announce the article
-to the entire scientific community for feedback but to a small number of
-peers. We assumed that the reviewers did not have selfish motives or
+to the entire scientific community for feedback, but instead solicited
+feedback from a small number of peers during the writing of the article.
+We assumed that the reviewers did not have selfish motives or
 egotistical attitudes that affected their reviews. We reached a
-consensus on most issues, resulting in a very rapid process of writing
-and reviewing, without conflicts or deadlock. We made decisions on
-remaining issues without seeking approval from all other reviewers. Had
-we solicited many more reviewers, we could have experienced more of the
-real-world challenges of such an open review system. When implemented on
-a large scale, we expect that a few selfish motives would be washed out
-by the individual efforts of numerous reviewers. Rather than expect a
-consensus, metrics would quantify the quality of the reviews and
-comments on these reviews to make a decision (as discussed earlier).
+consensus on most of the reviewers’ issues, resulting in a very rapid
+process of writing and reviewing, without conflicts or deadlock. Had we
+solicited many more reviewers and engaged in an iterative reviewer
+feedback cycle, we could have experienced more of the real-world
+challenges of such an open review system. When implemented on a large
+scale, we expect that individual bias and selfish motives would be
+washed out by the efforts of numerous reviewers. To respond to an
+overwhelming critical feedback, we co
+
+Rather than expect a consensus, metrics would quantify the quality of
+the reviews to help make a decision about publication of the article.
+
+(as discussed earlier).
 
 All three of these point to the problem of reviewers reaching a
 consensus so that the article could be published in a timely manner.
