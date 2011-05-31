@@ -479,6 +479,9 @@ to vote on the quality or importance of a question, of a response, or of
 a comment. Figure 6 shows a screenshot of the response from a registered
 member to a question submitted to Stack Overflow, where 299 indicates
 the number of votes received for the response from registered members.
+In our proposed review system, such a vote tally would be associated
+with identified, registered reviewers, and would be only one of several
+measures of the quality of reviews (and reviews of reviews).
 
 5. Expedite reviews and allow for post-publication review.
 
