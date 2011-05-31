@@ -663,16 +663,14 @@ efficient, it exposed technological as well as sociological limitations.
 With regard to technological limitations, we were unable to go back and
 forth between the two software environments because we would not be able
 to make use of their respective version control and comment histories.
-To this end,
-
-Indeed, with the availability of opensource tools (e.g., pandoc) and
-open programming interfaces to Google Docs, we were quickly able to meld
-GitHub’s code review environment and Google’s collaborative document
-editing platform in a version-controlled open-access repository on
-GitHub (github.com/satra/OpenEvaluationArticle).
-
-current code review systems are optimized for well-structured text, not
-for less structured prose or for data, and do not include quantitative
+To this end, we created a custom version-controlled open-access
+repository on GitHub using open-source tools (e.g., pandoc) and open
+programming interfaces to Google Docs
+(github.com/satra/OpenEvaluationArticle). Other technical challenges
+that have yet to be met include those mentioned in the “Enhancing code
+review systems for article review” subsections above: current code
+review systems are optimized for well-structured text as opposed to less
+structured prose or for data; they do not include quantitative
 assessment of the quality of reviews and the contributions of reviewers,
 and are not visually intuitive for a non-programmer to quickly navigate.
 
