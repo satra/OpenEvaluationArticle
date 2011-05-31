@@ -689,49 +689,26 @@ scale, we expect that individual bias and selfish motives would be
 washed out by the efforts of numerous reviewers. For published articles
 that garner overwhelming feedback, it could make it impossible to
 extract relevant, interesting and constructive criticism. While social
-technologies (stackoverflow and mathoverflow)
+technologies such as Facebook and blogs have had a profound impact on
+people’s interactions, their comment histories and threads still consist
+of a primarily linear, chronological sequence of unfiltered text. The
+discussion interfaces of stackoverflow and mathoverflow attempt to
+organize and prioritize such information (using voting metrics), but do
+so in a manner that is not familiar to a general readership.
 
-facebook
-
-have had a profound impact on people’s interactions, their comment
-histories and threads still consist of a primarily linear, chronological
-sequence of unfiltered text. The examples of stackoverflow and
-mathoverflow attemp
-
-we could best deliver the information by: assigning certain reviewers as
-moderators for different components of the article, restricting the
-number of reviewers to those solicited from a pool of experts, or
-conducting a preliminary review consisting of a limited and expedited
-review process prior to the full and open review as we propose.
-
-SPAM!
-
-Rather than expect a consensus, metrics would quantify the quality of
-the reviews to help make a decision about publication of the article.
-
-All three of these point to the problem of reviewers reaching a
-consensus so that the article could be published in a timely manner.
-This may be handled by not requiring a consensus, but instead by
-exploiting metrics that quantify the quality of the reviews and comments
-on these reviews to make a decision, as discussed earlier. --not limited
-to the review process!--
-
-we can perform experiments to see what the most efficient and useful
-handling of this -- just like OS projects do today...
-
-In this article, we have proposed a re-design of the current peer review
-system by incorporating ideas from code review systems associated with
-open source software development. Such a system should enable an
-unbiased, comprehensive, and efficient review of scientific work while
-ensuring a continued, evolving, public dialogue.
+We have proposed a re-design of the current peer review system by
+incorporating ideas from code review systems associated with open source
+software development. Such a system should enable an unbiased,
+comprehensive, and efficient review of scientific work while ensuring a
+continued, evolving, public dialogue.
 
 Acknowledgements
 
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
-Poline, Kim Lumbard etc. for their helpful comments. Arno Klein would
-like to thank Deepanjana and Ellora,\ :sup:``[w] <#cmnt23>`_`\  as well
-as the NIMH for their support via R01 grant
-MH084029.\ :sup:``[x] <#cmnt24>`_`\ 
+Poline, Kim Lumbard, Barrett Klein, etc. for their helpful comments.
+Arno Klein would like to thank Deepanjana and
+Ellora,\ :sup:``[w] <#cmnt23>`_`\  as well as the NIMH for their support
+via R01 grant MH084029.\ :sup:``[x] <#cmnt24>`_`\ 
 
 --------------
 
