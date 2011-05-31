@@ -126,8 +126,10 @@ from distributed code review in open source software development.
 .. figure:: images/image07.png
    :align: center
    :alt: 
-Figure 1. A patch submission workflow for the Android project
-(http://source.android.com/source/life-of-a-patch.html)
+Figure 1. A patch submission workflow created by the developers of the
+Android project (http://source.android.com/source/life-of-a-patch.html).
+This flowchart illustrates the iterative processes and loops that exist
+in such a workflow.
 
 Problems with current peer-review process
 
