@@ -639,12 +639,10 @@ It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
 researchers may resist.
 
-There is a common sentiment that reviewer anonymity has the following
-advantages: it protects social-professional relationships from anger
-aroused by criticism, it may allow for more honesty as reviewer is not
-worried about professional repercussions, and that the forced public
-acknowledgement of reviewers will reduce the number of people willing to
-review,
+There is a common sentiment that reviewer anonymity is advantageous,
+that it: protects social-professional relationships from anger aroused
+by criticism, allows for greater honesty since there is no concern about
+repercussions, and increases participation.
 
 Some journals have already adopted aspects of our proposed system (e.g.,
 Frontiers, BioMed Central, Science, PNAS, PLoS One) and these problems
