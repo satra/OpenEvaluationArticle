@@ -686,7 +686,9 @@ feedback cycle, we could have experienced more of the real-world
 challenges of such an open review system. When implemented on a large
 scale, we expect that individual bias and selfish motives would be
 washed out by the efforts of numerous reviewers. To respond to
-overwhelming critical feedback, we coul
+overwhelming critical feedback, we could adopt the compromises mentioned
+above, where for example, a limited number of reviewers could moderate
+or curate the reviewer feedback.
 
 Rather than expect a consensus, metrics would quantify the quality of
 the reviews to help make a decision about publication of the article.
