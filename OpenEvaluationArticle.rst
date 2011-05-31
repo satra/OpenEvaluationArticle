@@ -642,23 +642,26 @@ anonymity is advantageous, that it: protects social-professional
 relationships from anger aroused by criticism, allows for greater
 honesty since there is no concern about repercussions, and increases
 participation. This sentiment may be relevant for reviews of articles
-prior to publication, but post-publication reviewer anonymity is less
-relevant. , especially. Some journals have already adopted aspects of
-our proposed system (e.g., Frontiers, BioMed Central, Science, PNAS,
-PLoS One) and these problems and solutions have been discussed in
-scientific blogs (http://futureofscipub.wordpress.com). Initially, our
-full proposal could be implemented as a part of the post-publication
-system, alongside a more traditional anonymous peer review system (e.g.,
-Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
-gain familiarity and journals gain experience with our proposed system,
-it could be refined and improved. If our goal as scientists is to
-increase understanding of the natural world through carefully crafted
-experiments and thoughtful analysis and interpretation of data, then in
-the long run the review process should not be limited to publication,
-but should be engaged throughout the process of research, from inception
-through planning, execution, and documentation (Butler, 2005). This
-facilitates collaborative research and also ensures that optimal
-decisions are taken at every stage in the evolution of a project.
+prior to publication, but a post-publication review process that is
+focused on scientific rigour, open discours, reviewer anonymity is less
+relevant.
+
+Some journals have already adopted aspects of our proposed system (e.g.,
+Frontiers, BioMed Central, Science, PNAS, PLoS One) and these problems
+and solutions have been discussed in scientific blogs
+(http://futureofscipub.wordpress.com). Initially, our full proposal
+could be implemented as a part of the post-publication system, alongside
+a more traditional anonymous peer review system (e.g., Atmospheric
+Chemistry and Physics, atmos-chem-phys.net). As scientists gain
+familiarity and journals gain experience with our proposed system, it
+could be refined and improved. If our goal as scientists is to increase
+understanding of the natural world through carefully crafted experiments
+and thoughtful analysis and interpretation of data, then in the long run
+the review process should not be limited to publication, but should be
+engaged throughout the process of research, from inception through
+planning, execution, and documentation (Butler, 2005). This facilitates
+collaborative research and also ensures that optimal decisions are taken
+at every stage in the evolution of a project.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
