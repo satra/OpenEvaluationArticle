@@ -634,10 +634,10 @@ this new knowledge an imperative.
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, including rapid
 dissemination and reappraisal, adopting the process will require a
-change of culture that many researchers may resist. There is a common
-sentiment that reviewer anonymity is advantageous, that it: protects
-social-professional relationships from anger aroused by criticism,
-allows for greater honesty since there is no concern about
+change of culture that many researchers may resist. In particular, there
+is a common sentiment that reviewer anonymity is advantageous, that it:
+protects social-professional relationships from anger aroused by
+criticism, allows for greater honesty since there is no concern about
 repercussions, and increases participation. This sentiment may be
 relevant for reviews of articles prior to publication, but in our
 proposed post-publication review process that is focused on improving
@@ -695,26 +695,6 @@ organize and prioritize such information (using voting metrics), but do
 so in a manner that is not familiar to a general readership. We hope to
 learn from and improve upon these specialized interfaces to filter and
 highlight useful and relevant feedback.
-
-It may not be practical to immediately adopt the open review process
-proposed in this article and will require a change of culture that many
-researchers may resist. There is a common sentiment that reviewer
-anonymity is advantageous, that it: protects social-professional
-relationships from anger aroused by criticism, allows for greater
-honesty since there is no concern about repercussions, and increases
-participation. This sentiment may be relevant for reviews of articles
-prior to publication, but in our proposed post-publication review
-process that is focused on improving scientific rigor and embracing open
-discourse, reviewer anonymity is less relevant. Some journals have
-already adopted aspects of our proposed system (e.g., Frontiers, BioMed
-Central, Science, PNAS, PLoS One) and these problems and solutions have
-been discussed in scientific blogs
-(http://futureofscipub.wordpress.com). Initially, our full proposal
-could be implemented as a part of the post-publication system, alongside
-a more traditional anonymous peer review system (e.g., Atmospheric
-Chemistry and Physics, atmos-chem-phys.net). As scientists gain
-familiarity and journals gain experience with our proposed system, it
-could be refined and improved.
 
 Changing the review process in ways outlined in this article should lead
 to better science by creating a discussion-based environment to track
