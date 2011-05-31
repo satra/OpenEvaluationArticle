@@ -687,12 +687,15 @@ feedback cycle, we could have experienced more of the real-world
 challenges of such an open review system. When implemented on a large
 scale, we expect that individual bias and selfish motives would be
 washed out by the efforts of numerous reviewers. For published articles
-that garner overwhelming feedback, we could best deliver the information
-by: assigning certain reviewers as moderators for different components
-of the article, restricting the number of reviewers to those solicited
-from a pool of experts, or conducting a preliminary review consisting of
-a limited and expedited review process prior to the full and open review
-as we propose.
+that garner overwhelming feedback, it could make it impossible to
+extract relevant, interesting and constructive criticism. While social
+technologies (stackoverflow and mathoverflow)
+
+we could best deliver the information by: assigning certain reviewers as
+moderators for different components of the article, restricting the
+number of reviewers to those solicited from a pool of experts, or
+conducting a preliminary review consisting of a limited and expedited
+review process prior to the full and open review as we propose.
 
 SPAM!
 
