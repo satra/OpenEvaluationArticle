@@ -685,8 +685,8 @@ solicited many more reviewers and engaged in an iterative reviewer
 feedback cycle, we could have experienced more of the real-world
 challenges of such an open review system. When implemented on a large
 scale, we expect that individual bias and selfish motives would be
-washed out by the efforts of numerous reviewers. To respond to an
-overwhelming critical feedback, we co
+washed out by the efforts of numerous reviewers. To respond to
+overwhelming critical feedback, we coul
 
 Rather than expect a consensus, metrics would quantify the quality of
 the reviews to help make a decision about publication of the article.
