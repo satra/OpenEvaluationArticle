@@ -657,23 +657,31 @@ The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 initially via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). We found the collaborative editing and reviewing
-through the use of these tools to be enjoyable and efficient, while
-exposing some of the above-mentioned limitations of code review systems
-for use in article review. Had we solicited many more reviewers, we
-could have experienced more of the real-world challenges of such an open
-review system. First, as in the content of this article, we assumed that
-the reviewers did not have selfish motives or egotistical attitudes that
-affected their reviews. Second, the authors reached a consensus on most
-issues, resulting in a very rapid process of writing and reviewing,
-without conflicts or deadlock. Third, the authors made decisions on
-remaining issues without seeking approval from all other reviewers.
+(docs.google.com).
+
+We found the collaborative editing and reviewing through the use of
+these tools to be enjoyable and efficient, while exposing technological
+as well as sociological limitations. With regard to technology, some of
+the above-mentioned limitations of code review systems for use in
+article review....
+
+With regard to sociological limitations
+
+Had we solicited many more reviewers, we could have experienced more of
+the real-world challenges of such an open review system.
+
+First, as in the content of this article, we assumed that the reviewers
+did not have selfish motives or egotistical attitudes that affected
+their reviews. Second, the authors reached a consensus on most issues,
+resulting in a very rapid process of writing and reviewing, without
+conflicts or deadlock. Third, the authors made decisions on remaining
+issues without seeking approval from all other reviewers.
 
 When implemented on a large scale, we expect that a few selfish motives
 would be washed out by the individual efforts of numerous reviewers.
 Rather than expect a consensus, metrics would quantify the quality of
 the reviews and comments on these reviews to make a decision (as
-discussed earlier), and .
+discussed earlier).
 
 All three of these point to the problem of reviewers reaching a
 consensus so that the article could be published in a timely manner.
