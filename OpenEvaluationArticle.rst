@@ -495,7 +495,8 @@ process to end after an article has been published. Under
 post-publication review, the article can continue as a living document,
 where the dialogue can evolve and flourish (see Figure 7), and
 references to different articles could be supplemented with references
-to the comments about these articles, firmly establishing these
+to the comments about these articles, perhaps as Digital Object
+Identifiers (http://www.doi.org/), firmly establishing these
 communications within the dialogue and provenance of science, where
 science serves not just as a method or philosophy, but as a social
 endeavor. This could make scientific review and science a more welcoming
@@ -647,12 +648,19 @@ scientific rigor and embracing open discourse, reviewer anonymity is
 less relevant. Some journals have already adopted aspects of our
 proposed system (e.g., Frontiers, BioMed Central, Science, PNAS, PLoS
 One) and these problems and solutions have been discussed in scientific
-blogs (http://futureofscipub.wordpress.com). Initially, our full
-proposal could be implemented as a part of the post-publication system,
-alongside a more traditional anonymous peer review system (e.g.,
-Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
-gain familiarity and journals gain experience with our proposed system,
-it could be refined and improved.
+blogs (http://futureofscipub.wordpress.com). Additionally, in the domain
+of particle physics, ArXiv.org,
+
+In particle physics (where it was born) arguably papers are published in
+journals only for CV/professional advancement purposes. All real debate,
+and in practice all review, happens at the ArXiV. in the form of a
+back-and-forth of preprints.
+
+Initially, our full proposal could be implemented as a part of the
+post-publication system, alongside a more traditional anonymous peer
+review system (e.g., Atmospheric Chemistry and Physics,
+atmos-chem-phys.net). As scientists gain familiarity and journals gain
+experience with our proposed system, it could be refined and improved.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
