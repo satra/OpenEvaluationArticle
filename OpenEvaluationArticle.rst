@@ -654,6 +654,13 @@ through planning, execution, and documentation (Butler, 2005). This
 facilitates collaborative research and also ensures that optimal
 decisions are taken at every stage in the evolution of a project.
 
+There is a common sentiment that reviewer anonymity has the following
+advantages: it protects social-professional relationships from anger
+aroused by criticism and may allow for more honesty as reviewer is not
+worried about professional repercussions, and that the forced public
+acknowledgement of reviewers will reduce the number of people willing to
+review,
+
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 initially via GitHub, followed by dynamic, interactive, real-time
