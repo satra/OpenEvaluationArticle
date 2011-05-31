@@ -648,19 +648,12 @@ scientific rigor and embracing open discourse, reviewer anonymity is
 less relevant. Some journals have already adopted aspects of our
 proposed system (e.g., Frontiers, BioMed Central, Science, PNAS, PLoS
 One) and these problems and solutions have been discussed in scientific
-blogs (http://futureofscipub.wordpress.com). Additionally, in the domain
-of particle physics, ArXiv.org,
-
-In particle physics (where it was born) arguably papers are published in
-journals only for CV/professional advancement purposes. All real debate,
-and in practice all review, happens at the ArXiV. in the form of a
-back-and-forth of preprints.
-
-Initially, our full proposal could be implemented as a part of the
-post-publication system, alongside a more traditional anonymous peer
-review system (e.g., Atmospheric Chemistry and Physics,
-atmos-chem-phys.net). As scientists gain familiarity and journals gain
-experience with our proposed system, it could be refined and improved.
+blogs (http://futureofscipub.wordpress.com). Initially, our full
+proposal could be implemented as a part of the post-publication system,
+alongside a more traditional anonymous peer review system (e.g.,
+Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
+gain familiarity and journals gain experience with our proposed system,
+it could be refined and improved.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
