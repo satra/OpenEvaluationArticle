@@ -234,22 +234,24 @@ leaving portions that they are not qualified or interested in for others
 and their silence would not be mistaken for tacit approval. This will
 lessen burden\ :sup:``[d] <#cmnt4>`_`\  placed on any one reviewer,
 enabling a more comprehensive, timely and scientifically rigorous
-review.
+review. This would also expose which portions of an article were not
+reviewed.
 
 In case there is a fear of disclosure prior to
-publication\ :sup:``[2] <#ftnt2>`_`\  or of an overwhelming amount of
-participation in a review where anyone could be a reviewer, there are at
-least three types of alternatives available. One would be to assign
-certain reviewers as moderators for different components of the article,
-to lessen the burden on the editor. A second would be to restrict the
-number of reviewers to those solicited from a pool of experts. This
-would still improve scientific rigor while lessening the burden on each
-individual reviewer, as long as they review specific components of the
-article they are knowledgeable about. A third would be to conduct a
-preliminary review consisting of a limited and expedited review process
-prior to the full and open review as we propose. At different stages of
-such a tiered review, reviewers might be assigned different roles, such
-as mediator, editor, or commenter.
+publication\ :sup:``[2] <#ftnt2>`_`\ , of an overwhelming amount of
+participation in a review where anyone could be a reviewer, or of a lack
+of consensus across reviewers, there are at least three types of
+alternatives available. One would be to assign certain reviewers as
+moderators for different components of the article, to lessen the burden
+on the editor. A second would be to restrict the number of reviewers to
+those solicited from a pool of experts. This would still improve
+scientific rigor while lessening the burden on each individual reviewer,
+as long as they review specific components of the article they are
+knowledgeable about. A third would be to conduct a preliminary review
+consisting of a limited and expedited review process prior to the full
+and open review as we propose. At different stages of such a tiered
+review, reviewers might be assigned different roles, such as mediator,
+editor, or commenter.
 
 Relevance of code review systems
 
@@ -412,14 +414,14 @@ are participating in the review.
 
 Relevance of code review systems
 
-In software development, reviewers are acknowledged implicitly by having
-their names associated with comments related to a code review. Systems
-like Geritt and GitHub explicitly list the reviewers participating in
-the review process. An example from Geritt is shown in Figure 5. In
-addition, certain social coding websites (e.g., ohloh.net) analyze
-contributions of developers to various projects and assign “kudos” to
-indicate the involvement of developers, but not necessarily their
-proficiency.
+In software development, registered reviewers are acknowledged
+implicitly by having their names associated with comments related to a
+code review. Systems like Geritt and GitHub explicitly list the
+reviewers participating in the review process. An example from Geritt is
+shown in Figure 5. In addition, certain social coding websites (e.g.,
+ohloh.net) analyze contributions of developers to various projects and
+assign “kudos” to indicate the involvement of developers, but not
+necessarily their proficiency.
 
 Enhancing code review systems for article review
 
