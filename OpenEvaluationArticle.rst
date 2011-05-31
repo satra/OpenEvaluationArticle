@@ -75,14 +75,9 @@ distributed, who gets promoted, and in which directions research
 advances. This has cultivated a publish-or-perish mentality where the
 focus is on maximizing the number of publications rather than on the
 validity and reproducibility of research findings, and a decrease in the
-amount of information apportioned to each article. However, there are
-branches of science where frequent incremental publication is a
-preferable distribution of information; quantity does not preclude
-quality.
-
-Peer review is the primary means of filtering this rapidly growing
-literature prior to publication in an effort to ensure quality and
-validity.
+amount of information apportioned to each article. Peer review is the
+primary means of filtering this rapidly growing literature prior to
+publication in an effort to ensure quality and validity.
 
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
@@ -600,23 +595,14 @@ Discussion\ :sup:``[v] <#cmnt22>`_`\
 The current review process is extremely complex, reflecting the demands
 of academia and its social context. When one reviews a paper, there are
 considerations of content, relevance, presentation, validity, as well as
-readership.
-
-There are branches of science where frequent incremental publication is
-the optimal distribution of information; quantity does not preclude
-quality.
-
-Our vision of the future of scientific review aims to raise the
-integrity of science by reducing bias, improving the quality and
-completeness of scientific communications, as well as increasing the
-reproducibility and robustness of results. We see hope in the model of
-review and communication used by open source software developers, which
-is open, collaborative, and interactive, engaging many participants with
-varying levels of expertise.
-
-we should use practices well-known in other fields to reliably improve
-the quality of the review process" than "we are here to save the
-integrity of science from the e
+readership. Our vision of the future of scientific review aims to adopt
+practices well-known in other fields to reliably improve the review
+process, and to reduce bias, improve the quality, openness and
+completeness of scientific communications, as well as increase the
+reproducibility and robustness of results. Specifically, we see hope in
+the model of review and communication used by open source software
+developers, which is open, collaborative, and interactive, engaging many
+participants with varying levels of expertise.
 
 In this article, we raise five critical problems with the current
 process for reviewing scientific articles: (1) Reviewers are expected to
@@ -666,12 +652,6 @@ engaged throughout the process of research, from inception through
 planning, execution, and documentation (Butler, 2005). This facilitates
 collaborative research and also ensures that optimal decisions are taken
 at every stage in the evolution of a project.
-
-We are gravely concerned with the current review process, and believe
-that it has compromised the integrity of science. It promotes bias,
-elitism, often prolific but substandard contributions, as well as
-misleading metrics that emphasize the number of contributions in given
-journals rather than their quality.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
