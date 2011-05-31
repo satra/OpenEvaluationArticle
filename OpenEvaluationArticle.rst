@@ -631,15 +631,15 @@ and data acquisition and analysis approaches. This makes rapid
 dissemination and continued reappraisal of research in the context of
 this new knowledge an imperative.
 
-Despite the advantages of adopting such software engineering practices
-as agile development in the review process, it may not be practical to
-immediately adopt the open review process proposed in this article and
-will require a change of culture that many researchers may resist. There
-is a common sentiment that reviewer anonymity is advantageous, that it:
-protects social-professional relationships from anger aroused by
-criticism, allows for greater honesty since there is no concern about
-repercussions, and increases participation. This sentiment may be
-relevant for reviews of articles prior to publication, but in our
+Despite the advantages of our proposed open review process mentioned
+above, including rapid dissemination and reappraisal, it may not be
+practical to immediately adopt the open review process proposed in this
+article and will require a change of culture that many researchers may
+resist. There is a common sentiment that reviewer anonymity is
+advantageous, that it: protects social-professional relationships from
+anger aroused by criticism, allows for greater honesty since there is no
+concern about repercussions, and increases participation. This sentiment
+may be relevant for reviews of articles prior to publication, but in our
 proposed post-publication review process that is focused on improving
 scientific rigor and embracing open discourse, reviewer anonymity is
 less relevant. Some journals have already adopted aspects of our
