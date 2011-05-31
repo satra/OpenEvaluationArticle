@@ -686,26 +686,18 @@ solicited many more reviewers and engaged in an iterative reviewer
 feedback cycle, we could have experienced more of the real-world
 challenges of such an open review system. When implemented on a large
 scale, we expect that individual bias and selfish motives would be
-washed out by the efforts of numerous reviewers. To respond to
-overwhelming critical feedback, we could adopt the compromises mentioned
-above, where for example, a limited number of reviewers could moderate
-or curate the reviewer feedback.
+washed out by the efforts of numerous reviewers. For published articles
+that garner overwhelming feedback, we could best deliver the information
+by: assigning certain reviewers as moderators for different components
+of the article, restricting the number of reviewers to those solicited
+from a pool of experts, or conducting a preliminary review consisting of
+a limited and expedited review process prior to the full and open review
+as we propose.
 
-assign certain reviewers as moderators for different components of the
-article, to lessen the burden on the editor. A second would be to
-restrict the number of reviewers to those solicited from a pool of
-experts. This would still improve scientific rigor while lessening the
-burden on each individual reviewer, as long as they review specific
-components of the article they are knowledgeable about. A third would be
-to conduct a preliminary review consisting of a limited and expedited
-review process prior to the full and open review as we propose. At
-different stages of such a tiered review, reviewers might be assigned
-different roles, such as mediator, editor, or commenter.
+SPAM!
 
 Rather than expect a consensus, metrics would quantify the quality of
 the reviews to help make a decision about publication of the article.
-
-(as discussed earlier).
 
 All three of these point to the problem of reviewers reaching a
 consensus so that the article could be published in a timely manner.
