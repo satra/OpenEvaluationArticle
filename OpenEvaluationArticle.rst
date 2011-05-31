@@ -637,12 +637,11 @@ research directions that evolve from published work.
 
 It may not be practical to immediately adopt the open review process
 proposed in this article and will require a change of culture that many
-researchers may resist.
-
-There is a common sentiment that reviewer anonymity is advantageous,
-that it: protects social-professional relationships from anger aroused
-by criticism, allows for greater honesty since there is no concern about
-repercussions, and increases participation.
+researchers may resist. There is a common sentiment that reviewer
+anonymity is advantageous, that it: protects social-professional
+relationships from anger aroused by criticism, allows for greater
+honesty since there is no concern about repercussions, and increases
+participation. To this, we would offer that th
 
 Some journals have already adopted aspects of our proposed system (e.g.,
 Frontiers, BioMed Central, Science, PNAS, PLoS One) and these problems
