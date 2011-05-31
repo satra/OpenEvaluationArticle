@@ -641,7 +641,10 @@ researchers may resist. There is a common sentiment that reviewer
 anonymity is advantageous, that it: protects social-professional
 relationships from anger aroused by criticism, allows for greater
 honesty since there is no concern about repercussions, and increases
-participation. To this, we would offer that th
+participation. To this, we would offer that this sentiment is the result
+of resignation to the status quo. If the current review system were
+open, we believe that there would be considerable resistance to the
+notion of hiding reviewers’ identities or the reviews themselves.
 
 Some journals have already adopted aspects of our proposed system (e.g.,
 Frontiers, BioMed Central, Science, PNAS, PLoS One) and these problems
