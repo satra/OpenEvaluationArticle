@@ -618,50 +618,39 @@ effective means for implementing such a process would be to enhance
 current code review systems for software development to support article
 review.
 
-The proposal to distribute reviews and to make the post-publication
-review process center around rapid iterative feedback has other
-parallels to software engineering. In particular, “agile development and
-scrum” (Schwaber and Beedle, 2001) is a technology development concept
-that focuses on development coupled with client feedback. This approach
-stems from the observation that client goals and expectations can change
-and change unpredictably. By focusing on short development cycles,
-companies adopting this practice can meet the volatility of project
-aims. In the scientific world, new discoveries and technologies create
-that volatility by providing alternative viewpoints and data acquisition
-and analysis approaches. This makes rapid dissemination and continued
-reappraisal of research in the context of this new knowledge an
-imperative. Changing the review process in ways outlined in this article
-should lead to better science by creating a discussion-based environment
-to track and quantify impact, to create discourse and to refine the
-research directions that evolve from published work.
+The proposal to engage many reviewers and to make the post-publication
+review process center around rapid iterative feedback relates to “agile
+development and scrum” (Schwaber and Beedle, 2001), a technology
+development concept that focuses on development coupled with client
+feedback. This approach stems from the observation that client goals and
+expectations can change and change unpredictably. By focusing on short
+development cycles, companies adopting this practice can meet the
+volatility of project aims. In the scientific world, new discoveries and
+technologies create that volatility by providing alternative viewpoints
+and data acquisition and analysis approaches. This makes rapid
+dissemination and continued reappraisal of research in the context of
+this new knowledge an imperative.
 
-It may not be practical to immediately adopt the open review process
-proposed in this article and will require a change of culture that many
-researchers may resist. There is a common sentiment that reviewer
-anonymity is advantageous, that it: protects social-professional
-relationships from anger aroused by criticism, allows for greater
-honesty since there is no concern about repercussions, and increases
-participation. This sentiment may be relevant for reviews of articles
-prior to publication, but a post-publication review process that is
-focused on scientific rigour, open discours, reviewer anonymity is less
-relevant.
-
-Some journals have already adopted aspects of our proposed system (e.g.,
-Frontiers, BioMed Central, Science, PNAS, PLoS One) and these problems
-and solutions have been discussed in scientific blogs
-(http://futureofscipub.wordpress.com). Initially, our full proposal
-could be implemented as a part of the post-publication system, alongside
-a more traditional anonymous peer review system (e.g., Atmospheric
-Chemistry and Physics, atmos-chem-phys.net). As scientists gain
-familiarity and journals gain experience with our proposed system, it
-could be refined and improved. If our goal as scientists is to increase
-understanding of the natural world through carefully crafted experiments
-and thoughtful analysis and interpretation of data, then in the long run
-the review process should not be limited to publication, but should be
-engaged throughout the process of research, from inception through
-planning, execution, and documentation (Butler, 2005). This facilitates
-collaborative research and also ensures that optimal decisions are taken
-at every stage in the evolution of a project.
+Despite the advantages of adopting such software engineering practices
+as agile development in the review process, it may not be practical to
+immediately adopt the open review process proposed in this article and
+will require a change of culture that many researchers may resist. There
+is a common sentiment that reviewer anonymity is advantageous, that it:
+protects social-professional relationships from anger aroused by
+criticism, allows for greater honesty since there is no concern about
+repercussions, and increases participation. This sentiment may be
+relevant for reviews of articles prior to publication, but in our
+proposed post-publication review process that is focused on improving
+scientific rigor and embracing open discourse, reviewer anonymity is
+less relevant. Some journals have already adopted aspects of our
+proposed system (e.g., Frontiers, BioMed Central, Science, PNAS, PLoS
+One) and these problems and solutions have been discussed in scientific
+blogs (http://futureofscipub.wordpress.com). Initially, our full
+proposal could be implemented as a part of the post-publication system,
+alongside a more traditional anonymous peer review system (e.g.,
+Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
+gain familiarity and journals gain experience with our proposed system,
+it could be refined and improved.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
@@ -687,8 +676,8 @@ a non-programmer to understand or navigate.
 With regard to sociological limitations, we did not announce the article
 to the entire scientific community for feedback, but instead solicited
 feedback from a small number of peers during the writing of the article.
-We assumed that the reviewers did not have selfish motives or
-egotistical attitudes that affected their reviews. We reached a
+Further, we assumed that the reviewers did not have selfish motives or
+egotistical attitudes that affected their reviews, and we reached a
 consensus on most of the reviewers’ issues, resulting in a very rapid
 process of writing and reviewing, without conflicts or deadlock. Had we
 solicited many more reviewers and engaged in an iterative reviewer
@@ -704,8 +693,41 @@ of a primarily linear, chronological sequence of unfiltered text. The
 discussion interfaces of stackoverflow and mathoverflow attempt to
 organize and prioritize such information (using voting metrics), but do
 so in a manner that is not familiar to a general readership. We hope to
-learn from these specialized interfaces to filter and highlight useful
-and relevant feedback.
+learn from and improve upon these specialized interfaces to filter and
+highlight useful and relevant feedback.
+
+It may not be practical to immediately adopt the open review process
+proposed in this article and will require a change of culture that many
+researchers may resist. There is a common sentiment that reviewer
+anonymity is advantageous, that it: protects social-professional
+relationships from anger aroused by criticism, allows for greater
+honesty since there is no concern about repercussions, and increases
+participation. This sentiment may be relevant for reviews of articles
+prior to publication, but in our proposed post-publication review
+process that is focused on improving scientific rigor and embracing open
+discourse, reviewer anonymity is less relevant. Some journals have
+already adopted aspects of our proposed system (e.g., Frontiers, BioMed
+Central, Science, PNAS, PLoS One) and these problems and solutions have
+been discussed in scientific blogs
+(http://futureofscipub.wordpress.com). Initially, our full proposal
+could be implemented as a part of the post-publication system, alongside
+a more traditional anonymous peer review system (e.g., Atmospheric
+Chemistry and Physics, atmos-chem-phys.net). As scientists gain
+familiarity and journals gain experience with our proposed system, it
+could be refined and improved.
+
+Changing the review process in ways outlined in this article should lead
+to better science by creating a discussion-based environment to track
+and quantify impact, to create discourse and to refine the research
+directions that evolve from published work. However, if our goal as
+scientists is to increase understanding of the natural world through
+carefully crafted experiments and thoughtful analysis and interpretation
+of data, then in the long run the review process should not be limited
+to publication, but should be engaged throughout the process of
+research, from inception through planning, execution, and documentation
+(Butler, 2005). This facilitates collaborative research and also ensures
+that optimal decisions are taken at every stage in the evolution of a
+project.
 
 We have proposed a re-design of the current peer review system by
 incorporating ideas from code review systems associated with open source
@@ -716,8 +738,8 @@ continued, evolving, public dialogue.
 Acknowledgements
 
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
-Poline, Kim Lumbard, Barrett Klein, etc. for their helpful comments.
-Arno Klein would like to thank Deepanjana and
+Poline, Kim Lumbard, Barrett Klein, and Elizabeth Sublette for their
+helpful comments. Arno Klein would like to thank Deepanjana and
 Ellora,\ :sup:``[w] <#cmnt23>`_`\  as well as the NIMH for their support
 via R01 grant MH084029.\ :sup:``[x] <#cmnt24>`_`\ 
 
