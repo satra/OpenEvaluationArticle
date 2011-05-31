@@ -660,20 +660,27 @@ dynamic, interactive, real-time collaboration via Google Docs
 (docs.google.com). We found the collaborative editing and reviewing
 through the use of these tools to be enjoyable and efficient, while
 exposing some of the above-mentioned limitations of code review systems
-for use in article review. Had we solicited many reviewers, we could
-have experienced more of the real-world challenges of such an open
+for use in article review. Had we solicited many more reviewers, we
+could have experienced more of the real-world challenges of such an open
 review system. First, as in the content of this article, we assumed that
 the reviewers did not have selfish motives or egotistical attitudes that
 affected their reviews. Second, the authors reached a consensus on most
 issues, resulting in a very rapid process of writing and reviewing,
 without conflicts or deadlock. Third, the authors made decisions on
-remaining issues without seeking approval from all other reviewers. All
-three of these point to the problem of reviewers reaching a consensus so
-that the article could be published in a timely manner. This may be
-handled by not requiring a consensus, but instead by exploiting metrics
-that quantify the quality of the reviews and comments on these reviews
-to make a decision, as discussed earlier. --not limited to the review
-process!--
+remaining issues without seeking approval from all other reviewers.
+
+Even when implemented on a large scale, we expect that selfish motives
+would be washed out by the individual efforts of numerous reviewers,
+that rather than expect a consensus, metrics would quantify the quality
+of the reviews and comments on these reviews to make a decision, as
+discussed earlier.
+
+All three of these point to the problem of reviewers reaching a
+consensus so that the article could be published in a timely manner.
+This may be handled by not requiring a consensus, but instead by
+exploiting metrics that quantify the quality of the reviews and comments
+on these reviews to make a decision, as discussed earlier. --not limited
+to the review process!--
 
 we can perform experiments to see what the most efficient and useful
 handling of this -- just like OS projects do today...
