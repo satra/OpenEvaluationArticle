@@ -655,22 +655,41 @@ decisions are taken at every stage in the evolution of a project.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
-initially via GitHub (github.com/satra/scientific-review), followed by
-dynamic, interactive, real-time collaboration via Google Docs
-(docs.google.com). We found the collaborative editing and reviewing
-through the use of these tools to be enjoyable and efficient, while
-exposing technological as well as sociological limitations.
+initially via GitHub, followed by dynamic, interactive, real-time
+collaboration via Google Docs. While we found the collaborative editing
+and reviewing through the use of these tools to be mostly enjoyable and
+efficient, it exposed technological as well as sociological limitations.
 
-With regard to technological limitations, current code review systems
-are optimized for well-structured text, not for less structured prose or
-for data, and do not include quantitative assessment of the quality of
-reviews and the contributions of reviewers, and are not visually
-intuitive for a non-programmer to quickly navigate.
+With regard to technological limitations, we were unable to go back and
+forth between the two software environments because we would not be able
+to make use of their respective version control and comment histories.
+To this end,
 
-With the availability of opensource tools (e.g., pandoc) and open
-programming interfaces to Google Docs, we were quickly able to recreate
-the evolution of the article in a version controlled repository on
-Github (github.com/satra/OpenEvaluationArticle).
+Indeed, with the availability of opensource tools (e.g., pandoc) and
+open programming interfaces to Google Docs, we were quickly able to meld
+GitHub’s code review environment and Google’s collaborative document
+editing platform in a version-controlled open-access repository on
+GitHub (github.com/satra/OpenEvaluationArticle).
+
+current code review systems are optimized for well-structured text, not
+for less structured prose or for data, and do not include quantitative
+assessment of the quality of reviews and the contributions of reviewers,
+and are not visually intuitive for a non-programmer to quickly navigate.
+
+Indeed, with the availability of opensource tools (e.g., pandoc) and
+open programming interfaces to Google Docs, we were quickly able to meld
+GitHub’s code review environment and Google’s collaborative document
+editing platform in a version-controlled open-access repository on
+GitHub (github.com/satra/OpenEvaluationArticle).
+
+However, even with these customizations, our experience helped to expose
+technological as well as sociological limitations to current version
+control and collaborative editing tools for article review. With regard
+to technological limitations, current code review systems are optimized
+for well-structured text, not for less structured prose or for data, and
+do not include quantitative assessment of the quality of reviews and the
+contributions of reviewers, and are not visually intuitive for a
+non-programmer to quickly navigate.
 
 With regard to sociological limitations, we did not announce the article
 to the entire scientific community for feedback but to a small number of
