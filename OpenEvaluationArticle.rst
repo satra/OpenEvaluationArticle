@@ -695,7 +695,8 @@ of a primarily linear, chronological sequence of unfiltered text. The
 discussion interfaces of stackoverflow and mathoverflow attempt to
 organize and prioritize such information (using voting metrics), but do
 so in a manner that is not familiar to a general readership. We hope to
-learn from these specialized interfaces to filter and highlight usefu
+learn from these specialized interfaces to filter and highlight useful
+and relevant feedback.
 
 We have proposed a re-design of the current peer review system by
 incorporating ideas from code review systems associated with open source
