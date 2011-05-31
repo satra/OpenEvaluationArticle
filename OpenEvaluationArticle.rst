@@ -128,8 +128,8 @@ from distributed code review in open source software development.
    :alt: 
 Figure 1. A patch submission workflow created by the developers of the
 Android project (http://source.android.com/source/life-of-a-patch.html).
-This flowchart illustrates the iterative processes and loops that exist
-in such a workflow.
+This flowchart illustrates the multiple iterative processes that exist
+in such workflows.
 
 Problems with current peer-review process
 
