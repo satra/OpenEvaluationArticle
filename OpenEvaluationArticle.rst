@@ -646,16 +646,16 @@ Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
 gain familiarity and journals gain experience with our proposed system,
 it could be refined and improved. If our goal as scientists is to
 increase understanding of the natural world through carefully crafted
-experiments and thoughtful synthesis of data, then in the long run the
-review process should not be limited to publication, but should be
-engaged throughout the process of research, from inception through
-planning, execution, and documentation (Butler, 2005). This facilitates
-collaborative research and also ensures that optimal decisions are taken
-at every stage in the evolution of a project.
+experiments and thoughtful analysis and interpretation of data, then in
+the long run the review process should not be limited to publication,
+but should be engaged throughout the process of research, from inception
+through planning, execution, and documentation (Butler, 2005). This
+facilitates collaborative research and also ensures that optimal
+decisions are taken at every stage in the evolution of a project.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
-primarily via GitHub (github.com/satra/scientific-review), followed by
+initially via GitHub (github.com/satra/scientific-review), followed by
 dynamic, interactive, real-time collaboration via Google Docs
 (docs.google.com). We found the collaborative editing and reviewing
 through the use of these tools to be enjoyable and efficient, while
