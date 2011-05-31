@@ -661,33 +661,18 @@ and reviewing through the use of these tools to be mostly enjoyable and
 efficient, it exposed technological as well as sociological limitations.
 
 With regard to technological limitations, we were unable to go back and
-forth between the two software environments because we would not be able
-to make use of their respective version control and comment histories.
-To this end, we created a custom version-controlled open-access
-repository on GitHub using open-source tools (e.g., pandoc) and open
-programming interfaces to Google Docs
-(github.com/satra/OpenEvaluationArticle). Other technical challenges
-that have yet to be met include those mentioned in the “Enhancing code
-review systems for article review” subsections above: current code
-review systems are optimized for well-structured text as opposed to less
-structured prose or for data; they do not include quantitative
-assessment of the quality of reviews and the contributions of reviewers,
-and are not visually intuitive for a non-programmer to quickly navigate.
-
-Indeed, with the availability of opensource tools (e.g., pandoc) and
-open programming interfaces to Google Docs, we were quickly able to meld
-GitHub’s code review environment and Google’s collaborative document
-editing platform in a version-controlled open-access repository on
-GitHub (github.com/satra/OpenEvaluationArticle).
-
-However, even with these customizations, our experience helped to expose
-technological as well as sociological limitations to current version
-control and collaborative editing tools for article review. With regard
-to technological limitations, current code review systems are optimized
-for well-structured text, not for less structured prose or for data, and
-do not include quantitative assessment of the quality of reviews and the
-contributions of reviewers, and are not visually intuitive for a
-non-programmer to quickly navigate.
+forth between the two software environments because their respective
+version control and comment histories do not integrate. To this end, we
+created a custom version-controlled open-access repository of this
+article on GitHub (github.com/satra/OpenEvaluationArticle) using
+open-source tools (e.g., pandoc) and open programming interfaces to
+Google Docs . Other technical challenges that have yet to be met include
+those mentioned in the “Enhancing code review systems for article
+review” subsections above: current code review systems are optimized for
+well-structured text as opposed to less structured prose or for data;
+they do not include quantitative assessment of the quality of reviews
+and the contributions of reviewers; and they are not visually intuitive
+for a non-programmer to understand or navigate.
 
 With regard to sociological limitations, we did not announce the article
 to the entire scientific community for feedback but to a small number of
