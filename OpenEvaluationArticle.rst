@@ -669,11 +669,11 @@ issues, resulting in a very rapid process of writing and reviewing,
 without conflicts or deadlock. Third, the authors made decisions on
 remaining issues without seeking approval from all other reviewers.
 
-Even when implemented on a large scale, we expect that selfish motives
-would be washed out by the individual efforts of numerous reviewers,
-that rather than expect a consensus, metrics would quantify the quality
-of the reviews and comments on these reviews to make a decision, as
-discussed earlier.
+When implemented on a large scale, we expect that a few selfish motives
+would be washed out by the individual efforts of numerous reviewers.
+Rather than expect a consensus, metrics would quantify the quality of
+the reviews and comments on these reviews to make a decision (as
+discussed earlier), and .
 
 All three of these point to the problem of reviewers reaching a
 consensus so that the article could be published in a timely manner.
