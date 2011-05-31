@@ -667,7 +667,10 @@ for data, and do not include quantitative assessment of the quality of
 reviews and the contributions of reviewers, and are not visually
 intuitive for a non-programmer to quickly navigate.
 
-Howev
+With the availability of opensource tools (e.g., pandoc) and open
+programming interfaces to Google Docs, we were quickly able to recreate
+the evolution of the article in a version controlled repository on
+Github (github.com/satra/OpenEvaluationArticle).
 
 With regard to sociological limitations, we did not announce the article
 to the entire scientific community for feedback but to a small number of
