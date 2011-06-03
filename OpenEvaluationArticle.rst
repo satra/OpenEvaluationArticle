@@ -53,13 +53,12 @@ and information generated during a review as well as quantitatively
 assess the importance of a submitted article. Expediting reviews and
 allowing for post-publication review by making reviews dynamic,
 interactive, conducted in real time, and continue on as a living
-document, can allow for the dialogue to continue and flourish,
-incrementally improving the scientific literature. We argue that these
-solutions can be addressed by building upon computer programming code
-management systems. In this article, we provide examples of current code
-review systems that offer opportunities for addressing the above
-problems, and offer suggestions for enhancing code review systems for
-article review.
+document, can allow for the dialogue to continue and flourish. We argue
+that these solutions can be addressed by building upon computer
+programming code management systems. In this article, we provide
+examples of current code review systems that offer opportunities for
+addressing the above problems, and offer suggestions for enhancing code
+review systems for article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -209,15 +208,16 @@ While there are notable examples of journals (e.g., Frontiers -
 frontiersin.org, BioMedCentral - biomedcentral.com, PLoS One -
 plosone.org) and paper archives (arXiv.org) that address some of the
 above individual problems, the vast majority of journals do not. In this
-section, we propose an open evaluation system for scientific publishing
-that draws on the ideas, experience, and technologies recently developed
-to support community code review in open source software projects.
-Opening up the review process to everyone, not just to a select few
-anonymous reviewers, has the potential to address every one of the
-problems raised above. For each of the problems listed above, we first
-describe our proposed solution, then highlight the relevance of current
-code review systems in addressing the problem and finally describe
-enhancements to the current systems to support our proposed solution.
+section, we propose an open post-publication evaluation system for
+scientific publishing that draws on the ideas, experience, and
+technologies recently developed to support community code review in open
+source software projects. Opening up the review process to everyone, not
+just to a select few anonymous reviewers, has the potential to address
+every one of the problems raised above. For each of the problems listed
+above, we first describe our proposed solution, then highlight the
+relevance of current code review systems in addressing the problem and
+finally describe enhancements to the current systems to support our
+proposed solution.
 
 1. Distribute reviews to many reviewers.
 
@@ -276,7 +276,8 @@ and discuss the contents of submitted code changes.
 Figure 2. A snapshot from the web interface of a request to merge code
 into the NiPyPE (nipy.org/nipype) project on GitHub. This demonstrates:
 a) part of a discussion thread, b) inline commenting of code (for line
-98), and c) code updates taking place as a function of the discussion.
+98), and c) code updates (commits) taking place as a function of the
+discussion.
 
 Indeed, the purpose of these systems mirror the purpose of scientific
 review -- to increase the clarity, reproducibility and correctness of
@@ -351,7 +352,7 @@ study as part of article submission.
 
 While rerunning an entire study’s analysis might not currently be
 feasible as part of a review, simply exposing code can often help
-reviewers follow what was done and provides the possibility of reproduce
+reviewers follow what was done and provides the possibility to reproduce
 the results in the future. In the long run, virtual machines or servers
 may indeed allow standardization of analysis environments and
 replication of analyses for every publication. Furthermore, including
@@ -742,7 +743,8 @@ We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard, Barrett Klein, and Elizabeth Sublette for their
 helpful comments. Arno Klein would like to thank Deepanjana and
 Ellora,\ :sup:``[h] <#cmnt8>`_`\  as well as the NIMH for their support
-via R01 grant MH084029.
+via R01 grant MH084029. Brian Avants acknowledges support of the ITK
+version 4 FIXME.
 
 --------------
 
