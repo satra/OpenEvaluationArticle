@@ -635,6 +635,23 @@ and data acquisition and analysis approaches. This makes rapid
 dissemination and continued reappraisal of research in the context of
 this new knowledge an imperative.
 
+In the field of high energy particle physics and others, arXiv.org, an
+open-access preprint archive established in 1991, has transformed the
+way results are disseminated, reviewed and debated. Authors submit
+articles to the preprint archive even before they are submitted or
+appear in a traditional journal. Often, discussion and responses take
+place before the article appears in print. Interesting findings and the
+scientific discourse related to the results are thus brought to the
+immediate attention of the community and the public. This process of
+rapid, fully open debate based on the exchange of properly formatted
+technical preprints takes place even in the context of major new results
+that in other fields would typically be shrouded in secrecy. This has
+been illustrated by the recent activity surrounding the possible
+discovery of a new particle at Fermilab's Tevatron accelerator that does
+not fit the Standard Model of particle
+physics\ :sup:``[3] <#ftnt3>`_`\ . We believe arXiv can serve as a model
+for open post-publication review in other domains of science.
+
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, including rapid
 dissemination and reappraisal, adopting the process will require a
@@ -649,16 +666,7 @@ scientific rigor and embracing open discourse, reviewer anonymity is
 less relevant. Some journals have already adopted aspects of our
 proposed system (e.g., Frontiers, BioMed Central, Science, PNAS, PLoS
 One) and these problems and solutions have been discussed in scientific
-blogs (http://futureofscipub.wordpress.com). In the field of high energy
-particle physics and others, arXiv.org, an open-access preprint archive
-established in 1991, has transformed the way results are disseminated,
-reviewed and debated. Authors submit articles to the preprint archive
-even before they are submitted or appear in a traditional journal.
-Often, discussion and responses take place before the article appears in
-print. Interesting findings and the scientific discourse related to the
-results are thus brought to the immediate attention of the community and
-the public. We believe ArXiv can serve as a model for open
-post-publication review in other domains of science. Initially, our full
+blogs (http://futureofscipub.wordpress.com). Initially, our full
 proposal could be implemented as a part of the post-publication system,
 alongside a more traditional anonymous peer review system (e.g.,
 Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
@@ -799,3 +807,5 @@ commentary from the community.
 `[2] <#ftnt_ref2>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
+
+`[3] <#ftnt_ref3>`_`http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars <http://www.google.com/url?q=http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars&sa=D&sntz=1&usg=AFQjCNEgnJfB3QRx5aVFgzXATRQi_JDrzg>`_
