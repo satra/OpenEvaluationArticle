@@ -743,8 +743,8 @@ We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard, Barrett Klein, and Elizabeth Sublette for their
 helpful comments. Arno Klein would like to thank Deepanjana and
 Ellora,\ :sup:``[h] <#cmnt8>`_`\  as well as the NIMH for their support
-via R01 grant MH084029. Brian Avants acknowledges support of the ITK
-version 4 FIXME.
+via R01 grant MH084029. Brian Avants acknowledges ARRA funding from the
+National Library of Medicine via award HHSN276201000492p.
 
 --------------
 
