@@ -50,13 +50,13 @@ to quantitatively assess reviewer contributions, which could be
 integrated with assessments for promotions and grants. Quantifying
 review quality could help establish the importance of reviewers and
 information generated during a review, and assess the importance of a
-submitted article. Expediting post-publication reviews by making reviews
-dynamic and interactive, and allow for the dialogue to continue and
-flourish. We argue that these solutions can be addressed by building
-upon computer programming code management systems. In this article, we
-provide examples of current code review systems that offer opportunities
-for addressing the above problems, and offer suggestions for enhancing
-code review systems for article review.
+submitted article. Finally, we recommend expediting post-publication
+reviews and allowing for the dialogue to continue and flourish in a
+dynamic and interactive manner. We argue that these solutions can be
+addressed by building upon computer programming code management systems.
+In this article, we provide examples of current code review systems that
+offer opportunities for addressing the above problems, and offer
+suggestions for enhancing code review systems for article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
