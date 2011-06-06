@@ -39,26 +39,24 @@ and (5) Reviews take a lot of time, and once submitted cannot evolve. We
 propose that these problems can be resolved by making the following
 changes to the review process. Distributing reviews to many reviewers
 would allow each reviewer to focus on portions of the article that
-reflect the reviewer’s specialty or area of interest and would place
-less of a burden on any one reviewer, enabling a more comprehensive and
-timely review. Providing reviewers materials and methods to perform
+reflect the reviewer’s specialty or area of interest and place less of a
+burden on any one reviewer, enabling a more comprehensive and timely
+review. Providing reviewers materials and methods to perform
 comprehensive evaluation would facilitate transparency, replication of
 results and enable greater scrutiny by people from different fields
 using different nomenclature, leading to greater clarity and
 cross-fertilization of ideas. Acknowledging reviewers makes it possible
 to quantitatively assess reviewer contributions, which could be
 integrated with assessments for promotions and grants. Quantifying
-review quality could help establish the role and importance of reviewers
-and information generated during a review as well as quantitatively
-assess the importance of a submitted article. Expediting reviews and
-allowing for post-publication review by making reviews dynamic,
-interactive, conducted in real time, and continue on as a living
-document, can allow for the dialogue to continue and flourish. We argue
-that these solutions can be addressed by building upon computer
-programming code management systems. In this article, we provide
-examples of current code review systems that offer opportunities for
-addressing the above problems, and offer suggestions for enhancing code
-review systems for article review.
+review quality could help establish the importance of reviewers and
+information generated during a review, and assess the importance of a
+submitted article. Expediting post-publication reviews by making reviews
+dynamic and interactive, and allow for the dialogue to continue and
+flourish. We argue that these solutions can be addressed by building
+upon computer programming code management systems. In this article, we
+provide examples of current code review systems that offer opportunities
+for addressing the above problems, and offer suggestions for enhancing
+code review systems for article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
