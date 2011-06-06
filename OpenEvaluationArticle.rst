@@ -121,14 +121,6 @@ in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
 from distributed code review in open source software development.
 
-.. figure:: images/image07.png
-   :align: center
-   :alt: 
-Figure 1. A patch submission workflow created by the developers of the
-Android project (http://source.android.com/source/life-of-a-patch.html).
-This flowchart illustrates the multiple iterative processes that exist
-in such workflows.
-
 Problems with current peer-review process
 
 1. Reviewers are expected to have comprehensive expertise.
@@ -185,6 +177,14 @@ forced to trust the qualitative assessment of the editor and the
 journal’s impact factor as proxies for quality. This prevents external
 scrutiny and makes it impossible to evaluate or standardize the review
 process.
+
+.. figure:: images/image07.png
+   :align: center
+   :alt: 
+Figure 1. A patch submission workflow created by the developers of the
+Android project (http://source.android.com/source/life-of-a-patch.html).
+This flowchart illustrates the multiple iterative processes that exist
+in such workflows.
 
 5. Reviews take a lot of time, and once submitted cannot evolve.
 
