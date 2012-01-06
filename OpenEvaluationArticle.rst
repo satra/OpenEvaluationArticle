@@ -466,6 +466,8 @@ number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
 to the comments reflect the number of positive votes for each comment.
 
+http://meta.stackoverflow.com/questions/76251/how-do-suggested-edits-work
+
 Enhancing code review systems for article review
 
 We propose to augment code review systems (and in turn, article review
