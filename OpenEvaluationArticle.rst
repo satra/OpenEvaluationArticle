@@ -285,7 +285,7 @@ issues or address reviewer comments (an example is shown in Figure 2).
 These interactive discussions become part of a permanent and open log of
 the project.
 
-.. figure:: images/image05.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
 Figure 3. Mock-up of a modified commenting system. The left panel shows
@@ -390,7 +390,7 @@ BioMedCentral) are immediately associated with a publication. Second,
 measures of review quality eventually become associated with the
 reviewer based on community feedback on the reviews.
 
-.. figure:: images/image04.png
+.. figure:: images/image03.png
    :align: center
    :alt: 
 Figure 4: A web page snippet from the Geritt code review system used for
@@ -441,9 +441,10 @@ standards are met, the code is accepted into the main project. The
 discussion mechanism facilitates this process. However, in the case of
 code review, the quality of review is typically not quantified.
 
-.. figure:: images/image02.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
+
 Figure 5. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
@@ -560,7 +561,7 @@ peer review in the context of academic promotion. We acknowledge some
 reviewers might be discouraged by this idea, thus it may be optional to
 participate.
 
-.. figure:: images/image06.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 7. Example of a metric for quantifying contributor frequency.
@@ -569,7 +570,7 @@ Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
 the number of times the speaker was quoted on a given day.
 
-.. figure:: images/image03.png
+.. figure:: images/image02.png
    :align: center
    :alt: 
 Figure 8. Example of a metric for quantifying contributions over time.
