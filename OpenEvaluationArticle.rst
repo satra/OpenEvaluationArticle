@@ -208,6 +208,9 @@ relevance of current code review systems in addressing the problem and
 finally describe enhancements to the current systems to support our
 proposed solution.
 
+.. figure:: images/image06.png
+   :align: center
+   :alt: 
 Figure 1. This flowchart illustrates...
 
 1. Distribute reviews to many reviewers.
@@ -441,7 +444,7 @@ standards are met, the code is accepted into the main project. The
 discussion mechanism facilitates this process. However, in the case of
 code review, the quality of review is typically not quantified.
 
-.. figure:: images/image06.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 
