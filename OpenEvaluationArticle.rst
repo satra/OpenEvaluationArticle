@@ -213,16 +213,21 @@ proposed solution.
 Figure 1. This flowchart illustrates a model of open scientific review,
 from inception of an idea through its execution and documentation. This
 article focuses on the review of the documentation, and in particular on
-post-publication review. Possible criteria for determining when an
-article is published is when it passes pre-publication review, or when
-all of its sections have attained some minimum rating by distributed
-reviewers. The numbers in the figure refer to the five solutions we
-propose to improve the review process:
-
-are suggesting and need to be summarized in the caption. also, either
-the figure, the caption, or the text should mention different publishing
-models: with or without pre-publication review, with or without the
-notion of a "published version," review as coauthorship, etc.
+post-publication review. The numbers in the figure refer to the five
+solutions we propose to improve the review process: (1) distribute
+reviews to many reviewers, (2) provide reviewers materials and methods
+to perform comprehensive evaluation, (3) acknowledge reviewers, (4)
+quantify review quality, and (5) expedite the post-publication review
+process and allow it to continue indefinitely. Whereas this figure
+includes a pre-publication review, successful models of scientific
+review demonstrate that this stage is unnecessary (e.g., arxiv.org).
+Without pre-publication review, another criterion for determining when
+an article is published could be when all of its sections have attained
+some minimum rating in an open review. However, with the continued
+inclusion of new comments (or, alternatively, Wikipedia-style edits),
+the concept of a “publication” itself gives way to a forum or an
+evolving dialogue. In this sense, review can be seen as a form of
+coauthorship.
 
 1. Distribute reviews to many reviewers.
 
@@ -414,7 +419,7 @@ shown in Figure 4.
 .. figure:: images/image04.png
    :align: center
    :alt: 
-Figure 4: A web page snippet from the Geritt code review system used for
+Figure 4. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
 
@@ -498,9 +503,9 @@ code review, the quality of review is typically not quantified.
 Figure 7. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
-to the comments reflect the number of positive votes for each comment.
+to the comments reflect the number of positive votes for each comment
 
-http://meta.stackoverflow.com/questions/76251/how-do-suggested-edits-work
+(http://meta.stackoverflow.com/questions/76251/how-do-suggested-edits-work).
 
 Enhancing code review systems for article review
 
