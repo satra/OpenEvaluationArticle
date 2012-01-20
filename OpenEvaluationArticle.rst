@@ -413,13 +413,13 @@ necessarily their proficiency.
 Enhancing code review systems for article review
 
 The criterion for accepting code is based on the functionality of the
-final code rather than the quality of reviews. As such code review
+final code rather than the quality of reviews. As such, code review
 systems typically do not have a mechanism to acknowledge and quantify
 reviewer contributions. We propose that code review systems adapted for
 article review include quantitative assessment of the contributions of
 reviewers. This would include a weighted combination of the number of
 reviews as well as the quality of those reviews as assessed via a metric
-described later in this article.
+described later\ :sup:``[f] <#cmnt6>`_`\  in this article.
 
 4. Quantify review quality.
 
@@ -498,7 +498,7 @@ Figure 6. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(\ :sup:``[f] <#cmnt6>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+(\ :sup:``[g] <#cmnt7>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
 Víegas, F. et al., 2004).
 
 Relevance of code review systems
@@ -546,14 +546,14 @@ impact or importance of, for example, collaborators, coauthors,
 institutions, or different areas of multidisciplinary research. As
 simple examples, one could add the number of quotations by two or more
 individuals in Figure 7 or the impact of two or more coders in Figure 8.
-This could be useful in determining what decision to make regarding a
-statement in an article in the following scenario. Half of a pool of
-reviewers A agrees with the statement and the other half B disagrees
-with the statement. A decision in favor of group A could be made if the
-aggregate metric evaluating A’s expertise on the statement’s topic is
-higher than that of B. However, such decisions will only be possible
-once this system has acquired a sufficient amount of data about group A
-and B’s expertise on reviewing this topic.
+This could be useful in evaluating a statement in an article in the
+following scenario. Half of a pool of reviewers A agrees with the
+statement and the other half B disagrees with the statement. Deciding in
+favor of group A would be reasonable if the aggregate metric evaluating
+A’s expertise on the statement’s topic is higher than that of B.
+However, such decisions will only be possible once this system has
+acquired a sufficient amount of data about group A and B’s expertise on
+reviewing this topic.
 
 A third possibility is that authors quantitatively evaluate the
 reviewers by assigning impact ratings to the review or segments of the
@@ -580,7 +580,7 @@ This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
 individual contributor and the width of a colored ribbon represents that
 individual’s “impact” or contributions during a week-long
-period.\ :sup:``[g] <#cmnt7>`_`\ 
+period.\ :sup:``[h] <#cmnt8>`_`\ 
 
 Discussion
 
@@ -728,7 +728,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard, Barrett Klein, and Elizabeth Sublette for their
 helpful comments. Arno Klein would like to thank Deepanjana and
-Ellora,\ :sup:``[h] <#cmnt8>`_`\  as well as the NIMH for their support
+Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well as the NIMH for their support
 via R01 grant MH084029. Brian Avants acknowledges ARRA funding from the
 National Library of Medicine via award HHSN276201000492p.
 
@@ -798,3 +798,7 @@ exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
 `[3] <#ftnt_ref3>`_`http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars <http://www.google.com/url?q=http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars&sa=D&sntz=1&usg=AFQjCNEgnJfB3QRx5aVFgzXATRQi_JDrzg>`_
+
+`[f] <#cmnt_ref6>`_arno:
+
+give specific pointer?
