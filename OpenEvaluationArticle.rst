@@ -210,7 +210,19 @@ proposed solution.
 .. figure:: images/image06.png
    :align: center
    :alt: 
-Figure 1. This flowchart illustrates...
+Figure 1. This flowchart illustrates a model of open scientific review,
+from inception of an idea through its execution and documentation. This
+article focuses on the review of the documentation, and in particular on
+post-publication review. Possible criteria for determining when an
+article is published is when it passes pre-publication review, or when
+all of its sections have attained some minimum rating by distributed
+reviewers. The numbers in the figure refer to the five solutions we
+propose to improve the review process:
+
+are suggesting and need to be summarized in the caption. also, either
+the figure, the caption, or the text should mention different publishing
+models: with or without pre-publication review, with or without the
+notion of a "published version," review as coauthorship, etc.
 
 1. Distribute reviews to many reviewers.
 
@@ -287,7 +299,7 @@ issues or address reviewer comments (an example is shown in Figure 2).
 These interactive discussions become part of a permanent and open log of
 the project.
 
-.. figure:: images/image04.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 3. Mock-up of a modified commenting system. The left panel shows
@@ -386,18 +398,10 @@ in that dialogue gets heard. Second, it transforms the review process
 from one of secrecy to one of engaging social discourse. Third, an open
 review process makes it possible to quantitatively assess reviewer
 contributions, which could lead to assessments for promotions and
-grants. There are two things that can be used to acknowledge reviewers.
-First, reviewer names (e.g., Frontiers) and contributions (e.g.,
-BioMedCentral) are immediately associated with a publication. Second,
-measures of review quality eventually become associated with the
-reviewer based on community feedback on the reviews.
-
-.. figure:: images/image03.png
-   :align: center
-   :alt: 
-Figure 4: A web page snippet from the Geritt code review system used for
-ITK (Insight Toolkit, itk.org). This explicitly lists the reviewers who
-are participating in the review.
+grants. To acknowledge reviewers, their names (e.g., Frontiers) and
+contributions (e.g., BioMedCentral) can be immediately associated with a
+publication, and measures of review quality can eventually become
+associated with the reviewer based on community feedback on the reviews.
 
 Relevance of code review systems
 
@@ -405,10 +409,30 @@ In software development, registered reviewers are acknowledged
 implicitly by having their names associated with comments related to a
 code review. Systems like Geritt and GitHub explicitly list the
 reviewers participating in the review process. An example from Geritt is
-shown in Figure 5. In addition, certain social coding websites (e.g.,
-ohloh.net) analyze contributions of developers to various projects and
-assign “kudos” to indicate the involvement of developers, but not
-necessarily their proficiency.
+shown in Figure 4.
+
+.. figure:: images/image04.png
+   :align: center
+   :alt: 
+Figure 4: A web page snippet from the Geritt code review system used for
+Insight Toolkit (itk.org). This explicitly lists the reviewers who are
+participating in the review.
+
+In addition, certain social coding websites (e.g., ohloh.net) analyze
+contributions of developers to various projects and assign “kudos” to
+indicate the involvement of developers. Figure 5 shows an example of
+quantifying contributions over time. Neither of these measures
+necessarily reflect the quality of the contributions, however.
+
+.. figure:: images/image03.png
+   :align: center
+   :alt: 
+Figure 5. Example of a metric for quantifying contributions over time.
+This is a screenshot of a ribbon chart visualization in GitHub of the
+history of code additions to a project, where each color indicates an
+individual contributor and the width of a colored ribbon represents that
+individual’s “impact” or contributions during a week-long
+period.\ :sup:``[f] <#cmnt6>`_`\ 
 
 Enhancing code review systems for article review
 
@@ -417,9 +441,24 @@ final code rather than the quality of reviews. As such, code review
 systems typically do not have a mechanism to acknowledge and quantify
 reviewer contributions. We propose that code review systems adapted for
 article review include quantitative assessment of the contributions of
-reviewers. This would include a weighted combination of the number of
-reviews as well as the quality of those reviews as assessed via a metric
-described later\ :sup:``[f] <#cmnt6>`_`\  in this article.
+reviewers. This would include a weighted combination of the number
+(Figure 6) and consistency (Figure 5) of contributions, as well as their
+quality. Reviewers need not be the only ones to have an impact on other
+reviewers’ standing. The authors themselves could evaluate the reviewers
+by assigning impact ratings to the reviews or segments of the reviews.
+These ratings can be entered into the reviewer database, referenced in
+the future by editors and used to assess contributions to peer review in
+the context of academic promotion. We acknowledge some reviewers might
+be discouraged by this idea, thus it may be optional to participate.
+
+.. figure:: images/image02.png
+   :align: center
+   :alt: 
+Figure 6. Example of a metric for quantifying contributor frequency.
+Quotes over Time (www.qovert.info) tracked the top-quoted people from
+Reuters Alertnet News on a range of topics, and presents their quotes on
+a timeline, where color denotes the identity of a speaker and bar height
+the number of times the speaker was quoted on a given day.
 
 4. Quantify review quality.
 
@@ -428,10 +467,19 @@ accepted, it is still behind closed doors and limited to the editor, the
 authors, and a small set of reviewers. An open and recorded review
 ensures that the role and importance of reviewers and information
 generated during the review would be shared and acknowledged. The
-quantity and quality of this information (assessed by, for example,
-voting) can be used to quantitatively assess the importance of a
-submitted article. Such quantification could lead to an objective
-standardization of review.
+quantity and quality of this information can be used to quantitatively
+assess the importance of a submitted article. Such quantification could
+lead to an objective standardization of review.
+
+There exist metrics for quantifying the importance of an author,
+article, or journal (Hirsch, 2005; Bollen et al., 2009), but we know of
+no metric used in either article review or in code review for
+quantifying the quality, impact, or importance of a review, of a comment
+on a review, or of any portions thereof. Metrics have many uses in this
+context, including constructing a dynamic assessment of individuals or
+ideas for use in promotion and allocation of funds and resources.
+Metrics also make it possible to mine reviews and comment histories to
+study the process of scientific publication.
 
 Relevance of code review systems
 
@@ -447,7 +495,7 @@ code review, the quality of review is typically not quantified.
    :align: center
    :alt: 
 
-Figure 5. A response to a question on stackoverflow.net. The top left
+Figure 7. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
 to the comments reflect the number of positive votes for each comment.
@@ -455,6 +503,15 @@ to the comments reflect the number of positive votes for each comment.
 http://meta.stackoverflow.com/questions/76251/how-do-suggested-edits-work
 
 Enhancing code review systems for article review
+
+The classic “Like” tally used to indicate appreciation of a contribution
+in Digg, Facebook, etc., is the most obvious measure assigned by a
+community, but it is simplistic and vague. In addition to slow and
+direct measures of impact such as the number of times an article is
+cited, there are faster, indirect behavioral measures of interest as a
+proxy for impact that can be derived from clickstream data, web usage,
+and number of article downloads, but these measures indicate the
+popularity but not necessarily quality of articles or reviews.
 
 We propose to augment code review systems (and in turn, article review
 systems) with a mechanism similar to the one used in discussion forums
@@ -465,12 +522,26 @@ responses to questions on topics related to either computer programming
 or mathematics, respectively. The web interface allows registered
 members to post or respond to a question, to comment on a response, and
 to vote on the quality or importance of a question, of a response, or of
-a comment. Figure 5 shows a screenshot of the response from a registered
+a comment. Figure 7 shows a screenshot of the response from a registered
 member to a question submitted to Stack Overflow, where 299 indicates
 the number of votes received for the response from registered members.
 In our proposed review system, such a vote tally would be associated
 with identified, registered reviewers, and would be only one of several
 measures of the quality of reviews (and reviews of reviews).
+
+It would also be possible to aggregate the measures above to assess the
+impact or importance of, for example, collaborators, coauthors,
+institutions, or different areas of multidisciplinary research. As
+simple examples, one could add the number of contributions by two or
+more coders in Figure 5 or the number of quotations by two or more
+individuals in Figure 6. This could be useful in evaluating a statement
+in an article in the following scenario. Half of a pool of reviewers A
+agrees with the statement and the other half B disagrees with the
+statement. Deciding in favor of group A would be reasonable if the
+aggregate metric evaluating A’s expertise on the statement’s topic is
+higher than that of B. However, such decisions will only be possible
+once this system has acquired a sufficient amount of data about group A
+and B’s expertise on reviewing this topic.
 
 5. Expedite reviews and allow for post-publication review.
 
@@ -482,7 +553,7 @@ would these two changes make the review process more enjoyable, but they
 would expedite the review process. And there is no reason for a review
 process to end after an article has been published. Under
 post-publication review, the article can continue as a living document,
-where the dialogue can evolve and flourish (see Figure 7), and
+where the dialogue can evolve and flourish (see Figure 8), and
 references to different articles could be supplemented with references
 to the comments about these articles, perhaps as Digital Object
 Identifiers (http://www.doi.org/), firmly establishing these
@@ -494,7 +565,7 @@ community.
 .. figure:: images/image00.gif
    :align: center
    :alt: 
-Figure 6. A visualization of the edit history of the interactions of
+Figure 8. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
@@ -516,71 +587,8 @@ Current code review systems have components for expedited and continued
 review. Where they could stand to be improved is in their visual
 interfaces, to make them more intuitive for a non-programmer to quickly
 navigate, and to enable a temporal view of the evolutionary history of
-an arbitrary section of text, analogous to Figure 7 (except as an
+an arbitrary section of text, analogous to Figure 8 (except as an
 interactive tool).
-
-Quantifying an open-review system
-
-There exist metrics for quantifying the importance of an author,
-article, or journal (Hirsch, 2005; Bollen et al., 2009), but we know of
-no metric used in either article review or in code review for
-quantifying the quality, impact, or importance of a review, of a comment
-on a review, or of any portions thereof. Metrics have many uses in this
-context, including constructing a dynamic assessment of individuals or
-ideas (as in the Stack Overflow example in Figure 5) for use in
-promotion and allocation of funds and resources. Metrics also make it
-possible to mine reviews and comment histories to study the process of
-scientific publication. The classic “Like” tally used to indicate
-appreciation of a contribution in Digg, Facebook, etc., is the most
-obvious measure assigned by a community, but it is simplistic and vague.
-In addition to slow and direct measures of impact such as the number of
-times an article is cited, there are faster, indirect behavioral
-measures of interest as a proxy for impact that can be derived from
-clickstream data, web usage, and number of article downloads. Other
-possibilities include measuring the activity, frequency (Figure 7),
-impact (Figure 8), and topic range of an author or reviewer or their
-contributions over time (Figure 6).
-
-It would also be possible to aggregate these metrics to assess the
-impact or importance of, for example, collaborators, coauthors,
-institutions, or different areas of multidisciplinary research. As
-simple examples, one could add the number of quotations by two or more
-individuals in Figure 7 or the impact of two or more coders in Figure 8.
-This could be useful in evaluating a statement in an article in the
-following scenario. Half of a pool of reviewers A agrees with the
-statement and the other half B disagrees with the statement. Deciding in
-favor of group A would be reasonable if the aggregate metric evaluating
-A’s expertise on the statement’s topic is higher than that of B.
-However, such decisions will only be possible once this system has
-acquired a sufficient amount of data about group A and B’s expertise on
-reviewing this topic.
-
-A third possibility is that authors quantitatively evaluate the
-reviewers by assigning impact ratings to the review or segments of the
-review. This measurement can be entered into the reviewer database,
-referenced in the future by editors and used to assess contributions to
-peer review in the context of academic promotion. We acknowledge some
-reviewers might be discouraged by this idea, thus it may be optional to
-participate.
-
-.. figure:: images/image05.png
-   :align: center
-   :alt: 
-Figure 7. Example of a metric for quantifying contributor frequency.
-Quotes over Time (www.qovert.info) tracked the top-quoted people from
-Reuters Alertnet News on a range of topics, and presents their quotes on
-a timeline, where color denotes the identity of a speaker and bar height
-the number of times the speaker was quoted on a given day.
-
-.. figure:: images/image02.png
-   :align: center
-   :alt: 
-Figure 8. Example of a metric for quantifying contributions over time.
-This is a screenshot of a ribbon chart visualization in GitHub of the
-history of code additions to a project, where each color indicates an
-individual contributor and the width of a colored ribbon represents that
-individual’s “impact” or contributions during a week-long
-period.\ :sup:``[h] <#cmnt8>`_`\ 
 
 Discussion
 
@@ -641,46 +649,45 @@ physics\ :sup:``[3] <#ftnt3>`_`\ . We believe arXiv can serve as a model
 for open post-publication review in other domains of science.
 
 Despite the advantages of our proposed open review process and the
-promise offered by existing solutions in other domains, including rapid
-dissemination and reappraisal, adopting the process will require a
-change of culture that many researchers may resist. In particular, there
-is a common sentiment that reviewer anonymity is advantageous, that it:
-protects social-professional relationships from anger aroused by
-criticism, allows for greater honesty since there is no concern about
-repercussions, and increases participation. This sentiment may be
-relevant for reviews of articles prior to publication, but in our
-proposed post-publication review process that is focused on improving
-scientific rigor and embracing open discourse, reviewer anonymity is
-less relevant. Some journals have already adopted aspects of our
-proposed system (e.g., Frontiers, BioMed Central, Science, PNAS, PLoS
-One) and these problems and solutions have been discussed in scientific
-blogs (http://futureofscipub.wordpress.com). Initially, our full
-proposal could be implemented as a part of the post-publication system,
-alongside a more traditional anonymous peer review system (e.g.,
-Atmospheric Chemistry and Physics, atmos-chem-phys.net). As scientists
-gain familiarity and journals gain experience with our proposed system,
-it could be refined and improved.
+promise offered by existing solutions in other domains, adopting the
+process will require a change of culture that many researchers may
+resist. In particular, there is a common sentiment that reviewer
+anonymity is advantageous, that it: protects social-professional
+relationships from anger aroused by criticism, allows for greater
+honesty since there is no concern about repercussions, and increases
+participation. This sentiment may be relevant for reviews of articles
+prior to publication, but in our proposed post-publication review
+process that is focused on improving scientific rigor and embracing open
+discourse, reviewer anonymity is less relevant. Some journals have
+already adopted aspects of our proposed system (e.g., Frontiers, BioMed
+Central, Science, PNAS, PLoS One) and these problems and solutions have
+been discussed in scientific blogs
+(http://futureofscipub.wordpress.com). Initially, our full proposal
+could be implemented as a part of the post-publication system, alongside
+a more traditional anonymous peer review system (e.g., Atmospheric
+Chemistry and Physics, atmos-chem-phys.net). As scientists gain
+familiarity and journals gain experience with our proposed system, it
+could be refined and improved.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
 initially via GitHub, followed by dynamic, interactive, real-time
 collaboration via Google Docs. While we found the collaborative editing
 and reviewing through the use of these tools to be mostly enjoyable and
-efficient, it exposed technological as well as sociological limitations.
-
-With regard to technological limitations, we were unable to go back and
-forth between the two software environments because their respective
-version control and comment histories do not integrate. To this end, we
-created a custom, version-controlled, open-access repository of this
-article on GitHub (github.com/satra/OpenEvaluationArticle) using
-open-source tools (e.g., pandoc) and open programming interfaces to
-Google Docs. Other technical challenges that have yet to be met include
-those mentioned in the “Enhancing code review systems for article
-review” subsections above: current code review systems are optimized for
-well-structured text as opposed to less structured prose or for data;
-they do not include quantitative assessment of the quality of reviews or
-the contributions of reviewers; and they are not visually intuitive for
-a non-programmer to understand or navigate.
+efficient, it exposed technological limitations. We were unable to go
+back and forth between the two software environments because their
+respective version control and comment histories do not integrate. To
+this end, we created a custom, version-controlled, open-access
+repository of this article on GitHub
+(github.com/satra/OpenEvaluationArticle) using open-source tools (e.g.,
+pandoc) and open programming interfaces to Google Docs. Other technical
+challenges that have yet to be met include those mentioned in the
+“Enhancing code review systems for article review” subsections above:
+current code review systems are optimized for well-structured text as
+opposed to less structured prose or for data; they do not include
+quantitative assessment of the quality of reviews or the contributions
+of reviewers; and they are not visually intuitive for a non-programmer
+to understand or navigate.
 
 With regard to sociological limitations, we did not announce the article
 to the entire scientific community for feedback, but instead solicited
@@ -693,35 +700,37 @@ solicited many more reviewers and engaged in an iterative reviewer
 feedback cycle, we could have experienced more of the real-world
 challenges of such an open review system. When implemented on a large
 scale, we expect that individual bias and selfish motives would be
-washed out by the efforts of numerous reviewers. For published articles
-that garner overwhelming feedback, it could make it impossible to
-extract relevant, interesting and constructive criticism. While social
-technologies such as Facebook and blogs have had a profound impact on
-people’s interactions, their comment histories and threads still consist
-of a primarily linear, chronological sequence of unfiltered text. The
-discussion interfaces of stackoverflow and mathoverflow attempt to
-organize and prioritize such information (using voting metrics), but do
-so in a manner that is not familiar to a general readership. We hope to
-learn from and improve upon these specialized interfaces to filter and
-highlight useful and relevant feedback.
+washed out\ :sup:``[h] <#cmnt8>`_`\  by the efforts of numerous
+reviewers. For published articles that garner overwhelming feedback, it
+could make it impossible to extract relevant, interesting and
+constructive criticism. While social technologies such as Facebook and
+blogs have had a profound impact on people’s interactions, their comment
+histories and threads still consist of a primarily linear, chronological
+sequence of unfiltered text. The discussion interfaces of stackoverflow
+and mathoverflow attempt to organize and prioritize such information
+(using voting metrics), but do so in a manner that is not familiar to a
+general readership. We hope to learn from and improve upon these
+specialized interfaces to filter and highlight useful and relevant
+feedback.
 
 Changing the review process in ways outlined in this article should lead
-to better science by creating a discussion-based environment to track
-and quantify impact, to create discourse and to refine the research
-directions that evolve from published work. However, if our goal as
-scientists is to increase understanding of the natural world through
-carefully crafted experiments and thoughtful analysis and interpretation
-of data, then in the long run the review process should not be limited
+to better science by turning each article into a public forum for
+scientific dialogue and debate. The proposed discussion-based
+environment will track and quantify impact of not only the original
+article, but of the comments made during the ensuing dialogue, helping
+readers to better filter, find, and follow this information while
+quantitatively acknowledging the caliber of author and reviewer
+contributions. In the long run, the review process should not be limited
 to publication, but should be engaged throughout the process of
 research, from inception through planning, execution, and documentation
-(Butler, 2005). This would facilitate collaborative research and would
-also ensure that optimal decisions are taken at every stage in the
-evolution of a project. Our proposed re-design of the current peer
-review system focuses on post-publication review, and incorporates ideas
-from code review systems associated with open source software
-development. Such a system should enable an unbiased, comprehensive, and
-efficient review of scientific work while ensuring a continued,
-evolving, public dialogue.
+(Butler, 2005; see Figure 1). This would facilitate collaborative
+research and would also ensure that optimal decisions are taken at every
+stage in the evolution of a project. Our proposed re-design of the
+current peer review system focuses on post-publication review, and
+incorporates ideas from code review systems associated with open source
+software development. Such a system should enable an unbiased,
+comprehensive, and efficient review of scientific work while ensuring a
+continued, evolving, public dialogue.
 
 Acknowledgements
 
@@ -799,6 +808,6 @@ timestamps acknowledging who performed the research.
 
 `[3] <#ftnt_ref3>`_`http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars <http://www.google.com/url?q=http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars&sa=D&sntz=1&usg=AFQjCNEgnJfB3QRx5aVFgzXATRQi_JDrzg>`_
 
-`[f] <#cmnt_ref6>`_arno:
+`[h] <#cmnt_ref8>`_arno:
 
-give specific pointer?
+or "checked"
