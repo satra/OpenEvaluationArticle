@@ -42,21 +42,19 @@ would allow each reviewer to focus on portions of the article that
 reflect the reviewer’s specialty or area of interest and place less of a
 burden on any one reviewer, enabling a more comprehensive and timely
 review. Providing reviewers materials and methods to perform
-comprehensive evaluation would facilitate transparency, replication of
-results and enable greater scrutiny by people from different fields
-using different nomenclature, leading to greater clarity and
-cross-fertilization of ideas. Acknowledging reviewers makes it possible
-to quantitatively assess reviewer contributions, which could be
+comprehensive evaluation would facilitate transparency, greater
+scrutiny, and replication of results. Acknowledging reviewers makes it
+possible to quantitatively assess reviewer contributions, which could be
 integrated with assessments for promotions and grants. Quantifying
-review quality could help establish the importance of reviewers and
-information generated during a review, and assess the importance of a
-submitted article. Finally, we recommend expediting post-publication
-reviews and allowing for the dialogue to continue and flourish in a
-dynamic and interactive manner. We argue that these solutions can be
-addressed by building upon computer programming code management systems.
-In this article, we provide examples of current code review systems that
-offer opportunities for addressing the above problems, and offer
-suggestions for enhancing code review systems for article review.
+review quality could help establish the importance of individual reviews
+and reviewers as well as the submitted article. Finally, we recommend
+expediting post-publication reviews and allowing for the dialogue to
+continue and flourish in a dynamic and interactive manner. We argue that
+these solutions can be addressed by building upon computer programming
+code management systems. In this article, we provide examples of current
+code review systems that offer opportunities for addressing the above
+problems, and offer suggestions for enhancing code review systems for
+article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -86,21 +84,22 @@ revisions of the article. If published, the public only sees the final
 version of the article without any of the reviews (however see,
 BioMedCentral). After publication, problems such as fraud or mistakes
 are addressed via retraction after disclosure or exposure by countering
-articles or letters to the editor (e.g. Chang et al., 2006). Through
-peer review and the scientific community's history of policing itself,
-scientists hope to achieve a self-correcting process. However, this
-self-correction is currently impeded by slow, private and incremental
-reviews without objective standards and limited post-publication
-feedback. Without a transparent and objective framework, journals have
-gained a hierarchical stature, with some attracting the best authors,
-articles, and reviewers. These journals have been quantified by impact
-factors (Garfield, 1955), and as such, have overtaken the review process
-as arbiters of quality and significance of research. With the difficulty
-for individual reviewers to review the increasing number and complexity
-of articles, and the use of journal impact factors as proxies for
-evaluations of individual articles, the integrity of the review process
-and, indeed, of science\ :sup:``[a] <#cmnt1>`_`\  suffers (Poschl and
-Koop, 2008; Smith, 2006).
+articles or letters to the editor (e.g. Chang et al., 2006;
+http://retractionwatch.wordpress.com/). Through peer review and the
+scientific community's history of policing itself, scientists hope to
+achieve a self-correcting process. However, this self-correction is
+currently impeded by slow, private and incremental reviews without
+objective standards and limited post-publication feedback. Without a
+transparent and objective framework, journals have gained a hierarchical
+stature, with some attracting the best authors, articles, and reviewers.
+These journals have been quantified by impact factors (Garfield, 1955),
+and as such, have overtaken the review process as arbiters of quality
+and significance of research. With the difficulty for individual
+reviewers to review the increasing number and complexity of articles,
+and the use of journal impact factors as proxies for evaluations of
+individual articles, the integrity of the review process and, indeed, of
+science\ :sup:``[a] <#cmnt1>`_`\  suffers (Poschl and Koop, 2008; Smith,
+2006).
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
@@ -120,7 +119,7 @@ in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
 from distributed code review in open source software development.
 
-Problems with current peer-review process
+Problems with the current peer-review process
 
 1. Reviewers are expected to have comprehensive expertise.
 
@@ -224,13 +223,13 @@ and situate the discussion in the larger scientific community. Reviewers
 could also focus on portions of the article that reflect their expertise
 and interests; but they would, of course, have the opportunity to
 provide feedback on an entire article. Furthermore, they would not be
-held responsible every\ :sup:``[c] <#cmnt3>`_`\  aspect of the article,
-leaving portions that they are not qualified or interested in for others
-and their silence would not be mistaken for tacit approval. This will
-lessen burden\ :sup:``[d] <#cmnt4>`_`\  placed on any one reviewer,
-enabling a more comprehensive, timely and scientifically rigorous
-review. This would also expose which portions of an article were not
-reviewed.
+held responsible for every\ :sup:``[c] <#cmnt3>`_`\  aspect of the
+article, leaving portions that they are not qualified or interested in
+for others and their silence would not be mistaken for tacit approval.
+This will lessen burden\ :sup:``[d] <#cmnt4>`_`\  placed on any one
+reviewer, enabling a more comprehensive, timely and scientifically
+rigorous review. This would also expose which portions of an article
+were not reviewed.
 
 In case there is a fear of disclosure prior to
 publication\ :sup:``[2] <#ftnt2>`_`\ , of an overwhelming amount of
@@ -280,7 +279,7 @@ performing such open and distributed review, the Frontiers journals do
 provide an interactive, but non-public discussion forum for authors and
 reviewers to improve the quality of a submission after an initial closed
 review. In GitHub, code is available for everyone to view and for
-registered GitHub members to comment on and report issues on using an
+registered GitHub members to comment on and report issues on through an
 interactive web interface. The interface combines a discussion forum
 that allows inserting comments on any given line of code together with a
 mechanism for accepting new updates to the code that fix unresolved
@@ -308,8 +307,8 @@ example, a reviewer might come across a sentence in the discussion
 section of an article that contradicts two sentences in different parts
 of the results section. The interface should allow multiple reviewers to
 expose contradictions, unsubstantiated assumptions, and other
-inconsistencies across the body of an article or across reviews for the
-article. A mock-up of such a system is shown in Figure 3.
+inconsistencies across the body of an article or across others’ comments
+on the article. A mock-up of such a system is shown in Figure 3.
 
 2. Provide reviewers materials and methods to perform comprehensive
 evaluation.
