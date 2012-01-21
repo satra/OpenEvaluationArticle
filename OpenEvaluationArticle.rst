@@ -224,15 +224,16 @@ the concept of a “publication” itself gives way to a forum or an
 evolving dialogue. In this sense, review can be seen as a form of
 coauthorship.
 
-.. figure:: images/image08.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 Figure 2. This schematic illustrates a color coding of ratings assigned
-to segments of an article or a review. Whether a publisher chooses to
-include a pre-publication review or not, one possible publishing model
-would consider an article published after it garners a minimum rating
-over an appreciable amount of its content. This visualization would help
-us to see when this has taken place for a given article.
+to segments of an article or a reviewer comment. Whether a publisher
+chooses to include a pre-publication review or not, one possible
+publishing model would consider an article published after it garners a
+minimum rating over an appreciable amount of its content. This
+visualization would help us to see when this has taken place for a given
+article.
 
 1. Distribute reviews to many reviewers.
 
@@ -309,7 +310,7 @@ issues or address reviewer comments (an example is shown in Figure 2).
 These interactive discussions become part of a permanent and open log of
 the project.
 
-.. figure:: images/image06.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 4. Mock-up of a modified commenting system. The left panel shows
@@ -421,10 +422,10 @@ code review. Systems like Geritt and GitHub explicitly list the
 reviewers participating in the review process. An example from Geritt is
 shown in Figure 5.
 
-.. figure:: images/image05.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
-Figure 6. A web page snippet from the Geritt code review system used for
+Figure 5. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
 
@@ -434,9 +435,6 @@ indicate the involvement of developers. Figure 7 shows an example of
 quantifying contributions over time. Neither of these measures
 necessarily reflect the quality of the contributions, however.
 
-.. figure:: images/image04.png
-   :align: center
-   :alt: 
 Figure 7. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
@@ -501,7 +499,7 @@ standards are met, the code is accepted into the main project. The
 discussion mechanism facilitates this process. However, in the case of
 code review, the quality of review is typically not quantified.
 
-.. figure:: images/image07.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
 
