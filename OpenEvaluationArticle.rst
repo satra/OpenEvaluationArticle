@@ -207,7 +207,7 @@ relevance of current code review systems in addressing the problem and
 finally describe enhancements to the current systems to support our
 proposed solution.
 
-.. figure:: images/image06.png
+.. figure:: images/image03.png
    :align: center
    :alt: 
 Figure 1. This flowchart illustrates a model of open scientific review,
@@ -218,16 +218,21 @@ solutions we propose to improve the review process: (1) distribute
 reviews to many reviewers, (2) provide reviewers materials and methods
 to perform comprehensive evaluation, (3) acknowledge reviewers, (4)
 quantify review quality, and (5) expedite the post-publication review
-process and allow it to continue indefinitely. Whereas this figure
-includes a pre-publication review, successful models of scientific
-review demonstrate that this stage is unnecessary (e.g., arxiv.org).
-Without pre-publication review, another criterion for determining when
-an article is published could be when all of its sections have attained
-some minimum rating in an open review. However, with the continued
+process and allow it to continue indefinitely. With the continued
 inclusion of new comments (or, alternatively, Wikipedia-style edits),
 the concept of a “publication” itself gives way to a forum or an
 evolving dialogue. In this sense, review can be seen as a form of
 coauthorship.
+
+.. figure:: images/image08.png
+   :align: center
+   :alt: 
+Figure 2. This schematic illustrates a color coding of ratings assigned
+to segments of an article or a review. Whether a publisher chooses to
+include a pre-publication review or not, one possible publishing model
+would consider an article published after it garners a minimum rating
+over an appreciable amount of its content. This visualization would help
+us to see when this has taken place for a given article.
 
 1. Distribute reviews to many reviewers.
 
@@ -283,7 +288,7 @@ and discuss the contents of submitted code changes.
 .. figure:: images/image01.png
    :align: center
    :alt: 
-Figure 2. A snapshot from the web interface of a request to merge code
+Figure 3. A snapshot from the web interface of a request to merge code
 into the NiPyPE (nipy.org/nipype) project on GitHub. This demonstrates:
 a) part of a discussion thread, b) inline commenting of code (for line
 98), and c) code updates (commits) taking place as a function of the
@@ -304,10 +309,10 @@ issues or address reviewer comments (an example is shown in Figure 2).
 These interactive discussions become part of a permanent and open log of
 the project.
 
-.. figure:: images/image05.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
-Figure 3. Mock-up of a modified commenting system. The left panel shows
+Figure 4. Mock-up of a modified commenting system. The left panel shows
 the annotated text from a prior revision of this article and the right
 panel shows the reviewer comments. Comments can be linked to multiple
 sections of the text and by multiple reviewers.
@@ -414,25 +419,25 @@ In software development, registered reviewers are acknowledged
 implicitly by having their names associated with comments related to a
 code review. Systems like Geritt and GitHub explicitly list the
 reviewers participating in the review process. An example from Geritt is
-shown in Figure 4.
+shown in Figure 5.
 
-.. figure:: images/image04.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
-Figure 4. A web page snippet from the Geritt code review system used for
+Figure 6. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
 
 In addition, certain social coding websites (e.g., ohloh.net) analyze
 contributions of developers to various projects and assign “kudos” to
-indicate the involvement of developers. Figure 5 shows an example of
+indicate the involvement of developers. Figure 7 shows an example of
 quantifying contributions over time. Neither of these measures
 necessarily reflect the quality of the contributions, however.
 
-.. figure:: images/image03.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
-Figure 5. Example of a metric for quantifying contributions over time.
+Figure 7. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
 individual contributor and the width of a colored ribbon represents that
@@ -447,7 +452,7 @@ systems typically do not have a mechanism to acknowledge and quantify
 reviewer contributions. We propose that code review systems adapted for
 article review include quantitative assessment of the contributions of
 reviewers. This would include a weighted combination of the number
-(Figure 6) and consistency (Figure 5) of contributions, as well as their
+(Figure 7) and consistency (Figure 6) of contributions, as well as their
 quality. Reviewers need not be the only ones to have an impact on other
 reviewers’ standing. The authors themselves could evaluate the reviewers
 by assigning impact ratings to the reviews or segments of the reviews.
@@ -500,7 +505,7 @@ code review, the quality of review is typically not quantified.
    :align: center
    :alt: 
 
-Figure 7. A response to a question on stackoverflow.net. The top left
+Figure 8. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
 to the comments reflect the number of positive votes for each comment
@@ -527,7 +532,7 @@ responses to questions on topics related to either computer programming
 or mathematics, respectively. The web interface allows registered
 members to post or respond to a question, to comment on a response, and
 to vote on the quality or importance of a question, of a response, or of
-a comment. Figure 7 shows a screenshot of the response from a registered
+a comment. Figure 8 shows a screenshot of the response from a registered
 member to a question submitted to Stack Overflow, where 299 indicates
 the number of votes received for the response from registered members.
 In our proposed review system, such a vote tally would be associated
@@ -538,8 +543,8 @@ It would also be possible to aggregate the measures above to assess the
 impact or importance of, for example, collaborators, coauthors,
 institutions, or different areas of multidisciplinary research. As
 simple examples, one could add the number of contributions by two or
-more coders in Figure 5 or the number of quotations by two or more
-individuals in Figure 6. This could be useful in evaluating a statement
+more coders in Figure 6 or the number of quotations by two or more
+individuals in Figure 7. This could be useful in evaluating a statement
 in an article in the following scenario. Half of a pool of reviewers A
 agrees with the statement and the other half B disagrees with the
 statement. Deciding in favor of group A would be reasonable if the
@@ -570,7 +575,7 @@ community.
 .. figure:: images/image00.gif
    :align: center
    :alt: 
-Figure 8. A visualization of the edit history of the interactions of
+Figure 9. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
