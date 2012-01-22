@@ -349,14 +349,13 @@ possible in a closed review process.
 We propose that data and software (including scripts containing
 parameters) be submitted together with the article. This not only
 facilitates transparency for all readers including reviewers but also
-facilitates reproducibility and encourages method reuse. For example, a
-workflow graph from a neuroimaging analysis captures numerous details in
-a compact visual form which would otherwise be absent in a methods
-section. Furthermore, several journals (e.g. Science - sciencemag.org ,
-Proceedings of the National Academy of Sciences -
-pnas.org\ :sup:``[f] <#cmnt6>`_`\ ) are now mandating submitting all
-components necessary to reproduce the results (Drummond, 2009) of a
-study as part of article submission.
+facilitates reproducibility and encourages method reuse. Furthermore,
+several journals (e.g. Science - sciencemag.org , Proceedings of the
+National Academy of Sciences - pnas.org\ :sup:``[f] <#cmnt6>`_`\ ) are
+now mandating availability of all components necessary to reproduce the
+results (Drummond, 2009) of a study as part of article submission. The
+journal Biostatistics marks papers as providing code [C], data [D] or
+both [R].
 
 While rerunning an entire study’s analysis might not currently be
 feasible as part of a review, simply exposing code can often help
