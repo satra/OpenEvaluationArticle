@@ -274,14 +274,14 @@ of consensus across reviewers, there are at least three types of
 alternatives available. One would be to assign certain reviewers as
 moderators for different components of the article, to lessen the burden
 on the editor. A second would be to restrict the number of reviewers to
-those solicited from a pool of experts. This would still improve
+those solicited from a pool of experts (Fig 1). This would still improve
 scientific rigor while lessening the burden on each individual reviewer,
 as long as they review specific components of the article they are
 knowledgeable about. A third would be to conduct a preliminary review
-consisting of a limited and expedited review process prior to the full
-and open review as we propose. At different stages of such a tiered
-review, reviewers might be assigned different roles, such as mediator,
-editor, or commenter.
+consisting of a limited, possibly anonymous\ :sup:``[e] <#cmnt5>`_`\ 
+and expedited review process prior to the full and open review as we
+propose. At different stages of such a tiered review, reviewers might be
+assigned different roles, such as mediator, editor, or commenter.
 
 Relevance of code review systems
 
@@ -310,9 +310,9 @@ registered GitHub members to comment on and report issues on through an
 interactive web interface. The interface combines a discussion forum
 that allows inserting comments on any given line of code together with a
 mechanism for accepting new updates to the code that fix unresolved
-issues or address reviewer comments (an example is shown in Figure 2).
-These interactive discussions become part of a permanent and open log of
-the project.
+issues or address reviewer comments (an example is shown in
+supplementary Figure 1). These interactive discussions become part of a
+permanent and open log of the project.
 
 Enhancing code review systems for article review
 
@@ -327,7 +327,12 @@ section of an article that contradicts two sentences in different parts
 of the results section. The interface should allow multiple reviewers to
 expose contradictions, unsubstantiated assumptions, and other
 inconsistencies across the body of an article or across others’ comments
-on the article. A mock-up of such a system is shown in Figure 3.
+on the article. This system can be used in both a traditional review and
+revise model as well as a collaborative Wikipedia-style revision model
+that allows collaborative revision of the article. Since metrics keep
+track of contributions (discussed later), such an approach encourages
+revisions to an article that improve its scientific validity instead of
+a new article. A mock-up of such a system is shown in Figure 2A.
 
 2. Provide reviewers materials and methods to perform comprehensive
 evaluation.
@@ -349,7 +354,7 @@ workflow graph from a neuroimaging analysis captures numerous details in
 a compact visual form which would otherwise be absent in a methods
 section. Furthermore, several journals (e.g. Science - sciencemag.org ,
 Proceedings of the National Academy of Sciences -
-pnas.org\ :sup:``[e] <#cmnt5>`_`\ ) are now mandating submitting all
+pnas.org\ :sup:``[f] <#cmnt6>`_`\ ) are now mandating submitting all
 components necessary to reproduce the results (Drummond, 2009) of a
 study as part of article submission.
 
@@ -432,7 +437,7 @@ This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
 individual contributor and the width of a colored ribbon represents that
 individual’s “impact” or contributions during a week-long
-period.\ :sup:``[f] <#cmnt6>`_`\ 
+period.\ :sup:``[g] <#cmnt7>`_`\ 
 
 Enhancing code review systems for article review
 
@@ -558,7 +563,7 @@ Figure 9. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(\ :sup:``[g] <#cmnt7>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+(\ :sup:``[h] <#cmnt8>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
 Víegas, F. et al., 2004).
 
 Relevance of code review systems
@@ -579,7 +584,7 @@ navigate, and to enable a temporal view of the evolutionary history of
 an arbitrary section of text, analogous to Figure 8 (except as an
 interactive tool).
 
-Discussion
+Discussion\ :sup:``[i] <#cmnt9>`_`\ 
 
 The current review process is extremely complex, reflecting the demands
 of academia and its social context. When one reviews a paper, there are
@@ -689,7 +694,7 @@ solicited many more reviewers and engaged in an iterative reviewer
 feedback cycle, we could have experienced more of the real-world
 challenges of such an open review system. When implemented on a large
 scale, we expect that individual bias and selfish motives would be
-washed out\ :sup:``[h] <#cmnt8>`_`\  by the efforts of numerous
+washed out\ :sup:``[j] <#cmnt10>`_`\  by the efforts of numerous
 reviewers. For published articles that garner overwhelming feedback, it
 could make it impossible to extract relevant, interesting and
 constructive criticism. While social technologies such as Facebook and
@@ -726,7 +731,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard, Barrett Klein, and Elizabeth Sublette for their
 helpful comments. Arno Klein would like to thank Deepanjana and
-Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well as the NIMH for their support
+Ellora,\ :sup:``[k] <#cmnt11>`_`\  as well as the NIMH for their support
 via R01 grant MH084029. Brian Avants acknowledges ARRA funding from the
 National Library of Medicine via award HHSN276201000492p.
 
@@ -775,16 +780,18 @@ and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
 systems, pages 575–582. ACM.
 
+--------------
+
 Supplementary material
 
 .. figure:: images/image06.png
    :align: center
    :alt: 
-Figure 3. A snapshot from the web interface of a request to merge code
-into the NiPyPE (nipy.org/nipype) project on GitHub. This demonstrates:
-a) part of a discussion thread, b) inline commenting of code (for line
-98), and c) code updates (commits) taking place as a function of the
-discussion.
+Figure 1. An annotated\ :sup:``[l] <#cmnt12>`_`\  snapshot from the web
+interface of a request to merge code into the NiPyPE (nipy.org/nipype)
+project on GitHub. This demonstrates: a) part of a discussion thread, b)
+inline commenting of code (for line 98), and c) code updates (commits)
+taking place as a function of the discussion.
 
 .. figure:: images/image02.png
    :align: center
@@ -834,6 +841,24 @@ timestamps acknowledging who performed the research.
 
 `[3] <#ftnt_ref3>`_`http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars <http://www.google.com/url?q=http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars&sa=D&sntz=1&usg=AFQjCNEgnJfB3QRx5aVFgzXATRQi_JDrzg>`_
 
-`[h] <#cmnt_ref8>`_arno:
+`[e] <#cmnt_ref5>`_satrajit.ghosh:
+
+to address potential concerns
+
+`[i] <#cmnt_ref9>`_satrajit.ghosh:
+
+make sure we address:
+
+- how significance of an article is measured.
+
+- the graded continuum between authorship and review
+
+- evaluation metrics
+
+`[j] <#cmnt_ref10>`_arno:
 
 or "checked"
+
+`[l] <#cmnt_ref12>`_satrajit.ghosh:
+
+todo
