@@ -299,15 +299,6 @@ like GitHub (http://github.com) are built for a distributed review
 process and provide reviewers the ability to interact, modify, annotate
 and discuss the contents of submitted code changes.
 
-.. figure:: images/image01.png
-   :align: center
-   :alt: 
-Figure 3. A snapshot from the web interface of a request to merge code
-into the NiPyPE (nipy.org/nipype) project on GitHub. This demonstrates:
-a) part of a discussion thread, b) inline commenting of code (for line
-98), and c) code updates (commits) taking place as a function of the
-discussion.
-
 Indeed, the purpose of these systems mirror the purpose of scientific
 review -- to increase the clarity, reproducibility and correctness of
 works that enter the canon. While no journals provide a platform for
@@ -322,14 +313,6 @@ mechanism for accepting new updates to the code that fix unresolved
 issues or address reviewer comments (an example is shown in Figure 2).
 These interactive discussions become part of a permanent and open log of
 the project.
-
-.. figure:: images/image06.png
-   :align: center
-   :alt: 
-Figure 4. Mock-up of a modified commenting system. The left panel shows
-the annotated text from a prior revision of this article and the right
-panel shows the reviewer comments. Comments can be linked to multiple
-sections of the text and by multiple reviewers.
 
 Enhancing code review systems for article review
 
@@ -435,13 +418,6 @@ code review. Systems like Geritt and GitHub explicitly list the
 reviewers participating in the review process. An example from Geritt is
 shown in Figure 5.
 
-.. figure:: images/image05.png
-   :align: center
-   :alt: 
-Figure 5. A web page snippet from the Geritt code review system used for
-Insight Toolkit (itk.org). This explicitly lists the reviewers who are
-participating in the review.
-
 In addition, certain social coding websites (e.g., ohloh.net) analyze
 contributions of developers to various projects and assign “kudos” to
 indicate the involvement of developers. Figure 7 shows an example of
@@ -475,7 +451,7 @@ the future by editors and used to assess contributions to peer review in
 the context of academic promotion. We acknowledge some reviewers might
 be discouraged by this idea, thus it may be optional to participate.
 
-.. figure:: images/image02.png
+.. figure:: images/image01.png
    :align: center
    :alt: 
 Figure 6. Example of a metric for quantifying contributor frequency.
@@ -514,17 +490,6 @@ expected and is written using proper style and documentation. Once these
 standards are met, the code is accepted into the main project. The
 discussion mechanism facilitates this process. However, in the case of
 code review, the quality of review is typically not quantified.
-
-.. figure:: images/image08.png
-   :align: center
-   :alt: 
-
-Figure 8. A response to a question on stackoverflow.net. The top left
-number (299) indicates the number of positive votes this response
-received. There are comments to the response itself and the numbers next
-to the comments reflect the number of positive votes for each comment
-
-(http://meta.stackoverflow.com/questions/76251/how-do-suggested-edits-work).
 
 Enhancing code review systems for article review
 
@@ -809,6 +774,43 @@ Víegas, F., Wattenberg, M., and Dave, K. (2004). Studying cooperation
 and conflict between authors with history flow visualizations. In
 Proceedings of the SIGCHI conference on Human factors in computing
 systems, pages 575–582. ACM.
+
+Supplementary material
+
+.. figure:: images/image06.png
+   :align: center
+   :alt: 
+Figure 3. A snapshot from the web interface of a request to merge code
+into the NiPyPE (nipy.org/nipype) project on GitHub. This demonstrates:
+a) part of a discussion thread, b) inline commenting of code (for line
+98), and c) code updates (commits) taking place as a function of the
+discussion.
+
+.. figure:: images/image02.png
+   :align: center
+   :alt: 
+Figure 4. Mock-up of a modified commenting system. The left panel shows
+the annotated text from a prior revision of this article and the right
+panel shows the reviewer comments. Comments can be linked to multiple
+sections of the text and by multiple reviewers.
+
+.. figure:: images/image05.png
+   :align: center
+   :alt: 
+Figure 5. A web page snippet from the Geritt code review system used for
+Insight Toolkit (itk.org). This explicitly lists the reviewers who are
+participating in the review.
+
+.. figure:: images/image08.png
+   :align: center
+   :alt: 
+
+Figure 8. A response to a question on stackoverflow.net. The top left
+number (299) indicates the number of positive votes this response
+received. There are comments to the response itself and the numbers next
+to the comments reflect the number of positive votes for each comment
+
+(http://meta.stackoverflow.com/questions/76251/how-do-suggested-edits-work).
 
 --------------
 
