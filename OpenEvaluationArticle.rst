@@ -446,7 +446,7 @@ systems typically do not have a mechanism to rate reviewer
 contributions. We propose that code review systems adapted for article
 review include quantitative assessment of the quality of contributions
 of reviewers. This would include a weighted combination of the number
-(Figure 3) and quality (Figure 2B, 6) of contributions. Reviewers need
+(Figure 3) and quality (Figure 2B, 4) of contributions. Reviewers need
 not be the only ones to have an impact on other reviewers’ standing. The
 authors themselves could evaluate the reviewers by assigning impact
 ratings to the reviews or segments of the reviews. These ratings can be
@@ -458,7 +458,7 @@ by this idea, thus it may be optional to participate.
 .. figure:: images/image01.png
    :align: center
    :alt: 
-Figure 6. Example of a metric for quantifying contributor frequency.
+Figure 4. Example of a metric for quantifying contributor frequency.
 Quotes over Time (www.qovert.info) tracked the top-quoted people from
 Reuters Alertnet News on a range of topics, and presents their quotes on
 a timeline, where color denotes the identity of a speaker and bar height
@@ -507,27 +507,28 @@ and number of article downloads, but these measures indicate the
 popularity but not necessarily quality of articles or reviews.
 
 We propose to augment code review systems (and in turn, article review
-systems) with a mechanism similar to the one used in discussion forums
-such as `stackoverflow.net <http://stackoverflow.net>`_ or
+systems) with a “reputation” assessment mechanism similar to the one
+used in discussion forums such as
+`stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
 quality of reviews. These sites provide a web interface for soliciting
 responses to questions on topics related to either computer programming
 or mathematics, respectively. The web interface allows registered
 members to post or respond to a question, to comment on a response, and
 to vote on the quality or importance of a question, of a response, or of
-a comment. Figure 8 shows a screenshot of the response from a registered
-member to a question submitted to Stack Overflow, where 299 indicates
-the number of votes received for the response from registered members.
-In our proposed review system, such a vote tally would be associated
-with identified, registered reviewers, and would be only one of several
-measures of the quality of reviews (and reviews of reviews).
+a comment. Supplementary Figure 3 shows a screenshot of the response
+from a registered member to a question submitted to Stack Overflow and
+demonstrates the different ways of assessing reputation. In our proposed
+review system, such a vote tally would be associated with identified,
+registered reviewers, and would be only one of several measures of the
+quality of reviews (and reviews of reviews).
 
 It would also be possible to aggregate the measures above to assess the
 impact or importance of, for example, collaborators, coauthors,
 institutions, or different areas of multidisciplinary research. As
 simple examples, one could add the number of contributions by two or
-more coders in Figure 6 or the number of quotations by two or more
-individuals in Figure 7. This could be useful in evaluating a statement
+more coders in Figure 3 or the number of quotations by two or more
+individuals in Figure 4. This could be useful in evaluating a statement
 in an article in the following scenario. Half of a pool of reviewers A
 agrees with the statement and the other half B disagrees with the
 statement. Deciding in favor of group A would be reasonable if the
@@ -546,7 +547,7 @@ would these two changes make the review process more enjoyable, but they
 would expedite the review process. And there is no reason for a review
 process to end after an article has been published. Under
 post-publication review, the article can continue as a living document,
-where the dialogue can evolve and flourish (see Figure 8), and
+where the dialogue can evolve and flourish (see Figure 5), and
 references to different articles could be supplemented with references
 to the comments about these articles, perhaps as Digital Object
 Identifiers (http://www.doi.org/), firmly establishing these
@@ -558,7 +559,7 @@ community.
 .. figure:: images/image00.gif
    :align: center
    :alt: 
-Figure 9. A visualization of the edit history of the interactions of
+Figure 5. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
@@ -579,9 +580,9 @@ Enhancing code review systems for article review
 Current code review systems have components for expedited and continued
 review. Where they could stand to be improved is in their visual
 interfaces, to make them more intuitive for a non-programmer to quickly
-navigate, and to enable a temporal view of the evolutionary history of
-an arbitrary section of text, analogous to Figure 8 (except as an
-interactive tool).
+navigate (Figure 2), and to enable a temporal view of the evolutionary
+history of an arbitrary section of text, analogous to Figure 5 (except
+as an interactive tool).
 
 Discussion\ :sup:``[i] <#cmnt9>`_`\ 
 
@@ -682,29 +683,16 @@ quantitative assessment of the quality of reviews or the contributions
 of reviewers; and they are not visually intuitive for a non-programmer
 to understand or navigate.
 
-With regard to sociological limitations, we did not announce the article
-to the entire scientific community for feedback, but instead solicited
-feedback from a small number of peers during the writing of the article.
-Further, we assumed that the reviewers did not have selfish motives or
-egotistical attitudes that affected their reviews, and we reached a
-consensus on most of the reviewers’ issues, resulting in a very rapid
-process of writing and reviewing, without conflicts or deadlock. Had we
-solicited many more reviewers and engaged in an iterative reviewer
-feedback cycle, we could have experienced more of the real-world
-challenges of such an open review system. When implemented on a large
-scale, we expect that individual bias and selfish motives would be
-washed out\ :sup:``[j] <#cmnt10>`_`\  by the efforts of numerous
-reviewers. For published articles that garner overwhelming feedback, it
-could make it impossible to extract relevant, interesting and
-constructive criticism. While social technologies such as Facebook and
-blogs have had a profound impact on people’s interactions, their comment
-histories and threads still consist of a primarily linear, chronological
-sequence of unfiltered text. The discussion interfaces of stackoverflow
-and mathoverflow attempt to organize and prioritize such information
-(using voting metrics), but do so in a manner that is not familiar to a
-general readership. We hope to learn from and improve upon these
-specialized interfaces to filter and highlight useful and relevant
-feedback.
+For published articles that garner overwhelming feedback, it could make
+it impossible to extract relevant, interesting and constructive
+criticism. While social technologies such as Facebook and blogs have had
+a profound impact on people’s interactions, their comment histories and
+threads still consist of a primarily linear, chronological sequence of
+unfiltered text. The discussion interfaces of stackoverflow and
+mathoverflow attempt to organize and prioritize such information (using
+voting metrics), but do so in a manner that is not familiar to a general
+readership. We hope to learn from and improve upon these specialized
+interfaces to filter and highlight useful and relevant feedback.
 
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
@@ -712,25 +700,25 @@ scientific dialogue and debate. The proposed discussion-based
 environment will track and quantify impact of not only the original
 article, but of the comments made during the ensuing dialogue, helping
 readers to better filter, find, and follow this information while
-quantitatively acknowledging the caliber of author and reviewer
-contributions. In the long run, the review process should not be limited
-to publication, but should be engaged throughout the process of
-research, from inception through planning, execution, and documentation
-(Butler, 2005; see Figure 1). This would facilitate collaborative
-research and would also ensure that optimal decisions are taken at every
-stage in the evolution of a project. Our proposed re-design of the
-current peer review system focuses on post-publication review, and
-incorporates ideas from code review systems associated with open source
-software development. Such a system should enable an unbiased,
-comprehensive, and efficient review of scientific work while ensuring a
-continued, evolving, public dialogue.
+quantitatively acknowledging author and reviewer contributions and their
+quality. In the long run, the review process should not be limited to
+publication, but should be engaged throughout the process of research,
+from inception through planning, execution, and documentation (Butler,
+2005; see Figure 1). This would facilitate collaborative research and
+would also ensure that optimal decisions are taken at every stage in the
+evolution of a project. Our proposed re-design of the current peer
+review system focuses on post-publication review, and incorporates ideas
+from code review systems associated with open source software
+development. Such a system should enable an unbiased, comprehensive, and
+efficient review of scientific work while ensuring a continued,
+evolving, public dialogue.
 
 Acknowledgements
 
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard, Barrett Klein, and Elizabeth Sublette for their
 helpful comments. Arno Klein would like to thank Deepanjana and
-Ellora,\ :sup:``[k] <#cmnt11>`_`\  as well as the NIMH for their support
+Ellora,\ :sup:``[j] <#cmnt10>`_`\  as well as the NIMH for their support
 via R01 grant MH084029. Brian Avants acknowledges ARRA funding from the
 National Library of Medicine via award HHSN276201000492p.
 
@@ -786,7 +774,7 @@ Supplementary material
 .. figure:: images/image05.png
    :align: center
    :alt: 
-Figure 1. An annotated\ :sup:``[l] <#cmnt12>`_`\  snapshot from the web
+Figure 1. An annotated\ :sup:``[k] <#cmnt11>`_`\  snapshot from the web
 interface of a request to merge code into the NiPyPE (nipy.org/nipype)
 project on GitHub. This demonstrates: a) part of a discussion thread, b)
 inline commenting of code (for line 98), and c) code updates (commits)
@@ -803,7 +791,7 @@ participating in the review.
    :align: center
    :alt: 
 
-Figure 8. A response to a question on stackoverflow.net. The top left
+Figure 3. A response to a question on stackoverflow.net. The top left
 number (299) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
 to the comments reflect the number of positive votes for each comment
@@ -846,10 +834,6 @@ make sure we address:
 
 - evaluation metrics
 
-`[j] <#cmnt_ref10>`_arno:
-
-or "checked"
-
-`[l] <#cmnt_ref12>`_satrajit.ghosh:
+`[k] <#cmnt_ref11>`_satrajit.ghosh:
 
 todo
