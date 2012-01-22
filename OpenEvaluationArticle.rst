@@ -207,10 +207,16 @@ relevance of current code review systems in addressing the problem and
 finally describe enhancements to the current systems to support our
 proposed solution.
 
+.. figure:: images/image07.png
+   :align: center
+   :alt: 
 .. figure:: images/image03.png
    :align: center
    :alt: 
-Figure 1. This flowchart illustrates a model of open scientific review,
+Figure 1. The top flowchart illustrates a standard scientific article
+review process before acceptance or rejection.
+
+The bottom flowchart illustrates our model of open scientific review,
 from inception of an idea through its execution and documentation. This
 article focuses on the review of the documentation, and in particular on
 post-publication review. The numbers in the figure refer to the five
@@ -224,16 +230,23 @@ the concept of a “publication” itself gives way to a forum or an
 evolving dialogue. In this sense, review can be seen as a form of
 coauthorship.
 
-.. figure:: images/image07.png
+.. figure:: images/image09.png
    :align: center
    :alt: 
 Figure 2. This schematic illustrates a color coding of ratings assigned
-to segments of an article or a reviewer comment. Whether a publisher
-chooses to include a pre-publication review or not, one possible
-publishing model would consider an article published after it garners a
-minimum rating over an appreciable amount of its content. This
-visualization would help us to see when this has taken place for a given
-article.
+to segments of an article or reviewer comment. Such a visualization
+could help authors, reviewers, and editors quickly assess how much of
+and how favorably an article has been reviewed, and could be useful in a
+publishing model where an article is considered published after it
+garners a minimum rating over an appreciable amount of its content.
+
+In the top row, a single segment of text receives (A) a negative comment
+(in red) from reviewer 1, (B) a positive comment (in blue) from reviewer
+2 (who also decrements the rating of reviewer 1’s comment), and after
+more comments and ratings, (C) a negative comment about the same comment
+by reviewer 1. This is to demonstrate that any portion of text in an
+article or a comment may be rated and commented upon. (D) The bottom row
+shows how the ratings of an article’s text can change over time.
 
 1. Distribute reviews to many reviewers.
 
@@ -310,7 +323,7 @@ issues or address reviewer comments (an example is shown in Figure 2).
 These interactive discussions become part of a permanent and open log of
 the project.
 
-.. figure:: images/image05.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
 Figure 4. Mock-up of a modified commenting system. The left panel shows
@@ -422,7 +435,7 @@ code review. Systems like Geritt and GitHub explicitly list the
 reviewers participating in the review process. An example from Geritt is
 shown in Figure 5.
 
-.. figure:: images/image04.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 5. A web page snippet from the Geritt code review system used for
@@ -435,6 +448,9 @@ indicate the involvement of developers. Figure 7 shows an example of
 quantifying contributions over time. Neither of these measures
 necessarily reflect the quality of the contributions, however.
 
+.. figure:: images/image04.png
+   :align: center
+   :alt: 
 Figure 7. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
@@ -499,7 +515,7 @@ standards are met, the code is accepted into the main project. The
 discussion mechanism facilitates this process. However, in the case of
 code review, the quality of review is typically not quantified.
 
-.. figure:: images/image06.png
+.. figure:: images/image08.png
    :align: center
    :alt: 
 
