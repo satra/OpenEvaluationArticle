@@ -327,12 +327,13 @@ section of an article that contradicts two sentences in different parts
 of the results section. The interface should allow multiple reviewers to
 expose contradictions, unsubstantiated assumptions, and other
 inconsistencies across the body of an article or across others’ comments
-on the article. This system can be used in both a traditional review and
-revise model as well as a collaborative Wikipedia-style revision model
-that allows collaborative revision of the article. Since metrics keep
-track of contributions (discussed later), such an approach encourages
-revisions to an article that improve its scientific validity instead of
-a new article. A mock-up of such a system is shown in Figure 2A.
+on the article. This system can be used in both a traditional
+review-and-revise model as well as a collaborative Wikipedia-style
+revision model that allows collaborative revision of the article. Since
+metrics keep track of contributions (discussed later), such an approach
+encourages revisions to an article that improve its scientific validity
+instead of a new article. A mock-up of such a system is shown in Figure
+2A.
 
 2. Provide reviewers materials and methods to perform comprehensive
 evaluation.
