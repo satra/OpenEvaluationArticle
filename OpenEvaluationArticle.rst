@@ -207,10 +207,10 @@ relevance of current code review systems in addressing the problem and
 finally describe enhancements to the current systems to support our
 proposed solution.
 
-.. figure:: images/image07.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
-.. figure:: images/image03.png
+.. figure:: images/image02.png
    :align: center
    :alt: 
 Figure 1. The top flowchart illustrates a standard scientific article
@@ -230,7 +230,7 @@ the concept of a “publication” itself gives way to a forum or an
 evolving dialogue. In this sense, review can be seen as a form of
 coauthorship.
 
-.. figure:: images/image09.png
+.. figure:: images/image08.png
    :align: center
    :alt: 
 Figure 2. This schematic illustrates a color coding of ratings assigned
@@ -396,7 +396,7 @@ Enhancing code review systems for article review
 
 As stated earlier, code review systems are built for code, not for data.
 Code review systems should be coupled with data storage systems to
-enable querying and accessing data relevant to the review.
+enable querying and accessing code and data relevant to the review.
 
 3. Acknowledge reviewers.
 
@@ -420,18 +420,18 @@ In software development, registered reviewers are acknowledged
 implicitly by having their names associated with comments related to a
 code review. Systems like Geritt and GitHub explicitly list the
 reviewers participating in the review process. An example from Geritt is
-shown in Figure 5.
+shown in supplementary Figure 2.
 
 In addition, certain social coding websites (e.g., ohloh.net) analyze
 contributions of developers to various projects and assign “kudos” to
-indicate the involvement of developers. Figure 7 shows an example of
+indicate the involvement of developers. Figure 3 shows an example of
 quantifying contributions over time. Neither of these measures
 necessarily reflect the quality of the contributions, however.
 
-.. figure:: images/image04.png
+.. figure:: images/image03.png
    :align: center
    :alt: 
-Figure 7. Example of a metric for quantifying contributions over time.
+Figure 3. Example of a metric for quantifying contributions over time.
 This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
 individual contributor and the width of a colored ribbon represents that
@@ -442,18 +442,18 @@ Enhancing code review systems for article review
 
 The criterion for accepting code is based on the functionality of the
 final code rather than the quality of reviews. As such, code review
-systems typically do not have a mechanism to acknowledge and quantify
-reviewer contributions. We propose that code review systems adapted for
-article review include quantitative assessment of the contributions of
-reviewers. This would include a weighted combination of the number
-(Figure 7) and consistency (Figure 6) of contributions, as well as their
-quality. Reviewers need not be the only ones to have an impact on other
-reviewers’ standing. The authors themselves could evaluate the reviewers
-by assigning impact ratings to the reviews or segments of the reviews.
-These ratings can be entered into the reviewer database, referenced in
-the future by editors and used to assess contributions to peer review in
-the context of academic promotion. We acknowledge some reviewers might
-be discouraged by this idea, thus it may be optional to participate.
+systems typically do not have a mechanism to rate reviewer
+contributions. We propose that code review systems adapted for article
+review include quantitative assessment of the quality of contributions
+of reviewers. This would include a weighted combination of the number
+(Figure 3) and quality (Figure 2B, 6) of contributions. Reviewers need
+not be the only ones to have an impact on other reviewers’ standing. The
+authors themselves could evaluate the reviewers by assigning impact
+ratings to the reviews or segments of the reviews. These ratings can be
+entered into a reviewer database, referenced in the future by editors
+and used to assess contributions to peer review in the context of
+academic promotion. We acknowledge some reviewers might be discouraged
+by this idea, thus it may be optional to participate.
 
 .. figure:: images/image01.png
    :align: center
@@ -783,7 +783,7 @@ systems, pages 575–582. ACM.
 
 Supplementary material
 
-.. figure:: images/image06.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 1. An annotated\ :sup:``[l] <#cmnt12>`_`\  snapshot from the web
@@ -792,22 +792,14 @@ project on GitHub. This demonstrates: a) part of a discussion thread, b)
 inline commenting of code (for line 98), and c) code updates (commits)
 taking place as a function of the discussion.
 
-.. figure:: images/image02.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
-Figure 4. Mock-up of a modified commenting system. The left panel shows
-the annotated text from a prior revision of this article and the right
-panel shows the reviewer comments. Comments can be linked to multiple
-sections of the text and by multiple reviewers.
-
-.. figure:: images/image05.png
-   :align: center
-   :alt: 
-Figure 5. A web page snippet from the Geritt code review system used for
+Figure 2. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
 
-.. figure:: images/image08.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 
