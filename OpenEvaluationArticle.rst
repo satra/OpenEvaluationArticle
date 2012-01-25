@@ -230,7 +230,7 @@ the concept of a “publication” itself gives way to a forum or an
 evolving dialogue. In this sense, review can be seen as a form of
 coauthorship.
 
-.. figure:: images/image07.png
+.. figure:: images/image08.png
    :align: center
    :alt: 
 Figure 2. This schematic illustrates a color coding of ratings assigned
@@ -782,7 +782,7 @@ systems, pages 575–582. ACM.
 
 Supplementary material
 
-.. figure:: images/image05.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
 Figure 1. A snapshot from the web interface of a request to merge code
@@ -791,18 +791,22 @@ a) part of a discussion thread, b) inline commenting of code (for line
 98), and c) code updates (commits) taking place as a function of the
 discussion.
 
+.. figure:: images/image05.png
+   :align: center
+   :alt: 
 Figure 2. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
 
-.. figure:: images/image06.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 
 Figure 3. A response to a question on stackoverflow.net. The top left
-number (299) indicates the number of positive votes this response
+number (170) indicates the number of positive votes this response
 received. There are comments to the response itself and the numbers next
 to the comments reflect the number of positive votes for each comment
+(e.g. 220 in this example).
 
 (http://meta.stackoverflow.com/questions/76251/how-do-suggested-edits-work).
 
