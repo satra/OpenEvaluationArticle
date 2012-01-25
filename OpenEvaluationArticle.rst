@@ -207,10 +207,10 @@ relevance of current code review systems in addressing the problem and
 finally describe enhancements to the current systems to support our
 proposed solution.
 
-.. figure:: images/image06.png
+.. figure:: images/image02.png
    :align: center
    :alt: 
-.. figure:: images/image02.png
+.. figure:: images/image03.png
    :align: center
    :alt: 
 Figure 1. The top flowchart illustrates a standard scientific article
@@ -230,7 +230,7 @@ the concept of a “publication” itself gives way to a forum or an
 evolving dialogue. In this sense, review can be seen as a form of
 coauthorship.
 
-.. figure:: images/image08.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 Figure 2. This schematic illustrates a color coding of ratings assigned
@@ -429,7 +429,7 @@ indicate the involvement of developers. Figure 3 shows an example of
 quantifying contributions over time. Neither of these measures
 necessarily reflect the quality of the contributions, however.
 
-.. figure:: images/image03.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
 Figure 3. Example of a metric for quantifying contributions over time.
@@ -772,23 +772,20 @@ systems, pages 575–582. ACM.
 
 Supplementary material
 
-.. figure:: images/image05.png
-   :align: center
-   :alt: 
 Figure 1. An annotated\ :sup:``[k] <#cmnt11>`_`\  snapshot from the web
 interface of a request to merge code into the NiPyPE (nipy.org/nipype)
 project on GitHub. This demonstrates: a) part of a discussion thread, b)
 inline commenting of code (for line 98), and c) code updates (commits)
 taking place as a function of the discussion.
 
-.. figure:: images/image04.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 2. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
 
-.. figure:: images/image07.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
 
