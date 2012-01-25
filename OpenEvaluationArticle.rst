@@ -240,13 +240,22 @@ and how favorably an article has been reviewed, and could be useful in a
 publishing model where an article is considered published after it
 garners a minimum rating over an appreciable amount of its content.
 
-In the top row, a single segment of text receives (A) a negative comment
-(in red) from reviewer 1, (B) a positive comment (in blue) from reviewer
-2 (who also decrements the rating of reviewer 1’s comment), and after
-more comments and ratings, (C) a negative comment about the same comment
-by reviewer 1. This is to demonstrate that any portion of text in an
-article or a comment may be rated and commented upon. (D) The bottom row
-shows how the ratings of an article’s text can change over time.
+In the top row, a reviewer (A) selects some text which opens negative
+and positive comment boxes, and (B) adds a negative comment which
+decrements the text rating. A red or blue background indicates a
+cumulative negative or positive rating. After input from different
+reviewers, including comments and ratings about the text and ratings
+about the comments, (C) the positive ratings outweigh that of the
+initial negative comment, turning the text from red to blue.
+In (D), a reviewer selects the bottom-most positive comment and leaves a
+negative comment about it. This lowers the rating of the positive
+comment, which in turn lowers the rating of the text in the article that
+is the subject of the comment. Each reviewer’s vote can be weighted by
+the ratings received by that reviewer’s past contributions to peer
+review. (E) The middle row shows how the ratings of an article’s text
+can change over time. (F) The bottom row represents a summary of the
+ratings assigned to an article, including reviewer activity, coverage,
+and variation of opinion regarding the article.
 
 1. Distribute reviews to many reviewers.
 
@@ -274,7 +283,7 @@ of consensus across reviewers, there are at least three types of
 alternatives available. One would be to assign certain reviewers as
 moderators for different components of the article, to lessen the burden
 on the editor. A second would be to restrict the number of reviewers to
-those solicited from a pool of experts (Fig 1). This would still improve
+those solicited from a pool of experts. This would still improve
 scientific rigor while lessening the burden on each individual reviewer,
 as long as they review specific components of the article they are
 knowledgeable about. A third would be to conduct a preliminary review
@@ -333,7 +342,7 @@ revision model that allows collaborative revision of the article. Since
 metrics keep track of contributions (discussed later), such an approach
 encourages revisions to an article that improve its scientific validity
 instead of a new article. A mock-up of such a system is shown in Figure
-2A.
+2.
 
 2. Provide reviewers materials and methods to perform comprehensive
 evaluation.
@@ -447,14 +456,15 @@ systems typically do not have a mechanism to rate reviewer
 contributions. We propose that code review systems adapted for article
 review include quantitative assessment of the quality of contributions
 of reviewers. This would include a weighted combination of the number
-(Figure 3) and quality (Figure 2B, 4) of contributions. Reviewers need
-not be the only ones to have an impact on other reviewers’ standing. The
-authors themselves could evaluate the reviewers by assigning impact
-ratings to the reviews or segments of the reviews. These ratings can be
-entered into a reviewer database, referenced in the future by editors
-and used to assess contributions to peer review in the context of
-academic promotion. We acknowledge some reviewers might be discouraged
-by this idea, thus it may be optional to participate.
+(Figure 3), frequency (Figure 4), and peer ratings (Figure 2) of
+reviewer contributions. Reviewers need not be the only ones to have an
+impact on other reviewers’ standing. The authors themselves could
+evaluate the reviewers by assigning impact ratings to the reviews or
+segments of the reviews. These ratings can be entered into a reviewer
+database, referenced in the future by editors and used to assess
+contributions to peer review in the context of academic promotion. We
+acknowledge some reviewers might be discouraged by this idea, thus it
+may be optional to participate.
 
 .. figure:: images/image01.png
    :align: center
@@ -772,15 +782,15 @@ systems, pages 575–582. ACM.
 
 Supplementary material
 
-Figure 1. An annotated\ :sup:``[k] <#cmnt11>`_`\  snapshot from the web
-interface of a request to merge code into the NiPyPE (nipy.org/nipype)
-project on GitHub. This demonstrates: a) part of a discussion thread, b)
-inline commenting of code (for line 98), and c) code updates (commits)
-taking place as a function of the discussion.
-
 .. figure:: images/image05.png
    :align: center
    :alt: 
+Figure 1. A snapshot from the web interface of a request to merge code
+into the NiPyPE (nipy.org/nipype) project on GitHub. This demonstrates:
+a) part of a discussion thread, b) inline commenting of code (for line
+98), and c) code updates (commits) taking place as a function of the
+discussion.
+
 Figure 2. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
@@ -831,7 +841,3 @@ make sure we address:
 - the graded continuum between authorship and review
 
 - evaluation metrics
-
-`[k] <#cmnt_ref11>`_satrajit.ghosh:
-
-todo
