@@ -243,12 +243,14 @@ publishing model where an article is considered published after it
 garners a minimum rating over an appreciable amount of its content.
 
 In the top row, a reviewer (A) selects some text which opens negative
-and positive comment boxes, and (B) adds a negative comment which
-decrements the text rating. A red or blue background indicates a
-cumulative negative or positive rating. After input from different
-reviewers, including comments and ratings about the text and ratings
-about the comments, (C) the positive ratings outweigh that of the
-initial negative comment, turning the text from red to blue.
+(red) and positive (blue) comment boxes, and (B) adds a negative comment
+and gives a low rating to the text (clicks a red box). A red or blue
+background indicates a cumulative negative or positive rating. After
+input from different reviewers, another reviewer (C) selects the same
+block of text, adds another positive comment, and rates the text and
+some of the other comments. In this example, the positive ratings
+outweigh that of the initial negative comment, turning the text from red
+to blue.
 In (D), a reviewer selects the bottom-most positive comment and leaves a
 negative comment about it. This lowers the rating of the positive
 comment, which in turn lowers the rating of the text in the article that
@@ -257,8 +259,8 @@ the ratings received by that reviewer’s past contributions to peer
 review. (E) The middle row shows how the ratings of an article’s text
 can change over time. (F) The bottom row represents a summary of the
 ratings assigned to an article, including reviewer activity, coverage,
-and variation of opinion regarding the article. Positive and negative
-comments can also be added for the article as a whole via the dashboard.
+and variation of opinion regarding the article. General comments can
+also be added for the article as a whole via the dashboard.
 
 1. Distribute reviews to many reviewers.
 
