@@ -370,7 +370,7 @@ National Academy of Sciences - pnas.org\ :sup:``[e] <#cmnt5>`_`\ ) are
 now mandating availability of all components necessary to reproduce the
 results (Drummond, 2009) of a study as part of article submission. The
 journal Biostatistics marks papers as providing code [C], data [D] or
-both [R].
+both [R] (Peng, 2009).
 
 While rerunning an entire study’s analysis might not currently be
 feasible as part of a review, simply exposing code can often help
@@ -771,6 +771,9 @@ United States of America, 102(46):16569.
 
 Ioannidis, J. (2005). Why most published research findings are false.
 PLoS Medicine, 2(8):e124.
+
+Peng, R. D. (2009). Reproducible research and Biostatistics. Biostat
+10(3): 405-408.
 
 Poschl, U. and Koop, T. (2008). Interactive open access publishing and
 collaborative peer review for improved scientific communication and
