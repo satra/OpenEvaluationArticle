@@ -2,7 +2,7 @@ Learning from open source software projects to improve scientific review
 
 Satrajit S. Ghosh1, Arno Klein2, Brian Avants3, K. Jarrod Millman4
 
-1 Research Laboratory of Electronics, Massachusetts Institute of
+1 McGovern Institute for Brain Research, Massachusetts Institute of
 Technology, Cambridge, MA, USA
 
 2 Division of Molecular Imaging and Neuropathology, New York State
@@ -18,9 +18,11 @@ Correspondence:
 
 Dr. Satrajit Ghosh
 
-50 Vassar St
+satra@mit.edu
 
-36-587 MIT
+43 Vassar St
+
+46-4033F MIT
 
 Cambridge, MA 02139, USA
 
@@ -287,10 +289,10 @@ those solicited from a pool of experts. This would still improve
 scientific rigor while lessening the burden on each individual reviewer,
 as long as they review specific components of the article they are
 knowledgeable about. A third would be to conduct a preliminary review
-consisting of a limited, possibly anonymous\ :sup:``[e] <#cmnt5>`_`\ 
-and expedited review process prior to the full and open review as we
-propose. At different stages of such a tiered review, reviewers might be
-assigned different roles, such as mediator, editor, or commenter.
+consisting of a limited, possibly anonymous and expedited review process
+prior to the full and open review as we propose. At different stages of
+such a tiered review, reviewers might be assigned different roles, such
+as mediator, editor, or commenter.
 
 Relevance of code review systems
 
@@ -361,7 +363,7 @@ parameters) be submitted together with the article. This not only
 facilitates transparency for all readers including reviewers but also
 facilitates reproducibility and encourages method reuse. Furthermore,
 several journals (e.g. Science - sciencemag.org , Proceedings of the
-National Academy of Sciences - pnas.org\ :sup:``[f] <#cmnt6>`_`\ ) are
+National Academy of Sciences - pnas.org\ :sup:``[e] <#cmnt5>`_`\ ) are
 now mandating availability of all components necessary to reproduce the
 results (Drummond, 2009) of a study as part of article submission. The
 journal Biostatistics marks papers as providing code [C], data [D] or
@@ -446,7 +448,7 @@ This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
 individual contributor and the width of a colored ribbon represents that
 individual’s “impact” or contributions during a week-long
-period.\ :sup:``[g] <#cmnt7>`_`\ 
+period.\ :sup:``[f] <#cmnt6>`_`\ 
 
 Enhancing code review systems for article review
 
@@ -574,7 +576,7 @@ Figure 5. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(\ :sup:``[h] <#cmnt8>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+(\ :sup:``[g] <#cmnt7>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
 Víegas, F. et al., 2004).
 
 Relevance of code review systems
@@ -595,7 +597,7 @@ navigate (Figure 2), and to enable a temporal view of the evolutionary
 history of an arbitrary section of text, analogous to Figure 5 (except
 as an interactive tool).
 
-Discussion\ :sup:``[i] <#cmnt9>`_`\ 
+Discussion
 
 The current review process is extremely complex, reflecting the demands
 of academia and its social context. When one reviews a paper, there are
@@ -729,7 +731,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Yaroslav Halchenko, Jean-Baptiste
 Poline, Kim Lumbard, Barrett Klein, and Elizabeth Sublette for their
 helpful comments. Arno Klein would like to thank Deepanjana and
-Ellora,\ :sup:``[j] <#cmnt10>`_`\  as well as the NIMH for their support
+Ellora,\ :sup:``[h] <#cmnt8>`_`\  as well as the NIMH for their support
 via R01 grant MH084029. Brian Avants acknowledges ARRA funding from the
 National Library of Medicine via award HHSN276201000492p.
 
@@ -831,17 +833,3 @@ exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
 
 `[3] <#ftnt_ref3>`_`http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars <http://www.google.com/url?q=http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars&sa=D&sntz=1&usg=AFQjCNEgnJfB3QRx5aVFgzXATRQi_JDrzg>`_
-
-`[e] <#cmnt_ref5>`_satrajit.ghosh:
-
-to address potential concerns
-
-`[i] <#cmnt_ref9>`_satrajit.ghosh:
-
-make sure we address:
-
-- how significance of an article is measured.
-
-- the graded continuum between authorship and review
-
-- evaluation metrics
