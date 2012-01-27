@@ -630,8 +630,8 @@ review.
 
 The proposal to engage many reviewers and to make the post-publication
 review process center around rapid iterative feedback relates to “agile
-development and scrum” (Schwaber and Beedle, 2001), a technology
-development concept that focuses on development coupled with client
+software development” (Dingsøyr, 2010), a technology development concept
+that focuses on iterative development tightly coupled with client
 feedback. This approach stems from the observation that client goals and
 expectations can change and change unpredictably. By focusing on short
 development cycles, companies adopting this practice can meet the
@@ -754,6 +754,10 @@ Chen, A. P. (2006). Retraction. Science,
 
 314(5807):1875.
 
+Dingsøyr, T., Dybå, T., and Moe, N. B. (2010). Agile Software
+Development: Current Research and Future Directions. Springer, Berlin
+Heidelberg.
+
 Drummond, C. (2009). Replicability is not reproducibility: Nor is it
 good science. In Proceedings of the Evaluation Methods for Machine
 Learning Workshop at the 26th ICML. Citeseer.
@@ -771,9 +775,6 @@ PLoS Medicine, 2(8):e124.
 Poschl, U. and Koop, T. (2008). Interactive open access publishing and
 collaborative peer review for improved scientific communication and
 quality assurance. Information Services and Use, 28(2):105–107.
-
-Schwaber, K. and Beedle, M. (2001). Agile software development with
-scrum.
 
 Smith, R. (2006). Peer review: a flawed process at the heart of science
 and journals. Journal of the Royal Society of Medicine, 99(4):178.
