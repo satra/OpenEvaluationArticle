@@ -257,7 +257,8 @@ the ratings received by that reviewer’s past contributions to peer
 review. (E) The middle row shows how the ratings of an article’s text
 can change over time. (F) The bottom row represents a summary of the
 ratings assigned to an article, including reviewer activity, coverage,
-and variation of opinion regarding the article.
+and variation of opinion regarding the article. Positive and negative
+comments can also be added for the article as a whole via the dashboard.
 
 1. Distribute reviews to many reviewers.
 
