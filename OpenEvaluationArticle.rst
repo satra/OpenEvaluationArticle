@@ -598,6 +598,8 @@ navigate (Figure 2), and to enable a temporal view of the evolutionary
 history of an arbitrary section of text, analogous to Figure 5 (except
 as an interactive tool).
 
+A system for collaborative authoring, editing and review
+
 Discussion
 
 The current review process is extremely complex, reflecting the demands
