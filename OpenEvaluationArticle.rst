@@ -104,8 +104,6 @@ individual articles, the integrity of the review process and, indeed, of
 science\ :sup:``[a] <#cmnt1>`_`\  suffers (Poschl and Koop, 2008; Smith,
 2006).
 
-HEY, ELIEZER!
-
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
 participants with varying levels of expertise. There is a clear process
@@ -211,11 +209,64 @@ scientific publishing that draws on the ideas, experience, and
 technologies recently developed to support community code review in open
 source software projects. Opening up the review process to everyone, not
 just to a select few anonymous reviewers, has the potential to address
-every one of the problems raised above. For each of the problems listed
-above, we first describe our proposed solution, then highlight the
-relevance of current code review systems in addressing the problem and
-finally describe enhancements to the current systems to support our
-proposed solution.
+every one of the problems raised above.
+
+FIX HERE Re: technologies:
+
+ArXiv, agile, social, overflowing love:
+
+-----------
+
+The proposal to engage many reviewers and to make the post-publication
+review process center around rapid iterative feedback relates to “agile
+software development” (Dingsøyr, 2010), a technology development concept
+that focuses on iterative development tightly coupled with client
+feedback. This approach stems from the observation that client goals and
+expectations can change and change unpredictably. By focusing on short
+development cycles, companies adopting this practice can meet the
+volatility of project aims. In the scientific world, new discoveries and
+technologies create that volatility by providing alternative viewpoints
+and data acquisition and analysis approaches. This makes rapid
+dissemination and continued reappraisal of research in the context of
+this new knowledge an imperative.
+
+----------
+
+In the field of high energy particle physics and others, arXiv.org, an
+open-access preprint archive established in 1991, has transformed the
+way results are disseminated, reviewed and debated. Authors submit
+articles to the preprint archive even before they are submitted or
+appear in a traditional journal. Often, discussion and responses take
+place before the article appears in print. Interesting findings and the
+scientific discourse related to the results are thus brought to the
+immediate attention of the community and the public. This process of
+rapid, fully open debate based on the exchange of properly formatted
+technical preprints takes place even in the context of major new results
+that in other fields would typically be shrouded in secrecy. This has
+been illustrated by the recent activity surrounding the possible
+discovery of a new particle at Fermilab's Tevatron accelerator that does
+not fit the Standard Model of particle
+physics\ :sup:``[2] <#ftnt2>`_`\ . We believe arXiv can serve as a model
+for open post-publication review in other domains of science.
+
+----------
+
+For published articles that garner overwhelming feedback, it could make
+it impossible to extract relevant, interesting and constructive
+criticism. While social technologies such as Facebook and blogs have had
+a profound impact on people’s interactions, their comment histories and
+threads still consist of a primarily linear, chronological sequence of
+unfiltered text. The discussion interfaces of stackoverflow and
+mathoverflow attempt to organize and prioritize such information (using
+voting metrics), but do so in a manner that is not familiar to a general
+readership. Our proposed interface learns from and improves upon these
+specialized interfaces to filter and highlight useful and relevant
+feedback.
+
+For each of the problems listed above, we first describe our proposed
+solution, then highlight the relevance of current code review systems in
+addressing the problem and finally describe enhancements to the current
+systems to support our proposed solution.
 
 .. figure:: images/image02.png
    :align: center
@@ -288,7 +339,7 @@ rigorous review. This would also expose which portions of an article
 were not reviewed.
 
 In case there is a fear of disclosure prior to
-publication\ :sup:``[2] <#ftnt2>`_`\ , of an overwhelming amount of
+publication\ :sup:``[3] <#ftnt3>`_`\ , of an overwhelming amount of
 participation in a review where anyone could be a reviewer, or of a lack
 of consensus across reviewers, there are at least three types of
 alternatives available. One would be to assign certain reviewers as
@@ -514,8 +565,9 @@ change is moderated through an iterative process. In the context of code
 review, there is often an objective criterion – the code performs as
 expected and is written using proper style and documentation. Once these
 standards are met, the code is accepted into the main project. The
-discussion mechanism facilitates this process. However, in the case of
-code review, the quality of review is typically not quantified.
+discussion mechanism facilitates this process. Current code review
+systems do not include quantitative assessment of the quality of reviews
+or the contributions of reviewers.
 
 Enhancing code review systems for article review
 
@@ -633,36 +685,6 @@ propose that an effective means for implementing such a process would be
 to enhance current code review systems for software development to
 support article review.
 
-The proposal to engage many reviewers and to make the post-publication
-review process center around rapid iterative feedback relates to “agile
-software development” (Dingsøyr, 2010), a technology development concept
-that focuses on iterative development tightly coupled with client
-feedback. This approach stems from the observation that client goals and
-expectations can change and change unpredictably. By focusing on short
-development cycles, companies adopting this practice can meet the
-volatility of project aims. In the scientific world, new discoveries and
-technologies create that volatility by providing alternative viewpoints
-and data acquisition and analysis approaches. This makes rapid
-dissemination and continued reappraisal of research in the context of
-this new knowledge an imperative.
-
-In the field of high energy particle physics and others, arXiv.org, an
-open-access preprint archive established in 1991, has transformed the
-way results are disseminated, reviewed and debated. Authors submit
-articles to the preprint archive even before they are submitted or
-appear in a traditional journal. Often, discussion and responses take
-place before the article appears in print. Interesting findings and the
-scientific discourse related to the results are thus brought to the
-immediate attention of the community and the public. This process of
-rapid, fully open debate based on the exchange of properly formatted
-technical preprints takes place even in the context of major new results
-that in other fields would typically be shrouded in secrecy. This has
-been illustrated by the recent activity surrounding the possible
-discovery of a new particle at Fermilab's Tevatron accelerator that does
-not fit the Standard Model of particle
-physics\ :sup:``[3] <#ftnt3>`_`\ . We believe arXiv can serve as a model
-for open post-publication review in other domains of science.
-
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
 process will require a change of culture that many researchers may
@@ -684,18 +706,6 @@ Chemistry and Physics, atmos-chem-phys.net). As scientists gain
 familiarity and journals gain experience with our proposed system, it
 could be refined and improved.
 
-For published articles that garner overwhelming feedback, it could make
-it impossible to extract relevant, interesting and constructive
-criticism. While social technologies such as Facebook and blogs have had
-a profound impact on people’s interactions, their comment histories and
-threads still consist of a primarily linear, chronological sequence of
-unfiltered text. The discussion interfaces of stackoverflow and
-mathoverflow attempt to organize and prioritize such information (using
-voting metrics), but do so in a manner that is not familiar to a general
-readership. Our proposed interface learns from and improves upon these
-specialized interfaces to filter and highlight useful and relevant
-feedback.
-
 In the long run, the review process should not be limited to
 publication, but should be engaged throughout the process of research,
 from inception through planning, execution, and documentation (Butler,
@@ -709,26 +719,6 @@ scientific ideas and investigations. Furthermore, since this system
 captures a timeline of activity related to this collaborative process,
 one can tag any stage of this process and citations can be made to
 specific versions of an evolving article.
-
-The writing of this article was conducted in the spirit of the content
-of the article, with multiple authors and peer reviewers contributing
-initially via GitHub, followed by dynamic, interactive, real-time
-collaboration via Google Docs. While we found the collaborative editing
-and reviewing through the use of these tools to be mostly enjoyable and
-efficient, it exposed technological limitations. We were unable to go
-back and forth between the two software environments because their
-respective version control and comment histories do not integrate. To
-this end, we created a custom, version-controlled, open-access
-repository of this article on GitHub
-(github.com/satra/OpenEvaluationArticle) using open-source tools (e.g.,
-pandoc) and open programming interfaces to Google Docs. Other technical
-challenges that have yet to be met include those mentioned in the
-“Enhancing code review systems for article review” subsections above:
-current code review systems are optimized for well-structured text as
-opposed to less structured prose or for data; they do not include
-quantitative assessment of the quality of reviews or the contributions
-of reviewers; and they are not visually intuitive for a non-programmer
-to understand or navigate.
 
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
@@ -855,8 +845,8 @@ Behavioral Sciences publication
 (http://journals.cambridge.org/action/displayJournal?jid=BBS) solicits
 commentary from the community.
 
-`[2] <#ftnt_ref2>`_To allay concerns over worldwide pre-publication
+`[2] <#ftnt_ref2>`_`http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars <http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars>`_
+
+`[3] <#ftnt_ref3>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
-
-`[3] <#ftnt_ref3>`_`http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars <http://www.google.com/url?q=http://arstechnica.com/science/news/2011/05/evidence-for-a-new-particle-gets-stronger.ars&sa=D&sntz=1&usg=AFQjCNEgnJfB3QRx5aVFgzXATRQi_JDrzg>`_
