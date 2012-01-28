@@ -36,27 +36,28 @@ with many problems that undermine the pace, validity, and credibility of
 science. We highlight five salient problems: (1) Reviewers are expected
 to have comprehensive expertise; (2) Reviewers do not have sufficient
 access to methods and materials to evaluate a study; (3) Reviewers are
-not acknowledged; (4) There is no measure of the quality of a review;
-and (5) Reviews take a lot of time, and once submitted cannot evolve. We
-propose that these problems can be resolved by making the following
-changes to the review process. Distributing reviews to many reviewers
-would allow each reviewer to focus on portions of the article that
-reflect the reviewer’s specialty or area of interest and place less of a
-burden on any one reviewer, enabling a more comprehensive and timely
-review. Providing reviewers materials and methods to perform
-comprehensive evaluation would facilitate transparency, greater
-scrutiny, and replication of results. Acknowledging reviewers makes it
-possible to quantitatively assess reviewer contributions, which could be
-integrated with assessments for promotions and grants. Quantifying
-review quality could help establish the importance of individual reviews
-and reviewers as well as the submitted article. Finally, we recommend
-expediting post-publication reviews and allowing for the dialogue to
-continue and flourish in a dynamic and interactive manner. We argue that
-these solutions can be addressed by building upon distributed computer
-programming code management systems. In this article, we provide
-examples of current code review systems that offer opportunities for
-addressing the above problems, and offer suggestions for enhancing code
-review systems for article review.
+neither identified nor acknowledged; (4) There is no measure of the
+quality of a review; and (5) Reviews take a lot of time, and once
+submitted cannot evolve. We propose that these problems can be resolved
+by making the following changes to the review process. Distributing
+reviews to many reviewers would allow each reviewer to focus on portions
+of the article that reflect the reviewer’s specialty or area of interest
+and place less of a burden on any one reviewer, enabling a more
+comprehensive and timely review. Providing reviewers materials and
+methods to perform comprehensive evaluation would facilitate
+transparency, greater scrutiny, and replication of results.
+Acknowledging reviewers makes it possible to quantitatively assess
+reviewer contributions, which could be integrated with assessments for
+promotions and grants. Quantifying review quality could help establish
+the importance of individual reviews and reviewers as well as the
+submitted article. Finally, we recommend expediting post-publication
+reviews and allowing for the dialogue to continue and flourish in a
+dynamic and interactive manner. We argue that these solutions can be
+addressed by building upon distributed computer programming code
+management systems. In this article, we provide examples of current code
+review systems that offer opportunities for addressing the above
+problems, and offer suggestions for enhancing code review systems for
+article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
@@ -102,6 +103,8 @@ and the use of journal impact factors as proxies for evaluations of
 individual articles, the integrity of the review process and, indeed, of
 science\ :sup:``[a] <#cmnt1>`_`\  suffers (Poschl and Koop, 2008; Smith,
 2006).
+
+HEY, ELIEZER!
 
 In contrast, during open source software development, the typical code
 review is open, collaborative, and interactive, engaging many
@@ -160,15 +163,18 @@ rigorous and correct experimental work was later retracted due to a
 software bug that undermined the paper's conclusions (Chang et al.,
 2006).
 
-3. Reviewers are not acknowledged.
+3. Reviewers are neither identified nor acknowledged.
 
 Review is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. There is little
 motivation for potential reviewers to participate in the review process;
-some motivation comes from the knowledge gained from yet unpublished
+some motivation comes from the knowledge gained from as yet unpublished
 results. However, the current system does not acknowledge their services
 in a manner that could factor into their evaluations for promotion and
-funding opportunities.
+funding opportunities. In addition to acknowledging a reviewer’s
+contributions for the benefit of the reviewer, identifying a reviewer
+has many benefits to science and scientific discourse, including
+transparency of the review process and proper attribution of ideas.
 
 4. There is no measure of the quality of a review.
 
@@ -617,15 +623,15 @@ In this article, we raise five critical problems with the current
 process for reviewing scientific articles: (1) Reviewers are expected to
 have comprehensive expertise; (2) Reviewers do not have sufficient
 access to methods and materials to evaluate a study; (3) Reviewers are
-not acknowledged; (4) There is no measure of the quality of a review;
-and (5) Reviews take a lot of time, and once submitted cannot evolve. We
-argue that we could address all of these problems via an open
-post-publication review process that engages many reviewers, provides
-them with the data and software used in an article, and acknowledges and
-quantifies the quality of their contributions. We propose that an
-effective means for implementing such a process would be to enhance
-current code review systems for software development to support article
-review.
+neither identified nor acknowledged; (4) There is no measure of the
+quality of a review; and (5) Reviews take a lot of time, and once
+submitted cannot evolve. We argue that we could address all of these
+problems via an open post-publication review process that engages many
+reviewers, provides them with the data and software used in an article,
+and acknowledges and quantifies the quality of their contributions. We
+propose that an effective means for implementing such a process would be
+to enhance current code review systems for software development to
+support article review.
 
 The proposal to engage many reviewers and to make the post-publication
 review process center around rapid iterative feedback relates to “agile
