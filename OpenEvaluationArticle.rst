@@ -697,11 +697,12 @@ from inception through planning, execution, and documentation (Butler,
 mirror opensource project development closely. Such a process would also
 ensure that optimal decisions are taken at every stage in the evolution
 of a project thus improving the quality of any scientific investigation.
-The proposed system can integrate collaborative authoring, editing,
-reviewing and discussion of scientific ideas and investigations.
-Furthermore, since this system captures a timeline of activity related
-to this collaborative process, one can tag any stage of this process and
-citations can be made to specific versions of an evolving article.
+The proposed system can integrate collaborative authoring and editing
+(e.g., annotum.org; Leubsdorf Jr, 2011), reviewing and discussion of
+scientific ideas and investigations. Furthermore, since this system
+captures a timeline of activity related to this collaborative process,
+one can tag any stage of this process and citations can be made to
+specific versions of an evolving article.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
@@ -778,6 +779,11 @@ United States of America, 102(46):16569.
 
 Ioannidis, J. (2005). Why most published research findings are false.
 PLoS Medicine, 2(8):e124.
+
+Leubsdorf Jr, C (2011) `Annotum: An open-source authoring and publishing
+platform based on
+WordPress <http://www.ncbi.nlm.nih.gov/books/n/jatscon11/leubsdorf/>`_.
+Proceedings of the Journal Article Tag Suite Conference.
 
 Peng, R. D. (2009). Reproducible research and Biostatistics. Biostat
 10(3): 405-408.
