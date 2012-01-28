@@ -258,7 +258,9 @@ shows how the ratings of an article’s text can change over time. (F) The
 bottom row represents a dashboard summary of the ratings assigned to an
 article, including reviewer activity, coverage, and variation of opinion
 regarding the article. General comments can also be added for the
-article as a whole via the dashboard.
+article as a whole via the dashboard. The dashboard also indicates
+whether code, data and/or a virtual machine is available for reproducing
+the results of an article.
 
 1. Distribute reviews to many reviewers.
 
