@@ -164,9 +164,11 @@ software bug that undermined the paper's conclusions (Chang et al.,
 
 Review is currently considered one's unpaid "duty" to maintain the
 standards and credibility of scientific research. There is little
-motivation for potential reviewers to participate in the review process,
-and there is a lack of acknowledgment for their services that could
-factor into their evaluations for promotion and funding opportunities.
+motivation for potential reviewers to participate in the review process;
+some motivation comes from the knowledge gained from yet unpublished
+results. However, the current system does not acknowledge their services
+in a manner that could factor into their evaluations for promotion and
+funding opportunities.
 
 4. There is no measure of the quality of a review.
 
@@ -341,10 +343,10 @@ inconsistencies across the body of an article or across others’ comments
 on the article. This system can be used in both a traditional
 review-and-revise model as well as a collaborative Wikipedia-style
 revision model that allows collaborative revision of the article. Since
-metrics keep track of contributions (discussed later), such an approach
-encourages revisions to an article that improve its scientific validity
-instead of a new article. A mock-up of such a system is shown in Figure
-2.
+metrics keep track of both quality and qunatity of contributions
+(discussed later), such an approach encourages revisions to an article
+that improve its scientific validity instead of a new article. A mock-up
+of such a review system is shown in Figure 2.
 
 2. Provide reviewers materials and methods to perform comprehensive
 evaluation.
@@ -519,22 +521,21 @@ proxy for impact that can be derived from clickstream data, web usage,
 and number of article downloads, but these measures indicate the
 popularity but not necessarily quality of articles or reviews.
 
-We propose to augment code review systems (and in turn, article review
-systems) with a “reputation” assessment mechanism similar to the one
-used in discussion forums such as
+We propose a review systems (Figure 2) with a “reputation” assessment
+mechanism similar to the one used in discussion forums such as
 `stackoverflow.net <http://stackoverflow.net>`_ or
 `mathoverflow.net <http://mathoverflow.net>`_ in order to quantify the
 quality of reviews. These sites provide a web interface for soliciting
 responses to questions on topics related to either computer programming
-or mathematics, respectively. The web interface allows registered
-members to post or respond to a question, to comment on a response, and
-to vote on the quality or importance of a question, of a response, or of
-a comment. Supplementary Figure 3 shows a screenshot of the response
-from a registered member to a question submitted to Stack Overflow and
-demonstrates the different ways of assessing reputation. In our proposed
-review system, such a vote tally would be associated with identified,
-registered reviewers, and would be only one of several measures of the
-quality of reviews (and reviews of reviews).
+or mathematics, respectively (supplementary Figure 3). The web interface
+allows registered members to post or respond to a question, to comment
+on a response, and to vote on the quality or importance of a question,
+of a response, or of a comment. In our proposed review system, such a
+vote tally would be associated with identified, registered reviewers,
+and would be only one of several measures of the quality of reviews (and
+reviews of reviews). Reviews can be ranked by importance (weighted
+average of ratings), opinion difference (variance of ratings) or
+interest (number of ratings).
 
 It would also be possible to aggregate the measures above to assess the
 impact or importance of, for example, collaborators, coauthors,
@@ -719,12 +720,12 @@ publication, but should be engaged throughout the process of research,
 from inception through planning, execution, and documentation (Butler,
 2005; see Figure 1). This would facilitate collaborative research and
 would also ensure that optimal decisions are taken at every stage in the
-evolution of a project. Our proposed re-design of the current peer
-review system focuses on post-publication review, and incorporates ideas
-from code review systems associated with open source software
-development. Such a system should enable an unbiased, comprehensive, and
-efficient review of scientific work while ensuring a continued,
-evolving, public dialogue.
+evolution of a project thus improving the quality of the investigation.
+Our proposed re-design of the current peer review system focuses on
+post-publication review, and incorporates ideas from code review systems
+associated with open source software development. Such a system should
+enable an unbiased, comprehensive, and efficient review of scientific
+work while ensuring a continued, evolving, public dialogue.
 
 Acknowledgements
 
