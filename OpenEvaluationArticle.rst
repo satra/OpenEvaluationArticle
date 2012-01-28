@@ -826,12 +826,12 @@ journals based on either names recommended by the authors who submitted
 the article, the editors' knowledge of the domain or from an internal
 journal reviewer database. This selection process results in a very
 narrow and biased selection of reviewers. An alternative way to solicit
-reviewers is to broadcast an article to a pool of reviewers and to let
-reviewers choose articles and components of the article they want to
-review. These are ideas that have already been implemented in scientific
-publishing. The Frontiers system (frontiersin.org) solicits reviews from
-a select group of review editors and the Brain and Behavioral Sciences
-publication
+reviewers is to broadcast an article to a larger pool of reviewers and
+to let reviewers choose articles and components of the article they want
+to review. These are ideas that have already been implemented in
+scientific publishing. The Frontiers system (frontiersin.org) solicits
+reviews from a select group of review editors and the Brain and
+Behavioral Sciences publication
 (http://journals.cambridge.org/action/displayJournal?jid=BBS) solicits
 commentary from the community.
 
