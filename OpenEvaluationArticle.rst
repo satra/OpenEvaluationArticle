@@ -598,8 +598,6 @@ navigate (Figure 2), and to enable a temporal view of the evolutionary
 history of an arbitrary section of text, analogous to Figure 5 (except
 as an interactive tool).
 
-A system for collaborative authoring, editing and review
-
 Discussion
 
 The current review process is extremely complex, reflecting the demands
@@ -669,15 +667,40 @@ participation. This sentiment may be relevant for reviews of articles
 prior to publication, but in our proposed post-publication review
 process that is focused on improving scientific rigor and embracing open
 discourse, reviewer anonymity is less relevant. Some journals have
-already adopted aspects of our proposed system (e.g., Frontiers, BioMed
-Central, Science, PNAS, PLoS One) and these problems and solutions have
-been discussed in scientific blogs
+already implemented aspects of our proposed system (e.g., Frontiers,
+BioMed Central, Science, PNAS, PLoS One) and these problems and
+solutions have been discussed in scientific blogs
 (http://futureofscipub.wordpress.com). Initially, our full proposal
 could be implemented as a part of the post-publication system, alongside
 a more traditional anonymous peer review system (e.g., Atmospheric
 Chemistry and Physics, atmos-chem-phys.net). As scientists gain
 familiarity and journals gain experience with our proposed system, it
 could be refined and improved.
+
+For published articles that garner overwhelming feedback, it could make
+it impossible to extract relevant, interesting and constructive
+criticism. While social technologies such as Facebook and blogs have had
+a profound impact on people’s interactions, their comment histories and
+threads still consist of a primarily linear, chronological sequence of
+unfiltered text. The discussion interfaces of stackoverflow and
+mathoverflow attempt to organize and prioritize such information (using
+voting metrics), but do so in a manner that is not familiar to a general
+readership. Our proposed interface learns from and improves upon these
+specialized interfaces to filter and highlight useful and relevant
+feedback.
+
+In the long run, the review process should not be limited to
+publication, but should be engaged throughout the process of research,
+from inception through planning, execution, and documentation (Butler,
+2005; see Figure 1). This would facilitate collaborative research and
+mirror opensource project development closely. Such a process would also
+ensure that optimal decisions are taken at every stage in the evolution
+of a project thus improving the quality of any scientific investigation.
+The proposed system can integrate collaborative authoring, editing,
+reviewing and discussion of scientific ideas and investigations.
+Furthermore, since this system captures a timeline of activity related
+to this collaborative process, one can tag any stage of this process and
+citations can be made to specific versions of an evolving article.
 
 The writing of this article was conducted in the spirit of the content
 of the article, with multiple authors and peer reviewers contributing
@@ -699,17 +722,6 @@ quantitative assessment of the quality of reviews or the contributions
 of reviewers; and they are not visually intuitive for a non-programmer
 to understand or navigate.
 
-For published articles that garner overwhelming feedback, it could make
-it impossible to extract relevant, interesting and constructive
-criticism. While social technologies such as Facebook and blogs have had
-a profound impact on people’s interactions, their comment histories and
-threads still consist of a primarily linear, chronological sequence of
-unfiltered text. The discussion interfaces of stackoverflow and
-mathoverflow attempt to organize and prioritize such information (using
-voting metrics), but do so in a manner that is not familiar to a general
-readership. We hope to learn from and improve upon these specialized
-interfaces to filter and highlight useful and relevant feedback.
-
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
 scientific dialogue and debate. The proposed discussion-based
@@ -717,17 +729,11 @@ environment will track and quantify impact of not only the original
 article, but of the comments made during the ensuing dialogue, helping
 readers to better filter, find, and follow this information while
 quantitatively acknowledging author and reviewer contributions and their
-quality. In the long run, the review process should not be limited to
-publication, but should be engaged throughout the process of research,
-from inception through planning, execution, and documentation (Butler,
-2005; see Figure 1). This would facilitate collaborative research and
-would also ensure that optimal decisions are taken at every stage in the
-evolution of a project thus improving the quality of the investigation.
-Our proposed re-design of the current peer review system focuses on
-post-publication review, and incorporates ideas from code review systems
-associated with open source software development. Such a system should
-enable an unbiased, comprehensive, and efficient review of scientific
-work while ensuring a continued, evolving, public dialogue.
+quality. Our proposed re-design of the current peer review system
+focuses on post-publication review, and incorporates ideas from code
+review systems associated with open source software development. Such a
+system should enable an unbiased, comprehensive, and efficient review of
+scientific work while ensuring a continued, evolving, public dialogue.
 
 Acknowledgements
 
