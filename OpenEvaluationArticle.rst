@@ -52,11 +52,11 @@ review quality could help establish the importance of individual reviews
 and reviewers as well as the submitted article. Finally, we recommend
 expediting post-publication reviews and allowing for the dialogue to
 continue and flourish in a dynamic and interactive manner. We argue that
-these solutions can be addressed by building upon computer programming
-code management systems. In this article, we provide examples of current
-code review systems that offer opportunities for addressing the above
-problems, and offer suggestions for enhancing code review systems for
-article review.
+these solutions can be addressed by building upon distributed computer
+programming code management systems. In this article, we provide
+examples of current code review systems that offer opportunities for
+addressing the above problems, and offer suggestions for enhancing code
+review systems for article review.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review
