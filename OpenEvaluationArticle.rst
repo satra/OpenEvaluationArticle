@@ -117,6 +117,41 @@ code review systems mirror the purpose of publication review to increase
 the clarity, reproducibility \ :sup:``[b] <#cmnt2>`_`\ and correctness
 of contributions.
 
+There are notable examples of journals (e.g., Frontiers -
+frontiersin.org, BioMedCentral - biomedcentral.com, PLoS One -
+plosone.org) that address some of the above individual problems, but the
+vast majority of journals do not. The most prominent example of a
+post-publication review system, arxiv.org, comes from the field of high
+energy particle physics. It has transformed the way results are
+disseminated, reviewed and debated. Authors submit articles to arXiv
+even before they are submitted or appear in a traditional journal.
+Often, discussion and responses take place before the article appears in
+print. Interesting findings and the scientific discourse related to
+these findings are thus brought to the immediate attention of the
+community and the public. This process of rapid, fully open debate based
+on the exchange of technical preprints takes place even for major new
+results that in other fields would typically be shrouded in secrecy. A
+recent example was the open discussion of the possible discovery of a
+new particle at Fermilab's Tevatron accelerator that did not fit the
+Standard Model of particle physics\ :sup:``[2] <#ftnt2>`_`\ . However,
+this system addresses narrow domains of expertise and its scalability in
+the context of increasingly interdisciplinary domains remains untested.
+
+The preeminent example of a technology affecting open discussion is the
+social network web application.
+
+In the scientific world, new discoveries and technologies provide
+alternative viewpoints and data acquisition and analysis approaches.
+This makes rapid dissemination and continued reappraisal of research in
+the context of this new knowledge an imperative. Blogs, social network
+sites (e.g., Facebook, Google+) and scientific discussion forums (e.g,
+metaoptmize.com, mathoverflow.net) are redefining the technologies that
+extract, organize and prioritize relevant, interesting and constructive
+information and criticism. Opening up the review process to everyone,
+not just to a select few anonymous reviewers, and drawing on these
+social technologies has the potential to address every one of the
+problems raised above.
+
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
 this article, we list five problems and potential solutions that derive
@@ -203,44 +238,11 @@ Proposed re-design of the peer review process
 In this section, we propose an open post-publication review system for
 scientific publishing that draws on the ideas, experience, and
 technologies recently developed to support community code review in open
-source software projects. There are other notable examples of journals
-(e.g., Frontiers - frontiersin.org, BioMedCentral - biomedcentral.com,
-PLoS One - plosone.org) that address some of the above individual
-problems, but the vast majority of journals do not.
-
-The most prominent example of a post-publication review system,
-arxiv.org, comes from the field of high energy particle physics. It has
-transformed the way results are disseminated, reviewed and debated.
-Authors submit articles to arXiv even before they are submitted or
-appear in a traditional journal. Often, discussion and responses take
-place before the article appears in print. Interesting findings and the
-scientific discourse related to these findings are thus brought to the
-immediate attention of the community and the public. This process of
-rapid, fully open debate based on the exchange of technical preprints
-takes place even for major new results that in other fields would
-typically be shrouded in secrecy. A recent example was the open
-discussion of the possible discovery of a new particle at Fermilab's
-Tevatron accelerator that did not fit the Standard Model of particle
-physics\ :sup:``[2] <#ftnt2>`_`\ . However, this system addresses narrow
-domains of expertise and its scalability in the context of increasingly
-interdisciplinary domains remains untested.
-
-In the scientific world, new discoveries and technologies provide
-alternative viewpoints and data acquisition and analysis approaches.
-This makes rapid dissemination and continued reappraisal of research in
-the context of this new knowledge an imperative. Blogs, social network
-sites (e.g., Facebook, Google+) and scientific discussion forums (e.g,
-metaoptmize.com, mathoverflow.net) are redefining the technologies that
-extract, organize and prioritize relevant, interesting and constructive
-information and criticism. Opening up the review process to everyone,
-not just to a select few anonymous reviewers, and drawing on these
-social technologies has the potential to address every one of the
-problems raised above.
-
-For each of the problems listed in the prior section, we first describe
-our proposed solution, then highlight the relevance of current code
-review systems in addressing the problem and finally describe
-enhancements to the current systems to support our proposed solution.
+source software projects. In this section, we first describe our
+proposed solution to each of the problems listed in the prior section,
+then highlight the relevance of current code review systems in
+addressing the problem, and finally describe enhancements to the current
+systems to support our proposed solution.
 
 .. figure:: images/image02.png
    :align: center
