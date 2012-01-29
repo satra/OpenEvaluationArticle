@@ -130,24 +130,22 @@ takes place even for major new results that in other fields would
 typically be shrouded in secrecy. A recent example was the open
 discussion of the possible discovery of a new particle at Fermilab's
 Tevatron accelerator that did not fit the Standard Model of particle
-physics\ :sup:``[2] <#ftnt2>`_`\ . However, this system addresses narrow
-domains of expertise and its scalability in the context of increasingly
-interdisciplinary domains remains untested.
+physics\ :sup:``[2] <#ftnt2>`_`\ . However, this system has been applied
+to narrow domains of expertise and its scalability in the context of
+increasingly interdisciplinary domains remains untested.
 
 The advent of social networking technology has altered the traditional
-mechanisms of discourse, but the ease of adding to discussions has also
-resulted in increasingly redundant and voluminous information. Blogs,
-social network sites (e.g., Facebook, Google+) and scientific discussion
-forums (e.g, metaoptmize.com, mathoverflow.net) are redefining the
-technologies that extract, organize and prioritize relevant, interesting
-and constructive information and criticism. In the scientific world, new
-discoveries and technologies provide alternative viewpoints and data
-acquisition and analysis approaches. This makes rapid dissemination and
-continued reappraisal of research in the context of this new knowledge
-an imperative. However, the scientific establishment has been slow to
-adopt these social technologies. The peer review system is one area
-where such technologies can address current problems and move the
-process into the 21st century.
+mechanisms of discourse, but the ease of adding to online discussions
+has also resulted in increasingly redundant and voluminous information.
+Blogs, social network sites (e.g., Facebook, Google+) and scientific
+discussion forums (e.g, metaoptimize.com, mathoverflow.net) are
+redefining the technologies that extract, organize and prioritize
+relevant, interesting and constructive information and criticism. In the
+scientific world, new discoveries and technologies make rapid
+dissemination and continued reappraisal of research an imperative.
+However, the scientific establishment has been slow to adopt these
+social technologies. The peer review system is one area where the
+scientific community may benefit from adopting such technologies.
 
 For the publication review process to continue to play a critical role
 in science, there are a number of problems that need to be addressed. In
