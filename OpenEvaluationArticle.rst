@@ -200,32 +200,30 @@ new insights.
 
 Proposed re-design of the peer review process
 
-In this section, we propose an open post-publication evaluation system
-for scientific publishing that draws on the ideas, experience, and
+In this section, we propose an open post-publication review system for
+scientific publishing that draws on the ideas, experience, and
 technologies recently developed to support community code review in open
-source software projects and builds on existing solutions to the above
-problems. There are other notable examples of journals (e.g., Frontiers
-- frontiersin.org, BioMedCentral - biomedcentral.com, PLoS One -
-plosone.org) that address some of the above individual problems, the
-vast majority of journals do not.
+source software projects. There are other notable examples of journals
+(e.g., Frontiers - frontiersin.org, BioMedCentral - biomedcentral.com,
+PLoS One - plosone.org) that address some of the above individual
+problems, but the vast majority of journals do not.
 
 The most prominent example of a post-publication review system,
-arXiv.org, comes from the field of high energy particle physics. It has
+arxiv.org, comes from the field of high energy particle physics. It has
 transformed the way results are disseminated, reviewed and debated.
 Authors submit articles to arXiv even before they are submitted or
 appear in a traditional journal. Often, discussion and responses take
 place before the article appears in print. Interesting findings and the
-scientific discourse related to the results are thus brought to the
+scientific discourse related to these findings are thus brought to the
 immediate attention of the community and the public. This process of
-rapid, fully open debate based on the exchange of properly formatted
-technical preprints takes place even in the context of major new results
-that in other fields would typically be shrouded in secrecy. This has
-been recently illustrated by activity surrounding the possible discovery
-of a new particle at Fermilab's Tevatron accelerator that does not fit
-the Standard Model of particle physics\ :sup:``[2] <#ftnt2>`_`\ .
-However, this system addresses focused domains of expertise and its
-scalability in the context of increasingly interdisciplinary domains
-remains untested.
+rapid, fully open debate based on the exchange of technical preprints
+takes place even for major new results that in other fields would
+typically be shrouded in secrecy. A recent example was the open
+discussion of the possible discovery of a new particle at Fermilab's
+Tevatron accelerator that did not fit the Standard Model of particle
+physics\ :sup:``[2] <#ftnt2>`_`\ . However, this system addresses narrow
+domains of expertise and its scalability in the context of increasingly
+interdisciplinary domains remains untested.
 
 In the scientific world, new discoveries and technologies provide
 alternative viewpoints and data acquisition and analysis approaches.
