@@ -215,58 +215,47 @@ FIX HERE Re: technologies:
 
 ArXiv, agile, social, overflowing love:
 
------------
+Our proposal integrates and builds upon features from existing
+technologies and code and peer review systems. There are already open
+and successful post-publication peer-review systems. The most prominent
+example of an open-access preprint archive, arXiv.org, comes from the
+field of high energy particle physics. It has transformed the way
+results are disseminated, reviewed and debated. Authors submit articles
+to the preprint archive even before they are submitted or appear in a
+traditional journal. Often, discussion and responses take place before
+the article appears in print. Interesting findings and the scientific
+discourse related to the results are thus brought to the immediate
+attention of the community and the public. This process of rapid, fully
+open debate based on the exchange of properly formatted technical
+preprints takes place even in the context of major new results that in
+other fields would typically be shrouded in secrecy. This has been
+recently illustrated by activity surrounding the possible discovery of a
+new particle at Fermilab's Tevatron accelerator that does not fit the
+Standard Model of particle physics\ :sup:``[2] <#ftnt2>`_`\ . However,
+this system addresses focused domains of expertise.
 
-The proposal to engage many reviewers and to make the post-publication
-review process center around rapid iterative feedback relates to “agile
-software development” (Dingsøyr, 2010), a technology development concept
-that focuses on iterative development tightly coupled with client
-feedback. This approach stems from the observation that client goals and
-expectations can change and change unpredictably. By focusing on short
-development cycles, companies adopting this practice can meet the
-volatility of project aims. In the scientific world, new discoveries and
-technologies create that volatility by providing alternative viewpoints
-and data acquisition and analysis approaches. This makes rapid
-dissemination and continued reappraisal of research in the context of
-this new knowledge an imperative.
+First, we describe a system that allows for rapid iterative feedback and
+relates to “agile software development” (Dingsøyr, 2010), a technology
+development concept that focuses on iterative development tightly
+coupled with client feedback. In the scientific world, new discoveries
+and technologies provide alternative viewpoints and data acquisition and
+analysis approaches. This makes rapid dissemination and continued
+reappraisal of research in the context of this new knowledge an
+imperative.
 
-----------
+Third, social technologies such as blogs, social sites (e.g., Facebook,
+Google+) and scientific discussion forums (e.g, metaoptmize.com,
+mathoverflow.net) are redefining the technologies that extract, organize
+and prioritize relevant, interesting and constructive infotmation and
+critcism. This is achieved via votes, reputation metrics and assigned
+privileges based on reputation or social networks. Our proposed review
+system learns from and improves upon these specialized interfaces to
+filter and highlight useful and relevant feedback.
 
-In the field of high energy particle physics and others, arXiv.org, an
-open-access preprint archive established in 1991, has transformed the
-way results are disseminated, reviewed and debated. Authors submit
-articles to the preprint archive even before they are submitted or
-appear in a traditional journal. Often, discussion and responses take
-place before the article appears in print. Interesting findings and the
-scientific discourse related to the results are thus brought to the
-immediate attention of the community and the public. This process of
-rapid, fully open debate based on the exchange of properly formatted
-technical preprints takes place even in the context of major new results
-that in other fields would typically be shrouded in secrecy. This has
-been illustrated by the recent activity surrounding the possible
-discovery of a new particle at Fermilab's Tevatron accelerator that does
-not fit the Standard Model of particle
-physics\ :sup:``[2] <#ftnt2>`_`\ . We believe arXiv can serve as a model
-for open post-publication review in other domains of science.
-
-----------
-
-For published articles that garner overwhelming feedback, it could make
-it impossible to extract relevant, interesting and constructive
-criticism. While social technologies such as Facebook and blogs have had
-a profound impact on people’s interactions, their comment histories and
-threads still consist of a primarily linear, chronological sequence of
-unfiltered text. The discussion interfaces of stackoverflow and
-mathoverflow attempt to organize and prioritize such information (using
-voting metrics), but do so in a manner that is not familiar to a general
-readership. Our proposed interface learns from and improves upon these
-specialized interfaces to filter and highlight useful and relevant
-feedback.
-
-For each of the problems listed above, we first describe our proposed
-solution, then highlight the relevance of current code review systems in
-addressing the problem and finally describe enhancements to the current
-systems to support our proposed solution.
+For each of the problems listed in the prior section, we first describe
+our proposed solution, then highlight the relevance of current code
+review systems in addressing the problem and finally describe
+enhancements to the current systems to support our proposed solution.
 
 .. figure:: images/image02.png
    :align: center
