@@ -33,11 +33,11 @@ Abstract
 Peer-reviewed publications are the primary mechanism for sharing
 scientific results. The current peer-review process is, however, fraught
 with many problems that undermine the pace, validity, and credibility of
-science. We highlight five salient problems: (1) Reviewers are expected
-to have comprehensive expertise; (2) Reviewers do not have sufficient
-access to methods and materials to evaluate a study; (3) Reviewers are
-neither identified nor acknowledged; (4) There is no measure of the
-quality of a review; and (5) Reviews take a lot of time, and once
+science. We highlight five salient problems: (1) reviewers are expected
+to have comprehensive expertise; (2) reviewers do not have sufficient
+access to methods and materials to evaluate a study; (3) reviewers are
+neither identified nor acknowledged; (4) there is no measure of the
+quality of a review; and (5) reviews take a lot of time, and once
 submitted cannot evolve. We propose that these problems can be resolved
 by making the following changes to the review process. Distributing
 reviews to many reviewers would allow each reviewer to focus on portions
@@ -592,16 +592,15 @@ reviewers, they can choose to review only those articles and components
 of those articles that match their expertise and interests. Not only
 would these two changes make the review process more enjoyable, but they
 would expedite the review process. And there is no reason for a review
-process to end after an article has been
-published\ :sup:``[g] <#cmnt7>`_`\ . Under post-publication review, the
-article can continue as a living document, where the dialogue can evolve
-and flourish (see Figure 5), and references to different articles could
-be supplemented with references to the comments about these articles,
-perhaps as Digital Object Identifiers (http://www.doi.org/), firmly
-establishing these communications within the dialogue and provenance of
-science, where science serves not just as a method or philosophy, but as
-a social endeavor. This could make scientific review and science a more
-welcoming community.
+process to end. Under post-publication review, the article can continue
+as a living document, where the dialogue can evolve and flourish (see
+Figure 5), and references to different articles could be supplemented
+with references to the comments about these articles, perhaps as Digital
+Object Identifiers (http://www.doi.org/), firmly establishing these
+communications within the dialogue and provenance of science, where
+science serves not just as a method or philosophy, but as a social
+endeavor. This could make scientific review and science a more welcoming
+community.
 
 .. figure:: images/image00.gif
    :align: center
@@ -610,7 +609,7 @@ Figure 5. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(\ :sup:``[h] <#cmnt8>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+(\ :sup:``[g] <#cmnt7>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
 Víegas, F. et al., 2004).
 
 Relevance of code review systems
@@ -646,23 +645,23 @@ developers, which is open, collaborative, and interactive, engaging many
 participants with varying levels of expertise.
 
 In this article, we raised five critical problems with the current
-process for reviewing scientific articles: (1) Reviewers are expected to
-have comprehensive expertise; (2) Reviewers do not have sufficient
-access to methods and materials to evaluate a study; (3) Reviewers are
-neither identified nor acknowledged; (4) There is no measure of the
-quality of a review; and (5) Reviews take a lot of time, and once
+process for reviewing scientific articles: (1) reviewers are expected to
+have comprehensive expertise; (2) reviewers do not have sufficient
+access to methods and materials to evaluate a study; (3) reviewers are
+neither identified nor acknowledged; (4) there is no measure of the
+quality of a review; and (5) reviews take a lot of time, and once
 submitted cannot evolve. We argue that we can address all of these
 problems via an open post-publication review process that engages many
 reviewers, provides them with the data and software used in an article,
-and acknowledges and quantifies the quality of their contributions. We
-proposed an open review process (Figure 1) and a quantitative commenting
-mechanism (Figure 2) as an effective means for implementing distributed
-article review. By providing the ability of distributed review, an
-intuitive interface for comments and visual feedback about the quality
-and review coverage of an article, we anticipate that this process will
-speed up the review process significantly. The proposed framework
-provides multiple metrics that relate to the significance of an article,
-the quality of reviews and the reputation of a reviewer.
+and acknowledges and quantifies the quality of their contributions. In
+this article, we described this process (Figure 1) together with a
+quantitative commenting mechanism (Figure 2). We anticipate that such a
+system will speed up the review process significantly through
+simultaneous, distributed, and interactive review, an intuitive
+interface for commenting and visual feedback about the quality and
+coverage of the reviews of an article. The proposed framework enables
+measurement of the significance of an article, the quality of reviews
+and the reputation of a reviewer.
 
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
@@ -691,13 +690,13 @@ from inception through planning, execution, and documentation (Butler,
 2005; see Figure 1). This would facilitate collaborative research and
 mirror opensource project development closely. Such a process would also
 ensure that optimal decisions are taken at every stage in the evolution
-of a project thus improving the quality of any scientific investigation.
-The proposed system can integrate collaborative authoring and editing
-(e.g., annotum.org; Leubsdorf Jr, 2011), reviewing and discussion of
-scientific ideas and investigations. Furthermore, since this system
-captures a timeline of activity related to this collaborative process,
-one can tag any stage of this process and citations can be made to
-specific versions of an evolving article.
+of a project, thus improving the quality of any scientific
+investigation. The proposed system can integrate collaborative authoring
+and editing (e.g., Google docs; annotum.org - Leubsdorf Jr, 2011),
+reviewing and discussion of scientific ideas and investigations.
+Furthermore, since this system captures the entire history of activity
+related to this collaborative process, one can refer to any specific
+version of an evolving article.
 
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
@@ -714,12 +713,12 @@ scientific work while ensuring a continued, evolving, public dialogue.
 
 Acknowledgements
 
-We would like to thank Fernando Perez, Matthew Goodman, Yaroslav
-Halchenko, Jean-Baptiste Poline, Kim Lumbard, Barrett Klein, and
-Elizabeth Sublette for their helpful comments. Arno Klein would like to
-thank Deepanjana and Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well as the
-NIMH for their support via R01 grant MH084029. Brian Avants acknowledges
-ARRA funding from the National Library of Medicine via award
+We would like to thank Matthew Goodman, Yaroslav Halchenko, Barrett
+Klein, Kim Lumbard, Fernando Perez, Jean-Baptiste Poline, and Elizabeth
+Sublette for their helpful comments. Arno Klein would like to thank
+Deepanjana and Ellora,\ :sup:``[h] <#cmnt8>`_`\  as well as the NIMH for
+their support via R01 grant MH084029. Brian Avants acknowledges ARRA
+funding from the National Library of Medicine via award
 HHSN276201000492p.
 
 --------------
@@ -825,7 +824,3 @@ commentary from the community.
 `[3] <#ftnt_ref3>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
-
-`[g] <#cmnt_ref7>`_satrajit.ghosh:
-
-finalized
