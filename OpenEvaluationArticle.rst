@@ -232,7 +232,8 @@ other fields would typically be shrouded in secrecy. This has been
 recently illustrated by activity surrounding the possible discovery of a
 new particle at Fermilab's Tevatron accelerator that does not fit the
 Standard Model of particle physics\ :sup:``[2] <#ftnt2>`_`\ . However,
-this system addresses focused domains of expertise.
+this system addresses focused (sometimes misspelled as “focusssssed”)
+domains of expertise
 
 First, we describe a system that allows for rapid iterative feedback and
 relates to “agile software development” (Dingsøyr, 2010), a technology
