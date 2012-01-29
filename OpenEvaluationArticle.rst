@@ -290,8 +290,8 @@ bottom row represents a dashboard summary of the ratings assigned to an
 article, including reviewer activity, coverage, and variation of opinion
 regarding the article. General comments can also be added for the
 article as a whole via the dashboard. The dashboard also indicates
-whether code, data and/or a virtual machine is available for reproducing
-the results of an article.
+whether code, data and/or a virtual machine are available for
+reproducing the results of the article.
 
 1. Distribute reviews to many reviewers.
 
@@ -584,7 +584,7 @@ higher than that of B. However, such decisions will only be possible
 once this system has acquired a sufficient amount of data about group A
 and B’s expertise on reviewing this topic.
 
-5. Expedite reviews and allow for post-publication review.
+5. Expedite reviews and allow for continued review.
 
 Once open and online, reviews can be dynamic, interactive, and conducted
 in real time (e.g., Frontiers). And with the participation of many
@@ -592,16 +592,16 @@ reviewers, they can choose to review only those articles and components
 of those articles that match their expertise and interests. Not only
 would these two changes make the review process more enjoyable, but they
 would expedite the review process. And there is no reason for a review
-process to end after an article has been published. Under
-post-publication review, the article can continue as a living document,
-where the dialogue can evolve and flourish (see Figure 5), and
-references to different articles could be supplemented with references
-to the comments about these articles, perhaps as Digital Object
-Identifiers (http://www.doi.org/), firmly establishing these
-communications within the dialogue and provenance of science, where
-science serves not just as a method or philosophy, but as a social
-endeavor. This could make scientific review and science a more welcoming
-community.
+process to end after an article has been
+published\ :sup:``[g] <#cmnt7>`_`\ . Under post-publication review, the
+article can continue as a living document, where the dialogue can evolve
+and flourish (see Figure 5), and references to different articles could
+be supplemented with references to the comments about these articles,
+perhaps as Digital Object Identifiers (http://www.doi.org/), firmly
+establishing these communications within the dialogue and provenance of
+science, where science serves not just as a method or philosophy, but as
+a social endeavor. This could make scientific review and science a more
+welcoming community.
 
 .. figure:: images/image00.gif
    :align: center
@@ -610,7 +610,7 @@ Figure 5. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(\ :sup:``[g] <#cmnt7>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+(\ :sup:``[h] <#cmnt8>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
 Víegas, F. et al., 2004).
 
 Relevance of code review systems
@@ -645,19 +645,24 @@ the model of review and communication used by open source software
 developers, which is open, collaborative, and interactive, engaging many
 participants with varying levels of expertise.
 
-In this article, we raise five critical problems with the current
+In this article, we raised five critical problems with the current
 process for reviewing scientific articles: (1) Reviewers are expected to
 have comprehensive expertise; (2) Reviewers do not have sufficient
 access to methods and materials to evaluate a study; (3) Reviewers are
 neither identified nor acknowledged; (4) There is no measure of the
 quality of a review; and (5) Reviews take a lot of time, and once
-submitted cannot evolve. We argue that we could address all of these
+submitted cannot evolve. We argue that we can address all of these
 problems via an open post-publication review process that engages many
 reviewers, provides them with the data and software used in an article,
 and acknowledges and quantifies the quality of their contributions. We
-propose that an effective means for implementing such a process would be
-to enhance current code review systems for software development to
-support article review.
+proposed an open review process (Figure 1) and a quantitative commenting
+mechanism (Figure 2) as an effective means for implementing distributed
+article review. By providing the ability of distributed review, an
+intuitive interface for comments and visual feedback about the quality
+and review coverage of an article, we anticipate that this process will
+speed up the review process significantly. The proposed framework
+provides multiple metrics that relate to the significance of an article,
+the quality of reviews and the reputation of a reviewer.
 
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
@@ -712,7 +717,7 @@ Acknowledgements
 We would like to thank Fernando Perez, Matthew Goodman, Yaroslav
 Halchenko, Jean-Baptiste Poline, Kim Lumbard, Barrett Klein, and
 Elizabeth Sublette for their helpful comments. Arno Klein would like to
-thank Deepanjana and Ellora,\ :sup:``[h] <#cmnt8>`_`\  as well as the
+thank Deepanjana and Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well as the
 NIMH for their support via R01 grant MH084029. Brian Avants acknowledges
 ARRA funding from the National Library of Medicine via award
 HHSN276201000492p.
@@ -732,10 +737,6 @@ Chang, G., Roth, C. B., Reyes, C. L., Pornillos, O., Chen, Y.-J., and
 Chen, A. P. (2006). Retraction. Science,
 
 314(5807):1875.
-
-Dingsøyr, T., Dybå, T., and Moe, N. B. (2010). Agile Software
-Development: Current Research and Future Directions. Springer, Berlin
-Heidelberg.
 
 Drummond, C. (2009). Replicability is not reproducibility: Nor is it
 good science. In Proceedings of the Evaluation Methods for Machine
@@ -824,3 +825,7 @@ commentary from the community.
 `[3] <#ftnt_ref3>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
+
+`[g] <#cmnt_ref7>`_satrajit.ghosh:
+
+finalized
