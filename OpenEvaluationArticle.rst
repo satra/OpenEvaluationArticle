@@ -261,10 +261,9 @@ reviews to many reviewers, (2) provide reviewers materials and methods
 to perform comprehensive evaluation, (3) acknowledge reviewers, (4)
 quantify review quality, and (5) expedite the post-publication review
 process and allow it to continue indefinitely. With the continued
-inclusion of new comments (or, alternatively, Wikipedia-style edits),
-the concept of a “publication” itself gives way to a forum or an
-evolving dialogue. In this sense, review can be seen as a form of
-coauthorship.
+inclusion of new comments, the concept of a “publication” itself gives
+way to a forum or an evolving dialogue. In this sense, review can be
+seen as a form of coauthorship.
 
 .. figure:: images/image08.png
    :align: center
@@ -629,7 +628,11 @@ review. Where they could stand to be improved is in their visual
 interfaces, to make them more intuitive for a non-programmer to quickly
 navigate (Figure 2), and to enable a temporal view of the evolutionary
 history of an arbitrary section of text, analogous to Figure 5 (except
-as an interactive tool).
+as an interactive tool). As illustrated in Figure 1 and mentioned in the
+Discussion section below, coauthorship and review can exist along a
+continuum, where reviewers could themselves edit authors’ text in the
+style of a wiki (e.g., www.wikipedia.org) and the authors could act as
+curators of their work (as in www.scholarpedia.org).
 
 Discussion
 
