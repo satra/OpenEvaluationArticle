@@ -104,18 +104,18 @@ individual articles, the integrity of the review process and, indeed, of
 science\ :sup:``[a] <#cmnt1>`_`\  suffers (Poschl and Koop, 2008; Smith,
 2006).
 
-In contrast, during open source software development, the typical code
-review is open, collaborative, and interactive, engaging many
-participants with varying levels of expertise. There is a clear process
-by which comments get addressed and new code gets integrated into the
-main project. Since computer programs are much more structured and
-objective than prose, it is more amenable to standardization and
-therefore to review. These code review systems also take advantage of
-some of the latest technologies that have the potential to be used for
-publication review. Despite all of these differences, the purpose of
-code review systems mirror the purpose of publication review to increase
-the clarity, reproducibility \ :sup:``[b] <#cmnt2>`_`\ and correctness
-of contributions.
+In contrast, during open source software
+development,\ :sup:``[b] <#cmnt2>`_`\  the typical code review is open,
+collaborative, and interactive, engaging many participants with varying
+levels of expertise. There is a clear process by which comments get
+addressed and new code gets integrated into the main project. Since
+computer programs are much more structured and objective than prose, it
+is more amenable to standardization and therefore to review. These code
+review systems also take advantage of some of the latest technologies
+that have the potential to be used for publication review. Despite all
+of these differences, the purpose of code review systems mirror the
+purpose of publication review to increase the clarity, reproducibility
+\ :sup:``[c] <#cmnt3>`_`\ and correctness of contributions.
 
 The most prominent example of a post-publication review system,
 arxiv.org, comes from the field of high energy particle physics. It has
@@ -291,7 +291,7 @@ article, including reviewer activity, coverage, and variation of opinion
 regarding the article. General comments can also be added for the
 article as a whole via the dashboard. The dashboard also indicates
 whether code, data and/or a virtual machine are available for
-reproducing the results of the article.
+reproducing the results of the article.\ :sup:``[d] <#cmnt4>`_`\ 
 
 1. Distribute reviews to many reviewers.
 
@@ -304,10 +304,10 @@ and situate the discussion in the larger scientific community. Reviewers
 could also focus on portions of the article that reflect their expertise
 and interests; but they would, of course, have the opportunity to
 provide feedback on an entire article. Furthermore, they would not be
-held responsible for every\ :sup:``[c] <#cmnt3>`_`\  aspect of the
+held responsible for every\ :sup:``[e] <#cmnt5>`_`\  aspect of the
 article, leaving portions that they are not qualified or interested in
 for others and their silence would not be mistaken for tacit approval.
-This will lessen burden\ :sup:``[d] <#cmnt4>`_`\  placed on any one
+This will lessen burden\ :sup:``[f] <#cmnt6>`_`\  placed on any one
 reviewer, enabling a more comprehensive, timely and scientifically
 rigorous review. This would also expose which portions of an article
 were not reviewed.
@@ -331,14 +331,15 @@ as mediator, editor, or commenter.
 Relevance of code review systems
 
 In the same manner that articles are submitted for review and
-publication in journals, code in collaborative software projects are
-submitted for review and integration into a codebase. In both scientific
-research and in complex software projects, specialists focus on specific
-components of the problem. However, unlike scientific review, code
-review is not limited to specialists. When multiple pairs of eyes look
-at code, the code improves, bugs are caught, and all participants are
-encouraged to write better code. Existing code review systems such as
-Gerrit (http://code.google.com/p/gerrit) as well as the collaborative
+publication in journals, code in collaborative software projects
+are\ :sup:``[g] <#cmnt7>`_`\  submitted for review and integration into
+a codebase. In both scientific research and in complex software
+projects, specialists focus on specific components of the problem.
+However, unlike scientific review, code review is not limited to
+specialists. When multiple pairs of eyes look at code, the code
+improves, bugs are caught, and all participants are encouraged to write
+better code. Existing code review systems such as Gerrit
+(http://code.google.com/p/gerrit) as well as the collaborative
 development and code review functionality provided by hosting services
 like GitHub (http://github.com) are built for a distributed review
 process and provide reviewers the ability to interact, modify, annotate
@@ -375,7 +376,7 @@ inconsistencies across the body of an article or across others’ comments
 on the article. This system can be used in both a traditional
 review-and-revise model as well as a collaborative Wikipedia-style
 revision model that allows collaborative revision of the article. Since
-metrics keep track of both quality and qunatity of contributions
+metrics keep track of both quality and quantity of contributions
 (discussed later), such an approach encourages revisions to an article
 that improve its scientific validity instead of a new article. A mock-up
 of such a review system is shown in Figure 2.
@@ -397,7 +398,7 @@ parameters) be submitted together with the article. This not only
 facilitates transparency for all readers including reviewers but also
 facilitates reproducibility and encourages method reuse. Furthermore,
 several journals (e.g. Science - sciencemag.org , Proceedings of the
-National Academy of Sciences - pnas.org\ :sup:``[e] <#cmnt5>`_`\ ) are
+National Academy of Sciences - pnas.org\ :sup:``[h] <#cmnt8>`_`\ ) are
 now mandating availability of all components necessary to reproduce the
 results (Drummond, 2009) of a study as part of article submission. The
 journal Biostatistics marks papers as providing code [C], data [D] or
@@ -482,7 +483,7 @@ This is a screenshot of a ribbon chart visualization in GitHub of the
 history of code additions to a project, where each color indicates an
 individual contributor and the width of a colored ribbon represents that
 individual’s “impact” or contributions during a week-long
-period.\ :sup:``[f] <#cmnt6>`_`\ 
+period.\ :sup:``[i] <#cmnt9>`_`\ 
 
 Enhancing code review systems for article review
 
@@ -609,7 +610,7 @@ Figure 5. A visualization of the edit history of the interactions of
 multiple authors of a Wikipedia entry (“Evolution”). The text is in the
 right column and the ribbon chart in the center represents the text
 edits over time, where each color indicates an individual contributor
-(\ :sup:``[g] <#cmnt7>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
+(\ :sup:``[j] <#cmnt10>`_`\ http://www.research.ibm.com/visual/projects/history\_flow/gallery.htm,
 Víegas, F. et al., 2004).
 
 Relevance of code review systems
@@ -692,9 +693,9 @@ In the long run, the review process should not be limited to
 publication, but should be engaged throughout the process of research,
 from inception through planning, execution, and documentation (Butler,
 2005; see Figure 1). This would facilitate collaborative research and
-mirror opensource project development closely. Such a process would also
-ensure that optimal decisions are taken at every stage in the evolution
-of a project, thus improving the quality of any scientific
+mirror open source project development closely. Such a process would
+also ensure that optimal decisions are taken at every stage in the
+evolution of a project, thus improving the quality of any scientific
 investigation. The proposed system can integrate collaborative authoring
 and editing (e.g., Google docs; annotum.org - Leubsdorf Jr, 2011),
 reviewing and discussion of scientific ideas and investigations. We
@@ -704,8 +705,9 @@ impact, especially as reviewers can act as collaborators who play a
 critical role in improving the quality and therefore the impact of
 scientific work. Furthermore, since this system captures the entire
 history of activity related to this collaborative process, one can refer
-to any specific version of an evolving article and the contributions of
-authors and reviewers at any given instance.
+to any specific version of an evolving
+article\ :sup:``[k] <#cmnt11>`_`\  and the contributions of authors and
+reviewers at any given instance.
 
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
@@ -725,8 +727,8 @@ Acknowledgements
 We would like to thank Matthew Goodman, Yaroslav Halchenko, Barrett
 Klein, Kim Lumbard, Fernando Perez, Jean-Baptiste Poline, and Elizabeth
 Sublette for their helpful comments. Arno Klein would like to thank
-Deepanjana and Ellora,\ :sup:``[h] <#cmnt8>`_`\  as well as the NIMH for
-their support via R01 grant MH084029. Brian Avants acknowledges ARRA
+Deepanjana and Ellora,\ :sup:``[l] <#cmnt12>`_`\  as well as the NIMH
+for their support via R01 grant MH084029. Brian Avants acknowledges ARRA
 funding from the National Library of Medicine via award
 HHSN276201000492p.
 
@@ -833,3 +835,28 @@ commentary from the community.
 `[3] <#ftnt_ref3>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
+
+`[b] <#cmnt_ref2>`_eclosing:
+
+I'm not sure what this means.
+
+--------------
+
+eclosing:
+
+Maybe a smoother transition from the previous paragraph would help. Here
+are you jumping from humans with limited capacities to review (previous
+paragraph) to computers used to review programming code? If so, I would
+ease into this, giving your thoughts about the prose part of papers
+first...
+
+`[g] <#cmnt_ref7>`_eclosing:
+
+code "is" submitted
+
+`[k] <#cmnt_ref11>`_eclosing:
+
+This could be a very serious issue, resulting in confusion within a
+debate. If you publish an article that challenges an idea in a dated
+manuscript that changes rapidly, it will be cumbersome to analyze the
+relevance of this challenge.
