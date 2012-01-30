@@ -685,9 +685,18 @@ interface for commenting and visual feedback about the quality and
 coverage of the reviews of an article. The proposed framework enables
 measurement of the significance of an article, the quality of reviews
 and the reputation of a reviewer. Furthermore, since this system
-captures the entire history of the review activity, one can refer to any
-specific version of an evolving article\ :sup:``[i] <#cmnt9>`_`\  and
-the contributions of authors and reviewers at any given instance.
+captures the entire history of review activity, one
+
+can refer to any stage of this evolving article
+
+for the purpose of capturing the ideas and concepts embodied at that
+instance in time
+
+or quantify the ? of ... or point at/to?
+
+can CITE? refer to any specific version of an evolving
+article\ :sup:``[i] <#cmnt9>`_`\  and the contributions of authors and
+reviewers at any given instance.
 
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
