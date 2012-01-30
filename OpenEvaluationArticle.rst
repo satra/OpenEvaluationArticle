@@ -80,8 +80,8 @@ publication in an effort to ensure quality and validity.
 Currently the typical review process for an article involves a
 preliminary screening by a journal editor followed by an anonymous and
 private review by a very small number of individuals (2 to 5, but often
-just 2) presumed to have expertise in the research
-topic.\ :sup:``[1] <#ftnt1>`_`\  The editor takes into consideration the
+just 2) presumed to have expertise in the research topic (Figure
+1A).\ :sup:``[1] <#ftnt1>`_`\  The editor takes into consideration the
 reviewers' recommendations to either publish, reject or request
 revisions of the article. If published, the public only sees the final
 version of the article without any of the reviews (however see,
@@ -235,15 +235,33 @@ Proposed re-design of the peer review process
 
 There are notable examples of journals (e.g., Frontiers -
 frontiersin.org, BioMedCentral - biomedcentral.com, PLoS One -
-plosone.org) that address some of the above individual problems, but the
-vast majority of journals do not. In this section, we propose an open
-post-publication review system for scientific publishing that draws on
-the ideas, experience, and technologies recently developed to support
-community code review in open source software projects. In this section,
-we first describe our proposed solution to each of the problems listed
-in the prior section, then highlight the relevance of current code
-review systems in addressing the problem, and finally describe
-enhancements to the current systems to support our proposed solution.
+plosone.org) that address one or another of the above problems, but the
+vast majority of journals do not address any of the above problems. We
+propose an open post-publication review system for scientific publishing
+that draws on the ideas, experience, and technologies recently developed
+to support community code review in open source software projects.
+
+Figure 1B illustrates this model of open scientific review, from
+inception of an idea through its execution and documentation. The
+numbers in the figure refer to the five solutions we propose to improve
+the review process that addresses each of the problems listed in the
+prior section: (1) distribute reviews to many reviewers, (2) provide
+reviewers materials and methods to perform comprehensive evaluation, (3)
+acknowledge reviewers, (4) quantify review quality, and (5) expedite the
+post-publication review process and allow it to continue indefinitely.
+With the continued inclusion of new comments, the concept of a
+“publication” itself gives way to a forum or an evolving dialogue. In
+this sense, review can be seen as a form of coauthorship. The end-to-end
+review process in Figure 1B would integrate collaborative authoring and
+editing (e.g., Google docs; annotum.org - Leubsdorf Jr, 2011), reviewing
+and discussion of scientific ideas and investigations. This article
+focuses on the review of the documentation, and in particular on
+post-publication review.
+
+In this section, we describe our proposed solutions, then highlight the
+relevance of current code review systems in addressing the problem and
+finally describe enhancements to the current systems to support our
+proposed solution.
 
 .. figure:: images/image02.png
    :align: center
@@ -251,21 +269,17 @@ enhancements to the current systems to support our proposed solution.
 .. figure:: images/image03.png
    :align: center
    :alt: 
-Figure 1. The top flowchart illustrates a standard scientific article
-review process before acceptance or rejection.
-
-The bottom flowchart illustrates our model of open scientific review,
-from inception of an idea through its execution and documentation. This
+Figure 1. (A) The top flowchart illustrates a standard scientific
+article review process before acceptance or rejection. (B) The bottom
+flowchart illustrates our model of open scientific review, from
+inception of an idea through its execution and documentation. This
 article focuses on the review of the documentation, and in particular on
 post-publication review. The numbers in the figure refer to the five
 solutions we propose to improve the review process: (1) distribute
 reviews to many reviewers, (2) provide reviewers materials and methods
 to perform comprehensive evaluation, (3) acknowledge reviewers, (4)
 quantify review quality, and (5) expedite the post-publication review
-process and allow it to continue indefinitely. With the continued
-inclusion of new comments, the concept of a “publication” itself gives
-way to a forum or an evolving dialogue. In this sense, review can be
-seen as a form of coauthorship.
+process and allow it to continue indefinitely.
 
 .. figure:: images/image08.png
    :align: center
@@ -633,8 +647,8 @@ review. Where they could stand to be improved is in their visual
 interfaces, to make them more intuitive for a non-programmer to quickly
 navigate (Figure 2), and to enable a temporal view of the evolutionary
 history of an arbitrary section of text, analogous to Figure 5 (except
-as an interactive tool). As illustrated in Figure 1 and mentioned in the
-Discussion section below, coauthorship and review can exist along a
+as an interactive tool). As illustrated in Figure 1B and mentioned in
+the Discussion section below, coauthorship and review can exist along a
 continuum, where reviewers could themselves edit authors’ text in the
 style of a wiki (e.g., www.wikipedia.org) and the authors could act as
 curators of their work (as in www.scholarpedia.org).
@@ -663,7 +677,7 @@ submitted cannot evolve. We argue that we can address all of these
 problems via an open post-publication review process that engages many
 reviewers, provides them with the data and software used in an article,
 and acknowledges and quantifies the quality of their contributions. In
-this article, we described this process (Figure 1) together with a
+this article, we described this process (Figure 1B) together with a
 quantitative commenting mechanism (Figure 2). We anticipate that such a
 system will speed up the review process significantly through
 simultaneous, distributed, and interactive review, an intuitive
@@ -679,39 +693,41 @@ resist. In particular, there is a common sentiment that reviewer
 anonymity is advantageous, that it: protects social-professional
 relationships from anger aroused by criticism, allows for greater
 honesty since there is no concern about repercussions, and increases
-participation. This sentiment may be relevant for reviews of articles
-prior to publication, but in our proposed post-publication review
-process that is focused on improving scientific rigor and embracing open
-discourse, reviewer anonymity is less relevant. Some journals have
-already implemented aspects of our proposed system (e.g., Frontiers,
-BioMed Central, Science, PNAS, PLoS One) and these problems and
-solutions have been discussed in scientific blogs
-(http://futureofscipub.wordpress.com). Initially, our full proposal
-could be implemented as a part of the post-publication system, alongside
-a more traditional anonymous peer review system (e.g., Atmospheric
-Chemistry and Physics, atmos-chem-phys.net). As scientists gain
-familiarity and journals gain experience with our proposed system, it
-could be refined and improved.
+participation. However, in the current system the combination of
+anonymity, lack of accountability, and access to author material creates
+the potential for serious problems such as the use of the authors’ ideas
+without acknowledgment of their source. Under the proposed system,
+people who implement the system will have the option to consider which
+components remain anonymous but reviewers would be tracked, potentially
+alleviating this issue. Furthermore, the open post-publication review
+system prevents any single person from blocking a publication or giving
+it a negative rating. The transparency of such a system will also reduce
+any single individual or group’s ability to game the system. To further
+curtail the selfish tendencies of some reviewers, comments they make
+about the text would themselves be subject to review by others, and it
+would be in their own self-interest to maintain a high rating in their
+peer community.
 
 In the long run, the review process should not be limited to
 publication, but should be engaged throughout the process of research,
 from inception through planning, execution, and documentation (Butler,
-2005; see Figure 1). Where there is concern about exposing ideas before
-an article is even written, reviewers could be drawn from collaborators,
-funding agencies, focus groups, or within the authors’ institutions or
-laboratories, rather than the general public.
+2005; see Figure 1B). Open review at every stage of a scientific study
+would facilitate collaborative research and mirror open source project
+development closely. Such a process would also ensure that optimal
+decisions are taken at every stage in the evolution of a project, thus
+improving the quality of any scientific investigation. We envision a
+system where the distinction between authors and reviewers is replaced
+simply by a quantitative measure of contribution and scientific impact,
+especially as reviewers can act as collaborators who play a critical
+role in improving the quality and therefore the impact of scientific
+work. Where there is significant concern about exposing ideas before an
+article is written, reviewers could be drawn from collaborators, funding
+agencies, focus groups, or within the authors’ institutions or
+laboratories, rather than the general public. In such scenarios either
+the review process or the identity of reviewers or both could be kept
+hidden but tracked for the purposes of “reputation assessment” (see
+above) and accountability.
 
-. This would facilitate collaborative research and mirror open source
-project development closely. Such a process would also ensure that
-optimal decisions are taken at every stage in the evolution of a
-project, thus improving the quality of any scientific investigation. The
-proposed system can integrate collaborative authoring and editing (e.g.,
-Google docs; annotum.org - Leubsdorf Jr, 2011), reviewing and discussion
-of scientific ideas and investigations. We envision a system where the
-distinction between authors and reviewers is replaced simply by a
-quantitative measure of contribution and scientific impact, especially
-as reviewers can act as collaborators who play a critical role in
-improving the quality and therefore the impact of scientific work.
 Furthermore, since this system captures the entire history of activity
 related to this collaborative process, one can refer to any specific
 version of an evolving article\ :sup:``[i] <#cmnt9>`_`\  and the
@@ -727,8 +743,9 @@ quantitatively acknowledging author and reviewer contributions and their
 quality. Our proposed re-design of the current peer review system
 focuses on post-publication review, and incorporates ideas from code
 review systems associated with open source software development. Such a
-system should enable an unbiased, comprehensive, and efficient review of
-scientific work while ensuring a continued, evolving, public dialogue.
+system should enable a less biased, comprehensive, and efficient review
+of scientific work while ensuring a continued, evolving, public
+dialogue.
 
 Acknowledgements
 
