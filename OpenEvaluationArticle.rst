@@ -572,7 +572,7 @@ and would be only one of several measures of the quality of reviews (and
 reviews of reviews) and reviewers. Reviews can be ranked by importance
 (weighted average of ratings), opinion difference (variance of ratings)
 or interest (number of ratings). Reviewer “reputation” could be computed
-from the ranks/ratings of their contributions (article/review ratings).
+from the ratings assigned by peers to their articles and reviews.
 
 It would also be possible to aggregate the measures above to assess the
 impact or importance of, for example, collaborators, coauthors,
@@ -586,8 +586,8 @@ statement. Deciding in favor of group A would be reasonable if the
 aggregate metric evaluating A’s expertise on the statement’s topic is
 higher than that of B. However, such decisions will only be possible
 once this system has acquired a sufficient amount of data about group A
-and B’s expertise on reviewing this topic, in accord with the
-“reputation” assessment mentioned above.
+and B’s expertise on reviewing this topic, where expertise is related to
+the “reputation” assessment mentioned above.
 
 5. Expedite reviews and allow for continued review.
 
@@ -696,21 +696,28 @@ could be refined and improved.
 In the long run, the review process should not be limited to
 publication, but should be engaged throughout the process of research,
 from inception through planning, execution, and documentation (Butler,
-2005; see Figure 1). This would facilitate collaborative research and
-mirror open source project development closely. Such a process would
-also ensure that optimal decisions are taken at every stage in the
-evolution of a project, thus improving the quality of any scientific
-investigation. The proposed system can integrate collaborative authoring
-and editing (e.g., Google docs; annotum.org - Leubsdorf Jr, 2011),
-reviewing and discussion of scientific ideas and investigations. We
-envision a system where the distinction between authors and reviewers is
-replaced simply by a quantitative measure of contribution and scientific
-impact, especially as reviewers can act as collaborators who play a
-critical role in improving the quality and therefore the impact of
-scientific work. Furthermore, since this system captures the entire
-history of activity related to this collaborative process, one can refer
-to any specific version of an evolving article\ :sup:``[i] <#cmnt9>`_`\ 
-and the contributions of authors and reviewers at any given instance.
+2005; see Figure 1).
+
+Where there is concern about …
+
+reviewers could be drawn from the general public, funding agencies,
+focus groups, or within the authors’ institutions.
+
+. This would facilitate collaborative research and mirror open source
+project development closely. Such a process would also ensure that
+optimal decisions are taken at every stage in the evolution of a
+project, thus improving the quality of any scientific investigation. The
+proposed system can integrate collaborative authoring and editing (e.g.,
+Google docs; annotum.org - Leubsdorf Jr, 2011), reviewing and discussion
+of scientific ideas and investigations. We envision a system where the
+distinction between authors and reviewers is replaced simply by a
+quantitative measure of contribution and scientific impact, especially
+as reviewers can act as collaborators who play a critical role in
+improving the quality and therefore the impact of scientific work.
+Furthermore, since this system captures the entire history of activity
+related to this collaborative process, one can refer to any specific
+version of an evolving article\ :sup:``[i] <#cmnt9>`_`\  and the
+contributions of authors and reviewers at any given instance.
 
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
