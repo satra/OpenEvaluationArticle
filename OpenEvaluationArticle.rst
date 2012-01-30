@@ -696,12 +696,10 @@ could be refined and improved.
 In the long run, the review process should not be limited to
 publication, but should be engaged throughout the process of research,
 from inception through planning, execution, and documentation (Butler,
-2005; see Figure 1).
-
-Where there is concern about exposing ideas before an article is even
-written, reviewers could be drawn from funding agencies, focus groups,
-or within the authors’ institutions or laboratories, rather than the
-general public.
+2005; see Figure 1). Where there is concern about exposing ideas before
+an article is even written, reviewers could be drawn from collaborators,
+funding agencies, focus groups, or within the authors’ institutions or
+laboratories, rather than the general public.
 
 . This would facilitate collaborative research and mirror open source
 project development closely. Such a process would also ensure that
