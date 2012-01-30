@@ -684,7 +684,10 @@ simultaneous, distributed, and interactive review, an intuitive
 interface for commenting and visual feedback about the quality and
 coverage of the reviews of an article. The proposed framework enables
 measurement of the significance of an article, the quality of reviews
-and the reputation of a reviewer.
+and the reputation of a reviewer. Furthermore, since this system
+captures the entire history of the review activity, one can refer to any
+specific version of an evolving article\ :sup:``[i] <#cmnt9>`_`\  and
+the contributions of authors and reviewers at any given instance.
 
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
@@ -727,11 +730,6 @@ laboratories, rather than the general public. In such scenarios either
 the review process or the identity of reviewers or both could be kept
 hidden but tracked for the purposes of “reputation assessment” (see
 above) and accountability.
-
-Furthermore, since this system captures the entire history of activity
-related to this collaborative process, one can refer to any specific
-version of an evolving article\ :sup:``[i] <#cmnt9>`_`\  and the
-contributions of authors and reviewers at any given instance.
 
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
