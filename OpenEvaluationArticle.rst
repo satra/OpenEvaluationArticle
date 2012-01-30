@@ -697,10 +697,15 @@ ensure that optimal decisions are taken at every stage in the evolution
 of a project, thus improving the quality of any scientific
 investigation. The proposed system can integrate collaborative authoring
 and editing (e.g., Google docs; annotum.org - Leubsdorf Jr, 2011),
-reviewing and discussion of scientific ideas and investigations.
-Furthermore, since this system captures the entire history of activity
-related to this collaborative process, one can refer to any specific
-version of an evolving article.
+reviewing and discussion of scientific ideas and investigations. We
+envision a system where the distinction between authors and reviewers is
+replaced simply by a quantitative measure of contribution and scientific
+impact, especially as reviewers can act as collaborators who play a
+critical role in improving the quality and therefore the impact of
+scientific work. Furthermore, since this system captures the entire
+history of activity related to this collaborative process, one can refer
+to any specific version of an evolving article and the contributions of
+authors and reviewers at any given instance.
 
 Changing the review process in ways outlined in this article should lead
 to better science by turning each article into a public forum for
