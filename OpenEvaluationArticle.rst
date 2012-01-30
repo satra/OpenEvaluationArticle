@@ -688,10 +688,10 @@ and the reputation of a reviewer. Furthermore, since this system
 captures the entire history of review activity, one can refer to or cite
 any stage of this evolving article for the purpose of capturing the
 ideas and concepts embodied at that stage or quantifying their
-significance over time.
+significance over time. END HERE?
 
 And because of this explicit linked history, one could reassess whether
-the reason for attributioreference to this article still holds as the
+the reason for attribution reference to this article still holds as the
 article evolves.
 
 Despite the advantages of our proposed open review process and the
