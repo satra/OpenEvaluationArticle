@@ -690,6 +690,10 @@ any stage of this evolving article for the purpose of capturing the
 ideas and concepts embodied at that stage or quantifying their
 significance over time.
 
+And because of this explicit linked history, one could reassess whether
+the reason for attributioreference to this article still holds as the
+article evolves.
+
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
 process will require a change of culture that many researchers may
