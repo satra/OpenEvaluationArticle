@@ -60,7 +60,8 @@ opportunities for addressing the above problems, and offer suggestions
 for enhancing code review systems for article review.
 
 Keywords: distributed peer review, code review systems, open source
-software development, post-publication peer review
+software development, post-publication peer review, reputation
+assessment, review quality
 
 Introduction
 
@@ -688,11 +689,7 @@ and the reputation of a reviewer. Furthermore, since this system
 captures the entire history of review activity, one can refer to or cite
 any stage of this evolving article for the purpose of capturing the
 ideas and concepts embodied at that stage or quantifying their
-significance over time. END HERE?
-
-And because of this explicit linked history, one could reassess whether
-the reason for attribution reference to this article still holds as the
-article evolves.
+significance over time.
 
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
@@ -753,12 +750,12 @@ dialogue.
 Acknowledgements
 
 We would like to thank Matthew Goodman, Yaroslav Halchenko, Barrett
-Klein, Kim Lumbard, Fernando Perez, Jean-Baptiste Poline, and Elizabeth
-Sublette for their helpful comments. Arno Klein would like to thank
-Deepanjana and Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well as the NIMH for
-their support via R01 grant MH084029. Brian Avants acknowledges ARRA
-funding from the National Library of Medicine via award
-HHSN276201000492p.
+Klein, Kim Lumbard, Fernando Perez, Jean-Baptiste Poline, Elizabeth
+Sublette and the reviewers for their helpful comments. Arno Klein would
+like to thank Deepanjana and Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well
+as the NIMH for their support via R01 grant MH084029. Brian Avants
+acknowledges ARRA funding from the National Library of Medicine via
+award HHSN276201000492p.
 
 --------------
 
