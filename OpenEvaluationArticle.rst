@@ -685,14 +685,10 @@ interface for commenting and visual feedback about the quality and
 coverage of the reviews of an article. The proposed framework enables
 measurement of the significance of an article, the quality of reviews
 and the reputation of a reviewer. Furthermore, since this system
-captures the entire history of review activity, one
-
-can refer to any stage of this evolving article for the purpose of
-capturing the ideas and concepts embodied at that instance in time
-
-as well as quantify the article’s or the reviews’ significance over time
-
-the significance of its ideas/opinions over time...
+captures the entire history of review activity, one can refer to or cite
+any stage of this evolving article for the purpose of capturing the
+ideas and concepts embodied at that stage or quantifying their
+significance over time.
 
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
