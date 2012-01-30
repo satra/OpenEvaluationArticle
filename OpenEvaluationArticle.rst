@@ -5,8 +5,8 @@ Satrajit S. Ghosh1, Arno Klein2, Brian Avants3, K. Jarrod Millman4
 1 McGovern Institute for Brain Research, Massachusetts Institute of
 Technology, Cambridge, MA, USA
 
-2 Division of Molecular Imaging and Neuropathology, New York State
-Psychiatric Institute, Columbia University, New York, NY, USA
+2 New York State Psychiatric Institute, Columbia University, New York,
+NY, USA
 
 3 PICSL, Department of Radiology, University of Pennsylvania School of
 Medicine, Philadelphia, PA, USA
@@ -42,22 +42,21 @@ submitted cannot evolve. We propose that these problems can be resolved
 by making the following changes to the review process. Distributing
 reviews to many reviewers would allow each reviewer to focus on portions
 of the article that reflect the reviewer’s specialty or area of interest
-and place less of a burden on any one reviewer, enabling a more
-comprehensive and timely review. Providing reviewers materials and
-methods to perform comprehensive evaluation would facilitate
-transparency, greater scrutiny, and replication of results.
+and place less of a burden on any one reviewer. Providing reviewers
+materials and methods to perform comprehensive evaluation would
+facilitate transparency, greater scrutiny, and replication of results.
 Acknowledging reviewers makes it possible to quantitatively assess
-reviewer contributions, which could be integrated with assessments for
-promotions and grants. Quantifying review quality could help establish
-the importance of individual reviews and reviewers as well as the
-submitted article. Finally, we recommend expediting post-publication
-reviews and allowing for the dialogue to continue and flourish in a
-dynamic and interactive manner. We argue that these solutions can be
-implemented by building upon distributed computer programming code
-management systems and social networking technologies. In this article,
-we provide examples of current code review systems that offer
-opportunities for addressing the above problems, and offer suggestions
-for enhancing code review systems for article review.
+reviewer contributions, which could be used to establish the impact of
+the reviewer in the scientific community. Quantifying review quality
+could help establish the importance of individual reviews and reviewers
+as well as the submitted article. Finally, we recommend expediting
+post-publication reviews and allowing for the dialogue to continue and
+flourish in a dynamic and interactive manner. We argue that these
+solutions can be implemented by adapting existing features from
+open-source software management and social networking technologies. We
+propose a model of an open, interactive review system that quantifies
+the significance of articles, the quality of reviews and the reputation
+of reviewers.
 
 Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review, reputation
@@ -264,10 +263,7 @@ relevance of current code review systems in addressing the problem and
 finally describe enhancements to the current systems to support our
 proposed solution.
 
-.. figure:: images/image02.png
-   :align: center
-   :alt: 
-.. figure:: images/image03.png
+.. figure:: images/image04.png
    :align: center
    :alt: 
 Figure 1. (A) The top flowchart illustrates a standard scientific
@@ -282,7 +278,7 @@ to perform comprehensive evaluation, (3) acknowledge reviewers, (4)
 quantify review quality, and (5) expedite the post-publication review
 process and allow it to continue indefinitely.
 
-.. figure:: images/image08.png
+.. figure:: images/image07.png
    :align: center
    :alt: 
 Figure 2. This schematic illustrates color-coded ratings assigned to
@@ -492,7 +488,7 @@ indicate the involvement of developers. Figure 3 shows an example of
 quantifying contributions over time. Neither of these measures
 necessarily reflect the quality of the contributions, however.
 
-.. figure:: images/image04.png
+.. figure:: images/image02.png
    :align: center
    :alt: 
 Figure 3. Example of a metric for quantifying contributions over time.
@@ -811,7 +807,7 @@ systems, pages 575–582. ACM.
 
 Supplementary material
 
-.. figure:: images/image06.png
+.. figure:: images/image05.png
    :align: center
    :alt: 
 Figure 1. A snapshot from the web interface of a request to merge code
@@ -820,14 +816,14 @@ a) part of a discussion thread, b) inline commenting of code (for line
 98), and c) code updates (commits) taking place as a function of the
 discussion.
 
-.. figure:: images/image05.png
+.. figure:: images/image03.png
    :align: center
    :alt: 
 Figure 2. A web page snippet from the Geritt code review system used for
 Insight Toolkit (itk.org). This explicitly lists the reviewers who are
 participating in the review.
 
-.. figure:: images/image07.png
+.. figure:: images/image06.png
    :align: center
    :alt: 
 
