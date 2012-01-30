@@ -62,6 +62,8 @@ Keywords: distributed peer review, code review systems, open source
 software development, post-publication peer review, reputation
 assessment, review quality
 
+--------------
+
 Introduction
 
 Scientific publications continue to be the primary mechanism for
@@ -747,11 +749,11 @@ Acknowledgements
 
 We would like to thank Matthew Goodman, Yaroslav Halchenko, Barrett
 Klein, Kim Lumbard, Fernando Perez, Jean-Baptiste Poline, Elizabeth
-Sublette and the reviewers for their helpful comments. Arno Klein would
-like to thank Deepanjana and Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well
-as the NIMH for their support via R01 grant MH084029. Brian Avants
-acknowledges ARRA funding from the National Library of Medicine via
-award HHSN276201000492p.
+Sublette and the Frontiers reviewers for their helpful comments. Arno
+Klein would like to thank Deepanjana and
+Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well as the NIMH for their support
+via R01 grant MH084029. Brian Avants acknowledges ARRA funding from the
+National Library of Medicine via award HHSN276201000492p.
 
 --------------
 
