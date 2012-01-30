@@ -569,9 +569,12 @@ on a response, and to vote on the quality or importance of a question,
 of a response, or of a comment. In our proposed review system, such a
 vote tally would be associated with identified, registered reviewers,
 and would be only one of several measures of the quality of reviews (and
-reviews of reviews) AND REVIEWERS. Reviews can be ranked by importance
+reviews of reviews) and reviewers. Reviews can be ranked by importance
 (weighted average of ratings), opinion difference (variance of ratings)
 or interest (number of ratings).
+
+Reviewer “reputation” could be scored by the ranks/ratings of their
+contributions (article/review ratings).
 
 It would also be possible to aggregate the measures above to assess the
 impact or importance of, for example, collaborators, coauthors,
@@ -585,7 +588,8 @@ statement. Deciding in favor of group A would be reasonable if the
 aggregate metric evaluating A’s expertise on the statement’s topic is
 higher than that of B. However, such decisions will only be possible
 once this system has acquired a sufficient amount of data about group A
-and B’s expertise on reviewing this topic.
+and B’s expertise on reviewing this topic, in accord with the
+“reputation” assessment mentioned above.
 
 5. Expedite reviews and allow for continued review.
 
