@@ -687,16 +687,12 @@ measurement of the significance of an article, the quality of reviews
 and the reputation of a reviewer. Furthermore, since this system
 captures the entire history of review activity, one
 
-can refer to any stage of this evolving article
+can refer to any stage of this evolving article for the purpose of
+capturing the ideas and concepts embodied at that instance in time
 
-for the purpose of capturing the ideas and concepts embodied at that
-instance in time
+as well as quantify the article’s or the reviews’ significance over time
 
-or quantify the ? of ... or point at/to?
-
-can CITE? refer to any specific version of an evolving
-article\ :sup:``[i] <#cmnt9>`_`\  and the contributions of authors and
-reviewers at any given instance.
+the significance of its ideas/opinions over time...
 
 Despite the advantages of our proposed open review process and the
 promise offered by existing solutions in other domains, adopting the
@@ -759,8 +755,8 @@ Acknowledgements
 We would like to thank Matthew Goodman, Yaroslav Halchenko, Barrett
 Klein, Kim Lumbard, Fernando Perez, Jean-Baptiste Poline, and Elizabeth
 Sublette for their helpful comments. Arno Klein would like to thank
-Deepanjana and Ellora,\ :sup:``[j] <#cmnt10>`_`\  as well as the NIMH
-for their support via R01 grant MH084029. Brian Avants acknowledges ARRA
+Deepanjana and Ellora,\ :sup:``[i] <#cmnt9>`_`\  as well as the NIMH for
+their support via R01 grant MH084029. Brian Avants acknowledges ARRA
 funding from the National Library of Medicine via award
 HHSN276201000492p.
 
@@ -867,10 +863,3 @@ commentary from the community.
 `[3] <#ftnt_ref3>`_To allay concerns over worldwide pre-publication
 exposure, precedence could be documented by submission and revision
 timestamps acknowledging who performed the research.
-
-`[i] <#cmnt_ref9>`_eclosing:
-
-This could be a very serious issue, resulting in confusion within a
-debate. If you publish an article that challenges an idea in a dated
-manuscript that changes rapidly, it will be cumbersome to analyze the
-relevance of this challenge.
