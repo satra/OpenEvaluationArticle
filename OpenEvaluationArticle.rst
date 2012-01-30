@@ -587,6 +587,10 @@ higher than that of B. However, such decisions will only be possible
 once this system has acquired a sufficient amount of data about group A
 and B’s expertise on reviewing this topic.
 
+A quantitative measure of expertise can be determined from existing
+publication records or based on the review quality metrics of the
+proposed system.
+
 5. Expedite reviews and allow for continued review.
 
 Once open and online, reviews can be dynamic, interactive, and conducted
