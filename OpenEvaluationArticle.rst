@@ -368,19 +368,20 @@ certain drawbacks for reviewing scientific articles. For example, the
 GitHub interface allows line-by-line commenting which reflects the
 structure of code. But commenting on an article’s text should follow the
 loose structure of prose with comments referring to multiple words,
-phrases, sentences or paragraphs in different parts of the text. For
+phrases, sentences or paragraphs rather than whole lines. These comments
+should also be able to refer to different parts of an article. For
 example, a reviewer might come across a sentence in the discussion
 section of an article that contradicts two sentences in different parts
-of the results section. The interface should allow multiple reviewers to
-expose contradictions, unsubstantiated assumptions, and other
-inconsistencies across the body of an article or across others’ comments
-on the article. This system can be used in both a traditional
-review-and-revise model as well as a collaborative Wikipedia-style
-revision model that allows collaborative revision of the article. Since
-metrics keep track of both quality and quantity of contributions
-(discussed later), such an approach encourages revisions to an article
-that improve its scientific validity instead of a new article. A mock-up
-of such a review system is shown in Figure 2.
+of the results section. The interface should allow reviewers to expose
+contradictions, unsubstantiated assumptions, and other inconsistencies
+across the body of an article or across others’ comments on the article.
+This system can be used in both a traditional review-and-revise model as
+well as a collaborative Wikipedia-style revision model that allows
+collaborative revision of the article. Since metrics keep track of both
+quality and quantity of contributions (discussed later), such an
+approach encourages revisions to an article that improve its scientific
+validity instead of a new article. A mock-up of such a review system is
+shown in Figure 2.
 
 2. Provide reviewers materials and methods to perform comprehensive
 evaluation.
