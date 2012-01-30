@@ -571,10 +571,8 @@ vote tally would be associated with identified, registered reviewers,
 and would be only one of several measures of the quality of reviews (and
 reviews of reviews) and reviewers. Reviews can be ranked by importance
 (weighted average of ratings), opinion difference (variance of ratings)
-or interest (number of ratings).
-
-Reviewer “reputation” could be scored by the ranks/ratings of their
-contributions (article/review ratings).
+or interest (number of ratings). Reviewer “reputation” could be computed
+from the ranks/ratings of their contributions (article/review ratings).
 
 It would also be possible to aggregate the measures above to assess the
 impact or importance of, for example, collaborators, coauthors,
